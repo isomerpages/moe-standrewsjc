@@ -112,16 +112,7 @@ third_nav_title: Admission Information
 </tr>
 <tr>
 <td width="164">
-<p><strong>Badminton</strong></p>
-<p><strong>Basketball</strong></p>
-<p><strong>Bowling</strong></p>
-<p><strong>Football</strong></p>
-<p><strong>Hockey</strong></p>
-<p><strong>Rugby</strong></p>
-<p><strong>Netball</strong></p>
-<p><strong>Tennis</strong></p>
-<p><strong>Track and Field</strong></p>
-<p><strong>Water Polo</strong></p>
+<p><strong>Badminton<br /></strong><strong>Basketball<br /></strong><strong>Bowling<br /></strong><strong>Football<br /></strong><strong>Hockey<br /></strong><strong>Rugby<br /></strong><strong>Netball<br /></strong><strong>Tennis<br /></strong><strong>Track and Field<br /></strong><strong>Water Polo</strong></p>
 </td>
 <td width="412">
 <ul>
