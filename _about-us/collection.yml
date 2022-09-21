@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - Charity Status.md
       - Admission Information/.keep
       - College Profile.md
