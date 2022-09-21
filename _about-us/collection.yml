@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Heritage.md
       - Board of Governors.md
       - College Staff/.keep
       - Contact Us.md
