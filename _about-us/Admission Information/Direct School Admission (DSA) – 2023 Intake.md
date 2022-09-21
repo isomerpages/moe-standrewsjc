@@ -148,3 +148,85 @@ third_nav_title: Admission Information
 <h4><strong>TRIALS/AUDITION &amp; INTERVIEW</strong></h4>
 <p>In-person selection audition/trial will be conducted. Please see DSA Trial/Audition Schedule for specific instructions.</p>
 <p><a href="/files/DSA_Audition_Trial_Dates_2.pdf" target="_blank" rel="noopener">Click here to view the Audition &amp; Trial Dates (updated 15 July 22)</a></p>
+<p>If you require any further information/assistance, please contact the following SAJC staff.</p>
+<table width="0">
+<tbody>
+<tr>
+<td><strong>CCA</strong></td>
+<td><strong>TEACHER In-Charge &amp; Email Contact</strong></td>
+</tr>
+<tr>
+<td>Choir</td>
+<td>Mr Yeo Jia Tian<br /><a href="mailto:yeo_jia_tian@moe.edu.sg">yeo_jia_tian@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Chinese Orchestra</td>
+<td>
+<p>Mdm Wang Min<br /><a href="mailto:wang_min@moe.edu.sg">wang_min@moe.edu.sg</a></p>
+<p>Ms Loh Ke Yun<br /><a href="mailto:loh_ke_yun@moe.edu.sg">loh_ke_yun@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td>Concert Band</td>
+<td>Ms Ong Yew Yi, Eve<br /><a href="mailto:ong_yew_yi_eve@moe.edu.sg">ong_yew_yi_eve@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>English Drama</td>
+<td>Ms Salome Choa<br /><a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Guitar Ensemble</td>
+<td>Mdm Loh Lih Yeh<br /><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Badminton<br />Boys &amp; Girls</td>
+<td>Mr Peh Bock Kiat<br /><a href="mailto:peh_bock_kiat@moe.edu.sg">peh_bock_kiat@moe.edu.sg</a><br /><br />Ms Low Wanyi<br /><a href="mailto:Low_wanyi@moe.edu.sg">Low_wanyi@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Basketball<br />Boys &amp; Girls</td>
+<td>Ms Wong Weishan<br /><a href="mailto:wong_weishan@moe.edu.sg">wong_weishan@moe.edu.sg</a><br /><br />Mr Gabriel Tang<br /><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg">gabriel_tang_jia_liang@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Football Boys</td>
+<td>Mr Roland Lee<br /><a href="mailto:lee_kye_loong_roland@moe.edu.sg">lee_kye_loong_roland@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Football Girls</td>
+<td>Mr Frederick Koh<br /><a href="mailto:koh_eng_chye_frederick@moe.edu.sg">koh_eng_chye_frederick@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Netball Girls</td>
+<td>Mr Keith Teo<br /><a href="mailto:teo_ping_wei@moe.edu.sg">teo_ping_wei@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Hockey<br />Boys &amp; Girls</td>
+<td>Mr Lyndon Chua<br /><a href="mailto:chua_chun_lin_lyndon@moe.edu.sg">chua_chun_lin_lyndon@moe.edu.sg</a><br /><br />Mr Chia Ming Long<br /><a href="mailto:chai_ming_long@moe.edu.sg">chai_ming_long@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Rugby Boys</td>
+<td>Mr Mohammed Azlan Ab Malek<br /><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg">mohammed_azlan_ab_malek@moe.edu.sg</a><br /><br />Mr Lim Zi Qi<br />
+<p><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td>Tennis<br />Girls &amp; Boys</td>
+<td>Ms Cynthia Tan<br /><a href="mailto:tan_mei_fong_cynthia@moe.edu.sg">tan_mei_fong_cynthia@moe.edu.sg</a><br /><br />Mr Dennis Chia<br /><a href="mailto:chia_dennis@moe.edu.sg">chia_dennis@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ten Pin Bowling Boys &amp; Girls</td>
+<td>Mr Aaron Lin<br /><a href="mailto:lin_jiahaoaaron@moe.edu.sg">lin_jiahaoaaron@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Track and Field Boys &amp; Girls</td>
+<td>Mr Andrew Tan<br /><a href="mailto:tan_jin_xing_andrew@moe.edu.sg">tan_jin_xing_andrew@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Water Polo Boys &amp; Girls</td>
+<td>Ms Melissa Singh Lim<br /><u><a href="mailto:melissa_lim_singh@moe.edu.sg">melissa_lim_singh@moe.edu.sg</a></u></td>
+</tr>
+<tr>
+<td>Other administrative matters</td>
+<td>Mr Chay Wai Sum<br /><a href="mailto:chay_wai_sum@moe.edu.sg">chay_wai_sum@moe.edu.sg</a></td>
+</tr>
+</tbody>
+</table>
