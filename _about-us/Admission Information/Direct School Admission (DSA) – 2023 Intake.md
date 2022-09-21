@@ -121,8 +121,30 @@ third_nav_title: Admission Information
 <li>Achievement/Awards in National Schools&rsquo;/international competitions</li>
 <li>Pass selection trial and interview.</li>
 </ul>
-<br /><br />(Water Polo Girls &ndash; Swimmers who have represented their schools will be considered)</td>
+(Water Polo Girls &ndash; Swimmers who have represented their schools will be considered)</td>
 </tr>
 </tbody>
 </table>
 <p>Interested applicants who do not meet the criteria may still apply based on ability and potential.</p>
+<h4><strong>APPLICATION PROCEDURE</strong></h4>
+<p>In view of the COVID-19 situation, you are NOT expected to submit your DSA application and visit the college in-person. Instead, please complete the online application form and send by post the photocopies of the following documents:<br /><br /></p>
+<ul>
+<li>Result slips - Secondary 3 Mid-Year and Final Exams, Sec 4 Mid-year Exams (if any)</li>
+<li>CCA Records</li>
+<li>Other supporting documents - certificates of musical exams, certificates of participation in international competitions, etc</li>
+</ul>
+<p>Please send by post to the following address:</p>
+<p style="padding-left: 40px;"><strong>DSA Coordinator<br /></strong><strong>St Andrew's Junior College<br /></strong><strong>5 Sorby Adams Drive<br /></strong><strong>Singapore 357691</strong></p>
+<p>Applicants are to ensure that they meet the following deadlines in order to be eligible for the exercise:</p>
+<p style="padding-left: 40px;"><strong>DSA Phase 1: 1 July 2022 - 3pm<br /></strong><strong>DSA Phase 2: 5 Aug 2022 - 3pm</strong></p>
+<p>Incomplete application forms will not be considered.</p>
+<p><strong>Online APPLICATION FORM</strong><strong>:&nbsp;</strong>&nbsp;<a href="https://go.gov.sg/sajcdsa2022" target="">https://go.gov.sg/sajcdsa2022</a></p>
+<img style="width: 35%;" src="/images/dsaqr.png" />
+<p>Applicants who have submitted applications during Phase 1 but are not offered a place need not submit new applications for Phase 2 as all the applications will automatically be considered for both phases.</p>
+<p>Only successful applicants will be informed via email and/or phone.</p>
+<p>Once you have accepted SAJC&rsquo;s DSA Offer, you will not be eligible to participate in the Joint Admissions Exercise (JAE), as long as you meet the eligibility criteria for JC admission based on your GCE O-Level examination results.</p>
+<p>You are also not allowed to transfer to another school after the release of the GCE O-Level examination results. You are expected to honour your commitment to the college and your chosen CCA for the duration of your studies in SAJC.</p>
+<p>Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</p>
+<h4><strong>TRIALS/AUDITION &amp; INTERVIEW</strong></h4>
+<p>In-person selection audition/trial will be conducted. Please see DSA Trial/Audition Schedule for specific instructions.</p>
+<p><a href="/files/DSA_Audition_Trial_Dates_2.pdf" target="_blank" rel="noopener">Click here to view the Audition &amp; Trial Dates (updated 15 July 22)</a></p>
