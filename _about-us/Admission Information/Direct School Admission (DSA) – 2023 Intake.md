@@ -204,9 +204,7 @@ third_nav_title: Admission Information
 </tr>
 <tr>
 <td>Rugby Boys</td>
-<td>Mr Mohammed Azlan Ab Malek<br /><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg">mohammed_azlan_ab_malek@moe.edu.sg</a><br /><br />Mr Lim Zi Qi<br />
-<p><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></p>
-</td>
+<td>Mr Mohammed Azlan Ab Malek<br /><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg">mohammed_azlan_ab_malek@moe.edu.sg</a><br /><br />Mr Lim Zi Qi<br /><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Tennis<br />Girls &amp; Boys</td>
