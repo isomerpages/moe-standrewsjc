@@ -170,3 +170,11 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Information for Parents</strong></h4>
+<ol start="8">
+<li>Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parents Gateway and Form sg. More information is available on the letter sent out via Parents Gateway.<br /><br />For parents without the Parents Gateway, you could obtain the hardcopy letter from the General Office and complete the opt-out form via <a href="https://go.gov.sg/sed-opt-out-2022" target="_blank" rel="noopener">https://go.gov.sg/sed-opt-out-2022</a>&nbsp;by&nbsp;<strong><em>28/02/2022</em></strong>.</li>
+<li>Parents who wish to opt their children out of the <strong><em>eTeens</em>&nbsp;programme</strong> need to complete an opt-out form via Parents Gateway and Form sg. More information is available on the letter sent out via Parents Gateway.<br /><br />For parents without the Parents Gateway, you could obtain the hardcopy letter from the General Office and complete the opt-out form via <a href="https://go.gov.sg/eteens-opt-out-2022" target="_blank" rel="noopener">https://go.gov.sg/eteens-opt-out-2022</a>&nbsp;by&nbsp;<strong><em>28/02/2022.</em></strong></li>
+<li>Parents can contact the school at 6285 7008 (Mr Jae Chia ext 264) for discussion or to seek clarification about the school's sexuality education programme.</li>
+<li>Parents, who wish to attend the school sexuality education lessons, should also contact the school to make the necessary arrangements.</li>
+</ol>
