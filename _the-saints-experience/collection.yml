@@ -2,5 +2,6 @@ collections:
   the-saints-experience:
     output: true
     order:
+      - Skilled Communicator.md
       - Community Builder.md
       - Lens of Saints Through the Lens of Saints.md
