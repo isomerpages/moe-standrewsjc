@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
+      - Collaboration/.keep
+      - Collaboration/Collaboration.md
       - Collaboration/2017 SAJC HOME–SCHOOL PARTNERSHIP.md
       - Collaboration/2013 SAJC HOME–SCHOOL PARTNERSHIP.md
       - Collaboration/2012 SAJC HOME–SCHOOL PARTNERSHIP.md
-      - Collaboration/Collaboration.md
-      - Collaboration/.keep
       - Parent Support Group.md
       - Parent Gateway (MOE).md
