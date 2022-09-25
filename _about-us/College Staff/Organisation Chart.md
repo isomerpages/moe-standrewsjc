@@ -80,6 +80,66 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/ed5.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Cher Cai Wei Theresa</strong></div>
+<div><a href="mailto:cher_cai_wei_theresa@moe.edu.sg"><em>cher_cai_wei_theresa @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed6.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Teres Lim Yan Ling</strong>
+<div><a href="mailto:teres_lim_yan_ling@moe.edu.sg"><em>teres_lim_yan_ling @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed7.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Chua Chun Lin Lyndon</strong></div>
+<div><a href="mailto:chua_chun_lin_lyndon@moe.edu.sg"><em>chua_chun_lin_lyndo n@moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed8.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Jackina d/o Sultan Athaham</strong></div>
+<div><a href="mailto:jackina_sultan_athaham@moe.edu.sg"><em>jackina_sultan_athah am@moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed9.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Ko Wei En, Wayne</strong></div>
+<div><a href="mailto:ko_wei_en_wayne@moe.edu.sg"><em>ko_wei_en_wayne @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed10.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Lee Jia Yi</strong></div>
+<div><a href="mailto:lee_jia_yi_a@moe.edu.sg" target=""><em>lee_jia_yi_a @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed11.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mrs Lim-Wong Yingyi</strong></div>
+<div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_yingyi @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed12.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Yap Hwee Len</strong></div>
+<div><a href="mailto:yap_hwee_len@moe.edu.sg"><em>yap_hwee_len @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed13.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Wong Sook Yee</strong></div>
+<div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_sook_yee @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Humanities Department</label>
