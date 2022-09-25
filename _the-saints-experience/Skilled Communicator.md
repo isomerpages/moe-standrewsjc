@@ -28,3 +28,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>College Annual</strong></h4>
+<p>Links to College Annual:</p>
+<img style="width: 50%;" src="/images/sc4.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h4><strong>Saints Ambassadors</strong></h4>
+<p>Started in 2020, the Saints Ambassadors were brought together from various backgrounds as student representatives of the College. Trained to be effective communicators, their unique experiences capture what sets SAJC apart from other learning institutions. The Ambassadors cover a wide range of duties, from giving tours of the College, to participating in panel discussions. You can catch them at our outreach events, and in our publicity videos. Meet them with your questions on anything about SAJC!</p>
+<img src="/images/sc5.jpg">
