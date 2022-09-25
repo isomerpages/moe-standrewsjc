@@ -35,6 +35,24 @@ description: ""
 </table>
 <p>Saints in the TDP are also equipped with skills and experiences to take on challenges confidently, as they grow to be Servant Leaders with the ability to leverage multiple perspectives. With the TDP experience, our Saints are better poised to strive for prestigious scholarships in both the public and private sectors.</p>
 <img src="/images/ht.jpg">
-
+<h4><strong>Global Experience Programmes</strong></h4>
+<p>To deepen students&rsquo; acquisition of 21st Centrury Competencies and to provide authentic learning in the global world, SAJC believes in providing opportunities for students to participate in the College&rsquo;s' twinning programme with other schools around the world. In developing our Saints to becoming Holistic Thinkers through this Global Experience Programme, we hope that they are able to</p>
+<ul>
+<li>Increase their socio-cultural and religious sensitivity and awareness</li>
+<li>Enhance their skills in recognising and appreciating diversity, empathising with and respecting others</li>
+<li>Deepen their appreciation of Singapore&rsquo;s context in our region and the world</li>
+<li>Form friendships and networks with their international peers</li>
+<li>Foster camaraderie and deepen friendships with their school mates</li>
+<li>Deepen their awareness of global issues and trends</li>
+<li>Deepen their desire to contribute to the well-being of the international community while maintaining a sense of rootedness</li>
+<li>Deepen their critical and inventive thinking skills</li>
+<li>Be more resilient, resourceful, independent, and adapt to different contexts, unanticipated and frequent change</li>
+</ul>
+<p>The College has a strong partnership with the following overseas schools:</p>
+<ul>
+<li>Romain Rolland Gymnasium (Germany)</li>
+<li>Omi Brotherhood Senior High School (Japan)</li>
+<li>Triam Udom Suska School (Thailand)</li>
+</ul>
 <img src="/images/ht2.jpg"><br>
 <img src="/images/ht3.jpg">
