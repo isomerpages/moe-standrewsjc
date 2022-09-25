@@ -2,5 +2,6 @@ collections:
   st-andrews-family:
     output: true
     order:
+      - Mentors.md
       - Affiliated Schools.md
       - SA Hall.md
