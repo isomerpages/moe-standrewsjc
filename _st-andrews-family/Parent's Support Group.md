@@ -71,3 +71,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>Get latest updates and information about our activities at<br /><strong>Facebook:</strong>&nbsp;<a href="http://www.facebook.com/groups/psgsajc" target="_blank" rel="noopener">www.facebook.com/groups/psgsajc</a><br /><strong>Instagram:</strong>&nbsp;<a href="http://www.instagram.com/sajcpsg" target="_blank" rel="noopener">www.Instagram.com/sajcpsg</a><br /><strong>For donation:</strong>&nbsp;<a href="https://tinyurl.com/sajcpsgdonation" target="_blank" rel="noopener">https://tinyurl.com/sajcpsgdonation</a><br /><strong>Come and Join US!</strong>&nbsp;at:&nbsp;<a href="http://bit.ly/SAJCPSG2020" target="_blank" rel="noopener">http://bit.ly/SAJCPSG2020</a></p>
