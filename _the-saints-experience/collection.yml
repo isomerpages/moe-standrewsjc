@@ -2,4 +2,5 @@ collections:
   the-saints-experience:
     output: true
     order:
+      - Community Builder.md
       - Lens of Saints Through the Lens of Saints.md
