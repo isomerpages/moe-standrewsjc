@@ -32,3 +32,13 @@ description: ""
 </ol>
 </ol>
 <p>You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+<h4><strong>Overview of St Andrew's Junior College's Sexuality Education Programme for 2022</strong></h4>
+<ol start="4">
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
+</ol>
+<p><strong>Sexuality Education:</strong></p>
+<ol start="5">
+<li>The focus for Sexuality Education&nbsp;at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li>
+</ol>
+<p><strong>At St Andrew&rsquo;s Junior College, the following Sexuality Education lessons will be taught in&nbsp;<u>2022</u>:</strong></p>
+<p><strong>Junior College 1 - Theme 3B from Module: Developing Healthy Relationships</strong></p>
