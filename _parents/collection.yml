@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Collaboration/.keep
       - Parent Support Group.md
       - Parent Gateway (MOE).md
