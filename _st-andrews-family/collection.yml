@@ -1,4 +1,5 @@
 collections:
   st-andrews-family:
     output: true
-    order: []
+    order:
+      - SA Hall.md
