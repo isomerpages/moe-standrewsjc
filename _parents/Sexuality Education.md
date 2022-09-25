@@ -42,3 +42,131 @@ description: ""
 </ol>
 <p><strong>At St Andrew&rsquo;s Junior College, the following Sexuality Education lessons will be taught in&nbsp;<u>2022</u>:</strong></p>
 <p><strong>Junior College 1 - Theme 3B from Module: Developing Healthy Relationships</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="25%"><strong>Lessons</strong></td>
+<td style="text-align: center;" width="25%">
+<div><strong>DURATION</strong></div>
+</td>
+<td style="text-align: center;" width="25%">
+<div><strong>Lesson Objectives</strong></div>
+<div><strong>At the end of the lesson, students will be able to:</strong></div>
+</td>
+<td style="text-align: center;" width="25%"><strong>TIME PERIOD</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<div>1</div>
+</td>
+<td style="text-align: center;">
+<div>(60 Mins)</div>
+</td>
+<td>
+<ul>
+<li>navigate challenges in a dating relationship</li>
+<li>identify early indications of a breakdown in a relationship</li>
+<li>know when to seek help and who to turn to for support</li>
+<li>appreciate that one can emerge stronger and be better prepared for future relationships</li>
+<li>develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others&nbsp;</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3 Week 7</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<div>2</div>
+</td>
+<td style="text-align: center;">
+<div>(60 Mins)</div>
+</td>
+<td>
+<ul>
+<li>examine issues related to abstinence</li>
+<li>explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices</li>
+<li>understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles</li>
+<li>understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 3 Week 8</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;3</td>
+<td style="text-align: center;">&nbsp;(60 Mins)</td>
+<td>
+<ul>
+<li>&nbsp;examine issues related to abortion and the impact of Sexuality Transmitted Infections (STIs)</li>
+<li>understand that the one has to make responsible decisions for both self and others&nbsp;</li>
+<li>understand that sexual abstinence is the only way to remove any risks that come with casual sex</li>
+<li>know how to support friends or others who may be pregnant or have STIs</li>
+</ul>
+</td>
+<td style="text-align: center;">&nbsp;Term 3 Week 9</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Junior College 2 - "Love Matters (2nd Edition)" Teaching &amp; Learning resource package</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="25%"><strong>UNIT</strong></td>
+<td style="text-align: center;" width="25%">
+<div><strong>LESSONS /</strong></div>
+<div><strong>DURATION</strong></div>
+</td>
+<td style="text-align: center;" width="25%">
+<div><strong>Lesson Objectives</strong></div>
+<div><strong>At the end of the lesson, students will be able to:</strong></div>
+</td>
+<td style="text-align: center;" width="25%"><strong>TIME PERIOD</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Lessons about Love<br />(Part 7)</td>
+<td style="text-align: center;">
+<div>4</div>
+<div>(60 Mins)</div>
+</td>
+<td>
+<ul>
+<li>Identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship</li>
+<li>appreciate that cone can emerge stronger despite having gone through a breakup</li>
+<li>explore beliefs about marriage&nbsp;</li>
+<li>know the possible psychological impact on children experiencing parental separation or divorce</li>
+<li>recognise the importance of having family support for a relationship</li>
+<li>aspire to develop similar enduring character traits and qualities that one would consider in a life partner</li>
+<li>appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</li>
+</ul>
+</td>
+<td style="text-align: center;">Term 2 Week 6</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<div>
+<div>5&nbsp;</div>
+<div>(60 Mins)</div>
+</div>
+</td>
+<td>
+<div>
+<ul>
+<li>recognise that personal decisions on how one displays own affections in public can affect others</li>
+<li>discern the impact of new media on relationship building</li>
+</ul>
+</div>
+</td>
+<td style="text-align: center;">Term 2 Week 7</td>
+</tr>
+<tr>
+<td style="text-align: center;">NA</td>
+<td style="text-align: center;">
+<div>6</div>
+<div>(60 Mins)</div>
+</td>
+<td>
+<div>This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons</div>
+</td>
+<td style="text-align: center;">Term 2 Week 8</td>
+</tr>
+</tbody>
+</table>
