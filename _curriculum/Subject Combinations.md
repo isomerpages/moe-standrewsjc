@@ -213,3 +213,124 @@ description: ""
 <li>H2 Chinese Language &amp; Literature (with the exception of 3A2 and 3A3)</li>
 <li>H2 Tamil Language &amp; Literature (with the exception of 3A2 and 3A3)</li>
 </ul>
+<ol start="5" type="1">
+<li>For subject combinations with low demand, the College reserves the right to decide whether such subject combinations would be offered.</li>
+<li>In choosing your subject combination, it is critical that you consider the course you would like to pursue at the tertiary level.</li>
+<li>The following tables show the&nbsp;<strong>4 H2 Subject Combinations</strong>&nbsp;offered in SAJC for 2021. These combinations will only be offered if there is sufficient demand. Do note that students may take up 4 H2 subjects only if they have attained a L1R5 (without bonus points) of 9 or lower.</li>
+</ol>
+<h4><strong><u>Arts Subject Combinations</u></strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><strong>Subject Codes</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>4A1</strong></p>
+</td>
+<td style="text-align: center;">
+<p>Economics</p>
+</td>
+<td style="text-align: center;">
+<p>Geography</p>
+</td>
+<td style="text-align: center;">
+<p>Literature</p>
+</td>
+<td style="text-align: center;">
+<p>Math</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>4A2</strong></p>
+</td>
+<td style="text-align: center;">
+<p>Economics</p>
+</td>
+<td style="text-align: center;">
+<p>History</p>
+</td>
+<td style="text-align: center;">
+<p>Literature</p>
+</td>
+<td style="text-align: center;">
+<p>Math</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>Science Subject Combinations</u></strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><strong>Subject Codes</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>H2</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>4S1</strong></p>
+</td>
+<td style="text-align: center;">
+<p>Biology</p>
+</td>
+<td style="text-align: center;">
+<p>Chemistry</p>
+</td>
+<td style="text-align: center;">
+<p>Math</p>
+</td>
+<td style="text-align: center;">
+<p>Economics</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>4S2</strong></p>
+</td>
+<td style="text-align: center;">
+<p>Physics</p>
+</td>
+<td style="text-align: center;">
+<p>Chemistry</p>
+</td>
+<td style="text-align: center;">
+<p>Math</p>
+</td>
+<td style="text-align: center;">
+<p>Economics</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ol start="8" type="1">
+<li>As 4 H2 Subject Combination is a more demanding combination, students would be engaged at College milestone assessment check points to determine whether they are coping well.</li>
+</ol>
+<p>For more information, please refer to the&nbsp;<a href="/files/SAJC%20Prospectus%202022_FINAL_3%20DEC.pdf" target="">SAJC 2022 Prospectus</a>.</p>
