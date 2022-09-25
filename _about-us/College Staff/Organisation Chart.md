@@ -79,6 +79,7 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Humanities Department</label>
