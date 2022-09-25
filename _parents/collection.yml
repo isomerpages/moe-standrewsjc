@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Academic Schedule.md
       - Sexuality Education.md
       - Collaboration/.keep
       - Collaboration/Collaboration.md
