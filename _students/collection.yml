@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Scholarship and Financial Matters.md
       - Calendar of Events and Important Dates.md
       - Useful Links/Useful Links.md
       - Useful Links/University Admissions.md
