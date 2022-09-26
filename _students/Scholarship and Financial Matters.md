@@ -163,3 +163,79 @@ description: ""
 <li><strong>Geoffrey Abisheganadan Art Prize</strong></li>
 </ol>
 <p>This is awarded annually to the top performer in H2 Art, based on both the GCE A-Level Examination and the JC2 Preliminary Examination. The awardee must achieve a minimum grade of &ldquo;B&rdquo; for H2 Art in the GCE A-Level Examination.</p>
+<p><strong>Awards For Outstanding Performance In Promotional Examination</strong></p>
+<p>1. The&nbsp;<strong>SAJC Faculty Prize</strong>&nbsp;is awarded to the top student in the Arts and Science faculty respectively, who achieves the highest rank points in Promotional Examination and has consistent good performance for all major assessments.</p>
+<p>2. The&nbsp;<strong>Dr Wong Poi Kwong Book Prize</strong>&nbsp;is awarded to the top performer (who scores at least a &ldquo;B&rdquo; in Promotional Examination) in each respective subject, subject to tutors&rsquo; recommendations, with exceptions for 1-year H1 MT courses.</p>
+<p>For students who are taking 1-year MT courses, the SAJC Bronze Awards are awarded to the respective top performers who scored at least a &ldquo;B&rdquo; for both GCE A-Level and Promotional Examination.</p>
+<p>3.&nbsp;<strong>Bishop of Singapore Prize</strong>&nbsp;is awarded to the student who has made the greatest progress in his/her studies (based on the highest difference between the rank points scored in Promotional Examination and Common Test).</p>
+<p>4. The&nbsp;<strong>Vivian Quek Book Prize</strong>&nbsp;is awarded annually to the top performer in General Paper in JC1 Promotional Examination, with a minimum grade of &ldquo;B&rdquo;.</p>
+<p><strong>Awards for Outstanding Performance in Co-Curricular Activities</strong></p>
+<p>1. The&nbsp;<strong>SAJC Colours Award</strong>&nbsp;is awarded to students who have outstanding co-curricular achievements in the sports or performing arts.</p>
+<p>2. The&nbsp;<strong>SAJC Service Award</strong>&nbsp;is awarded to students who have made outstanding contributions and/or service to the college.</p>
+<p><strong>College Scholarships</strong></p>
+<p><strong>The following scholarships are available in St Andrew&rsquo;s Junior College:</strong></p>
+<ol>
+<li>Mrs Grace Ballas Scholarship</li>
+</ol>
+<div>is awarded to current JC1 and JC2 students who have</div>
+<ul>
+<li>displayed academic excellence</li>
+<li>an outstanding co-curricular activities record</li>
+</ul>
+<ol start="2">
+<li><strong>Outstanding Saints Scholarship</strong></li>
+</ol>
+<div>is awarded to current JCl and JC2 students who represented Singapore at an international competition. Achievement can be in the academic or non-academic domain.</div>
+<ol start="3">
+<li><strong>Bishop John Tan Teng Wai Prize</strong></li>
+</ol>
+<div>is awarded to current JC2 students who have</div>
+<ul>
+<li>Excellent and consistent academic results</li>
+<li>Outstanding leadership qualities and contributions in Sports CCA</li>
+</ul>
+<ol start="4">
+<li><strong>Ruth Wong Memorial Scholarship</strong></li>
+</ol>
+<div>is awarded to current JC2 students who are</div>
+<ul>
+<li>outstanding in academic performance</li>
+<li>extremely good in Mathematics</li>
+<li>preferably desirous of financial support</li>
+</ul>
+<ol start="5">
+<li><strong>Wong Kai Seng Scholarship</strong></li>
+</ol>
+<div>is awarded to current JC2 students who are</div>
+<ul>
+<li>outstanding in academic performance</li>
+<li>preferably desirous of financial support</li>
+</ul>
+<ol start="6">
+<li><strong>Servant Leaders Scholarship</strong></li>
+</ol>
+<div>is awarded to current JC2 students who</div>
+<ul>
+<li>have strong ability to Lead, Learn and Serve</li>
+<li>are role models of a Servant Leader</li>
+</ul>
+<ol start="7">
+<li><strong>Stephen Loh Sports Excellence Award</strong></li>
+</ol>
+<div>is awarded to current JC2 students who</div>
+<ul>
+<li>have made an outstanding contribution in water sports</li>
+<li>preferably desirous of financial support</li>
+</ul>
+<ol start="8">
+<li><strong>Wong Tim Wah Scholarship</strong></li>
+</ol>
+<div>is awarded to two current JC1 students where</div>
+<ul>
+<li>one is outstanding in academic studies and displays strong leadership qualities and</li>
+<li>the other is outstanding in academic studies and is desirous of financial support</li>
+</ul>
+<ol start="9">
+<li><strong>Daisy Phay Foundation MOE Award</strong></li>
+</ol>
+<p>Is awarded to current JC1 students who are Singaporeans desirous of financial support with outstanding contributions and good conduct. He/She must not be in receipt of another MOE Scholarship/ bursary.</p>
