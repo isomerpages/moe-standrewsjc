@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - No one is Here By Chance — Saints Inspire.md
       - Examination Timetable.md
