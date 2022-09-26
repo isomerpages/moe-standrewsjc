@@ -41,3 +41,16 @@ third_nav_title: Useful Links
 </ul>
 </ul>
 <p>The qualifications listed above for NUS / NTU / SMU are the minimum requirements for consideration in the admission to the undergraduate programmes. It should be appreciated that admission is highly competitive and is based on merit, therefore the possession of minimum requirements does not guarantee admission.</p>
+<p><strong><u>Indicative Grade Profile<br /></u></strong><strong>Local Universities&rsquo; Indicative Grade Profiles for AY 2015/2016</strong></p>
+<p>Every year, the local universities release their Indicative Grade Profiles of their respective courses. This is to provide greater transparency to prospective students for their assessment of which courses they might be eligible for.</p>
+<p>The representative grade profiles of the 10th and 90th percentiles of applicants holding Singapore-Cambridge GCE A-Level qualifications and were offered places in AY 2014/2015 are published on their websites. The grade profiles refer to the grades scored in the 3 H2 and 1 H1 subjects.</p>
+<p>The number of course places taken up in AY 2014/2015 is also available. The respective numbers are subject to change from year to year.</p>
+<p>Applicants can expect competition to be keener for courses with more stringent grade requirements and fewer places.</p>
+<p>Note that:</p>
+<ul>
+<li>The grade profiles and course places may vary from year to year, depending on the number and performance of applicants and the number of places available.</li>
+<li>Meeting the previous year&rsquo;s grade of a course does not guarantee admission to that course in the subsequent year.</li>
+<li>Some courses require additional assessments such as interviews, selection tests, and portfolios.</li>
+<li>Some may also have specific subject requirements.</li>
+</ul>
+<p>You can refer to the web links below for more information.<br /><a href="https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)" target="_blank" rel="noopener">NUS</a><br /><a href="https://www.ntu.edu.sg/admissions" target="_blank" rel="noopener">NTU</a><br /><a href="https://admissions.smu.edu.sg/sites/admissions.smu.edu.sg/files/admissions/2014/pdf/SMU_2014_Indicative_Grade_Profile_with_FAQ.pdf" target="_blank" rel="noopener">SMU</a><br /><a href="https://www.sutd.edu.sg/" target="_blank" rel="noopener">SUTD</a><br /><a href="https://www.singaporetech.edu.sg/" target="_blank" rel="noopener">SIT</a></p>
