@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Useful Links/Calendar of Events and Important Dates.md
       - Useful Links/Useful Links.md
       - Useful Links/University Admissions.md
       - Useful Links/Project Work Schedule.md
