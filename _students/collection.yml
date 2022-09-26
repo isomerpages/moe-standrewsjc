@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Useful Links/.keep
       - No one is Here By Chance — Saints Inspire.md
       - Examination Timetable.md
