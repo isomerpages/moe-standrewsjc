@@ -53,3 +53,14 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>'Once a Saint, Always a Saint.' Soh E-Ern Joshua of 19S12 truly understood the significance of this adage.</p>
+<p>Joshua has been part of the Saints family for the past 12 years. He was an all-rounded Saint who pursued excellence in all that he did, in both his academic and co-curricular pursuits. As the Public Relations Officer of the Saints Advocate, Joshua exemplified strong leadership qualities. In his two years at SAJC, Joshua led his team and participated actively in community projects such as Friendship Week, Service Learning Day, and Overseas Community Involvement Programme.</p>
+<p>He also contributed greatly to the Saints for Christ, and was also a member of the Executive Committee of ChrySAlis 2020, an annual Leadership Summit. For the College&rsquo;s Service Learning Day, Joshua bravely stepped out of his comfort zone to serve as the emcee of the Service Learning Day Carnival, going so far as to emcee in Malay.</p>
+<p>Joshua has clearly demonstrated that it is possible to balance academics with a healthy co-curricular schedule and is a fine example of an all-rounded Saint, achieving straight As in all subjects offered at H2 (Chemistry, Physics and Mathematics), and H1 (Economics, General Paper and Project Work).</p>
+<h4><strong>Emmanuel Wong, 19A05</strong></h4>
+<img style="width: 60%;" src="/images/si12.png"><br>
+<img style="width: 80%;" src="/images/si13.png"><br>
+<img style="width: 60%;" src="/images/si14.png">
+<p>&ldquo;It is truly more blessed to give than to receive.&rdquo;<br />This was what Emmanuel Wong from 19A05 had to say when asked about his journey towards the &lsquo;A&rsquo; Levels.</p>
+<p>Being diagnosed with attention deficit hyperactive disorder (ADHD), gearing up for the &lsquo;A&rsquo; Level examinations was fraught with many personal challenges. These challenges were exacerbated due to Covid-19 as the pandemic hit his family&rsquo;s source of income and the two-month lockdown heightened family tensions. Emmanuel did not have a conducive place to study and battled anxiety as the examinations loomed nearer. With support from his teachers, the school counsellor and the school&rsquo;s chaplaincy team who found him housing at St Andrew&rsquo;s Hall, Emmanuel was able to find his footing and complete his &lsquo;A&rsquo; Levels successfully. Emmanuel scored A&rsquo;s for his H2 subjects (English Literature, History and Economics), General Paper and Project Work, as well as a C for H1 Mathematics.</p>
+<p>The support that Emmanuel has received drives him to extend the same care and concern for others. He currently mentors children at St Andrew&rsquo;s House, facilitating student activities and caring for the students&rsquo; well-being. Emmanuel&rsquo;s story is one of resilience in face of adversity. We wish Emmanuel the very best as he strives towards his ambition to do policy-planning with the Ministry of Social and Family Development.</p>
