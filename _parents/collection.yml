@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Parents.md
+      - Resources/2021 Resources.md
       - Resources/.keep
       - Tip for Parents whose child is receiving A level results 2022.md
       - Communication/Communication.md
