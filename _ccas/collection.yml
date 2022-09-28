@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs & Societies/Model United Nation.md
       - Clubs & Societies/Saints Sports Club.md
       - Clubs & Societies/Outdoor Activities Club.md
       - Clubs & Societies/Photography Society.md
