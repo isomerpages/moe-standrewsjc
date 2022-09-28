@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Team SAJC/Tennis.md
       - Team SAJC/Touch Rugby.md
       - Team SAJC/Track and Field.md
       - Team SAJC/Ultimate Frisbee.md
