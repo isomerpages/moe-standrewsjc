@@ -26,7 +26,61 @@ description: ""
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Team SAJC</label>
 <div>
-<p>This is a simple one line item</p>
+<h4><strong>Team SAJC</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca4.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/basketball"><img src="/images/cca5.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/canoeing"><img src="/images/cca6.jpg"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/badminton">Badminton</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/basketball">Basketball</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/canoeing">Canoeing</a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Saints on Stage</label>
