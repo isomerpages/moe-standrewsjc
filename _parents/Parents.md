@@ -11,5 +11,5 @@ description: ""
 <li><a href="/parents/sexuality-education" target="">Sexuality Education</a></li>
 <li><a href="/parents/collaboration" target="">Collaboration</a></li>
 <li><a href="/parents/parent-support-group" target="">Parent Support Group</a></li>
-<li><a href="h/parents/parent-gateway-moe" target="">Parent Gateway (MOE)</a></li>
+<li><a href="/parents/parent-gateway-moe" target="">Parent Gateway (MOE)</a></li>
 </ul>
