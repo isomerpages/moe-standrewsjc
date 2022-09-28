@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Team SAJC/Team SAJC.md
       - Team SAJC/Badminton.md
       - Team SAJC/Basketball.md
       - Team SAJC/Canoeing.md
