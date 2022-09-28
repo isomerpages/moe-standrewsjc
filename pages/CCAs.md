@@ -118,9 +118,9 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca23.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca24.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca25.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/ava-n-media-club"><img src="/images/cca23.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/literary-and-debate-society"><img src="/images/cca24.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/environmental-club"><img src="/images/cca25.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
@@ -128,9 +128,9 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca26.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca27.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca28.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/indian-cultural-society"><img src="/images/cca26.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/interact-club"><img src="/images/cca27.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/malay-cultural-society"><img src="/images/cca28.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
@@ -138,9 +138,9 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca29.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca30.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca31.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/mentoring-club"><img src="/images/cca29.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/model-united-nation"><img src="/images/cca30.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/saints-sports-club"><img src="/images/cca31.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
@@ -148,9 +148,9 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca32.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca33.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca34.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/outdoor-activities-club"><img src="/images/cca32.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/photography-society"><img src="/images/cca33.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/infocomm-club"><img src="/images/cca34.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
