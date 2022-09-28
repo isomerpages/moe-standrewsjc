@@ -1,5 +1,18 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: The Saints Experience
+    url: /the-saints-experience/exemplary-character
+    sublinks:
+      - title: Exemplary Character
+        url: /the-saints-experience/exemplary-character
+      - title: Holistic Thinker
+        url: /the-saints-experience/holistic-thinker
+      - title: Skilled Communicator
+        url: /the-saints-experience/skilled-communicator
+      - title: Community Builder
+        url: /the-saints-experience/community-builder
+      - title: Through the Lens of Saints
+        url: /the-saints-experience/through-the-lens-of-saints
   - title: St Andrew's Family
     url: /st-andrews-family/parents-support-group
     sublinks:
