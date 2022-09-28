@@ -26,3 +26,12 @@ links:
         url: /st-andrews-family/affiliated-schools
       - title: SA Hall
         url: /st-andrews-family/sa-hall
+  - title: Curriculum
+    url: /curriculum/educational-philosophy-and-framework
+    sublinks:
+      - title: Philosophy & Framework
+        url: /curriculum/educational-philosophy-and-framework
+      - title: Subject Combinations
+        url: /curriculum/subject-combinations
+      - title: " Academic Disciplines"
+        url: /curriculum/academic-disciplines
