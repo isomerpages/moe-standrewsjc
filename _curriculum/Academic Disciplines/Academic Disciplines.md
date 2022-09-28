@@ -36,7 +36,12 @@ third_nav_title: Academic Disciplines
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Mathematics & Science</label>
 <div>
-<p>This is a simple one line item</p>
+<ol>
+<li><a href="/curriculum/academic-disciplines/mathematics-n-science/biology" target="">Biology</a></li>
+<li><a href="/curriculum/academic-disciplines/mathematics-n-science/chemistry" target="">Chemistry</a></li>
+<li><a href="/curriculum/academic-disciplines/mathematics-n-science/physics" target="">Physics</a></li>
+<li><a href="/curriculum/academic-disciplines/mathematics-n-science/mathematics" target="">Mathematics</a></li>
+</ol>
 </div>
 </li>
 </ul>
