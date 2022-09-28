@@ -1,5 +1,28 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: " Vision, Mission, Values"
+        url: /about-us/vision-mission-values
+      - title: " Campus Tour"
+        url: /about-us/campus-tour
+      - title: Heritage
+        url: /about-us/heritage
+      - title: " Board of Governors"
+        url: /about-us/board-of-governors
+      - title: Organisation Chart
+        url: /about-us/college-staff/organisation-chart
+      - title: " Contact Us"
+        url: /about-us/contact-us
+      - title: Charity Status
+        url: /about-us/charity-status
+      - title: Admission information
+        url: /about-us/admission-information
+      - title: " College Profile"
+        url: /about-us/college-profile
   - title: Curriculum
     url: /curriculum/educational-philosophy-and-framework
     sublinks:
