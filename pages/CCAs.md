@@ -40,9 +40,9 @@ description: ""
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/canoeing">Canoeing</a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca7.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca8.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca9.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
@@ -50,9 +50,9 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca10.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca11.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca12.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
@@ -60,9 +60,9 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca13.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca14.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca15.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
@@ -70,7 +70,7 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><a href="/ccas/team-sajc/badminton"><img src="/images/cca16.jpg"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
