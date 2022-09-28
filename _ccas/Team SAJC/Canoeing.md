@@ -9,7 +9,7 @@ third_nav_title: Team SAJC
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/can1.jpg"></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/can1.jpg"></td>
 <td style="width: 50%;"><img src="/images/can2.jpg"></td>
 </tr>
 <tr>
