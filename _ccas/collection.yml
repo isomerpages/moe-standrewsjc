@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs & Societies/AVA & Media Club.md
       - Clubs & Societies/Literary and Debate Society.md
       - Clubs & Societies/Environmental Club.md
       - Clubs & Societies/Indian Cultural Society.md
