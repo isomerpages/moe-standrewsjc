@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Student Leadership/Student Leadership.md
       - Student Leadership/Student Council.md
       - Student Leadership/Saints Advocate.md
       - Student Leadership/Saint for Christ.md
