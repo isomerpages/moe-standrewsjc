@@ -35,7 +35,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><strong>H1 Economics Syllabus</strong></td>
-<td style="width: 50%; text-align: center;"><strong>H2 EconomicsSyllabus</strong></td>
+<td style="width: 50%; text-align: center;"><strong>H2 Economics Syllabus</strong></td>
 </tr>
 </tbody>
 </table>
