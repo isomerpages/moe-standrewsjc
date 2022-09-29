@@ -26,3 +26,13 @@ description: ""
 <li>关切古今世界、周边环境、身旁人物、热点问题。</li>
 </ul>
 <p>You may also visit the following SEAB website for the detailed syllabus information.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img style="width: 33%;" src="/images/cll.png" /></td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;"><strong>H2 CLL Syllabus</strong></td>
+</tr>
+</tbody>
+</table>
