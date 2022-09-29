@@ -24,7 +24,7 @@ description: ""
 <td style="width: 100%;"><img style="width: 33%;" src="/images/pw.png" /></td>
 </tr>
 <tr>
-<td style="width: 100%; text-align: center;"><strong>H1 PW Syllabu</strong>s</td>
+<td style="width: 100%; text-align: center;"><strong>H1 PW Syllabus</strong>s</td>
 </tr>
 </tbody>
 </table>
