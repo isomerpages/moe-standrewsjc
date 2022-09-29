@@ -23,7 +23,7 @@ description: ""
 <td style="width: 100%;"><img style="width: 33%;" src="/images/chi.png" /></td>
 </tr>
 <tr>
-<td style="width: 100%; text-align: center;"><strong>H1 China Studies in English Syllabus</strong>s</td>
+<td style="width: 100%; text-align: center;"><strong>H1 China Studies in English Syllabus</strong></td>
 </tr>
 </tbody>
 </table>
