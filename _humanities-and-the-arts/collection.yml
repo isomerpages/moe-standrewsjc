@@ -2,6 +2,7 @@ collections:
   humanities-and-the-arts:
     output: true
     order:
+      - History.md
       - Literature in English.md
       - Economics.md
       - China Studies in English.md
