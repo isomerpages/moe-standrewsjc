@@ -297,6 +297,110 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/ed09.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Cheng Shi Yun<br /></strong><a href="mailto:cheng_shi_yun@moe.edu.sg" target=""><em>cheng_shi_yun @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/ed010.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Chiam Qian Zhen Alethea</strong></div>
+<div><em><a href="mailto:chiam_qian_zhen_alethea@moe.edu.sg" target="">chiam_qian_zhen_ alethea@moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed011.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Hema Malini<br /></strong><a href="mailto:hema_malini@moe.edu.sg" target=""><em>hema_malini @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/ed012.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Jesulyn Lim<br /></strong><a href="mailto:lim_shi_en_jesulyn@moe.edu.sg" target=""><em>lim_shi_en_jesulyn @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed013.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Lee Wen Feng Felix</strong></div>
+<div><em><a href="mailto:weng_feng_felix_lee@moe.edu.sg" target="">wen_feng_felix_lee @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed014.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Lim Singh Melissa</strong></div>
+<div><a href="mailto:melissa_lim_singh@moe.edu.sg" target=""><em>melissa_lim_singh @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed015.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Mohammed Azlan Ab Malek</strong></div>
+<div><em><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg" target="">mohammed_azlan_ ab_malek@moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed016.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Muthu Tamilselvan</strong>
+<div><em><a href="mailto:tamilselvan_muthu@moe.edu.sg">tamilselvan_muthu @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed017.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Ng Sue Ling</strong></div>
+<div><em><a href="mailto:ng_sue_ling@moe.edu.sg">ng_sue_ling @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed018.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Ng Hui Lin Felicia</strong></div>
+<div><em><a href="mailto:ng_hui_lin_felicia@moe.edu.sg">ng_hui_lin_felicia @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed019.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Priscilla Lily Samuel</strong></div>
+<div><em><a href="mailto:priscilla_lily_samuel@moe.edu.sg" target="">priscilla_lily_samuel @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed020.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Randy Gill</strong></div>
+<div><em><a href="mailto:randhir_singh@moe.edu.sg">randhir_singh @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed021.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Ruth Amsani Perry</strong></div>
+<div><em><a href="mailto:ruth_amsani_yusli@moe.edu.sg" target="">ruth_amsani_yusli @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed022.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Salome Choa Jia Xin</strong></div>
+<div><em><a href="mailto:salome_choa_jia_xin@moe.edu.sg" target="">salome_choa_jia_xin @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed023.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Tan Yeow Beng Moses Lude</strong>
+<div><em><a href="mailto:tan_yeow_beng_moses@moe.edu.sg">tan_yeow_beng_ moses@moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed024.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Soh Cai Wen Noelle</strong></div>
+<div><em><a href="mailto:soh_cai_wen_noelle@moe.edu.sg" target="">soh_cai_wen_noelle @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed025.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Yim Miao Ting Jessica</strong></div>
+<div><em><a href="mailto:yim_miao_ting_jessica@moe.edu.sg">yim_miao_ting_jessica @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed026.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Veena Bharwani</strong></div>
+<div><em><a href="mailto:veena_bharwani@moe.edu.sg" target="">veena_bharwani @moe.edu.sg</a></em></div>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Mathematics Department</label>
