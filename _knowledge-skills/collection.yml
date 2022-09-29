@@ -2,5 +2,6 @@ collections:
   knowledge-skills:
     output: true
     order:
+      - Project Work.md
       - General Paper.md
       - Knowledge Skills.md
