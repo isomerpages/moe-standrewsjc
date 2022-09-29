@@ -144,7 +144,86 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Humanities Department</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/hu1.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr William Yeo Kok San</strong></div>
+<div>HOD/Humanities</div>
+<div><em><a href="mailto:yeo_kok_san_william@moe.edu.sg">yeo_kok_san_william @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/hu2.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Ng Geok Peng</strong></div>
+<div>SH/Humanities</div>
+<div><em><a href="mailto:ng_geok_peng@moe.edu.sg">ng_geok_peng @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/hu3.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Keith Lee Kum Chuen</strong></div>
+<div>SH/Citizenship Education</div>
+<div><em><a href="mailto:keith_lee_kum_chuen@moe.edu.sg" target="">keith_lee_kum_chuen @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/hu4.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Ong Yew Yi Eve</strong></div>
+<div>SH/Publicity, Communications &amp; Outreach</div>
+<div><a href="mailto:ong_yew_yi_eve@moe.edu.sg" target=""><em>ong_yew_yi_eve @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/hu5.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Brendon Chee</strong></div>
+<div>Senior Teacher</div>
+<div><em><a href="mailto:chee_yao_rong_brendon@moe.edu.sg" target="">chee_yao_rong_ brendon@moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/hu6.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mdm Lee Pei Lin Corinne</strong></div>
+<div><em><a href="mailto:lee_pei_lin_corinne@moe.edu.sg" target="">lee_pei_lin_corinne @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/hu7.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mdm Nurhabibah Bte Md Yusope<br /></strong></div>
+<div><em><a href="mailto:nurhabibah_mohamed_yusope@moe.edu.sg">nurhabibah_mohamed _yusope@moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/hu8.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Dr&nbsp;Somali&nbsp;Paul</strong></div>
+<div><em><a href="mailto:somali_paul@moe.edu.sg">somali_paul @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/hu9.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Lim Xiao Qi</strong></div>
+<div><em><a href="mailto:xiao_qi_lim@moe.edu.sg" target="">xiao_qi_lim @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/hu10.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Loh Ke Yun</strong></div>
+<div><em><a href="mailto:loh_ke_yun@moe.edu.sg" target="">loh_ke_yun @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">English Department</label>
