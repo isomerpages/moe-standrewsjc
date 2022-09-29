@@ -486,7 +486,57 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Mother Tongue Department</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/mt1.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Ng May Fun</strong></div>
+<div>HOD/Mother Tongue<br /><a href="mailto:ng_may_fun@moe.edu.sg"><em>ng_may_fun @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/mt2.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Er Yee Ling</strong></div>
+<div>LH/Chinese</div>
+<div><a href="mailto:er_yee_ling@moe.edu.sg" target=""><em>er_yee_ling @moe.edu.sg</em></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong> Senior Teachers</strong></h4>
+<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/mt3.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Noraidee Binte Abdul Sukor<br /></strong><a href="mailto:noraidee_abdul_sukor@moe.edu.sg"><em>noraidee_abdul_sukor @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/mt4.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Kam Yong Chuan<br /></strong><a href="mailto:kam_yong_chuan@moe.edu.sg" target=""><em>kam_yong_chuan @moe.edu.sg</em></a></td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
+<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/mt5.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Chia Wai Ling<br /></strong><a href="mailto:chia_wai_ling@moe.edu.sg"><em>chia_wai_ling @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/mt6.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Dai Qi<br /></strong><a href="mailto:dai_qi@moe.edu.sg"><em>dai_qi @moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/mt7.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Ganapathy Rajagopalan<br /></strong><em><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/mt8.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Loh Lih Yeh<br /></strong><em><a href="mailto:loh_lih_yeh@moe.edu.sg" target="">loh_lih_yeh @moe.edu.sg</a></em></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/mt9.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Toh Shyh Yee<br /></strong><em><a href="mailto:toh_shyh_yee@moe.edu.sg">toh_shyh_yee @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/mt10.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Wang Min<br /></strong><em><a href="mailto:wang_min@moe.edu.sg" target="">wang_min @moe.edu.sg</a></em></td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Physical Education Department</label>
