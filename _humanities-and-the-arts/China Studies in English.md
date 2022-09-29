@@ -17,5 +17,13 @@ description: ""
 <h4><strong>3. What can I do to prepare myself for H1 China Studies in English?</strong></h4>
 <p>H1 China Studies in English is for you if you are interested in current affairs, especially on present-day China, willing to read widely, and have a good command of English, essay writing and reading ability.</p>
 <p>You do not need knowledge of the Chinese language in order to offer this subject as all materials, lessons and assessment will be in English.You may also visit the following SEAB website for the detailed syllabus information.</p>
-<img style="width: 40%;" src="/images/chi.png" />
-<p style="text-align: center;"><strong>H1 China Studies in English Syllabus</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img style="width: 33%;" src="/images/chi.png" /></td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;"><strong>H1 China Studies in English Syllabus</strong>s</td>
+</tr>
+</tbody>
+</table>
