@@ -228,7 +228,75 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">English Department</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mdm Wong Sui Lee</strong></div>
+<div>HOD/English Language&nbsp;</div>
+<div><em><a href="mailto:wong_sui_lee@moe.edu.sg">wong_sui_lee @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Sashikumar Jaichandra</strong></div>
+<div>
+<div>HOD/Citizenship Education</div>
+<div><em><a href="mailto:sashikumar_jaichandra@moe.edu.sg">sashikumar_jaichandra @moe.edu.sg</a></em></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Sin Mei Chuen Caroline</strong></div>
+<div>LH/General Paper 1</div>
+<div><em><a href="mailto:sin_mei_chuen_caroline@moe.edu.sg">sin_mei_chuen_</a></em></div>
+<div><em><a href="mailto:sin_mei_chuen_caroline@moe.edu.sg">caroline@moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Lim Hsiao Yien</strong></div>
+<div>LH/General Paper 2<br /><a href="mailto:lim_hsiao_yien@moe.edu.sg"><em>lim_hsiao_yien @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Ma Huaqi</strong></div>
+<div>
+<div>
+<div>SH/Service Learning (Covering)<strong><br /></strong></div>
+<div><em><a href="mailto:ma_huaqi@moe.edu.sg" target="">ma_huaqi @moe.edu.sg</a></em></div>
+</div>
+</div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Rachael Goh Cai Yun</strong></div>
+<div>
+<div>SH/Student Leadership<br />
+<div><a href="mailto:goh_cai_yun_rachael@moe.edu.sg"><em>goh_cai_yun_rachael @moe.edu.sg</em></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;"><strong>Ms Wong Wei Lin Julia</strong>
+<div>
+<div>Lead Teacher</div>
+<div><em><a href="mailto:wong_wei_lin_julia@moe.edu.sg">wong_wei_lin_julia @moe.edu.sg</a></em></div>
+</div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Khoo Lilin</strong></div>
+<div>Senior Teacher<br /><a href="mailto:khoo_lilin@moe.edu.sg" target=""><em>khoo_lilin @moe.edu.sg</em></a></div>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Mathematics Department</label>
