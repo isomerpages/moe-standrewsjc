@@ -18,3 +18,13 @@ description: ""
 <p>Once a project topic has been determined, students are expected to do independent research on the topic of their choice. Students will be taught skills that enable critical and creative thinking and are expected to demonstrate these abilities.</p>
 <p>Students are also expected to commit to attend group meetings, group consultations with PW tutors and to do their part in group research and report writing. These will take place outside of lecture and tutorial hours.</p>
 <p>You may also visit the following SEAB website for the detailed syllabus information.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img style="width: 33%;" src="/images/pw.png" /></td>
+</tr>
+<tr>
+<td style="width: 100%; text-align: center;"><strong>H1 PW Syllabu</strong>s</td>
+</tr>
+</tbody>
+</table>
