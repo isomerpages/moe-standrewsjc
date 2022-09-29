@@ -613,7 +613,32 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Project Work Department</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/pw1.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Ching Swee Hoe</strong></div>
+<div>HOD/Project Work<br /><a href="mailto:ching_swee_hoe@moe.edu.sg"><em>ching_swee_hoe @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/pw2.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Sathya Bama</strong></div>
+<div>HOD/Guidance &amp; Partnership Engagement<br /><a href="mailto:sathya_bama@moe.edu.sg" target=""><em>sathya_bama @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/pw3.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Teo Shue Mei Michelle</strong></div>
+<div>SH/Education &amp; Career Guidance<br /><a href="mailto:teo_shue_mei_michelle@moe.edu.sg" target=""><em>teo_shue_mei_michel le@moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
 </div>
 </li>
 <li><input id="accordion9" type="checkbox" /> <label for="accordion9">Science Department</label>
