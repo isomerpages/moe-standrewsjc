@@ -2,5 +2,6 @@ collections:
   languages:
     output: true
     order:
+      - Mother Tongue.md
       - Tamil Language and Literature.md
       - Chinese Language and Literature.md
