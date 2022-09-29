@@ -541,7 +541,74 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Physical Education Department</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/pe1.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Chay Wai Sum</strong></div>
+<div>HOD/Physical Education &amp; CCA<br /><a href="mailto:chay_wai_sum@moe.edu.sg"><em>chay_wai_sum @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/pe2.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Kieu Chin Wah Bryan</strong></div>
+<div>LH/Physical Education &amp; CCA<br /><em><a href="mailto:kieu_chin_wah@moe.edu.sg">kieu_chin_wah @moe.edu.sg&nbsp;</a>&nbsp;</em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/pe3.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Ong Kah Siang Jason</strong></div>
+<div>Senior Teacher</div>
+<div><a href="mailto:jason_ong_kah_siang@moe.edu.sg" target=""><em>jason_ong_kah_siang @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
+<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/pe4.jpg"></td>
+<td style="width: 29.2649%;">
+<div style="text-align: center;"><strong>Mr Chai Ming Long</strong><br /><em><a href="mailto:chai_ming_long@moe.edu.sg" target="">chai_ming_long@moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/pe5.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Gabriel Tang Jia Liang<br /></strong><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg" target=""><em>gabriel_tang_jia_lian g@moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/pe6.jpg"></td>
+<td style="width: 29.2649%; text-align: center;">
+<div><strong>Mr Lim Zi Qi</strong></div>
+<div><a href="mailto:lim_zi_qi@moe.edu.sg" target=""><em>lim_zi_qi@moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/pe7.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Lin Jiahao Aaron<br /></strong><a href="mailto:lin_jiahaoaaron@moe.edu.sg"><em>lin_jiahaoaaron @moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/pe8.png"></td>
+<td style="width: 29.2649%; text-align: center;">
+<div><strong>Mr Teo Ping Wei Keith</strong></div>
+<div><a href="mailto:teo_ping_wei@moe.edu.sg" target=""><em>teo_ping_wei @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/pe9.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Wong Chee Wai</strong></div>
+<em><a href="mailto:wong_chee_wai_a@moe.edu.sg">wong_chee_wai_a @moe.edu.sg</a></em></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/pe10.png"></td>
+<td style="width: 29.2649%; text-align: center;">
+<div><strong>Mr Yeo Chee Keong</strong></div>
+<div><a href="mailto:yeo_chee_keong@moe.edu.sg" target=""><em>yeo_chee_keong @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Project Work Department</label>
