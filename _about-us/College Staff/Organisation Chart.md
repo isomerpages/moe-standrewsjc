@@ -438,7 +438,50 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-
+<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/math5.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Ang Wei Cang<br /></strong><a href="mailto:ang_wei_cang@moe.edu.sg" target=""><em>ang_wei_cang @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/math6.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Chan Siew Cheng Regina<br /></strong><a href="mailto:chan_siew_cheng@moe.edu.sg"><em>chan_siew_cheng @moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/math7.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Chen Chien Liang<br /></strong><a href="mailto:chen_chien_liang@moe.edu.sg"><em>chen_chien_liang @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/math8.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mrs Chow Pei Sze Julia<br /></strong><em><a href="mailto:kwan_pei_sze_julia@moe.edu.sg">kwan_pei_sze_julia @moe.edu.sg</a></em></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/math9.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Dennis Chia<br /></strong><a href="mailto:chia_dennis@moe.edu.sg" target=""><em>chia_dennis @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/math10.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Koh Eng Chye Frederick<br /></strong><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target=""><em>koh_eng_chye_ frederick@moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/math11.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Koh Yee Wei Lawrence<br /></strong><a href="mailto:koh_yee_wei@moe.edu.sg" target=""><em>koh_yee_wei @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/math12.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Ng Wei Ying Abigail<br /></strong><a href="mailto:ng_wei_ying_abigail@moe.edu.sg" target=""><em>ng_wei_ying_abigail @moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/math13.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Raymond Phua Song Boon<br /></strong><a href="mailto:raymond_phua_song_boon@moe.edu.sg" target=""><em>raymond_phua_song _boon@moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/math14.png">;</td>
+<td style="width: 25%; text-align: center;"><strong>Mr William Lee Choong How<br /></strong><a href="mailto:william_lee_choong_how@moe.edu.sg"><em>william_lee_choong_ how@moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/math15.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Yeo Shor Peou<br /></strong><a href="mailto:yeo_shor_peou@moe.edu.sg" target=""><em>yeo_shor_peou @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/math16.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Yuen Wen Jun<br /></strong><a href="mailto:yuen_wen_jun@moe.edu.sg" target=""><em>yuen_wen_jun @moe.edu.sg</em></a></td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Mother Tongue Department</label>
