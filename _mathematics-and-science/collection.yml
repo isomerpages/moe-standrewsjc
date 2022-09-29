@@ -1,4 +1,5 @@
 collections:
   mathematics-and-science:
     output: true
-    order: []
+    order:
+      - Mathematics.md
