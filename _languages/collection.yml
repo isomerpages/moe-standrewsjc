@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - Example Title.md
       - Mother Tongue.md
       - Tamil Language and Literature.md
       - Chinese Language and Literature.md
