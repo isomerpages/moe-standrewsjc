@@ -643,7 +643,176 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion9" type="checkbox" /> <label for="accordion9">Science Department</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/sci1.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Sunarfa Binte Supaah</strong></div>
+<div>HOD/Science 1 (Chemistry)</div>
+<div><a href="mailto:sunarfa_supaah@moe.edu.sg" target=""><em>sunarfa_supaah @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/sci2.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Ang Thiam Wei</strong></div>
+<div>HOD/Science 2 (Physics &amp; Biology)<br /><em><a href="mailto:ang_thiam_wei@moe.edu.sg">ang_thiam_wei @moe.edu.sg&nbsp;</a>&nbsp;</em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci3.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Sia Lai Chai</strong></div>
+<div>HOD/Educational Technology &amp; MRL<br /><a href="mailto:sia_lai_chai@moe.edu.sg"><em>sia_lai_chai @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/sci4.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Lee Kye Loong Roland</strong></div>
+<div>Year Head<br /><a href="mailto:lee_kye_loong_roland@moe.edu.sg"><em>lee_kye_loong_roland @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci5.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Lim Hui Ching</strong></div>
+<div>Assistant Year Head 2</div>
+<div><a href="mailto:lim_hui_ching_a@moe.edu.sg"><em>lim_hui_ching_a @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/sci6.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Tng Yee Min Yvonne</strong></div>
+<div>SH/Biology&nbsp;</div>
+<div><a href="mailto:tng_yee_min_yvonne@moe.edu.sg" target="">tng_yee_min_yvonne @moe.edu.sg</a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci7.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Tan Joy</strong></div>
+<div>LH/Physics</div>
+<div><a href="mailto:tan_joy@moe.edu.sg" target=""><em>tan_joy@moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/sci8.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Soh Xiao Fen</strong></div>
+<div>LH/Chemistry</div>
+<div><a href="mailto:soh_xiao_fen@moe.edu.sg" target=""><em>soh_xiao_fen @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci9.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Chong Te Wei David</strong></div>
+<div>SH/Partnerships</div>
+<div><a href="mailto:chong_te_wei@moe.edu.sg"><em>chong_te_wei @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/sci10.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Chia Chin Han</strong></div>
+<div>Discipline Master</div>
+<div><a href="mailto:chia_chin_han@moe.edu.sg"><em>chia_chin_han @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci11.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Chia Thien Huat Jae</strong></div>
+<div>SH/Character Education</div>
+<div><a href="mailto:chia_thien_huat@moe.edu.sg" target=""><em>chia_thien_huat @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/sci12.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Teng Guan Foo</strong></div>
+<div>SH/Talent Development</div>
+<div><em><a href="mailto:teng_guan_foo@moe.edu.sg">teng_guan_foo @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci13.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mrs Loi-Koh Ching Hwee Sharon</strong></div>
+<div>Lead Teacher</div>
+<div><em><a href="mailto:koh_ching_hwee@moe.edu.sg">koh_ching_hwee @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/sci14.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mrs Chua-Tan Hwee Bin<br /></strong><a href="mailto:tan_hwee_bin@moe.edu.sg"><em>tan_hwee_bin @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci15.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Charis Lee Jing Ying<br /></strong><a href="mailto:lee_jing_ying@moe.edu.sg" target=""><em>lee_jing_ying @moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci16.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Du Jiesi&nbsp;<br /></strong><a href="mailto:du_jiesi@moe.edu.sg"><em>du_jiesi@moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci17.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Fong Choo Wah<br /></strong><a href="mailto:fong_choo_wah@moe.edu.sg" target=""><em>fong_choo_wah @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci18.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Lee Chun Theng Jermaine<br /></strong><a href="mailto:lee_chun_theng@moe.edu.sg" target=""><em>lee_chun_theng @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci19.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Lee Wen Thye<br /></strong><em><a href="mailto:lee_wen_thye@moe.edu.sg">lee_wen_thye @moe.edu.sg</a></em></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci20.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Leong Jia Hui Grace<br /></strong><a href="mailto:leong_jia_hui_grace@moe.edu.sg" target=""><em>leong_jia_hui_grace @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci21.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Leong Kim Lian Janet<br /></strong><a href="mailto:leong_kim_lian_janet@moe.edu.sg" target=""><em>leong_kim_lian_janet @moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci22.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Lin Wenquan<br /></strong><em><a href="mailto:lin_wenquan@moe.edu.sg">lin_wenquan moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/sci23.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Low Wanyi<br /></strong><em><a href="mailto:low_wanyi@moe.edu.sg">low_wanyi @moe.edu.sg</a></em></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci24.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Ng Hui Fen<br /></strong><a href="mailto:ng_hui_fen_a@moe.edu.sg"><em>ng_hui_fen_a @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci25.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Ng Yi Hui Eunice<br /></strong><em><a href="mailto:ng_yi_hui_eunice@moe.edu.sg">ng_yi_hui_eunice @moe.edu.sg</a></em></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci26.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Ong Kim Lin Scott<br /></strong><a href="mailto:ong_kim_lin@moe.edu.sg"><em>ong_kim_lin @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci27.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Tan Jin Xing Andrew<br /></strong><em><a href="mailto:tan_jin_xing_andrew@moe.edu.sg">tan_jin_xing_andrew @moe.edu.sg</a></em></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci28.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Tan Mei Fong Cynthia<br /></strong><em><a href="mailto:tan_mei_fong_cynthia@moe.edu.sg">tan_mei_fong_ cynthia@moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/sci29.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Teow Wai Leng<br /></strong><a href="mailto:teow_wai_leng@moe.edu.sg"><em>teow_wai_leng @moe.edu.sg</em></a></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci30.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mrs Wong Chai Kee<br /></strong><a href="mailto:wong_chai_kee@moe.edu.sg"><em>wong_chai_kee @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci31.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Wong Weishan</strong></div>
+<div><em><a href="mailto:wong_weishan@moe.edu.sg">wong_weishan @moe.edu.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/sci32.jpg"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Ong Duen Liang Stanley</strong><br /><a href="mailto:ong_duen_liang@moe.edu.sg" target=""><em>ong_duen_liang@moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/sci33.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Yeo Jia Tian</strong></div>
+<div><em><a href="mailto:yeo_jia_tian@moe.edu.sg">yeo_jia_tian @moe.edu.sg</a></em></div>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion10" type="checkbox" /> <label for="accordion10">Executive and Administrative Staff</label>
