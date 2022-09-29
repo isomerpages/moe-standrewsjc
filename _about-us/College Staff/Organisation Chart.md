@@ -231,13 +231,13 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed01.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mdm Wong Sui Lee</strong></div>
 <div>HOD/English Language&nbsp;</div>
 <div><em><a href="mailto:wong_sui_lee@moe.edu.sg">wong_sui_lee @moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed02.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Sashikumar Jaichandra</strong></div>
 <div>
@@ -247,21 +247,21 @@ third_nav_title: College Staff
 </td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed03.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Sin Mei Chuen Caroline</strong></div>
 <div>LH/General Paper 1</div>
 <div><em><a href="mailto:sin_mei_chuen_caroline@moe.edu.sg">sin_mei_chuen_</a></em></div>
 <div><em><a href="mailto:sin_mei_chuen_caroline@moe.edu.sg">caroline@moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed04.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Lim Hsiao Yien</strong></div>
 <div>LH/General Paper 2<br /><a href="mailto:lim_hsiao_yien@moe.edu.sg"><em>lim_hsiao_yien @moe.edu.sg</em></a></div>
 </td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed05.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Ma Huaqi</strong></div>
 <div>
@@ -271,7 +271,7 @@ third_nav_title: College Staff
 </div>
 </div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed06.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Rachael Goh Cai Yun</strong></div>
 <div>
@@ -282,14 +282,14 @@ third_nav_title: College Staff
 </td>
 </tr>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed07.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Wong Wei Lin Julia</strong>
 <div>
 <div>Lead Teacher</div>
 <div><em><a href="mailto:wong_wei_lin_julia@moe.edu.sg">wong_wei_lin_julia @moe.edu.sg</a></em></div>
 </div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed08.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Khoo Lilin</strong></div>
 <div>Senior Teacher<br /><a href="mailto:khoo_lilin@moe.edu.sg" target=""><em>khoo_lilin @moe.edu.sg</em></a></div>
