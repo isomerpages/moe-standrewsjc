@@ -2,6 +2,7 @@ collections:
   mathematics-and-science:
     output: true
     order:
+      - Biology.md
       - Chemistry.md
       - Physics.md
       - Mathematics.md
