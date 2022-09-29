@@ -817,7 +817,91 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion10" type="checkbox" /> <label for="accordion10">Executive and Administrative Staff</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/eas1.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mdm Wu Miau Kee</strong></div>
+<div>Admin Manager 1<br /><a href="mailto:wu_miau_kee@schools.gov.sg" target=""><em>wu_miau_kee @schools.gov.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/eas2.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mdm Seow Lay Hoon</strong></div>
+<div>Admin Manager 2<br /><a href="mailto:seow_lay_hoon@schools.gov.sg" target=""><em>seow_lay_hoon @schools.gov.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/eas3.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Joseph Pereira</strong></div>
+<div>Operations Manager 1<br /><a href="mailto:pereira_joseph_gerald@moe.edu.sg" target=""><em>pereira_joseph_geral d@moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/eas4.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Sinni Suppiah</strong></div>
+<div>Operations Manager 2</div>
+<div><a href="mailto:sinni_suppiah@moe.edu.sg" target=""><em>sinni_suppiah @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/eas5.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mdm Chak Hung Ling Suanne</strong></div>
+<div>Admin Executive 1</div>
+<div><em><a href="mailto:chak_hung_ling_suanne@moe.edu.sg" target="">chak_hung_ling_suan ne@moe.edu.sg&nbsp;</a></em></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mdm Ng Yee San</strong></div>
+<div>Admin Executive 2</div>
+<div><em><a href="mailto:ng_yee_san@moe.edu.sg" target="">ng_yee_san@moe.edu.s</a>g</em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/eas6.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Lam Yoke Fong</strong></div>
+<div>Senior Full Time School Counsellor</div>
+<div><em><a href="mailto:lam_yoke_fong@moe.edu.sg">lam_yoke_fong @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/eas7.jpg"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Kathena Lim</strong></div>
+<div>ECG Counselling Manager</div>
+<div><em><a href="mailto:kathena_megan_lim_haiyun@schools.gov.sg" target="">kathena_lim@</a></em></div>
+<div><em><a href="mailto:kathena_lim@schools.gov.sg" target="">schools.gov.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/eas8.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Ng Xiping</strong></div>
+<div>ICT Manager</div>
+<div><em><a href="mailto:ng_xiping@moe.edu.sg" target="">ng_xiping @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/eas9.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Tan Liang Hua</strong></div>
+<div>Desktop Engineer 1</div>
+<div><em><a href="mailto:lianghua.tan@ncs.com.sg" target="">lianghua.tan @ncs.com.sg</a></em></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/eas10.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Mohamed Kasim Mohamed Raja</strong></div>
+<div>
+<div>Desktop Engineer 2</div>
+<div><em><a href="mailto:mohamed.km@ncs.com.sg" target="">mohamed.km @ncs.com.sg</a></em></div>
+</div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Admin Staff</strong></h4>
 </div>
 </li>
 </ul>
