@@ -405,7 +405,40 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Mathematics Department</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/math1.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Chan Wai Yee</strong></div>
+<div>HOD/Mathematics<br /><a href="mailto:chan_wai_yee@moe.edu.sg"><em>chan_wai_yee @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/math2.png"></td>
+<td style="width: 25%; text-align: center;">
+<div>
+<div><strong>Mr Pio Pereira</strong></div>
+<div>LH/Mathematics 1<br /><a href="mailto:pio_pereira@moe.edu.sg"><em>pio_pereira @moe.edu.sg</em></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/math3.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Er Heow Hui</strong></div>
+<div>LH/Mathematics 2<br /><em><a href="mailto:er_heow_hui@moe.edu.sg">er_heow_hui @moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/math4.png"></td>
+<td style="width: 25%; text-align: center;">
+<div>
+<div><strong>Mr Beesoony Uttam Kumar</strong></div>
+<div>SH/Educational Technology<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg"><em>beesoony_uttam_ kumar@moe.edu.sg</em></a></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Teachers</strong></h4>
+
 </div>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Mother Tongue Department</label>
