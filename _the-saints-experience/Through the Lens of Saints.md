@@ -23,7 +23,9 @@ description: ""
 <p style="text-align: center;"><strong>2021 College Day</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTidDTN61lNQPTS-uqWVTfr09AwRM9rppj_JVMlAh3uEVJPlo3n-vDSMlmYgQdXB9Zr-J3detwTp7ul/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 JC1 Thanksgiving</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVUdoS28DBwqgzLHVejDEqX-PiP8qB4XQFknKVkO1fbnS2Nr_dVStHByHRZVO9RnG4WjqY1qOPmlPP/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Teachers' Day</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkBtSzKOVvNy02O8g4YHYGhqkjmhK7r_DyBZa8TokUqO1jF-HKjCwBJrcCTkTPls_-FfOCVj1knU2D/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2022 CNY Celebrations</strong></p>
 <p style="text-align: center;"><strong>2022 A-level results release</strong></p>
 <p style="text-align: center;"><strong>2022 Beginning of Year Programme</strong></p>
