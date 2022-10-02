@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Scholarships Awarded to Alumni/Scholarships Awarded to Alumni.md
       - Scholarships Awarded to Alumni/.keep
       - Staff Awards/.keep
       - Staff Awards/Staff Awards.md
