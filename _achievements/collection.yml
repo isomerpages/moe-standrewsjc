@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Achievements.md
       - CCA Accomplishments/.keep
       - CCA Accomplishments/CCA Accomplishments.md
       - CCA Accomplishments/Our Schools, Our Stories Honourable Mention Prize
@@ -44,5 +45,4 @@ collections:
       - Staff Awards/Staff Awards.md
       - Staff Awards/Valedictorian of the Management and Leadership in Schools
         Programme.md
-      - Achievements.md
       - Achievements1.md
