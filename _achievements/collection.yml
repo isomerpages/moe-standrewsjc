@@ -2,11 +2,11 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Accomplishments/.keep
+      - CCA Accomplishments/CCA Accomplishments.md
       - CCA Accomplishments/Our Schools, Our Stories Honourable Mention Prize
         2021.md
       - CCA Accomplishments/CCA Accomplishment 2021.md
-      - CCA Accomplishments/CCA Accomplishments.md
-      - CCA Accomplishments/.keep
       - Celebration of Success/.keep
       - Celebration of Success/Celebration of Success.md
       - Celebration of Success/JC1 CT Celebration of Success 2021.md
