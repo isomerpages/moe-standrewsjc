@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Awards/Staff Awards.md
       - Staff Awards/.keep
       - Achievements.md
       - Achievements1.md
