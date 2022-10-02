@@ -11,6 +11,7 @@ description: ""
 <p style="text-align: center;"><strong>2021 Orientation</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhRIHxoR7hS45nkFoCJAo1tnhZEmPeetUDqYMKocg7HN06Y75_Vfq3_ZJ7oV6Vii0OOqEf7WDKd6X3/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Release of A-Level Results</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTzgR0oScKefwEupLZdfQ4Ohjkj4TOsZOE3aCJCxprnJbYOwxfVwKx4LboNi21Qxt4cD186yQbgD_o2/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Student Council Commendation</strong></p>
 <p style="text-align: center;"><strong>2021 CCAs</strong></p>
 <p style="text-align: center;"><strong>2021 CCE</strong></p>
