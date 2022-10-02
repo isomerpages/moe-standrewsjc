@@ -7,6 +7,7 @@ description: ""
 <h4><strong>2021 Events</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlZ4CZbEAW9E1juSKxfa0se2l8oGbJpdjjNeAF7sOm5a_bSI-UZa4HJVHe3CvNCk-DMmvPGZO4vn3t/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Open House &amp; Homecoming</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc_aIaN-d88JfW9OZ3ohMTwM1TKGA1K33G1x3odNK-Z-Cli9pu0ETzi7lCySGmQQK3gMzcMxnwIp7D/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Orientation</strong></p>
 <p style="text-align: center;"><strong>2021 Release of A-Level Results</strong></p>
 <p style="text-align: center;"><strong>2021 Student Council Commendation</strong></p>
