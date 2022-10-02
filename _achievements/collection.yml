@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - External Competitions/External Competitions.md
       - External Competitions/.keep
       - MOE Awards and Scholarships/.keep
       - MOE Awards and Scholarships/MOE Awards and Scholarships.md
