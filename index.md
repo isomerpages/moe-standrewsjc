@@ -18,16 +18,18 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+  - infopic:
+      title: Our Saints’ Achievements
+      button: Read More
+      url: /sajc/achievements
+      image: /images/academic.jpg
+      alt: Image alt text
+  - infopic:
+      title: Media Features
+      button: Read More
+      url: /sajc/news/media-features
+      image: /images/media.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       button: More Announcements
