@@ -17,6 +17,7 @@ description: ""
 <p style="text-align: center;"><strong>2021 CCAs</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaiod3POGRIiX_gZQNV0fDY1pwbwNH9e89gqbOYbn0kW-Bksdo0HdUNmKOcbjjmrcrJBJBO2M1OX7W/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 CCE</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWQxiM48ecD9yvTb7F1N61MChOO6pILx8BD_DAZGSTXNPRJqhP7NTbGi-mH1UlHpIUDl-NNpEvAvHx/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Steps to Care Challenge</strong></p>
 <p style="text-align: center;"><strong>2021 College Day</strong></p>
 <p style="text-align: center;"><strong>2021 JC1 Thanksgiving</strong></p>
