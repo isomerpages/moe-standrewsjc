@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - External Competitions/Singapore Futures Youth Competition and Micron
+        NUS–ISE Business Analytics Case Competition 2021.md
       - External Competitions/Youth Entrepreneurs Challenge 2021.md
       - External Competitions/External Competitions.md
       - External Competitions/.keep
