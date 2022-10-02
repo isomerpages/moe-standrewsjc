@@ -27,6 +27,7 @@ description: ""
 <p style="text-align: center;"><strong>2021 Teachers' Day</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkBtSzKOVvNy02O8g4YHYGhqkjmhK7r_DyBZa8TokUqO1jF-HKjCwBJrcCTkTPls_-FfOCVj1knU2D/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2022 CNY Celebrations</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdU8rMaNDebG4AwELH6q-7ruDzEuq-_Ix6iZJvcaTNXApR8ZsdnfxmsXw7sqmTZsQ4f4USlIVYmGID/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2022 A-level results release</strong></p>
 <p style="text-align: center;"><strong>2022 Beginning of Year Programme</strong></p>
 <p style="text-align: center;"><strong>2022 Open House</strong></p>
