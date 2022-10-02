@@ -2,6 +2,7 @@ collections:
   media-features:
     output: true
     order:
+      - Media Features.md
       - Community First Responder Awards by SCDF.md
       - Emmanuel Wong of 19A05.md
       - Rita Tan Mei Ying of 18A05.md
