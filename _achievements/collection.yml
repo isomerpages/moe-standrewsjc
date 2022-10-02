@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Scholarships Awarded to Alumni/.keep
+      - Scholarships Awarded to Alumni/Scholarships Awarded to Alumni.md
       - Scholarships Awarded to Alumni/Defence Scholarship Awards 2021.md
       - Scholarships Awarded to Alumni/Healthcare Scholarships Award Ceremony
         2021.md
@@ -10,8 +12,6 @@ collections:
       - Scholarships Awarded to Alumni/Singapore Geospatial Scholarship by SLA
         2021.md
       - Scholarships Awarded to Alumni/Singapore–Industry Scholarship 2021.md
-      - Scholarships Awarded to Alumni/Scholarships Awarded to Alumni.md
-      - Scholarships Awarded to Alumni/.keep
       - Staff Awards/.keep
       - Staff Awards/Staff Awards.md
       - Staff Awards/Valedictorian of the Management and Leadership in Schools
