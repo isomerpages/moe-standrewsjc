@@ -29,5 +29,6 @@ description: ""
 <p style="text-align: center;"><strong>2022 CNY Celebrations</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdU8rMaNDebG4AwELH6q-7ruDzEuq-_Ix6iZJvcaTNXApR8ZsdnfxmsXw7sqmTZsQ4f4USlIVYmGID/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2022 A-level results release</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyiYrbNnco9vMy9nQ9_RB1FSu7kFSpL8pJcgEztzbzhGzC1nZI5_yYaOI3tFPZStK1YeEpvewemFoM/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2022 Beginning of Year Programme</strong></p>
 <p style="text-align: center;"><strong>2022 Open House</strong></p>
