@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+<p>Dear JC1 Saints,&nbsp;<a href="/students/examination-timetable">click here</a>&nbsp;to download a copy of the Preliminary Examinations timetable!</p>
