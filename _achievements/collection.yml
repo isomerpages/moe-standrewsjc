@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Scholarships Awarded to Alumni/Healthcare Scholarships Award Ceremony
+        2021.md
       - Scholarships Awarded to Alumni/Singapore Digital Scholarship
         (Undergraduate) 2021.md
       - Scholarships Awarded to Alumni/Singapore Geospatial Scholarship by SLA
