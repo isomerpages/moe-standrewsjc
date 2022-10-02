@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Celebration of Success/.keep
       - External Competitions/.keep
       - External Competitions/External Competitions.md
       - External Competitions/Computing@SMU Award by SMU 2021.md
