@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Accomplishments/Our Schools, Our Stories Honourable Mention Prize
+        2021.md
       - CCA Accomplishments/CCA Accomplishment 2021.md
       - CCA Accomplishments/CCA Accomplishments.md
       - CCA Accomplishments/.keep
