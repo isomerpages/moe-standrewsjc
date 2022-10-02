@@ -6,4 +6,4 @@ third_nav_title: Scholarships Awarded to Alumni
 ---
 <p>The Singapore Geospatial Scholarship is offered by the Singapore Land Authority and aims to groom leaders to plan and drive the implementation of the Singapore Geospatial Masterplan, as well as its key initiatives.</p>
 <p>We are pleased to share that Shawn Lee, from the class of 2017, has been awarded with this scholarship. Congratulations Shawn!</p>
-<img src="/images/saa4.jpg">
+<img style="width: 80%;" src="/images/saa4.jpg">
