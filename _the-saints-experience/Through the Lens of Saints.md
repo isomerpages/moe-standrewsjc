@@ -21,6 +21,7 @@ description: ""
 <p style="text-align: center;"><strong>2021 Steps to Care Challenge</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUaH1j1TLTUydUMsVJ5fpyUDSkLZOQbBavvLn8OvGYcwj3y4bJPXeKnmWZDrW7vyJxTOky1vkQXGd_/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 College Day</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTidDTN61lNQPTS-uqWVTfr09AwRM9rppj_JVMlAh3uEVJPlo3n-vDSMlmYgQdXB9Zr-J3detwTp7ul/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 JC1 Thanksgiving</strong></p>
 <p style="text-align: center;"><strong>2021 Teachers' Day</strong></p>
 <p style="text-align: center;"><strong>2022 CNY Celebrations</strong></p>
