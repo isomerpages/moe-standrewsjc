@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - External Competitions/Goh Keng Swee Future Thinking Challenge 2021.md
       - External Competitions/NUS Project and Facilities Management Essay Prize
         2020.md
       - External Competitions/Singapore Futures Youth Competition and Micron
