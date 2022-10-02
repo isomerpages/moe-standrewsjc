@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - MOE Awards and Scholarships/MOE Teaching Scholarship SAJC Recipients
+        2021.md
       - MOE Awards and Scholarships/MOE Awards and Scholarships.md
       - MOE Awards and Scholarships/.keep
       - Scholarships Awarded to Alumni/.keep
