@@ -9,6 +9,7 @@ description: ""
 <p style="text-align: center;"><strong>2021 Open House &amp; Homecoming</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc_aIaN-d88JfW9OZ3ohMTwM1TKGA1K33G1x3odNK-Z-Cli9pu0ETzi7lCySGmQQK3gMzcMxnwIp7D/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Orientation</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhRIHxoR7hS45nkFoCJAo1tnhZEmPeetUDqYMKocg7HN06Y75_Vfq3_ZJ7oV6Vii0OOqEf7WDKd6X3/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p style="text-align: center;"><strong>2021 Release of A-Level Results</strong></p>
 <p style="text-align: center;"><strong>2021 Student Council Commendation</strong></p>
 <p style="text-align: center;"><strong>2021 CCAs</strong></p>
