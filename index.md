@@ -2,7 +2,7 @@
 layout: homepage
 title: St Andrew's Junior College
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -34,3 +34,4 @@ sections:
       title: Announcements
       button: More Announcements
 ---
+
