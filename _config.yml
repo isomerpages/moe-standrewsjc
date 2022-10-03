@@ -1,6 +1,6 @@
 title: St Andrew's Junior College
 url: https://standrewsjc.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo.png
 colors:
   primary-color: "#1c089c"
   secondary-color: "#001f61"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dkvvqs9eoouv4.amplifyapp.com
 prod: https://master.dkvvqs9eoouv4.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
