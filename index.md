@@ -34,4 +34,3 @@ sections:
       title: Announcements
       button: More Announcements
 ---
-
