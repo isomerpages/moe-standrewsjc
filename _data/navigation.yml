@@ -59,7 +59,7 @@ links:
       - title: SA Hall
         url: /st-andrews-family/sa-hall
   - title: CCAs
-    url: pages/CCAs.md
+    url: /ccas/
     sublinks:
       - title: Student Leadership
         url: /ccas/student-leadership
