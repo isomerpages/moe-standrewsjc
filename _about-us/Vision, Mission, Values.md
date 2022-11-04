@@ -66,8 +66,5 @@ description: ""
 <div>A Saint puts himself in the other person&rsquo;s shoes. A Saint speaks up and acts for those who are down.</div>
 </td>
 </tr>
-	
-	
-	![](/images/True%20wise.jpg)
 </tbody>
 </table>
