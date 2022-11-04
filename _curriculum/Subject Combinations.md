@@ -5,10 +5,10 @@ description: ""
 ---
 <h4><strong><u>Course Information for 2022</u></strong></h4>
 <ol start="1" type="1">
-<li>The GCE A-Level requires students to take General Paper (GP), Project Work (PW) and Mother Tongue Language (MTL) at H1 level. Students are also required to take up 3 H2 and 1 H1 content-based subjects, where at least one is a subject from a contrasting discipline.&nbsp;</li>
-<li>Alternatively, students who have met SAJC&rsquo;s requirements can also choose to study 4 H2 subjects, of which at least one must be from a contrasting discipline.&nbsp;</li>
-<li>In order to be exempted from MTL, students are required to obtain at least a D7 for Higher Mother Tongue subject at GCE O-Level Examination. Students who offer Mother Tongue B Syllabus (MTB) at GCE O-Level Examination will continue with MTB at GCE A-Level.</li>
-<li>The following tables show the&nbsp;<strong>3 H2 and 1 H1 Subject Combinations</strong>&nbsp;offered in SAJC for 2022. These combinations will only be offered if there is sufficient demand.&nbsp;</li>
+<li align="justify">The GCE A-Level requires students to take General Paper (GP), Project Work (PW) and Mother Tongue Language (MTL) at H1 level. Students are also required to take up 3 H2 and 1 H1 content-based subjects, where at least one is a subject from a contrasting discipline.&nbsp;</li>
+<li align="justify">Alternatively, students who have met SAJC&rsquo;s requirements can also choose to study 4 H2 subjects, of which at least one must be from a contrasting discipline.&nbsp;</li>
+<li align="justify">In order to be exempted from MTL, students are required to obtain at least a D7 for Higher Mother Tongue subject at GCE O-Level Examination. Students who offer Mother Tongue B Syllabus (MTB) at GCE O-Level Examination will continue with MTB at GCE A-Level.</li>
+<li align="justify">The following tables show the&nbsp;<strong>3 H2 and 1 H1 Subject Combinations</strong>&nbsp;offered in SAJC for 2022. These combinations will only be offered if there is sufficient demand.&nbsp;</li>
 </ol>
 <h4><strong><u>Arts Subject Combinations</u></strong></h4>
 <table style="height: 388px;">
@@ -207,16 +207,16 @@ description: ""
 </tbody>
 </table>
 <p><strong>Note:</strong></p>
-<p>At most ONE of the following subjects may be used to replace one H2 subject in the above combinations provided students fulfil the contrasting subject requirement:</p>
+<p align="justify">At most ONE of the following subjects may be used to replace one H2 subject in the above combinations provided students fulfil the contrasting subject requirement:</p>
 <ul>
 <li>H2 Art</li>
 <li>H2 Chinese Language &amp; Literature (with the exception of 3A2 and 3A3)</li>
-<li>H2 Tamil Language &amp; Literature (with the exception of 3A2 and 3A3)</li>
+<li align="justify">H2 Tamil Language &amp; Literature (with the exception of 3A2 and 3A3)</li>
 </ul>
 <ol start="5" type="1">
-<li>For subject combinations with low demand, the College reserves the right to decide whether such subject combinations would be offered.</li>
+<li align="justify">For subject combinations with low demand, the College reserves the right to decide whether such subject combinations would be offered.</li>
 <li>In choosing your subject combination, it is critical that you consider the course you would like to pursue at the tertiary level.</li>
-<li>The following tables show the&nbsp;<strong>4 H2 Subject Combinations</strong>&nbsp;offered in SAJC for 2021. These combinations will only be offered if there is sufficient demand. Do note that students may take up 4 H2 subjects only if they have attained a L1R5 (without bonus points) of 9 or lower.</li>
+<li align="justify">The following tables show the&nbsp;<strong>4 H2 Subject Combinations</strong>&nbsp;offered in SAJC for 2021. These combinations will only be offered if there is sufficient demand. Do note that students may take up 4 H2 subjects only if they have attained a L1R5 (without bonus points) of 9 or lower.</li>
 </ol>
 <h4><strong><u>Arts Subject Combinations</u></strong></h4>
 <table>
@@ -331,6 +331,6 @@ description: ""
 </tbody>
 </table>
 <ol start="8" type="1">
-<li>As 4 H2 Subject Combination is a more demanding combination, students would be engaged at College milestone assessment check points to determine whether they are coping well.</li>
+<li align="justify">As 4 H2 Subject Combination is a more demanding combination, students would be engaged at College milestone assessment check points to determine whether they are coping well.</li>
 </ol>
 <p>For more information, please refer to the&nbsp;<a href="/files/SAJC%20Prospectus%202022_FINAL_3%20DEC.pdf" target="">SAJC 2022 Prospectus</a>.</p>
