@@ -7,7 +7,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/bog1.png" /></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/bgo2.png" /></td>
+<td style="width: 50%;"><img style="width: 76%;" src="/images/mrtham_bog.png" /></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">
@@ -21,7 +21,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/bog2.png" /></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/bog3.png" /></td>
+<td style="width: 50%;"><img style="width: 72%;" src="/images/bog3.png" /></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">
