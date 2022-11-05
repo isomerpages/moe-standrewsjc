@@ -3,21 +3,21 @@ title: SA Hall
 permalink: /st-andrews-family/sa-hall/
 description: ""
 ---
-<p>The 12-storey St Andrew&rsquo;s Hall (SA Hall) was officially opened on 25th August 2012. It is a co-educational residence housing up to 600 students. The Hall is under the management of the Board of Governors of St Andrew&rsquo;s Junior College (SAJC) and it is also a member of the Anglican Diocese of Singapore.</p>
+<p align="justify">The 12-storey St Andrew&rsquo;s Hall (SA Hall) was officially opened on 25th August 2012. It is a co-educational residence housing up to 600 students. The Hall is under the management of the Board of Governors of St Andrew&rsquo;s Junior College (SAJC) and it is also a member of the Anglican Diocese of Singapore.</p>
 <img src="/images/hall1.jpg"><br>
 <img src="/images/hall2.jpg">
-<p>Appointed by the Board of Governors, the Principal of SAJC, the Chaplaincy Team and the Hall Advisory Council work collaboratively to provide many rich opportunities for young people from different countries to learn, live and work together meaningfully. They also get to develop leadership skills and establish quality relationships with one another.</p>
+<p align="justify">Appointed by the Board of Governors, the Principal of SAJC, the Chaplaincy Team and the Hall Advisory Council work collaboratively to provide many rich opportunities for young people from different countries to learn, live and work together meaningfully. They also get to develop leadership skills and establish quality relationships with one another.</p>
 <img src="/images/hall3.jpg">
-<p>The vision of the SA Hall is to be a home that nurtures 21st century servant leaders. The SA Hall seeks to provide a nurturing environment that supports a well-rounded residential leadership education to develop Saints to be</p>
+<p align="justify">The vision of the SA Hall is to be a home that nurtures 21st century servant leaders. The SA Hall seeks to provide a nurturing environment that supports a well-rounded residential leadership education to develop Saints to be</p>
 <ul>
 <li>persons with strength of character</li>
 <li>excellent in their academic pursuits and outstanding in social and community-building skills</li>
 <li>critical, creative and caring thinkers for solving problems</li>
 <li>active citizens committed to contributing to the local and global communities</li>
 </ul>
-<p>SA Hall believes in providing a quality residential programme that seeks to imbibe Christian values, support Saints&rsquo; academic endeavours and foster a closer bond among Saints through a myriad of meaningful programmes which cater to their wholesome development.</p>
+<p align="justify">SA Hall believes in providing a quality residential programme that seeks to imbibe Christian values, support Saints&rsquo; academic endeavours and foster a closer bond among Saints through a myriad of meaningful programmes which cater to their wholesome development.</p>
 <img src="/images/hall4.jpg">
-<p>The SA Hall is proud to be the new addition to St Andrew&rsquo;s Village with its rich culture and heritage that goes back 150 years ago. All Saints of the SA Hall will endeavour to keep the flag of St Andrew&rsquo;s soaring high both here and in every corner of the world!</p>
+<p align="justify">The SA Hall is proud to be the new addition to St Andrew&rsquo;s Village with its rich culture and heritage that goes back 150 years ago. All Saints of the SA Hall will endeavour to keep the flag of St Andrew&rsquo;s soaring high both here and in every corner of the world!</p>
 <p><strong>Staff of SA Hall</strong></p>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
