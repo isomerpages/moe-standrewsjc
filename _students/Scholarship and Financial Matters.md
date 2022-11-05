@@ -4,7 +4,7 @@ permalink: /students/scholarship-and-financial-matters/
 description: ""
 ---
 <p>a. Student Assistance Schemes</p>
-<p>The College offers two main types of financial assistance schemes for financially needy students. One is the Ministry of Education Financial Assistance Scheme (MOE FAS) and the other is the St Andrew&rsquo;s Junior College Student Assistance Fund (SAJC SAF). Eligible students will be granted only either ONE of these financial assistance schemes.</p>
+<p align="justify">The College offers two main types of financial assistance schemes for financially needy students. One is the Ministry of Education Financial Assistance Scheme (MOE FAS) and the other is the St Andrew&rsquo;s Junior College Student Assistance Fund (SAJC SAF). Eligible students will be granted only either ONE of these financial assistance schemes.</p>
 <table>
 <tbody>
 <tr>
@@ -22,7 +22,7 @@ description: ""
 <td width="236">
 <div>
 <ul>
-<li>Singapore Citizens who do not qualify for MOE FAS;</li>
+<li align="justify">Singapore Citizens who do not qualify for MOE FAS;</li>
 <li>Permanent Residents and Foreign students may apply but approval is on a case-by-case basis.</li>
 </ul>
 </div>
