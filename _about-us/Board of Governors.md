@@ -32,7 +32,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/bog4.png" /></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/bog5.png" /></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/david_ng_bog.png" /></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><strong>Mr Alfred Wong</strong></td>
@@ -40,7 +40,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/bog6.png" /></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/david_ng_bog.png" /></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/bog7.png" /></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><strong>Mr Lawrence Teo</strong></td>
