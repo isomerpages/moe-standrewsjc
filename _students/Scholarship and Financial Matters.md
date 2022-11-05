@@ -238,4 +238,4 @@ description: ""
 <ol start="9">
 <li><strong>Daisy Phay Foundation MOE Award</strong></li>
 </ol>
-<p>Is awarded to current JC1 students who are Singaporeans desirous of financial support with outstanding contributions and good conduct. He/She must not be in receipt of another MOE Scholarship/ bursary.</p>
+<p align="justify">Is awarded to current JC1 students who are Singaporeans desirous of financial support with outstanding contributions and good conduct. He/She must not be in receipt of another MOE Scholarship/ bursary.</p>
