@@ -7,7 +7,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/bog1.png" /></td>
-<td style="width: 50%;"><img style="width: 76%;" src="/images/mrtham_bog.png" /></td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/bog_2.png" /></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;">
