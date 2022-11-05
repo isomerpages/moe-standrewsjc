@@ -3,13 +3,13 @@ title: Parent's Support Group
 permalink: /st-andrews-family/parents-support-group/
 description: ""
 ---
-<p>SAJC&rsquo;s Parents&rsquo; Support Group (PSG) works to advance the College&rsquo;s values and visions, supports its programmes and build strong relationships among parents, teachers and Saints. Our vision is:</p>
+<p align="justify">SAJC&rsquo;s Parents&rsquo; Support Group (PSG) works to advance the College&rsquo;s values and visions, supports its programmes and build strong relationships among parents, teachers and Saints. Our vision is:</p>
 <ul>
 <li>Growing in our faith</li>
 <li>Building a community</li>
 <li>Impacting the School and our Saints</li>
 </ul>
-<p>Our committed and passionate Parent volunteers work closely with the school leaders, teachers and students to create a caring and encouraging environment for our students to excel in. Every year, we plan and organize the following programmes in conjunction with the school:</p>
+<p align="justify">Our committed and passionate Parent volunteers work closely with the school leaders, teachers and students to create a caring and encouraging environment for our students to excel in. Every year, we plan and organize the following programmes in conjunction with the school:</p>
 <table>
 <tbody>
 <tr>
