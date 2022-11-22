@@ -33,13 +33,13 @@ description: ""
 <td width="256">
 <div>
 <ul>
-<li>Family&rsquo;s gross household income (GHI) of $2,750 per month or below;</li>
+<li>Family&rsquo;s gross household income (GHI) of $3,000 per month or below;</li>
 </ul>
 </div>
 <div style="padding-left: 40px;"><strong>or</strong></div>
 <div>
 <ul>
-<li>Family&rsquo;s per capita income (PCI) of $690 per month or below.</li>
+<li>Family&rsquo;s per capita income (PCI) of $750 per month or below.</li>
 </ul>
 </div>
 <div>PCI=&nbsp;<u>Total gross household income</u></div>
@@ -48,13 +48,13 @@ description: ""
 <td width="236">
 <div>
 <ul>
-<li>Family&rsquo;s gross household income (GHI) $3,200 per month of below;</li>
+<li>Family&rsquo;s gross household income (GHI) $3,001 to $4,000 per month;</li>
 </ul>
 </div>
 <div style="padding-left: 40px;"><strong>or</strong></div>
 <div>
 <ul>
-<li>Family&rsquo;s per capita income (PCI) of $800 per month or below.</li>
+<li>Family&rsquo;s per capita income (PCI) of $751 to $1,000 per month.</li>
 </ul>
 </div>
 </td>
@@ -66,8 +66,8 @@ description: ""
 <div>
 <ul>
 <li>Full subsidy of school and standard miscellaneous fees;</li>
-<li>Bursary of $1,000 per year;</li>
-<li>Transport Subsidy ($15 per month from the month of approval, up to $180 per year for students taking public transport).</li>
+<li>Bursary of $1,200 per year;</li>
+<li>Transport Subsidy ($17 per month from the month of approval, up to $204 per year for students taking public transport).</li>
 </ul>
 </div>
 <div><strong><u>From SAJC Board-of-Governors Fund:</u></strong></div>
