@@ -15,6 +15,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 50%;"><a href="/about-us/board-of-governors"><img src="/images/au5.png"></a></td>
+	
 <td style="width: 50%;"><a href="/about-us/college-staff/organization-chart/"><img src="/images/au6.png"></a></td>
 </tr>
 <tr>
