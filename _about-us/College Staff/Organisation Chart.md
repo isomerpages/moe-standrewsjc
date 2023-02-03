@@ -135,6 +135,23 @@ third_nav_title: College Staff
 <div><strong>Ms Wong Sook Yee</strong></div>
 <div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_sook_yee @moe.edu.sg</em></a></div>
 </td>
+<td style="width: 25%;"><img src="/images/notready.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Cynthia Lim Ai Lian</strong></div>
+<div><a href="mailto:cynthia_lim_ai_lian@moe.edu.sg"><em>cynthia_lim_ai_lian@moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/notready.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Wee Lee Meng Lester</strong></div>
+<div><a href="mailto:wee_lee_meng_lester@moe.edu.sg"><em>wee_lee_meng_lester@moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/notready.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Loh Jia Hui</strong></div>
+<div><a href="mailto:loh_jia_hui@moe.edu.sg"><em>loh_jia_hui@moe.edu.sg</em></a></div>
+</td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%;">&nbsp;</td>
 </tr>
@@ -167,22 +184,7 @@ third_nav_title: College Staff
 <div>SH/Citizenship Education</div>
 <div><em><a href="mailto:keith_lee_kum_chuen@moe.edu.sg" target="">keith_lee_kum_chuen @moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;"><img src="/images/hu4.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Ms Ong Yew Yi Eve</strong></div>
-<div>SH/Publicity, Communications &amp; Outreach</div>
-<div><a href="mailto:ong_yew_yi_eve@moe.edu.sg" target=""><em>ong_yew_yi_eve @moe.edu.sg</em></a></div>
-</td>
 </tr>
-<tr>
-<td style="width: 25%;"><img src="/images/hu5.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Mr Brendon Chee</strong></div>
-<div>Senior Teacher</div>
-<div><em><a href="mailto:chee_yao_rong_brendon@moe.edu.sg" target="">chee_yao_rong_ brendon@moe.edu.sg</a></em></div>
-</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
