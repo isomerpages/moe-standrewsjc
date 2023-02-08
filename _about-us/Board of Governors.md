@@ -48,7 +48,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 65%;" src="/images/bog8.png" /></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/bog9.png" />;</td>
+<td style="width: 50%;"><img style="width: 65%;" src="/images/bog9.png" /></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><strong>Mr Malcolm Lim</strong></td>
