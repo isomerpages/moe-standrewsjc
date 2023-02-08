@@ -2,4 +2,5 @@ collections:
   back-up:
     output: true
     order:
+      - Canoeing.md
       - Direct School Admission (DSA) – 2023 Intake.md
