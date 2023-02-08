@@ -305,12 +305,7 @@ third_nav_title: Admission Information
   
 </ul>
   
-<div>
-    <br>
-  
-</div>
-<div><br>
-</div>
+
 </blockquote>
 <h4>
   <u>Science Course
@@ -745,8 +740,7 @@ third_nav_title: Admission Information
 </tr>
 </tbody>
 </table>
-<br><br>
-<br><h4><u><br></u></h4><h4><u>Science Course</u></h4>
+<h4><u>Science Course</u></h4>
 <div><u><br></u>
 </div>
 <table style="width: 100%;" class="iveo_table ives_tab_simple3">
