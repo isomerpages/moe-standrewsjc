@@ -36,5 +36,5 @@ sections:
   - infobar:
       title: Our Saints' Achievement
       button: Read More
-      url: /test
+      url: /sajc/achievements/
 ---
