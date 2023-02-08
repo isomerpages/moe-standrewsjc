@@ -35,6 +35,6 @@ sections:
       button: Read More
       url: /sajc/achievements
   - resources:
-      title: Achievements
+      title: Announcements
       button: More Announcements
 ---
