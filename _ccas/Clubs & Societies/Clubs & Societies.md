@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong>Clubs & Societies</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/ava-n-media-club"><img src="/images/cca23.jpg"></a></td>
