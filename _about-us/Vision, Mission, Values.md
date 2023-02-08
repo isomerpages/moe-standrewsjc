@@ -4,11 +4,12 @@ permalink: /about-us/vision-mission-values/
 description: ""
 ---
 <h4><strong>Mission</strong></h4>
-<p>Making Lives and Waking Hearts to serve the coming days<br />Family-Society-Eternity</p>
+Making Lives and Waking Hearts to serve the coming days<br />Family-Society-Eternity
 <h4><strong>Vision</strong></h4>
-<p>Home of Servant Leaders who bring life to the Nations</p>
+Home of Servant Leaders who bring life to the Nations
 <h4><strong>Values</strong></h4>
-<p>Saints are principled servant-leaders, upholding the&nbsp;<strong>WISE</strong>&nbsp;and&nbsp;<strong>TRUE</strong>&nbsp;values that define who we are and how we act when we stand together as a village</p>
+Saints are principled servant-leaders, upholding the&nbsp;<strong>WISE</strong>&nbsp;and&nbsp;<strong>TRUE</strong>&nbsp;values that define who we are and how we act when we stand together as a village
+<br>
 <table>
 <tbody>
 <tr>
