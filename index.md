@@ -33,4 +33,8 @@ sections:
   - resources:
       title: Announcements
       button: More Announcements
+  - infobar:
+      title: Our Saints' Achievement
+      button: Read More
+      url: /test
 ---
