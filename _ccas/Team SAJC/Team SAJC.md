@@ -17,7 +17,7 @@ third_nav_title: Team SAJC
 <tr>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/badminton">Badminton</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/basketball">Basketball</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/canoeing">Canoeing</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/water-polo">Water Polo</a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/ccas/team-sajc/football"><img src="/images/cca7.jpg"></a></td>
@@ -49,15 +49,7 @@ third_nav_title: Team SAJC
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/track-and-field">Track and Field</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/ultimate-frisbee">Ultimate Frisbee</a></td>
 </tr>
-<tr>
-<td style="width: 33.3333%;"><a href="/ccas/team-sajc/water-polo"><img src="/images/cca16.jpg"></a></td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/water-polo">Water Polo</a></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
+
+
 </tbody>
 </table>
