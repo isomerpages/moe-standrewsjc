@@ -8,7 +8,7 @@ third_nav_title: Clubs & Societies
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="text-decoration: none" style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/ava-n-media-club"><img src="/images/cca23.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/ava-n-media-club"><img src="/images/cca23.jpg"></a></td>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/literary-and-debate-society"><img src="/images/cca24.jpg"></a></td>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/environmental-club"><img src="/images/cca25.jpg"></a></td>
 </tr>
