@@ -49,7 +49,5 @@ third_nav_title: Team SAJC
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/track-and-field">Track and Field</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/team-sajc/ultimate-frisbee">Ultimate Frisbee</a></td>
 </tr>
-
-
 </tbody>
 </table>
