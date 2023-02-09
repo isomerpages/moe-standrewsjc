@@ -48,17 +48,17 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/notready.png"></td>
+<td style="width: 25%;"><img src="/images/ed1.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Sng Yin Hui Joan</strong></div>
+<div><strong>Ms Shawna Lim Shi'En</strong></div>
 <div>HOD/Economics</div>
-<div><a href="mailto:sng_yin_hui_joan@moe.edu.sg" target=""><em>sng_yin_hui_joan@moe.edu.sg</em></a></div>
+<div><a href="mailto:lim_shi_en_shawna@moe.edu.sg" target=""><em>lim_shi_en_shawna @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/ed2.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Poh Shi Yin Lynette</strong></div>
 <div>
-<div>LH/Economics 1 and School Staff Developer</div>
+<div>LH/Economics 1 and School Staff Developer (Covering)</div>
 <div><a href="mailto:poh_shi_yin_lynette@moe.edu.sg" target=""><em>poh_shi_yin_lynette @moe.edu.sg</em></a></div>
 </div>
 </td>
@@ -135,23 +135,6 @@ third_nav_title: College Staff
 <div><strong>Ms Wong Sook Yee</strong></div>
 <div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_sook_yee @moe.edu.sg</em></a></div>
 </td>
-<td style="width: 25%;"><img src="/images/notready.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Ms Cynthia Lim Ai Lian</strong></div>
-<div><a href="mailto:cynthia_lim_ai_lian@moe.edu.sg"><em>cynthia_lim_ai_lian@moe.edu.sg</em></a></div>
-</td>
-</tr>
-<tr>
-<td style="width: 25%;"><img src="/images/notready.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Mr Wee Lee Meng Lester</strong></div>
-<div><a href="mailto:wee_lee_meng_lester@moe.edu.sg"><em>wee_lee_meng_lester@moe.edu.sg</em></a></div>
-</td>
-<td style="width: 25%;"><img src="/images/notready.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Ms Loh Jia Hui</strong></div>
-<div><a href="mailto:loh_jia_hui@moe.edu.sg"><em>loh_jia_hui@moe.edu.sg</em></a></div>
-</td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%;">&nbsp;</td>
 </tr>
@@ -184,7 +167,22 @@ third_nav_title: College Staff
 <div>SH/Citizenship Education</div>
 <div><em><a href="mailto:keith_lee_kum_chuen@moe.edu.sg" target="">keith_lee_kum_chuen @moe.edu.sg</a></em></div>
 </td>
+<td style="width: 25%;"><img src="/images/hu4.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Ong Yew Yi Eve</strong></div>
+<div>SH/Publicity, Communications &amp; Outreach</div>
+<div><a href="mailto:ong_yew_yi_eve@moe.edu.sg" target=""><em>ong_yew_yi_eve @moe.edu.sg</em></a></div>
+</td>
 </tr>
+<tr>
+<td style="width: 25%;"><img src="/images/hu5.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Brendon Chee</strong></div>
+<div>Senior Teacher</div>
+<div><em><a href="mailto:chee_yao_rong_brendon@moe.edu.sg" target="">chee_yao_rong_ brendon@moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
