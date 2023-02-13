@@ -43,11 +43,9 @@ third_nav_title: College Staff
 </tbody>
 </table>
 </div>
-</li>
-
 <h3 style="text-align: center;"><strong>Economics Department</strong></h3>
 <div>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/.png"></td>
@@ -82,7 +80,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 140%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/ed5.png"></td>
@@ -161,7 +159,7 @@ third_nav_title: College Staff
 </li>
 <h3 style="text-align: center;"><strong>Humanities Department</strong></h3>
 <div>
-<table style="border-collapse: collapse; width: 130%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/hu1.png"></td>
@@ -190,7 +188,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 150%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/hu6.png"></td>
@@ -232,7 +230,7 @@ third_nav_title: College Staff
 
 <h3 style="text-align: center;"><strong>English Department</strong></h3>
 <div>
-<table style="border-collapse: collapse; width: 150%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/ed01.png"></td>
@@ -314,7 +312,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 140%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/ed09.png"></td>
@@ -410,7 +408,7 @@ third_nav_title: College Staff
 
 <h3 style="text-align: center;"><strong>Mathematics Department</strong></h3>
 <div>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/math1.png"></td>
@@ -443,7 +441,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 150%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/math5.png"></td>
@@ -492,7 +490,7 @@ third_nav_title: College Staff
 
 <h3 style="text-align: center;"><strong>Mother Tongue Department</strong></h3>
 <div>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/mt1.png"></td>
@@ -523,7 +521,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/mt5.png"></td>
@@ -550,7 +548,7 @@ third_nav_title: College Staff
 <h3 style="text-align: center;"><strong>Physical Education Department</strong></h3>
 
 <div>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/pe1.png"></td>
@@ -577,7 +575,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/pe4.jpg"></td>
@@ -623,7 +621,7 @@ third_nav_title: College Staff
 
 <h3 style="text-align: center;"><strong>Project Work Department</strong></h3>
 <div>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/pw1.png"></td>
@@ -654,7 +652,7 @@ third_nav_title: College Staff
 
 <h3 style="text-align: center;"><strong>Science Department</strong></h3>
 <div>
-<table style="border-collapse: collapse; width: 135%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/sci1.png"></td>
@@ -750,7 +748,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 150%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/sci16.png"></td>
@@ -835,7 +833,7 @@ third_nav_title: College Staff
 <h3 style="text-align: center;"><strong>Executive and Administrative Staff</strong></h3>
 <h4 style="text-align: center;"><strong>Finance & Admin</strong></h4>
 <div>
-<table style="border-collapse: collapse; width: 140%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas1.png"></td>
@@ -880,7 +878,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Counselling</strong></h4>
-<table style="border-collapse: collapse; width: 130%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas6.png"></td>
@@ -891,7 +889,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>ICT</strong></h4>
-<table style="border-collapse: collapse; width: 130%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas8.png"></td>
@@ -910,7 +908,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Science & Laboratory</strong></h4>
-<table style="border-collapse: collapse; width: 170%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas14.png"></td>
@@ -933,7 +931,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Operations</strong></h4>
-<table style="border-collapse: collapse; width: 150%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas3.png"></td>
