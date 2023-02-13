@@ -223,11 +223,8 @@ third_nav_title: College Staff
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%; text-align: center;">&nbsp;</td>
 </tr>
-</tbody>
-</table>
-</div>
-</li>
 
+</div>
 <h3 style="text-align: center;"><strong>English Department</strong></h3>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="0">
@@ -403,9 +400,6 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
-</div>
-</li>
-
 <h3 style="text-align: center;"><strong>Mathematics Department</strong></h3>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="0">
@@ -486,8 +480,6 @@ third_nav_title: College Staff
 </tbody>
 </table>
 </div>
-</li>
-
 <h3 style="text-align: center;"><strong>Mother Tongue Department</strong></h3>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="0">
@@ -544,9 +536,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 </div>
-</li>
 <h3 style="text-align: center;"><strong>Physical Education Department</strong></h3>
-
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -617,8 +607,6 @@ third_nav_title: College Staff
 </tbody>
 </table>
 </div>
-</li>
-
 <h3 style="text-align: center;"><strong>Project Work Department</strong></h3>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="0">
@@ -646,10 +634,7 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
-
 </div>
-</li>
-
 <h3 style="text-align: center;"><strong>Science Department</strong></h3>
 <div>
 <table style="border-collapse: collapse; width: 100%;" border="0">
@@ -822,14 +807,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Yeo Jia Tian</strong></div>
 <div><em><a href="mailto:yeo_jia_tian@moe.edu.sg">yeo_jia_tian@moe.edu.sg</a></em></div>
-</tbody>
-</table>
 
-</div>
-</li>
-
-</div>
-</li>
 <h3 style="text-align: center;"><strong>Executive and Administrative Staff</strong></h3>
 <h4 style="text-align: center;"><strong>Finance & Admin</strong></h4>
 <div>
@@ -971,6 +949,3 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
-</div>
-</li>
-</ul>
