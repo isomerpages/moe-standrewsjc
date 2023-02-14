@@ -15,8 +15,9 @@ third_nav_title: College Staff
 
 
 
-| Staff | Designation | Email Address |
+| Staff Name | Designation | Email Address |
 | -------- | -------- | -------- |
+| Mrs Whang Ai Lee     | Deputy Principal (Academic)     | sajc@moe.edu.sg     |
 | Mr Chan Kwang How Bernard     | Deputy Principal (Admin)     | sajc@moe.edu.sg     |
 
 
