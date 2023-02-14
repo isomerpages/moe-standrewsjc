@@ -5,21 +5,14 @@ description: ""
 third_nav_title: College Staff
 ---
 ### School Leaders
-| Staff Name | Designation | Email Address |
-| -------- | -------- | -------- |
-| Mr Tham Kine Thong     | Principal      | sajc@moe.edu.sg     |
-| Mr Ang Kheng San Cecil     | Deputy Principal (Academic)    | sajc@moe.edu.sg   
-| Mrs Whang Ai Lee     | Deputy Principal (Academic)     | sajc@moe.edu.sg     |
-| Mr Chan Kwang How Bernard     | Deputy Principal (Admin)     | sajc@moe.edu.sg     |
-
-
 
 
 | Staff Name | Designation | Email Address |
 | -------- | -------- | -------- |
+| Mr Tham Kine Thong     | Principal     | sajc@moe.edu.sg     |
+| Mr Ang Kheng San Cecil     | Deputy Principal (Academic)     | sajc@moe.edu.sg     |
 | Mrs Whang Ai Lee     | Deputy Principal (Academic)     | sajc@moe.edu.sg     |
 | Mr Chan Kwang How Bernard     | Deputy Principal (Admin)     | sajc@moe.edu.sg     |
-
 
 
 ### Economics Department
