@@ -227,8 +227,8 @@ third_nav_title: College Staff
 |Ms Rema Meenakshi|rema_meenakshi@moe.edu.sg
 
 #### Operations
-| Staff Name | Designation | Email Address |
-|------------| -------- | -------- |
+| Staff Name |Designation| Email Address |
+|------------|--------| -------- |
 |Mr Joseph Pereira|Operations Manager 1|pereira_joseph_gerald@moe.edu.sg
 |Mr Sinni Suppiah|Operations Manager 2|sinni_suppiah@moe.edu.sg
 |Mr Chee Kooi Seng Royce||
