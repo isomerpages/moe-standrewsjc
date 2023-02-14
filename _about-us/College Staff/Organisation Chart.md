@@ -41,7 +41,7 @@ third_nav_title: College Staff
 |------------| -------- | -------- |
 |Mr William Yeo Kok San|HOD/Humanities|yeo_kok_san_william@moe.edu.sg|
 |Ms Ng Geok Peng|SH/Humanities|ng_geok_peng@moe.edu.sg|
-|Mr Keith Lee Kum Chuen|SH/Citizenship |Education|keith_lee_kum_chuen@moe.edu.sg|
+|Mr Keith Lee Kum Chuen|SH/Citizenship Education|keith_lee_kum_chuen@moe.edu.sg|
 
 #### Teachers
 | Staff Name | Email Address |
@@ -56,13 +56,13 @@ third_nav_title: College Staff
 | Staff Name | Designation | Email Address |
 |------------| -------- | -------- |
 |Mdm Wong Sui Lee|HOD/English Language |wong_sui_lee@moe.edu.sg|
-|Mr Sashikumar Jaichandra|HOD/Citizenship |Education|sashikumar_jaichandra@moe.edu.sg|
-|Ms Sin Mei Chuen Caroline|LH/General Paper |1|sin_mei_chuen_caroline@moe.edu.sg|
+|Mr Sashikumar Jaichandra|HOD/Citizenship Education|sashikumar_jaichandra@moe.edu.sg|
+|Ms Sin Mei Chuen Caroline|LH/General Paper 1|sin_mei_chuen_caroline@moe.edu.sg|
 |Ms Lim Hsiao Yien|LH/General Paper 2|lim_hsiao_yien@moe.edu.sg|
 |Mr Ma Huaqi|SH/Service Learning (Covering)|ma_huaqi@moe.edu.sg|
-|Mr Mohammed Azlan Ab Malek|SH/Student Leadership 2 |(Covering)|mohammed_azlan_ab_malek@moe.edu.sg|
-|Ms Priscilla Lily Samuel|SH/Publicity, Communications & Outreach |(Covering)|priscilla_lily_samuel@moe.edu.sg|
-|Ms Rachael Goh Cai Yun|SH/Student |Leadership|goh_cai_yun_rachael@moe.edu.sg|
+|Mr Mohammed Azlan Ab Malek|SH/Student Leadership 2 (Covering)|mohammed_azlan_ab_malek@moe.edu.sg|
+|Ms Priscilla Lily Samuel|SH/Publicity, Communications & Outreach (Covering)|priscilla_lily_samuel@moe.edu.sg|
+|Ms Rachael Goh Cai Yun|SH/Student Leadership|goh_cai_yun_rachael@moe.edu.sg|
 |Ms Khoo Lilin|Lead Teacher|khoo_lilin@moe.edu.sg|
 |Ms Wong Wei Lin Julia|Lead Teacher|wong_wei_lin_julia@moe.edu.sg|
 
@@ -71,28 +71,28 @@ third_nav_title: College Staff
 |------------|-------- |
 |Ms Cheng Shi Yun|cheng_shi_yun@moe.edu.sg|
 |Ms Chiam Qian Zhen Alethea|chiam_qian_zhen_alethea@moe.edu.sg|
-|Ms Hema Malini|hema_malini@moe.edu.sg
-|Ms Jesulyn Lim|lim_shi_en_jesulyn@moe.edu.sg
-|Mr Lee Wen Feng Felix|wen_feng_felix_lee@moe.edu.sg
-|Ms Lim Singh Melissa|melissa_lim_singh@moe.edu.sg
-|Mr Muthu Tamilselvan|tamilselvan_muthu@moe.edu.sg
-|Ms Ng Hui Lin Felicia|ng_hui_lin_felicia@moe.edu.sg
-|Ms Ng Sue Ling|ng_sue_ling@moe.edu.sg
-|Mr Randy Gill|randhir_singh@moe.edu.sg
-|Ms Ruth Amsani Perry|ruth_amsani_yusli@moe.edu.sg
-|Ms Salome Choa Jia Xin|salome_choa_jia_xin@moe.edu.sg
-|Ms Soh Cai Wen Noelle|soh_cai_wen_noelle@moe.edu.sg
-|Mr Tan Yeow Beng Moses Lude|tan_yeow_beng_moses@moe.edu.sg
-|Ms Veena Bharwani|veena_bharwani@moe.edu.sg
-|Ms Yim Miao Ting Jessica|yim_miao_ting_jessica@moe.edu.sg
+|Ms Hema Malini|hema_malini@moe.edu.sg|
+|Ms Jesulyn Lim|lim_shi_en_jesulyn@moe.edu.sg|
+|Mr Lee Wen Feng Felix|wen_feng_felix_lee@moe.edu.sg|
+|Ms Lim Singh Melissa|melissa_lim_singh@moe.edu.sg|
+|Mr Muthu Tamilselvan|tamilselvan_muthu@moe.edu.sg|
+|Ms Ng Hui Lin Felicia|ng_hui_lin_felicia@moe.edu.sg|
+|Ms Ng Sue Ling|ng_sue_ling@moe.edu.sg|
+|Mr Randy Gill|randhir_singh@moe.edu.sg|
+|Ms Ruth Amsani Perry|ruth_amsani_yusli@moe.edu.sg|
+|Ms Salome Choa Jia Xin|salome_choa_jia_xin@moe.edu.sg|
+|Ms Soh Cai Wen Noelle|soh_cai_wen_noelle@moe.edu.sg|
+|Mr Tan Yeow Beng Moses Lude|tan_yeow_beng_moses@moe.edu.sg|
+|Ms Veena Bharwani|veena_bharwani@moe.edu.sg|
+|Ms Yim Miao Ting Jessica|yim_miao_ting_jessica@moe.edu.sg|
 
 ### Mathematics Department
 | Staff Name | Designation | Email Address |
 |------------| -------- | -------- |
-|Ms Chan Wai Yee|HOD/Mathematics|chan_wai_yee@moe.edu.sg
-|Mr Pio Pereira|LH/Mathematics 1|pio_pereira@moe.edu.sg
-|Mr Er Heow Hui|LH/Mathematics 2|er_heow_hui@moe.edu.sg
-|Mr Beesoony Uttam Kumar|SH/Educational Technology|beesoony_uttam_kumar@moe.edu.sg
+|Ms Chan Wai Yee|HOD/Mathematics|chan_wai_yee@moe.edu.sg|
+|Mr Pio Pereira|LH/Mathematics 1|pio_pereira@moe.edu.sg|
+|Mr Er Heow Hui|LH/Mathematics 2|er_heow_hui@moe.edu.sg|
+|Mr Beesoony Uttam Kumar|SH/Educational Technology|beesoony_uttam_kumar@moe.edu.sg|
 
 #### Teachers
 | Staff Name | Email Address |
