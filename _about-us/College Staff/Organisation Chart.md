@@ -16,8 +16,8 @@ third_nav_title: College Staff
 | Staff Name | Designation | Email Address |
 |------------| -------- | -------- |
 |Ms Sng Yin Hui Joan|HOD/Economics|sng_yin_hui_joan@moe.edu.sg
-|Ms Poh Shi Yin Lynette|LH/Economics 1 and School Staff Developer|poh_shi_yin_lynette@moe.edu.sg
-|Mr Lim Mong Khai Melvin|LH/Economics 2|lim_mong_khai_melvin@moe.edu.sg
+|Ms Poh Shi Yin Lynette|School Staff Developer|poh_shi_yin_lynette@moe.edu.sg
+|Mr Lim Mong Khai Melvin|LH/Economics|lim_mong_khai_melvin@moe.edu.sg
 |Mr Peh Bock Kiat|Assistant Year Head 1|peh_bock_kiat@moe.edu.sg
 
 #### Teachers
