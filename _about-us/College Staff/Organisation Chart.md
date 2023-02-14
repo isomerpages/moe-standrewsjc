@@ -5,8 +5,6 @@ description: ""
 third_nav_title: College Staff
 ---
 ### School Leaders
-
-
 | Staff Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Tham Kine Thong     | Principal     | sajc@moe.edu.sg     |
@@ -14,14 +12,13 @@ third_nav_title: College Staff
 | Mrs Whang Ai Lee     | Deputy Principal (Academic)     | sajc@moe.edu.sg     |
 | Mr Chan Kwang How Bernard     | Deputy Principal (Admin)     | sajc@moe.edu.sg     |
 
-
 ### Economics Department
 | Staff Name | Designation | Email Address |
-|------------| -------- | -------- |
-|Ms Sng Yin Hui Joan|HOD/Economics|sng_yin_hui_joan@moe.edu.sg|
-|Ms Poh Shi Yin Lynette|School Staff Developer|poh_shi_yin_lynette@moe.edu.sg|
-|Mr Lim Mong Khai Melvin|LH/Economics|lim_mong_khai_melvin@moe.edu.sg|
-|Mr Peh Bock Kiat|Assistant Year Head 1|peh_bock_kiat@moe.edu.sg|
+| -------- | -------- | -------- |
+| Ms Sng Yin Hui Joan     | HOD/Economics     | sng_yin_hui_joan@moe.edu.sg     |
+| Ms Poh Shi Yin Lynette     | School Staff Developer     | poh_shi_yin_lynette@moe.edu.sg     |
+| Mr Lim Mong Khai Melvin     | LH/Economics     | lim_mong_khai_melvin@moe.edu.sg     |
+| Mr Peh Bock Kiat     | Assistant Year Head 1     | peh_bock_kiat@moe.edu.sg     
 
 #### Teachers
 | Staff Name | Email Address |
@@ -30,7 +27,7 @@ third_nav_title: College Staff
 |Mr Chua Chun Lin Lyndon|chua_chun_lin_lyndon@moe.edu.sg|
 |Ms Cynthia Lim Ai Lian|cynthia_lim_ai_lian@moe.edu.sg|
 |Ms Jackina d/o Sultan Athaham|jackina_sultan_athaham@moe.edu.sg|
-|Mr Ko Wei En, Wayne|ko_wei_en_wayne@moe.edu.sg|
+| Mr Ko Wei En, Wayne     | ko_wei_en_wayne@moe.edu.sg     |
 |Ms Lee Jia Yi|lee_jia_yi_a@moe.edu.sg|
 |Mrs Lim-Wong Yingyi|wong_yingyi@moe.edu.sg|
 |Ms Loh Jia Hui|loh_jia_hui@moe.edu.sg|
