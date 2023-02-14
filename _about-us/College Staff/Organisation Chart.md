@@ -4,89 +4,73 @@ permalink: /about-us/college-staff/organisation-chart/
 description: ""
 third_nav_title: College Staff
 ---
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| John     | Doe      | Male     |
-| Mary     | Smith    | Female   |
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-
-
-
-
 ### School Leaders
 | Staff Name | Designation | Email Address |
-|------------| -------- | -------- |
-|Mr Tham Kine Thong|Principal|sajc@moe.edu.sg|
-|Mr Ang Kheng San Cecil|Deputy Principal (Academic)|sajc@moe.edu.sg
-|Mrs Whang Ai Lee|Deputy Principal (Academic)|sajc@moe.edu.sg
-|Mr Chan Kwang How Bernard|Deputy Principal (Admin)|sajc@moe.edu.sg
+| -------- | -------- | -------- |
+| Mr Tham Kine Thong     | Principal      | sajc@moe.edu.sg     |
+| Mr Ang Kheng San Cecil     | Deputy Principal (Academic)    | sajc@moe.edu.sg   
+| Mrs Whang Ai Lee     | Deputy Principal (Academic)     | sajc@moe.edu.sg     |
+| Mr Chan Kwang How Bernard     | Deputy Principal (Admin)     | sajc@moe.edu.sg     |
 
 ### Economics Department
 | Staff Name | Designation | Email Address |
 |------------| -------- | -------- |
-|Ms Sng Yin Hui Joan|HOD/Economics|sng_yin_hui_joan@moe.edu.sg
-|Ms Poh Shi Yin Lynette|School Staff Developer|poh_shi_yin_lynette@moe.edu.sg
-|Mr Lim Mong Khai Melvin|LH/Economics|lim_mong_khai_melvin@moe.edu.sg
-|Mr Peh Bock Kiat|Assistant Year Head 1|peh_bock_kiat@moe.edu.sg
+|Ms Sng Yin Hui Joan|HOD/Economics|sng_yin_hui_joan@moe.edu.sg|
+|Ms Poh Shi Yin Lynette|School Staff Developer|poh_shi_yin_lynette@moe.edu.sg|
+|Mr Lim Mong Khai Melvin|LH/Economics|lim_mong_khai_melvin@moe.edu.sg|
+|Mr Peh Bock Kiat|Assistant Year Head 1|peh_bock_kiat@moe.edu.sg|
 
 #### Teachers
 | Staff Name | Email Address |
 |------------|-------- |
-|Ms Cher Cai Wei Theresa|cher_cai_wei_theresa@moe.edu.sg
-|Mr Chua Chun Lin Lyndon|chua_chun_lin_lyndon@moe.edu.sg
-|Ms Cynthia Lim Ai Lian|cynthia_lim_ai_lian@moe.edu.sg
-|Ms Jackina d/o Sultan Athaham|jackina_sultan_athaham@moe.edu.sg
-|Mr Ko Wei En, Wayne|ko_wei_en_wayne@moe.edu.sg
-|Ms Lee Jia Yi|lee_jia_yi_a@moe.edu.sg
-|Mrs Lim-Wong Yingyi|wong_yingyi@moe.edu.sg
-|Ms Loh Jia Hui|loh_jia_hui@moe.edu.sg
-|Ms Teres Lim Yan Ling|teres_lim_yan_ling@moe.edu.sg
-|Mr Wee Lee Meng Lester|wee_lee_meng_lester@moe.edu.sg
-|Ms Wong Sook Yee|wong_sook_yee@moe.edu.sg
-|Ms Yap Hwee Len|yap_hwee_len@moe.edu.sg
+|Ms Cher Cai Wei Theresa|cher_cai_wei_theresa@moe.edu.sg|
+|Mr Chua Chun Lin Lyndon|chua_chun_lin_lyndon@moe.edu.sg|
+|Ms Cynthia Lim Ai Lian|cynthia_lim_ai_lian@moe.edu.sg|
+|Ms Jackina d/o Sultan Athaham|jackina_sultan_athaham@moe.edu.sg|
+|Mr Ko Wei En, Wayne|ko_wei_en_wayne@moe.edu.sg|
+|Ms Lee Jia Yi|lee_jia_yi_a@moe.edu.sg|
+|Mrs Lim-Wong Yingyi|wong_yingyi@moe.edu.sg|
+|Ms Loh Jia Hui|loh_jia_hui@moe.edu.sg|
+|Ms Teres Lim Yan Ling|teres_lim_yan_ling@moe.edu.sg|
+|Mr Wee Lee Meng Lester|wee_lee_meng_lester@moe.edu.sg|
+|Ms Wong Sook Yee|wong_sook_yee@moe.edu.sg|
+|Ms Yap Hwee Len|yap_hwee_len@moe.edu.sg|
 
 ### Humanities Department
 | Staff Name | Designation | Email Address |
 |------------| -------- | -------- |
-|Mr William Yeo Kok San|HOD/Humanities|yeo_kok_san_william@moe.edu.sg
-|Ms Ng Geok Peng|SH/Humanities|ng_geok_peng@moe.edu.sg
-|Mr Keith Lee Kum Chuen|SH/Citizenship Education|keith_lee_kum_chuen@moe.edu.sg
+|Mr William Yeo Kok San|HOD/Humanities|yeo_kok_san_william@moe.edu.sg|
+|Ms Ng Geok Peng|SH/Humanities|ng_geok_peng@moe.edu.sg|
+|Mr Keith Lee Kum Chuen|SH/Citizenship |Education|keith_lee_kum_chuen@moe.edu.sg|
 
 #### Teachers
 | Staff Name | Email Address |
 |------------|-------- |
-|Mdm Lee Pei Lin Corinne|lee_pei_lin_corinne@moe.edu.sg
-|Ms Lim Xiao Qi|xiao_qi_lim@moe.edu.sg
-|Ms Loh Ke Yun|loh_ke_yun@moe.edu.sg
-|Mdm Nurhabibah Bte Md Yusope|nurhabibah_mohamed_yusope@moe.edu.sg
-|Dr Somali Paul|somali_paul@moe.edu.sg
+|Mdm Lee Pei Lin Corinne|lee_pei_lin_corinne@moe.edu.sg|
+|Ms Lim Xiao Qi|xiao_qi_lim@moe.edu.sg|
+|Ms Loh Ke Yun|loh_ke_yun@moe.edu.sg|
+|Mdm Nurhabibah Bte Md Yusope|nurhabibah_mohamed_yusope@moe.edu.sg|
+|Dr Somali Paul|somali_paul@moe.edu.sg|
 
 ### English Department
 | Staff Name | Designation | Email Address |
 |------------| -------- | -------- |
-|Mdm Wong Sui Lee|HOD/English Language |wong_sui_lee@moe.edu.sg
-|Mr Sashikumar Jaichandra|HOD/Citizenship Education|sashikumar_jaichandra@moe.edu.sg
-|Ms Sin Mei Chuen Caroline|LH/General Paper 1|sin_mei_chuen_caroline@moe.edu.sg
-|Ms Lim Hsiao Yien|LH/General Paper 2|lim_hsiao_yien@moe.edu.sg
-|Mr Ma Huaqi|SH/Service Learning (Covering)|ma_huaqi@moe.edu.sg
-|Mr Mohammed Azlan Ab Malek|SH/Student Leadership 2 (Covering)|mohammed_azlan_ab_malek@moe.edu.sg
-|Ms Priscilla Lily Samuel|SH/Publicity, Communications & Outreach (Covering)|priscilla_lily_samuel@moe.edu.sg
-|Ms Rachael Goh Cai Yun|SH/Student Leadership|goh_cai_yun_rachael@moe.edu.sg
-|Ms Khoo Lilin|Lead Teacher|khoo_lilin@moe.edu.sg
-|Ms Wong Wei Lin Julia|Lead Teacher|wong_wei_lin_julia@moe.edu.sg
+|Mdm Wong Sui Lee|HOD/English Language |wong_sui_lee@moe.edu.sg|
+|Mr Sashikumar Jaichandra|HOD/Citizenship |Education|sashikumar_jaichandra@moe.edu.sg|
+|Ms Sin Mei Chuen Caroline|LH/General Paper |1|sin_mei_chuen_caroline@moe.edu.sg|
+|Ms Lim Hsiao Yien|LH/General Paper 2|lim_hsiao_yien@moe.edu.sg|
+|Mr Ma Huaqi|SH/Service Learning (Covering)|ma_huaqi@moe.edu.sg|
+|Mr Mohammed Azlan Ab Malek|SH/Student Leadership 2 |(Covering)|mohammed_azlan_ab_malek@moe.edu.sg|
+|Ms Priscilla Lily Samuel|SH/Publicity, Communications & Outreach |(Covering)|priscilla_lily_samuel@moe.edu.sg|
+|Ms Rachael Goh Cai Yun|SH/Student |Leadership|goh_cai_yun_rachael@moe.edu.sg|
+|Ms Khoo Lilin|Lead Teacher|khoo_lilin@moe.edu.sg|
+|Ms Wong Wei Lin Julia|Lead Teacher|wong_wei_lin_julia@moe.edu.sg|
 
 #### Teachers
 | Staff Name | Email Address |
 |------------|-------- |
-|Ms Cheng Shi Yun|cheng_shi_yun@moe.edu.sg
-|Ms Chiam Qian Zhen Alethea|chiam_qian_zhen_alethea@moe.edu.sg
+|Ms Cheng Shi Yun|cheng_shi_yun@moe.edu.sg|
+|Ms Chiam Qian Zhen Alethea|chiam_qian_zhen_alethea@moe.edu.sg|
 |Ms Hema Malini|hema_malini@moe.edu.sg
 |Ms Jesulyn Lim|lim_shi_en_jesulyn@moe.edu.sg
 |Mr Lee Wen Feng Felix|wen_feng_felix_lee@moe.edu.sg
