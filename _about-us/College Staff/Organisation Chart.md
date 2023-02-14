@@ -22,7 +22,7 @@ third_nav_title: College Staff
 
 #### Teachers
 | Staff Name | Email Address |
-|------------|-------- |
+| -------- | -------- |
 |Ms Cher Cai Wei Theresa|cher_cai_wei_theresa@moe.edu.sg|
 |Mr Chua Chun Lin Lyndon|chua_chun_lin_lyndon@moe.edu.sg|
 |Ms Cynthia Lim Ai Lian|cynthia_lim_ai_lian@moe.edu.sg|
