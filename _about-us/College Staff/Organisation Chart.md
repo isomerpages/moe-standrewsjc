@@ -136,7 +136,7 @@ third_nav_title: College Staff
 #### Teachers
 | Staff Name | Email Address |
 |------------|-------- |
-|Mr Chai Ming Long|hai_ming_long@moe.edu.sg
+|Mr Chai Ming Long|chai_ming_long@moe.edu.sg
 |Mr Gabriel Tang Jia Liang|gabriel_tang_jia_liang@moe.edu.sg
 |Mr Lim Zi Qi|lim_zi_qi@moe.edu.sg
 |Mr Lin Jiahao Aaron|lin_jiahaoaaron@moe.edu.sg
