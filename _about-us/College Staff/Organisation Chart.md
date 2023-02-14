@@ -4,6 +4,22 @@ permalink: /about-us/college-staff/organisation-chart/
 description: ""
 third_nav_title: College Staff
 ---
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| John     | Doe      | Male     |
+| Mary     | Smith    | Female   |
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
+
+
+
 ### School Leaders
 | Staff Name | Designation | Email Address |
 |------------| -------- | -------- |
