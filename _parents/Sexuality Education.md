@@ -76,4 +76,4 @@ For parents without the Parents Gateway, you can fill in the form via [https://
 
 The completed form is to be submitted by<strong> 10/03/2023</strong>.</div>
 
-<a align="justify">Parents can contact the school at 6285 7008 (Mr. Jae Chia ext 264) for discussion or to seek clarification about the school’s Sexuality Education programme. </a>
+<a align="justify">Parents can contact the school at 6285 7008 (Mr Jae Chia ext 264) for discussion or to seek clarification about the school’s Sexuality Education programme. </a>
