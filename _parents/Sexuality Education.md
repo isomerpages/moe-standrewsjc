@@ -56,14 +56,3 @@ description: ""
 </ol>
 </ol>
 </div>
-<div>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.</div>
-<div><a href="https://standrewsjc.moe.edu.sg/qql/slot/u674/Parents/SEd/2023_Info_on_SEd_SAJC.pdf" target="_blank">Click here for an Overview of St Andrew's Junior College's Sexuality Education Programme for 2023.</a></div>
-<div><strong>INFORMATION FOR PARENTS</strong></div>
-<div>Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;</div>
-<div>Parents who wish to opt their children out of the&nbsp;<strong><u>Sexuality Education lessons</u></strong>&nbsp;need to complete an opt-out form. More information is available on the letter sent out via Parents Gateway.</div>
-<div>For parents without the Parents Gateway, you can fill in the form via&nbsp;<a href="https://go.gov.sg/sajc-sed-opt-out-2023" target="_blank">https://go.gov.sg/sajc-sed-opt-out-2023</a></div>
-<div>The completed form is to be submitted by&nbsp;by&nbsp;<strong>10/03/2023.</strong></div>
-<div>Parents who wish to opt their children out of the<strong>&nbsp;<u>eTeens programme</u></strong>&nbsp;need to complete an opt-out form via Parents Gateway and Form sg. More information is available on the letter sent out via Parents Gateway.</div>
-<div>For parents without the Parents Gateway, you can fill in the form via&nbsp;<a href="https://go.gov.sg/sajc-eteens-opt-out-2023" target="_blank">https://go.gov.sg/sajc-eteens-opt-out-2023</a></div>
-<div>The completed form is to be submitted by&nbsp;<strong>10/03/2023</strong>.</div>
-<div>Parents can contact the school at 6285 7008 (Mr. Jae Chia ext 264) for discussion or to seek clarification about the school&rsquo;s Sexuality Education programme.</div>
