@@ -67,13 +67,13 @@ Click here for an Overview of St Andrew's Junior College's Sexuality Education P
 <p align="justify">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. More information is available on the letter sent out via Parents Gateway.  </p>
 
 For parents without the Parents Gateway, you can fill in the form via [https://go.gov.sg/sajc-sed-opt-out-2023](https://go.gov.sg/sajc-sed-opt-out-2023)
-<div>
-The completed form is to be submitted by<strong> 10/03/2023</strong>.</div>
 
-<a align="justify">Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form via Parents Gateway and Form sg. More information is available on the letter sent out via Parents Gateway. </a>
+The completed form is to be submitted by<strong> 10/03/2023.</strong>
+
+<p align="justify">Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form via Parents Gateway and Form sg. More information is available on the letter sent out via Parents Gateway. </p>
 
 For parents without the Parents Gateway, you can fill in the form via [https://go.gov.sg/sajc-eteens-opt-out-2023](https://go.gov.sg/sajc-eteens-opt-out-2023)
 
 The completed form is to be submitted by<strong> 10/03/2023.</strong>
 
-<a align="justify">Parents can contact the school at 6285 7008 (Mr Jae Chia ext 264) for discussion or to seek clarification about the school’s Sexuality Education programme. </a>
+<p align="justify">Parents can contact the school at 6285 7008 (Mr Jae Chia ext 264) for discussion or to seek clarification about the school’s Sexuality Education programme. </p>
