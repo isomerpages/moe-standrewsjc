@@ -19,7 +19,7 @@ description: ""
 <img src="/images/hall4.jpg">
 <p align="justify">The SA Hall is proud to be the new addition to St Andrew&rsquo;s Village with its rich culture and heritage that goes back 150 years ago. All Saints of the SA Hall will endeavour to keep the flag of St Andrew&rsquo;s soaring high both here and in every corner of the world!</p>
 <p><strong>Staff of SA Hall</strong></p>
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="1">
 <tbody>
 <tr>
 <td>
