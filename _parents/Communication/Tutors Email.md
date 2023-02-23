@@ -34,10 +34,7 @@ third_nav_title: Communication
 <td width="208">Ms Chan Wai Yee</td>
 <td width="301"><a href="mailto:chan_wai_yee@moe.edu.sg" target="">chan_wai_yee@moe.edu.sg</a></td>
 </tr>
-<tr>
-<td width="208">Ms Charis Lee Jing Ying</td>
-<td width="301"><a href="mailto:lee_jing_ying@moe.edu.sg" target="">lee_jing_ying@moe.edu.sg</a></td>
-</tr>
+
 <tr>
 <td width="208">Mr Chay Wai Sum</td>
 <td width="301"><a href="mailto:chay_wai_sum@moe.edu.sg" target="">chay_wai_sum@moe.edu.sg</a></td>
