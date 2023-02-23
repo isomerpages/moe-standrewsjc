@@ -492,6 +492,10 @@ third_nav_title: Communication
 <td width="208">Mr Yeo Chee Keong</td>
 <td width="301"><a href="mailto:yeo_chee_keong@moe.edu.sg" target="">yeo_chee_keong@moe.edu.sg</a></td>
 </tr>
+	<tr>
+<td width="208">Mdm Yeo Hui Ching Geraldine</td>
+<td width="301"><a href="mailto:yeo_hui_ching@moe.edu.sg" target="">yeo_hui_ching@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td width="208">Mr Yeo Jia Tian</td>
 <td width="301"><a href="mailto:yeo_jia_tian@moe.edu.sg" target="">yeo_jia_tian@moe.edu.sg</a></td>
