@@ -5,7 +5,7 @@ description: ""
 third_nav_title: College Staff
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Club & Society</label>
+	<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><H4>Club & Society</H4></label>
 <div>
 <table>
 <tbody>
@@ -22,7 +22,7 @@ third_nav_title: College Staff
 </tr>
 <tr>
 <td>
-<p>AVA &amp; PA Club</p>
+<p>AVA & PA Club</p>
 </td>
 <td>
 <p>Mr Fong Choo Wah<br /><a href="mailto:fong_choo_wah@moe.edu.sg">fong_choo_wah@moe.edu.sg</a></p>
@@ -53,23 +53,13 @@ third_nav_title: College Staff
 <p>Maths</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Interact Club</p>
-</td>
-<td>
-<p>Ms Chan Siew Cheng, Regina<br /><a href="mailto:chan_siew_cheng@moe.edu.sg">chan_siew_cheng@moe.edu.sg</a></p>
-</td>
-<td>
-<p>Maths</p>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Infocomm Club</p>
 </td>
 <td>
-<p>Mr Lin Wenquan<br /><a href="mailto:lin_wenquan@moe.edu.sg">lin_wenquan@moe.edu.sg</a></p>
+<p>Mr Beesoony Uttam Kumar<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg">beesoony_uttam_kumar@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Phy</p>
