@@ -4,8 +4,8 @@ permalink: /ccas/team-sajc/ten-pin-bowling/
 description: ""
 third_nav_title: Team SAJC
 ---
-<p>The SAJC Ten-pin Bowling Team strives to instil commitment, perseverance and teamwork in our players. This was prominently displayed during the annual National School Games &lsquo;A&rsquo; Division Bowling Championships 2021, where our Girls team was placed 3rd overall, and the Boys team was placed 4th! During our training sessions, we work on improving our techniques, and play games regularly to foster strong team spirit and camaraderie amongst our players.</p>
-<p>Our training days are on Wednesday and Friday at SAFRA (Toa Payoh). If you have a passion for Bowling and wish to join a close-knit family, the SAJC Bowling Team welcomes you!</p>
+<p align="justify">The SAJC Ten-pin Bowling Team strives to instil commitment, perseverance and teamwork in our players. This was prominently displayed during the annual National School Games &lsquo;A&rsquo; Division Bowling Championships 2021, where our Girls team was placed 3rd overall, and the Boys team was placed 4th! During our training sessions, we work on improving our techniques, and play games regularly to foster strong team spirit and camaraderie amongst our players.</p>
+<p align="justify">Our training days are on Wednesday and Friday at SAFRA (Toa Payoh). If you have a passion for Bowling and wish to join a close-knit family, the SAJC Bowling Team welcomes you!</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
