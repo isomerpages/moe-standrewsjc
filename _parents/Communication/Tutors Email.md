@@ -238,9 +238,14 @@ third_nav_title: Communication
 <td width="301"><a href="mailto:lin_wenquan@moe.edu.sg" target="">lin_wenquan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td width="208">Ms Loh Ke Yun</td>
-<td width="301"><a href="mailto:loh_ke_yun@moe.edu.sg" target="">loh_ke_yun@moe.edu.sg</a></td>
+<td width="208">Ms Loh Jia Hui</td>
+<td width="301"><a href="mailto:	loh_jia_hui@moe.edu.sg" target="">	loh_jia_hui@moe.edu.sg</a></td>
 </tr>
+<tr>
+<td width="208">Mdm Loh Lih Yeh</td>
+<td width="301"><a href="mailto:loh_lih_yeh@moe.edu.sg" target="">loh_lih_yeh@moe.edu.sg</a></td>
+</tr>	
+	
 <tr>
 <td width="208">Mdm Loh Lih Yeh</td>
 <td width="301"><a href="mailto:loh_lih_yeh@moe.edu.sg" target="">loh_lih_yeh@moe.edu.sg</a></td>
