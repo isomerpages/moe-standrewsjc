@@ -2,5 +2,6 @@ collections:
   back-up:
     output: true
     order:
+      - Interact Club.md
       - Canoeing.md
       - Direct School Admission (DSA) – 2023 Intake.md
