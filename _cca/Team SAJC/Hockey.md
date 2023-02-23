@@ -4,8 +4,8 @@ permalink: /ccas/team-sajc/hockey/
 description: ""
 third_nav_title: Team SAJC
 ---
-<p>At SAJC Hockey, our shared passion for the sport is both invigorating and infectious! The relentless drills that we practice during each training session allow us to hone our skills while forging stronger bonds and building communication skills &mdash; the perfect balance to help relieve stress from academics while staying fit!</p>
-<p>We train twice a week on Wednesdays and Fridays for about two hours per session. No prior experience is needed, just your passion and determination!</p>
+<p align="justify">At SAJC Hockey, our shared passion for the sport is both invigorating and infectious! The relentless drills that we practice during each training session allow us to hone our skills while forging stronger bonds and building communication skills &mdash; the perfect balance to help relieve stress from academics while staying fit!</p>
+<p align="justify">We train twice a week on Wednesdays and Fridays for about two hours per session. No prior experience is needed, just your passion and determination!</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
