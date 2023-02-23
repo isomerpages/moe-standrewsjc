@@ -158,6 +158,10 @@ third_nav_title: Communication
 <td width="301"><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target="">koh_eng_chye_frederick@moe.edu.sg</a></td>
 </tr>
 <tr>
+<td width="208">Ms Kristina Ming Ming Chandran</td>
+<td width="301"><a href="mailto:	kristina_chandran_ming_ming@moe.edu.sg" target="">	kristina_chandran_ming_ming@moe.edu.sg</a></td>
+</tr>	
+<tr>
 <td width="208">Ms Kwan Pei Sze Julia</td>
 <td width="301"><a href="mailto:kwan_pei_sze_julia@moe.edu.sg" target="">kwan_pei_sze_julia@moe.edu.sg</a></td>
 </tr>
