@@ -2,13 +2,13 @@ collections:
   students:
     output: true
     order:
-      - Student Handbook.md
       - Students.md
       - Scholarship and Financial Matters.md
       - Calendar of Events and Important Dates.md
+      - Student Handbook.md
+      - Useful Links/.keep
       - Useful Links/Useful Links.md
       - Useful Links/University Admissions.md
       - Useful Links/Project Work Schedule.md
-      - Useful Links/.keep
       - No one is Here By Chance — Saints Inspire.md
       - Examination Timetable.md
