@@ -118,14 +118,16 @@ third_nav_title: Communication
 <td width="301"><a href="mailto:ganapathy_rajagopalan@moe.edu.sg" target="">ganapathy_rajagopalan@moe.edu.sg</a></td>
 </tr>
 
-<tr>
-<td width="208">Mr Isaac Ng Wee Lip</td>
-<td width="301"><a href="mailto:isaac_ng@moe.edu.sg" target="">	isaac_ng@moe.edu.sg</a></td>
-</tr>
+
 	
 	<tr>
 <td width="208">Ms Hema Malini</td>
 <td width="301"><a href="mailto:hema_malini@moe.edu.sg" target="">hema_malini@moe.edu.sg</a></td>
+</tr>
+	
+	<tr>
+<td width="208">Mr Isaac Ng Wee Lip</td>
+<td width="301"><a href="mailto:isaac_ng@moe.edu.sg" target="">	isaac_ng@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td width="208">Ms Jackina Sultan Athaham</td>
