@@ -13,34 +13,34 @@ third_nav_title: Communication
 </tr>
 <tr>
 <td>23A01</td>
-<td>Ms Lim Xiao Qi</td>
-<td><em><a href="mailto:xiao_qi_lim@moe.edu.sg" target="">xiao_qi_lim@moe.edu.sg</a></em></td>
+<td>Dr Somali Paul</td>
+<td><em><a href="mailto:somali_paul@moe.edu.sg" target="">somali_paul@moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td>23A02</td>
-<td>Mr Ma Hua Qi</td>
-<td><em><a href="mailto:ma_huaqi@moe.edu.sg" target="">ma_huaqi @moe.edu.sg</a></em></td>
+<td>Ms Melissa Lim Singh</td>
+<td><em><a href="mailto:melissa_lim_singh@moe.edu.sg" target="">melissa_lim_singh@moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td>23A03</td>
-<td>Mdm Jackina D/O Sultan Athaham</td>
-<td><a href="mailto:jackina_sultan_athaham@moe.edu.sg"><em>jackina_sultan_athah am@moe.edu.sg</em></a></td>
+<td>Ms Loh Ke Yun</td>
+<td><a href="mailto:loh_ke_yun@moe.edu.sg"><em>loh_ke_yun@moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td>23A04</td>
-<td>Ms Ng Hui Lin Felicia</td>
-<td><em><a href="mailto:ng_hui_lin_felicia@moe.edu.sg">ng_hui_lin_felicia @moe.edu.sg</a></em></td>
+<td>Mr Lin Jiahao Aaron</td>
+<td><em><a href="mailto:lin_jiahaoaaron@moe.edu.sg">lin_jiahaoaaron@moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td>23A05</td>
-<td>Mr Mohammed Azlan bin Ab Malek</td>
-<td><em><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg" target="">mohammed_azlan_ ab_malek@moe.edu.sg</a></em></td>
+<td>Mr Wee Lee Meng Lester</td>
+<td><em><a href="mailto:wee_lee_meng_lester@moe.edu.sg" target="">	wee_lee_meng_lester@moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td>23A06</td>
-<td>Ms Salome Choa Jia Xin</td>
+<td>Ms Soh Cai Wen Noelle</td>
 <td>
-<div><em><a href="mailto:salome_choa_jia_xin@moe.edu.sg" target="">salome_choa_jia_xin @moe.edu.sg</a></em></div>
+<div><em><a href="mailto	soh_cai_wen_noelle@moe.edu.sg" target="">	soh_cai_wen_noelle@moe.edu.sg</a></em></div>
 </td>
 </tr>
 
