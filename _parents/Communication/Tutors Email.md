@@ -389,6 +389,10 @@ third_nav_title: Communication
 <td width="208">Ms Sunarfa Supaah</td>
 <td width="301"><a href="mailto:sunarfa_supaah@moe.edu.sg" target="">sunarfa_supaah@moe.edu.sg</a></td>
 </tr>
+	<tr>
+<td width="208">Mr Suresh s/o Nadarajan</td>
+<td width="301"><a href="mailto:	suresh_nadarajan@moe.edu.sg" target="">	suresh_nadarajan@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td width="208">Mr Tan Jin Xing Andrew</td>
 <td width="301"><a href="mailto:tan_jin_xing_andrew@moe.edu.sg" target="">tan_jin_xing_andrew@moe.edu.sg</a></td>
