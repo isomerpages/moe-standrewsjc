@@ -125,7 +125,7 @@ Mrs Wee-Wong Wei Lin Julia<br /><a href="mailto:wong_wei_lin_julia@moe.edu.sg">w
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Performing Arts</label>
+	<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><H4>Performing Arts</H4></label>
 <div>
 <table>
 <tbody>
@@ -167,7 +167,7 @@ Mrs Wee-Wong Wei Lin Julia<br /><a href="mailto:wong_wei_lin_julia@moe.edu.sg">w
 <p>Concert Band</p>
 </td>
 <td>
-<p>Ms Eve Ong<br /><a href="mailto:ong_yew_yi_eve@moe.edu.sg">ong_yew_yi_eve@moe.edu.sg</a></p>
+<p>Ms Jesulyn Lim<br /><a href="mailto:lim_shi_en_jesulyn@moe.edu.sg">lim_shi_en_jesulyn@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Humanities</p>
