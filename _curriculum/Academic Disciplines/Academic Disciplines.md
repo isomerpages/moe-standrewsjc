@@ -13,7 +13,7 @@ third_nav_title: Academic Disciplines
 </ol>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Language</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Languages</label>
 <div>
 <ol>
 <li><a href="/curriculum/academic-disciplines/languages/mother-tongue" target="">Mother Tongue</a></li>
