@@ -368,6 +368,11 @@ third_nav_title: Communication
 <td width="208">Ms Sin Mei Chuen Caroline</td>
 <td width="301"><a href="mailto:sin_mei_chuen_caroline@moe.edu.sg" target="">sin_mei_chuen_caroline@moe.edu.sg</a></td>
 </tr>
+	
+	<tr>
+<td width="208">Ms Sng Yin Hui Joan</td>
+<td width="301"><a href="mailto:sng_yin_hui_joan@moe.edu.sg" target="">sng_yin_hui_joan@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td width="208">Ms Soh Cai Wen Noelle</td>
 <td width="301"><a href="mailto:soh_cai_wen_noelle@moe.edu.sg" target="">soh_cai_wen_noelle@moe.edu.sg</a></td>
