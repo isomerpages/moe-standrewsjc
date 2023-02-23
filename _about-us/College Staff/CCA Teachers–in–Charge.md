@@ -378,7 +378,7 @@ Dr Mohamed Pitchay Gani<br /><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">moh
 <p>Rugby</p>
 </td>
 <td>
-<p>Mr Mohammed Azlan<br /><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg">mohammed_azlan_ab_malek@moe.edu.sg</a></p>
+<p>Mr Lim Zi Qi<br /><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></p>
 </td>
 <td>
 <p>English</p>
@@ -411,7 +411,7 @@ Dr Mohamed Pitchay Gani<br /><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">moh
 <p>Touch Rugby</p>
 </td>
 <td>
-<p>Mr Jason Ong<br /><a href="mailto:jason_ong_kah_siang@moe.edu.sg">jason_ong_kah_siang@moe.edu.sg</a></p>
+<p>Mr Jason Ong Kah Siang<br /><a href="mailto:jason_ong_kah_siang@moe.edu.sg">jason_ong_kah_siang@moe.edu.sg</a></p>
 </td>
 <td>
 <p>PE</p>
