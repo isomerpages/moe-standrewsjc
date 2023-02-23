@@ -286,7 +286,7 @@ Dr Mohamed Pitchay Gani<br /><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">moh
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Sports CCA</label>
+	<li><input id="accordion4" type="checkbox" /> <label for="accordion4"><H4>Sports CCA</H4></label>
 <div>
 <table>
 <tbody>
@@ -328,17 +328,7 @@ Dr Mohamed Pitchay Gani<br /><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">moh
 <td>Ms Wong Weishan<br /><a href="mailto:wong_weishan@moe.edu.sg">wong_weishan@moe.edu.sg</a></td>
 <td>Chem<br /><br /></td>
 </tr>
-<tr>
-<td>
-<p>Canoeing</p>
-</td>
-<td>
-<p>Mr Kieu Chin Wah, Bryan<br /><a href="mailto:kieu_chin_wah@moe.edu.sg">kieu_chin_wah@moe.edu.sg</a></p>
-</td>
-<td>
-<p>PE</p>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Football (Boys)</p>
