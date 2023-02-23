@@ -6,6 +6,7 @@ third_nav_title: Communication
 ---
 <table>
 <tbody>
+<tr>
 <td width="208"><strong>Staff Name</strong></td>
 <td width="301"><strong>Staff Email</strong></td>
 </tr>
