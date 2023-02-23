@@ -85,13 +85,10 @@ third_nav_title: Communication
 <td width="301"><a href="mailto:chua_chun_lin_lyndon@moe.edu.sg" target="">chua_chun_lin_lyndon@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td width="208">Mrs Chua-Tan Hwee Bin</td>
-<td width="301"><a href="mailto:tan_hwee_bin@moe.edu.sg" target="">tan_hwee_bin@moe.edu.sg</a></td>
+<td width="208">Ms Cynthia Lim Ai Lian</td>
+<td width="301"><a href="mailto:cynthia_lim_ai_lian@moe.edu.sg" target="">cynthia_lim_ai_lian@moe.edu.sg</a></td>
 </tr>
-<tr>
-<td width="208">Ms Dai Qi</td>
-<td width="301"><a href="mailto:dai_qi@moe.edu.sg" target="">dai_qi@moe.edu.sg</a></td>
-</tr>
+
 <tr>
 <td width="208">Ms Du Jiesi</td>
 <td width="301"><a href="mailto:du_jiesi@moe.edu.sg" target="">du_jiesi@moe.edu.sg</a></td>
@@ -120,10 +117,7 @@ third_nav_title: Communication
 <td width="208">Mr Ganapathy Rajagopalan</td>
 <td width="301"><a href="mailto:ganapathy_rajagopalan@moe.edu.sg" target="">ganapathy_rajagopalan@moe.edu.sg</a></td>
 </tr>
-<tr>
-<td width="208">Ms Gupta Rinie</td>
-<td width="301"><a href="mailto:gupta_rinie@moe.edu.sg" target="">gupta_rinie@moe.edu.sg</a></td>
-</tr>
+
 <tr>
 <td width="208">Ms Hema Malini</td>
 <td width="301"><a href="mailto:hema_malini@moe.edu.sg" target="">hema_malini@moe.edu.sg</a></td>
