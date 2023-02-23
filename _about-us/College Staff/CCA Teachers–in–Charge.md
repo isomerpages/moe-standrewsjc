@@ -62,7 +62,7 @@ third_nav_title: College Staff
 <p>Mr Beesoony Uttam Kumar<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg">beesoony_uttam_kumar@moe.edu.sg</a></p>
 </td>
 <td>
-<p>Phy</p>
+<p>Maths</p>
 </td>
 </tr>
 <tr>
