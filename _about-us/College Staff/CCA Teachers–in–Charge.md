@@ -178,7 +178,8 @@ Mrs Wee-Wong Wei Lin Julia<br /><a href="mailto:wong_wei_lin_julia@moe.edu.sg">w
 <p>Dance Society</p>
 </td>
 <td>
-<p>Mdm Teres Lim Yan Ling<br /><a href="mailto:teres_lim_yan_ling@moe.edu.sg">teres_lim_yan_ling@moe.edu.sg</a></p>
+<p>	
+Mr Yuen Wen Jun<br /><a href="mailto:yuen_wen_jun@moe.edu.sg">yuen_wen_jun@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Econs</p>
@@ -222,7 +223,8 @@ Mrs Wee-Wong Wei Lin Julia<br /><a href="mailto:wong_wei_lin_julia@moe.edu.sg">w
 <p>Malay Cultural Society</p>
 </td>
 <td>
-<p>Ms Noraidee Abdul Sukor<br /><a href="mailto:noraidee_abdul_sukor@moe.edu.sg">noraidee_abdul_sukor@moe.edu.sg</a></p>
+<p>	
+Dr Mohamed Pitchay Gani<br /><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_pitchay_gani_b@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Language</p>
