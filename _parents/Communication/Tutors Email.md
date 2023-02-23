@@ -447,6 +447,11 @@ third_nav_title: Communication
 <td width="208">Ms Wang Min</td>
 <td width="301"><a href="mailto:wang_min@moe.edu.sg" target="">wang_min@moe.edu.sg</a></td>
 </tr>
+	
+<tr>
+<td width="208">Mr Wee Lee Meng Lester</td>
+<td width="301"><a href="mailto:wee_lee_meng_lester@moe.edu.sg" target="">wee_lee_meng_lester@moe.edu.sg</a></td>
+</tr>
 <tr>
 <td width="208">Mr William Lee Choong How</td>
 <td width="301"><a href="mailto:william_lee_choong_how@moe.edu.sg" target="">william_lee_choong_how@moe.edu.sg</a></td>
