@@ -9,7 +9,7 @@ description: ""
 <p style="text-align: center;">They reap not where they laboured,<br />We reap what they hath sown;<br />Our harvest may be garnered,<br />By ages yet unknown.<br />The days of old hath dowered us<br />With gifts beyond all praise,<br />Our Father make us faithful<br />To serve the coming days.</p>
 <p style="text-align: center;">Before us and beside us,<br />Still holden by Thy Hand,<br />A cloud of unseen witness,<br />Our elder comrades stand;<br />One family unbroken,<br />We join with one acclaim;<br />One heart, one voice uplifting<br />To glorify Thy Name.</p>
 <h4><strong>Our School Song</strong></h4>
-
+<img src="/images/heri2.png">
 <iframe width="810" height="459" src="https://www.youtube.com/embed/h5r1-N7jOeI" title="2020 SAJC School Song MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="text-align: center;">Lives are in the making here,<br />Hearts are in the waking here,<br />Mighty undertaking here,<br />Up and On! Up and On!</p>
 <p style="text-align: center;">We are arming for the fight,<br />Pressing on with all our might,<br />Pluming wings for higher flight,<br />Up and On!</p>
