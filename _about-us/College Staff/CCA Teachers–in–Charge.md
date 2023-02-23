@@ -234,13 +234,13 @@ Dr Mohamed Pitchay Gani<br /><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">moh
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Student Leadership</label>
+	<li><input id="accordion3" type="checkbox" /> <label for="accordion3"><H4>Student Leadership</H4></label>
 <div>
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong>Student Leadership</strong></p>
+	<p><strong>Student Leadership</strong></p>
 </td>
 <td>
 <p><strong>Name</strong></p>
