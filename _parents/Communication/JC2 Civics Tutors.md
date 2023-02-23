@@ -46,12 +46,12 @@ third_nav_title: Communication
 <tr>
 <td>22A07</td>
 <td>Mdm Nurhabibah Bte Mohamed Yusope</td>
-<td><em><a href="mailto:ng_sue_ling@moe.edu.sg">ng_sue_ling @moe.edu.sg</a></em></td>
+<td><em><a href="mailto:	nurhabibah_mohamed_yusope@moe.edu.sg">nurhabibah_mohamed_yusope@moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td>22S01</td>
 <td>Mr Chua Cun Lin Lyndon</td>
-<td><a href="mailto:yuen_wen_jun@moe.edu.sg" target=""><em>yuen_wen_jun @moe.edu.sg</em></a></td>
+<td><a href="mailto:	chua_chun_lin_lyndon@moe.edu.sg" target=""><em>	chua_chun_lin_lyndon@moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td>22S02</td>
@@ -61,7 +61,7 @@ third_nav_title: Communication
 <tr>
 <td>22S03</td>
 <td>Mr Lim Zi Qi</td>
-<td><a href="mailto:du_jiesi@moe.edu.sg"><em>du_jiesi@moe.edu.sg</em></a><br />
+<td>
 <div><a href="mailto:lim_zi_qi@moe.edu.sg" target=""><em>lim_zi_qi@moe.edu.sg</em></a></div>
 </td>
 </tr>
@@ -73,7 +73,7 @@ third_nav_title: Communication
 <tr>
 <td>22S05</td>
 <td>Ms Theresa Cher</td>
-<td><em><a href="mailto:toh_shyh_yee@moe.edu.sg">toh_shyh_yee @moe.edu.sg</a></em></td>
+<td><em><a href="mailto:	cher_cai_wei_theresa@moe.edu.sg">	cher_cai_wei_theresa@moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td>22S06</td>
