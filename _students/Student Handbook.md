@@ -5,3 +5,4 @@ description: ""
 ---
 <a href="https://www.saintandrewsjunior.moe.edu.sg/" target="_blank" rel="noopener">Student Handbook 2023</a>
 
+[](/files/2023_SAJC_Student_Handbook_final.pdf)
