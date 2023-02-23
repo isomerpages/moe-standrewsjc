@@ -298,14 +298,6 @@ third_nav_title: Communication
 <td width="301"><a href="mailto:ng_wei_ying_abigail@moe.edu.sg" target="">ng_wei_ying_abigail@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td width="208">Ms Ng Yi Hui Eunice</td>
-<td width="301"><a href="mailto:ng_yi_hui_eunice@moe.edu.sg" target="">ng_yi_hui_eunice@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="208">Mdm Noraidee Binte Abdul Sukor</td>
-<td width="301"><a href="mailto:noraidee_abdul_sukor@moe.edu.sg" target="">noraidee_abdul_sukor@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td width="208">Mdm Nurhabibah Bte Md Yusope</td>
 <td width="301"><a href="mailto:nurhabibah_mohamed_yusope@moe.edu.sg" target="">nurhabibah_mohamed_yusope@moe.edu.sg</a></td>
 </tr>
