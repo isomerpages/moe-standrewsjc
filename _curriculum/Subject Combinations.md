@@ -3,7 +3,7 @@ title: Subject Combinations
 permalink: /curriculum/subject-combinations/
 description: ""
 ---
-<h4><strong><u>Course Information for 2022</u></strong></h4>
+<h4><strong><u>Course Information for 2023</u></strong></h4>
 <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"></blockquote>
 <ol>
 <li>The GCE A-Level requires students to take General Paper (GP), Project Work (PW) and Mother Tongue Language (MTL) at H1 level. Students are also required to offer 3H2 and 1H1 content-based subjects, at least one of which is a subject from a contrasting discipline.<br><br>
