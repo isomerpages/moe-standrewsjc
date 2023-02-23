@@ -21,7 +21,7 @@ description: ""
 <td style="width: 33.3333%;"><a href="https://kuochuanpresbyteriansec.moe.edu.sg/"><img src="/images/as3.jpg"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong><a href="https://anglicanhigh.moe.edu.sg//" target="_blank" rel="noopener">Anglican High School</a></strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong><a href="https://anglicanhigh.moe.edu.sg/" target="_blank" rel="noopener">Anglican High School</a></strong></td>
 <td style="width: 33.3333%; text-align: center;"><strong><a href="https://sthildassec.moe.edu.sg/" target="_blank" rel="noopener">St. Hilda's School</a></strong></td>
 <td style="width: 33.3333%; text-align: center;"><strong><a href="https://kuochuanpresbyteriansec.moe.edu.sg/" target="_blank" rel="noopener">Kuo Chuan Presbyterian Secondary School</a></strong></td>
 </tr>
