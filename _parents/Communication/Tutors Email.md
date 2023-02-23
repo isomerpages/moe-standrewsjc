@@ -262,6 +262,11 @@ third_nav_title: Communication
 <td width="301"><a href="mailto:melissa_lim_singh@moe.edu.sg" target="">melissa_lim_singh@moe.edu.sg</a></td>
 </tr>
 <tr>
+<td width="208">Dr Mohd Pitchay Gani B M A Aziz</td>
+<td width="301"><a href="mailto:	mohd_pitchay_gani_b@moe.edu.sg" target="">	mohd_pitchay_gani_b@moe.edu.sg</a></td>
+</tr>
+	
+	<tr>
 <td width="208">Mr Mohammed Azlan bin Ab Malek</td>
 <td width="301"><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg" target="">mohammed_azlan_ab_malek@moe.edu.sg</a></td>
 </tr>
