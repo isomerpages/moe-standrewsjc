@@ -23,6 +23,17 @@ links:
         url: /about-us/Admission-Information/admission-info/
       - title: " College Profile"
         url: /about-us/college-profile
+  - title: CCA
+    url: /ccas/student-leadership/
+    sublinks:
+      - title: Student Leadership
+        url: /ccas/student-leadership
+      - title: Team SAJC
+        url: /ccas/team-sajc
+      - title: Saints on Stage
+        url: /ccas/saints-on-stage
+      - title: Clubs & Societies
+        url: /ccas/clubs-n-societies
   - title: Curriculum
     url: /curriculum/educational-philosophy-and-framework
     sublinks:
@@ -58,14 +69,3 @@ links:
         url: /st-andrews-family/affiliated-schools
       - title: SA Hall
         url: /st-andrews-family/sa-hall
-  - title: CCA
-    url: /ccas/student-leadership/
-    sublinks:
-      - title: Student Leadership
-        url: /ccas/student-leadership
-      - title: Team SAJC
-        url: /ccas/team-sajc
-      - title: Saints on Stage
-        url: /ccas/saints-on-stage
-      - title: Clubs & Societies
-        url: /ccas/clubs-n-societies
