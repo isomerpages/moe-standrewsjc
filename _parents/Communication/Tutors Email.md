@@ -55,10 +55,7 @@ third_nav_title: Communication
 <td width="208">Mr Chia Chin Han</td>
 <td width="301"><a href="mailto:chia_chin_han@moe.edu.sg" target="">chia_chin_han@moe.edu.sg</a></td>
 </tr>
-<tr>
-<td width="208">Mr Brendon Chee</td>
-<td width="301"><a href="mailto:chee_yao_rong_brendon@moe.edu.sg" target="">chee_yao_rong_brendon@moe.edu.sg</a></td>
-</tr>
+
 <tr>
 <td width="208">Mr Chia Thien Huat Jae</td>
 <td width="301"><a href="mailto:chia_thien_huat@moe.edu.sg" target="">chia_thien_huat@moe.edu.sg</a></td>
@@ -78,6 +75,10 @@ third_nav_title: Communication
 <tr>
 <td width="208">Mr Chong Te Wei David</td>
 <td width="301"><a href="mailto:chong_te_wei@moe.edu.sg" target="">chong_te_wei@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td width="208">Mr Choong Zie Cheng</td>
+<td width="301"><a href="mailto:choong_zie_cheng@moe.edu.sg" target="">choong_zie_cheng@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td width="208">Mr Chua Chun Lin Lyndon</td>
