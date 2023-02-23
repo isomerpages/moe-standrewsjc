@@ -103,7 +103,8 @@ third_nav_title: College Staff
 <p>SAJC MUN</p>
 </td>
 <td>
-<p>Ms Lim Hsiao Yien<br /><a href="mailto:lim_hsiao_yien@moe.edu.sg">lim_hsiao_yien@moe.edu.sg</a></p>
+<p>	
+Mrs Wee-Wong Wei Lin Julia<br /><a href="mailto:wong_wei_lin_julia@moe.edu.sg">wong_wei_lin_julia@moe.edu.sg</a></p>
 </td>
 <td>
 <p>English</p>
