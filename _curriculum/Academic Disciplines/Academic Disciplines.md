@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Disciplines
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Knowledge Skill</label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Knowledge Skills</label>
 <div>
 <ol>
 <li><a href="/curriculum/academic-disciplines/knowledge-skills/project-work" target="">Project Work</a></li>
