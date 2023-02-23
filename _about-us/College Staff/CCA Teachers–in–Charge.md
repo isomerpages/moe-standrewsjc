@@ -170,7 +170,7 @@ Mrs Wee-Wong Wei Lin Julia<br /><a href="mailto:wong_wei_lin_julia@moe.edu.sg">w
 <p>Ms Jesulyn Lim<br /><a href="mailto:lim_shi_en_jesulyn@moe.edu.sg">lim_shi_en_jesulyn@moe.edu.sg</a></p>
 </td>
 <td>
-<p>Humanities</p>
+<p>English</p>
 </td>
 </tr>
 <tr>
