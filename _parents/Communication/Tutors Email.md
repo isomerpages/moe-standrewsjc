@@ -121,14 +121,11 @@ third_nav_title: Communication
 <td width="208">Ms Rachael Goh Cai Yun</td>
 <td width="301"><a href="goh_cai_yun_rachael@moe.edu.sg" target="">goh_cai_yun_rachael@moe.edu.sg</a></td>
 </tr>
-
-	
-	<tr>
+<tr>
 <td width="208">Ms Hema Malini</td>
 <td width="301"><a href="mailto:hema_malini@moe.edu.sg" target="">hema_malini@moe.edu.sg</a></td>
 </tr>
-	
-	<tr>
+<tr>
 <td width="208">Mr Isaac Ng Wee Lip</td>
 <td width="301"><a href="mailto:isaac_ng@moe.edu.sg" target="">	isaac_ng@moe.edu.sg</a></td>
 </tr>
@@ -164,7 +161,6 @@ third_nav_title: Communication
 <td width="208">Mr Koh Eng Chye Frederick</td>
 <td width="301"><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target="">koh_eng_chye_frederick@moe.edu.sg</a></td>
 </tr>
-
 <tr>
 <td width="208">Ms Kwan Pei Sze Julia</td>
 <td width="301"><a href="mailto:kwan_pei_sze_julia@moe.edu.sg" target="">kwan_pei_sze_julia@moe.edu.sg</a></td>
@@ -245,7 +241,6 @@ third_nav_title: Communication
 <td width="208">Mdm Loh Lih Yeh</td>
 <td width="301"><a href="mailto:loh_lih_yeh@moe.edu.sg" target="">loh_lih_yeh@moe.edu.sg</a></td>
 </tr>	
-	
 <tr>
 <td width="208">Mdm Loh Lih Yeh</td>
 <td width="301"><a href="mailto:loh_lih_yeh@moe.edu.sg" target="">loh_lih_yeh@moe.edu.sg</a></td>
@@ -270,8 +265,7 @@ third_nav_title: Communication
 <td width="208">Dr Mohd Pitchay Gani B M A Aziz</td>
 <td width="301"><a href="mailto:	mohd_pitchay_gani_b@moe.edu.sg" target="">	mohd_pitchay_gani_b@moe.edu.sg</a></td>
 </tr>
-	
-	<tr>
+<tr>
 <td width="208">Mr Mohammed Azlan bin Ab Malek</td>
 <td width="301"><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg" target="">mohammed_azlan_ab_malek@moe.edu.sg</a></td>
 </tr>
@@ -327,7 +321,6 @@ third_nav_title: Communication
 <td width="208">Mr Ong Kim Lin Scott</td>
 <td width="301"><a href="mailto:ong_kim_lin@moe.edu.sg" target="">ong_kim_lin@moe.edu.sg</a></td>
 </tr>
-
 <tr>
 <td width="208">Mr Peh Bock Kiat</td>
 <td width="301"><a href="mailto:peh_bock_kiat@moe.edu.sg" target="">peh_bock_kiat@moe.edu.sg</a></td>
@@ -372,14 +365,11 @@ third_nav_title: Communication
 <td width="208">Ms Sathya Bama</td>
 <td width="301"><a href="mailto:sathya_bama@moe.edu.sg" target="">sathya_bama@moe.edu.sg</a></td>
 </tr>
-
-
 <tr>
 <td width="208">Ms Sin Mei Chuen Caroline</td>
 <td width="301"><a href="mailto:sin_mei_chuen_caroline@moe.edu.sg" target="">sin_mei_chuen_caroline@moe.edu.sg</a></td>
 </tr>
-	
-	<tr>
+<tr>
 <td width="208">Ms Sng Yin Hui Joan</td>
 <td width="301"><a href="mailto:sng_yin_hui_joan@moe.edu.sg" target="">sng_yin_hui_joan@moe.edu.sg</a></td>
 </tr>
@@ -447,8 +437,6 @@ third_nav_title: Communication
 <td width="208">Ms Tong Shuqing</td>
 <td width="301"><a href="mailto:	tong_shuqing@moe.edu.sg" target="">	tong_shuqing@moe.edu.sg</a></td>
 </tr>
-	
-	
 <tr>
 <td width="208">Mdm Veena Bharwani</td>
 <td width="301"><a href="mailto:veena_bharwani@moe.edu.sg" target="">veena_bharwani@moe.edu.sg</a></td>
@@ -457,7 +445,6 @@ third_nav_title: Communication
 <td width="208">Ms Wang Min</td>
 <td width="301"><a href="mailto:wang_min@moe.edu.sg" target="">wang_min@moe.edu.sg</a></td>
 </tr>
-	
 <tr>
 <td width="208">Mr Wee Lee Meng Lester</td>
 <td width="301"><a href="mailto:wee_lee_meng_lester@moe.edu.sg" target="">wee_lee_meng_lester@moe.edu.sg</a></td>
@@ -514,7 +501,6 @@ third_nav_title: Communication
 <td width="208">Mr Yeo Kok San William</td>
 <td width="301"><a href="mailto:yeo_kok_san_william@moe.edu.sg" target="">yeo_kok_san_william@moe.edu.sg</a></td>
 </tr>
-
 <tr>
 <td width="208">Mr Yim Miao Ting Jessica</td>
 <td width="301"><a href="mailto:yim_miao_ting_jessica@moe.edu.sg" target="">yim_miao_ting_jessica@moe.edu.sg</a></td>
