@@ -37,12 +37,7 @@ description: ""
 <p><a href="mailto:lee_siew_cheng@schools.gov.sg" target="">Mdm Lee Siew Cheng Coleen</a></p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Matron</p>
-</td>
-<td>&nbsp;</td>
-</tr>
+
 <tr>
 <td>
 <p>Management Support Officer</p>
