@@ -6,4 +6,4 @@ third_nav_title: College Staff
 ---
 | Staff Name | Designation | Email Address |
 | -------- | -------- | -------- |
-|Mr Tham Kine Thong    | Principal     |
+|Mr Tham Kine Thong    | Principal     |sajc@moe.edu.sg|
