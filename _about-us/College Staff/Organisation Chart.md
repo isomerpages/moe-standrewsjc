@@ -17,9 +17,9 @@ third_nav_title: College Staff
 
 | Staff Name| Designation| Email Address|
 | -------- | -------- | -------- |
-| Ms Sng Yin Hui Joan   | HOD/Economics   | <a href="sajc@moe.edu.sg">sng_yin_hui_joan@moe.edu.sg</a>    |
-| Ms Poh Shi Yin Lynette   | School Staff Developer   |<a href="poh_shi_yin_lynette @moe.edu.sg">poh_shi_yin_lynette @moe.edu.sg
-</a>|
-| Mr Lim Mong Khai Melvin    |  LH/Economics     | <a href="lim_mong_khai_melvin @moe.edu.sg">lim_mong_khai_melvin @moe.edu.sg
-</a>    |
-| Mr Peh Bock Kiat    |  Assistant Year Head 1    | <a href="peh_bock_kiat @moe.edu.sg">peh_bock_kiat @moe.edu.sg</a>    |
+| Ms Sng Yin Hui Joan   | HOD/Economics   | <a href="sajc@moe.edu.sg">sng_yin_hui_joan@moe.edu.sg</a>| 
+| Ms Poh Shi Yin Lynette   | School Staff Developer   |<a href="poh_shi_yin_lynette @moe.edu.sg">poh_shi_yin_lynette @moe.edu.sg</a> |
+| Mr Lim Mong Khai Melvin    |  LH/Economics     | <a href="lim_mong_khai_melvin @moe.edu.sg">lim_mong_khai_melvin @moe.edu.sg</a> |
+| Mr Peh Bock Kiat    |  Assistant Year Head 1    | <a href="peh_bock_kiat @moe.edu.sg">peh_bock_kiat @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg
+</a> |
