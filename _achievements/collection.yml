@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Release of 2022 GCE A Levels Results.md
       - Achievements.md
       - CCA Accomplishments/.keep
       - CCA Accomplishments/CCA Accomplishments.md
