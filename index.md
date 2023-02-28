@@ -28,7 +28,7 @@ sections:
       title: Media Features
       button: Read More
       url: /sajc/news/media-features
-      image: /images/media2.jpeg
+      image: /images/media3.jpeg
       alt: Image alt text
   - resources:
       title: Announcements
