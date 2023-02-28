@@ -22,7 +22,7 @@ sections:
       title: Our Saints’ Achievements
       button: Read More
       url: /sajc/achievements
-      image: /images/academic.jpg
+      image: /images/achievement_2.jpg
       alt: Image alt text
   - infopic:
       title: Media Features
