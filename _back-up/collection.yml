@@ -2,6 +2,7 @@ collections:
   back-up:
     output: true
     order:
+      - Privacy Statement.md
       - Achievements1.md
       - The School's Continuity Plan for Haze Situation.md
       - Interact Club.md
