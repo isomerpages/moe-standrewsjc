@@ -30,10 +30,6 @@ sections:
       url: /sajc/news/media-features
       image: /images/media2.jpeg
       alt: Image alt text
-  - infobar:
-      title: Our Saints' Achievement
-      button: Read More
-      url: /sajc/achievements
   - resources:
       title: Announcements
       button: More Announcements
