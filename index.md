@@ -28,7 +28,7 @@ sections:
       title: Media Features
       button: Read More
       url: /sajc/news/media-features
-      image: /images/media.jpg
+      image: /images/media2.jpeg
       alt: Image alt text
   - infobar:
       title: Our Saints' Achievement
