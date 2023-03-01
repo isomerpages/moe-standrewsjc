@@ -357,10 +357,10 @@ third_nav_title: College Staff
 </td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/ed015.png"></td>
+<td style="width: 25%;"><img src="/images/ed020.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Mr Mohammed Azlan Ab Malek</strong></div>
-<div><em><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg" target="">mohammed_azlan_ ab_malek@moe.edu.sg</a></em></div>
+<div><strong>Mr Randy Gill</strong></div>
+<div><em><a href="mailto:randhir_singh@moe.edu.sg">randhir_singh @moe.edu.sg</a></em></div>
 </td>
 <td style="width: 25%;"><img src="/images/ed016.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Muthu Tamilselvan</strong>
