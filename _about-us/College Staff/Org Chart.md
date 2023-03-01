@@ -379,18 +379,7 @@ third_nav_title: College Staff
 <div><em><a href="mailto:ng_hui_lin_felicia@moe.edu.sg">ng_hui_lin_felicia @moe.edu.sg</a></em></div>
 </td>
 </tr>
-<tr>
-<td style="width: 25%;"><img src="/images/ed019.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Ms Priscilla Lily Samuel</strong></div>
-<div><em><a href="mailto:priscilla_lily_samuel@moe.edu.sg" target="">priscilla_lily_samuel @moe.edu.sg</a></em></div>
-</td>
-<td style="width: 25%;"><img src="/images/ed020.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Mr Randy Gill</strong></div>
-<div><em><a href="mailto:randhir_singh@moe.edu.sg">randhir_singh @moe.edu.sg</a></em></div>
-</td>
-</tr>
+
 <tr>
 <td style="width: 25%;"><img src="/images/ed021.png"></td>
 <td style="width: 25%; text-align: center;">
