@@ -45,7 +45,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Economics Department</label>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/default.png"></td>
@@ -80,7 +80,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/ed5.png"></td>
@@ -159,7 +159,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Humanities Department</label>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/hu1.png"></td>
@@ -193,7 +193,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/hu6.png"></td>
@@ -234,7 +234,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">English Department</label>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/ed01.png"></td>
@@ -325,7 +325,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/ed09.png"></td>
