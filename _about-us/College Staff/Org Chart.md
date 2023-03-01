@@ -858,7 +858,7 @@ third_nav_title: College Staff
 <div>Admin Executive 1</div>
 <div><em><a href="mailto:chak_hung_ling_suanne@moe.edu.sg" target="">chak_hung_ling_suan ne@moe.edu.sg&nbsp;</a></em></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/yeesan.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mdm Ng Yee San</strong></div>
 <div>Admin Executive 2</div>
