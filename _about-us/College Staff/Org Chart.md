@@ -599,16 +599,16 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/pe4.jpg"></td>
 <td style="width: 29.2649%;">
-<div style="text-align: center;"><strong>Mr Chai Ming Long</strong><br /><em><a href="mailto:chai_ming_long@moe.edu.sg" target="">chai_ming_long@moe.edu.sg</a></em></div>
+<div style="text-align: center;"><strong>Mr Chai Ming Long</strong><br /><em><a href="mailto:chai_ming_long@moe.edu.sg" target="">chai_ming_long @moe.edu.sg</a></em></div>
 </td>
 <td style="width: 25%;"><img src="/images/pe5.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Gabriel Tang Jia Liang<br /></strong><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg" target=""><em>gabriel_tang_jia_lian g@moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Gabriel Tang Jia Liang<br /></strong><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg" target=""><em>gabriel_tang_jia_ liang@moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/pe6.jpg"></td>
 <td style="width: 29.2649%; text-align: center;">
 <div><strong>Mr Lim Zi Qi</strong></div>
-<div><a href="mailto:lim_zi_qi@moe.edu.sg" target=""><em>lim_zi_qi@moe.edu.sg</em></a></div>
+<div><a href="mailto:lim_zi_qi@moe.edu.sg" target=""><em>lim_zi_qi @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/pe7.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Lin Jiahao Aaron<br /></strong><a href="mailto:lin_jiahaoaaron@moe.edu.sg"><em>lin_jiahaoaaron @moe.edu.sg</em></a></td>
