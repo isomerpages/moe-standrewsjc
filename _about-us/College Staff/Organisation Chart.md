@@ -13,14 +13,8 @@ third_nav_title: College Staff
 | Mrs Whang Ai Lee    |  Deputy Principal     | <a href="mailto:sajc@moe.edu.sg">sajc@moe.edu.sg</a>    |
 | Mr Chan Kwang How Bernard    |  Deputy Principal    | <a href="mailto:sajc@moe.edu.sg">sajc@moe.edu.sg</a>    |
 
-#### School Leaders
 
-| Staff Name| Designation| Email Address|
-| -------- | -------- | -------- |
-| Mr Tham Kine Thong   | Principal   | <a href="mailto:sajc@moe.edu.sg">sajc@moe.edu.sg</a>    |
-| Mr Ang Kheng San Cecil   | Deputy Principal   | <a href="mailto:sajc@moe.edu.sg">sajc@moe.edu.sg</a>    |
-| Mrs Whang Ai Lee    |  Deputy Principal     | <a href="mailto:sajc@moe.edu.sg">sajc@moe.edu.sg</a>    |
-| Mr Chan Kwang How Bernard    |  Deputy Principal    | <a href="mailto:sajc@moe.edu.sg">sajc@moe.edu.sg</a>    |
+#### Economics Department
 
 | Staff Name| Designation| Email Address|
 | -------- | -------- | -------- |
