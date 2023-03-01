@@ -865,6 +865,12 @@ third_nav_title: College Staff
 <div><em><a href="mailto:ng_yee_san@moe.edu.sg" target="">ng_yee_san@moe.edu.s</a>g</em></div>
 </td>
 </tr>
+<tr>
+<td style="width: 25%;"><img src="/images/eas11.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Cecilia Au <br>Bee Hong<br /></strong><em><a href="mailto:au_bee_hong@moe.edu.sg" target="">au_bee_hong @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Norbayah <br>Binti Jaffar<br /></strong><em><a href="mailto:norbayah_jaffar@moe.edu.sg" target="">norbayah_jaffar @moe.edu.sg</a></em></td>
+</tr>
 
 
 </tbody>
