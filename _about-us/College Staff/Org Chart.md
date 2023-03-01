@@ -850,19 +850,7 @@ third_nav_title: College Staff
 <div>Admin Manager 2<br /><a href="mailto:seow_lay_hoon@schools.gov.sg" target=""><em>seow_lay_hoon @schools.gov.sg</em></a></div>
 </td>
 </tr>
-<tr>
-<td style="width: 25%;"><img src="/images/eas3.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Mr Joseph Pereira</strong></div>
-<div>Operations Manager 1<br /><a href="mailto:pereira_joseph_gerald@moe.edu.sg" target=""><em>pereira_joseph_geral d@moe.edu.sg</em></a></div>
-</td>
-<td style="width: 25%;"><img src="/images/eas4.png"></td>
-<td style="width: 25%; text-align: center;">
-<div><strong>Mr Sinni Suppiah</strong></div>
-<div>Operations Manager 2</div>
-<div><a href="mailto:sinni_suppiah@moe.edu.sg" target=""><em>sinni_suppiah @moe.edu.sg</em></a></div>
-</td>
-</tr>
+
 <tr>
 <td style="width: 25%;"><img src="/images/eas5.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -980,6 +968,19 @@ third_nav_title: College Staff
 <h4 style="text-align: center;"><strong>Operations</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/eas3.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Joseph Pereira</strong></div>
+<div>Operations Manager 1<br /><a href="mailto:pereira_joseph_gerald@moe.edu.sg" target=""><em>pereira_joseph_geral d@moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/eas4.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Sinni Suppiah</strong></div>
+<div>Operations Manager 2</div>
+<div><a href="mailto:sinni_suppiah@moe.edu.sg" target=""><em>sinni_suppiah @moe.edu.sg</em></a></div>
+</td>
+</tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas18.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Warty Bte Adam<br /></strong><em><a href="mailto:warty_adam@moe.edu.sg" target="">warty_adam @moe.edu.sg</a></em></td>
