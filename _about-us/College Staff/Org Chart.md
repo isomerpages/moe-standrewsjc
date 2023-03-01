@@ -281,8 +281,29 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Rachael Goh Cai Yun</strong></div>
 <div>
-<div>SH/Student Leadership<br />
+<div>SH/Student Leadership 1<br />
 <div><a href="mailto:goh_cai_yun_rachael@moe.edu.sg"><em>goh_cai_yun_rachael @moe.edu.sg</em></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed019.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Priscilla Lily Samuel</strong></div>
+<div>
+<div>
+<div>SH/Publicity, Communications<br>& Outreach (Covering)<strong><br /></strong></div>
+<div><em><a href="mailto:priscilla_lily_samuel@moe.edu.sg" target="">priscilla_lily_samuel @moe.edu.sg</a></em></div>
+</div>
+</div>
+</td>
+<td style="width: 25%;"><img src="/images/ed015.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Mohammed Azlan Ab Malek</strong></div>
+<div>
+<div>Mr Mohammed Azlan Ab Malek<br />
+<div><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg"><em>mohammed_azlan_ ab_malek@moe.edu.sg</em></a></div>
 </div>
 </div>
 </td>
