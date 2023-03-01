@@ -142,12 +142,12 @@ third_nav_title: College Staff
 </td>
 </tr>
 	<tr>
-<td style="width: 25%;"><img src="/images/ed13.png"></td>
+<td style="width: 25%;"><img src="/images/"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Wee Lee Meng Lester</strong></div>
 <div><a href="mailto:wee_lee_meng_lester@moe.edu.sg"><em>wee_lee_meng_ ester@moe.edu.sg</em></a></div>
 </td>
-<td style="width: 25%;"><img src="/images/ed12.png"></td>
+<td style="width: 25%;"><img src="/images/"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Loh Jia Hui</strong></div>
 <div><a href="mailto:loh_jia_hui@moe.edu.sg"><em>loh_jia_hui @moe.edu.sg</em></a></div>
