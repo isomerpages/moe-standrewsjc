@@ -4,7 +4,6 @@ permalink: /about-us/college-staff/organisation-chart/
 description: ""
 third_nav_title: College Staff
 ---
-
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">School Leaders</label>
 <div>
@@ -422,7 +421,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Mathematics Department</label>
 <div>
-<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/math1.png"></td>
@@ -455,7 +454,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/math5.png"></td>
@@ -501,7 +500,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Mother Tongue Department</label>
 <div>
-<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/mt1.png"></td>
@@ -519,7 +518,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 
-<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/default.png"></td>
@@ -557,7 +556,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Physical Education Department</label>
 <div>
-<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/pe1.png"></td>
@@ -584,7 +583,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/pe4.jpg"></td>
@@ -629,7 +628,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Project Work Department</label>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/pw1.png"></td>
@@ -659,7 +658,7 @@ third_nav_title: College Staff
 </li>
 <li><input id="accordion9" type="checkbox" /> <label for="accordion9">Science Department</label>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/sci1.png"></td>
@@ -759,7 +758,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/sci16.png"></td>
@@ -837,7 +836,7 @@ third_nav_title: College Staff
 <li><input id="accordion10" type="checkbox" /> <label for="accordion10">Executive and Administrative Staff</label>
 <div>
 <h4 style="text-align: center;"><strong>Finance & Admin Staff</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas1.png"></td>
@@ -877,7 +876,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Counselling</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas6.png"></td>
@@ -898,7 +897,7 @@ third_nav_title: College Staff
 </table>
 	
 <h4 style="text-align: center;"><strong>ICT</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas8.png"></td>
@@ -930,7 +929,7 @@ third_nav_title: College Staff
 </table>
 
 <h4 style="text-align: center;"><strong>Science & Laboratory</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas13.png"></td>
@@ -958,7 +957,7 @@ third_nav_title: College Staff
 </table>
 
 <h4 style="text-align: center;"><strong>Operations</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas3.png"></td>
