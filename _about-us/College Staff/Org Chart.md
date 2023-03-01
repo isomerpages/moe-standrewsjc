@@ -48,11 +48,11 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/ed1.png"></td>
+<td style="width: 25%;"><img src="/images/.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Shawna Lim Shi'En</strong></div>
+<div><strong>Ms Sng Yin Hui Joan</strong></div>
 <div>HOD/Economics</div>
-<div><a href="mailto:lim_shi_en_shawna@moe.edu.sg" target=""><em>lim_shi_en_shawna @moe.edu.sg</em></a></div>
+<div><a href="mailto:lim_shi_en_shawna@moe.edu.sg" target=""><em>sng_yin_hui_joan @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/ed2.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -135,8 +135,23 @@ third_nav_title: College Staff
 <div><strong>Ms Wong Sook Yee</strong></div>
 <div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_sook_yee @moe.edu.sg</em></a></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Cynthia Lim Ai Lian</strong></div>
+<div><a href="mailto:cynthia_lim_ai_lian@moe.edu.sg"><em>cynthia_lim_ai_lian @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Wee Lee Meng Lester</strong></div>
+<div><a href="mailto:wee_lee_meng_lester@moe.edu.sg"><em>wwee_lee_meng_lester @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Loh Jia Hui</strong></div>
+<div><a href="mailto:loh_jia_hui@moe.edu.sg"><em>loh_jia_hui@ moe.edu.sg</em></a></div>
+</td>
 </tr>
 </tbody>
 </table>
