@@ -58,7 +58,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Poh Shi Yin Lynette</strong></div>
 <div>
-<div>LH/Economics 1 and School Staff Developer (Covering)</div>
+<div>School Staff Developer </div>
 <div><a href="mailto:poh_shi_yin_lynette@moe.edu.sg" target=""><em>poh_shi_yin_lynette @moe.edu.sg</em></a></div>
 </div>
 </td>
