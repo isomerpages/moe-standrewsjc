@@ -447,7 +447,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div>
 <div><strong>Mr Beesoony <br>Uttam Kumar</strong></div>
-<div>SH/Educational Technology<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg"><em>beesoony_uttam_ kumar@moe.edu.sg</em></a></div>
+<div>SH/Educational <br>Technology<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg"><em>beesoony_uttam_ kumar@moe.edu.sg</em></a></div>
 </div>
 </td>
 </tr>
@@ -460,7 +460,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/math5.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Ang Wei Cang<br /></strong><a href="mailto:ang_wei_cang@moe.edu.sg" target=""><em>ang_wei_cang @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/math6.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Chan Siew Cheng Regina<br /></strong><a href="mailto:chan_siew_cheng@moe.edu.sg"><em>chan_siew_cheng @moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Chan Siew <br>Cheng Regina<br /></strong><a href="mailto:chan_siew_cheng@moe.edu.sg"><em>chan_siew_cheng @moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/math7.png"></td>
@@ -474,21 +474,21 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/math9.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Dennis Chia<br /></strong><a href="mailto:chia_dennis@moe.edu.sg" target=""><em>chia_dennis @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/math10.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Koh Eng Chye Frederick<br /></strong><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target=""><em>koh_eng_chye_ frederick@moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Koh Eng Chye <br>Frederick<br /></strong><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target=""><em>koh_eng_chye_ frederick@moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Mr Choong Zie Cheng<br /></strong><a href="mailto:choong_zie_cheng@moe.edu.sg" target=""><em>choong_zie_cheng @moe.edu.sg</em></a></div>
+<div><strong>Mr Choong <br>Zie Cheng<br /></strong><a href="mailto:choong_zie_cheng@moe.edu.sg" target=""><em>choong_zie_cheng @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/math12.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Ng Wei Ying Abigail<br /></strong><a href="mailto:ng_wei_ying_abigail@moe.edu.sg" target=""><em>ng_wei_ying_abigail @moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Ng Wei Ying<br> Abigail<br /></strong><a href="mailto:ng_wei_ying_abigail@moe.edu.sg" target=""><em>ng_wei_ying_abigail @moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/math13.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Raymond Phua Song Boon<br /></strong><a href="mailto:raymond_phua_song_boon@moe.edu.sg" target=""><em>raymond_phua_song _boon@moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Raymond Phua <br>Song Boon<br /></strong><a href="mailto:raymond_phua_song_boon@moe.edu.sg" target=""><em>raymond_phua_song _boon@moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/math14.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr William Lee Choong How<br /></strong><a href="mailto:william_lee_choong_how@moe.edu.sg"><em>william_lee_choong_ how@moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr William Lee <br>Choong How<br /></strong><a href="mailto:william_lee_choong_how@moe.edu.sg"><em>william_lee_choong_ how@moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/math16.png"></td>
@@ -510,7 +510,7 @@ third_nav_title: College Staff
 </td>
 <td style="width: 25%;"><img src="/images/mt2.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Er Yee Ling</strong></div>
+<div><strong>Ms Er <br>Yee Ling</strong></div>
 <div>LH/Chinese</div>
 <div><a href="mailto:er_yee_ling@moe.edu.sg" target=""><em>er_yee_ling @moe.edu.sg</em></a></div>
 </td>
@@ -522,11 +522,11 @@ third_nav_title: College Staff
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/default.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Dr Mohd Pitchay Gani B M A Aziz<br /></strong>
+<td style="width: 25%; text-align: center;"><strong>Dr Mohd Pitchay <br>Gani B M A Aziz<br /></strong>
 <div>Lead Teacher</div>
 <a href="mailto:mohd_pitchay_gani_b@moe.edu.sg"><em>mohd_pitchay_ gani_b@moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/mt4.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Kam Yong Chuan<br /></strong><div>Senior Teacher</div><a href="mailto:kam_yong_chuan@moe.edu.sg" target=""><em>kam_yong_chuan @moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Kam <br>Yong Chuan<br /></strong><div>Senior Teacher</div><a href="mailto:kam_yong_chuan@moe.edu.sg" target=""><em>kam_yong_chuan @moe.edu.sg</em></a></td>
 </tr>
 </tbody>
 </table>
