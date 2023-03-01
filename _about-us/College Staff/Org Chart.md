@@ -50,7 +50,7 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Sng Yin Hui Joan</strong></div>
+<div><strong>Ms Sng Yin Hui <br> Joan</strong></div>
 <div>HOD/Economics</div>
 <div><a href="mailto:lim_shi_en_shawna@moe.edu.sg" target=""><em>sng_yin_hui_joan @moe.edu.sg</em></a></div>
 </td>
@@ -58,7 +58,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Poh Shi Yin Lynette</strong></div>
 <div>
-<div>LH/Economics 1 and School Staff Developer (Covering)</div>
+<div>School Staff Developer </div>
 <div><a href="mailto:poh_shi_yin_lynette@moe.edu.sg" target=""><em>poh_shi_yin_lynette @moe.edu.sg</em></a></div>
 </div>
 </td>
@@ -145,7 +145,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Wee Lee Meng Lester</strong></div>
-<div><a href="mailto:wee_lee_meng_lester@moe.edu.sg"><em>wwee_lee_meng_lester @moe.edu.sg</em></a></div>
+<div><a href="mailto:wee_lee_meng_lester@moe.edu.sg"><em>wee_lee_meng_ lester@moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/"></td>
 <td style="width: 25%; text-align: center;">
