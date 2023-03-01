@@ -685,7 +685,7 @@ third_nav_title: College Staff
 </td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/sci3.png"></td>
+<td style="width: 25%;"><img src="/images/"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Isaac Ng</strong></div>
 <div>HOD/Educational Technology &amp; MRL<br /><a href="mailto:isaac_ng@moe.edu.sg"><em>isaac_ng @moe.edu.sg</em></a></div>
@@ -759,15 +759,18 @@ third_nav_title: College Staff
 <div>Lead Teacher</div>
 <div><em><a href="mailto:koh_ching_hwee@moe.edu.sg">koh_ching_hwee @moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%; text-align: center;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Suresh s/o <br> Nadarajan</strong></div>
+<div>Senior Teacher</div>
+<div><em><a href="mailto:suresh_nadarajan@moe.edu.sg">suresh_nadara jan@moe.edu.sg</a></em></div>
+</td>
 </tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-
 <tr>
 <td style="width: 25%;"><img src="/images/sci16.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Du Jiesi&nbsp;<br /></strong><a href="mailto:du_jiesi@moe.edu.sg"><em>du_jiesi@moe.edu.sg</em></a></td>
@@ -799,8 +802,8 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/sci24.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Ng Hui Fen<br /></strong><a href="mailto:ng_hui_fen_a@moe.edu.sg"><em>ng_hui_fen_a @moe.edu.sg</em></a></td>
-<td style="width: 25%;"><img src="/images/sci25.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Ng Yi Hui Eunice<br /></strong><em><a href="mailto:ng_yi_hui_eunice@moe.edu.sg">ng_yi_hui_eunice @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Kristina Ming <br>Ming Chandran<br /></strong><em><a href="mailto:kristina_chandran_ming@moe.edu.sg">kristina_chandran_ ming@moe.edu.sg </a></em></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/sci26.png"></td>
@@ -825,12 +828,17 @@ third_nav_title: College Staff
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/sci32.jpg"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Ong Duen Liang Stanley</strong><br /><a href="mailto:ong_duen_liang@moe.edu.sg" target=""><em>ong_duen_liang@moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Ong Duen Liang Stanley</strong><br /><a href="mailto:ong_duen_liang@moe.edu.sg" target=""><em>ong_duen_liang @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/sci33.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Yeo Jia Tian</strong></div>
 <div><em><a href="mailto:yeo_jia_tian@moe.edu.sg">yeo_jia_tian @moe.edu.sg</a></em></div>
 </td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Tong Shuqing</strong><br /><a href="mailto:tong_shuqing@moe.edu.sg" target=""><em>tong_shuqing @moe.edu.sg</em></a></td>
+
 </tr>
 </tbody>
 </table>
