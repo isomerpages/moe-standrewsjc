@@ -22,3 +22,10 @@ third_nav_title: College Staff
 | Mr Lim Mong Khai Melvin    |  LH/Economics     | <a href="mailto:lim_mong_khai_melvin @moe.edu.sg">lim_mong_khai_melvin @moe.edu.sg</a> |
 | Mr Peh Bock Kiat    |  Assistant Year Head 1    | <a href="mailto:peh_bock_kiat @moe.edu.sg">peh_bock_kiat @moe.edu.sg</a> |
 | Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
