@@ -291,7 +291,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Ms Wong Wei Lin Julia</strong>
 <div>
 <div>Lead Teacher</div>
-<div><em><a href="mailto:wong_wei_lin_julia@moe.edu.sg">wong_wei_lin_julia @moe.edu.sg</a></em></div>
+<div><em><a href="mailto:wong_wei_lin_julia@moe.edu.sg">wong_wei_lin_ julia@moe.edu.sg</a></em></div>
 </div>
 </td>
 <td style="width: 25%;"><img src="/images/ed08.png"></td>
