@@ -747,14 +747,8 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/sci14.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mrs Chua-Tan Hwee Bin<br /></strong><a href="mailto:tan_hwee_bin@moe.edu.sg"><em>tan_hwee_bin @moe.edu.sg</em></a></td>
-<td style="width: 25%;"><img src="/images/sci15.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Charis Lee Jing Ying<br /></strong><a href="mailto:lee_jing_ying@moe.edu.sg" target=""><em>lee_jing_ying @moe.edu.sg</em></a></td>
-</tr>
-<tr>
 <td style="width: 25%;"><img src="/images/sci16.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Du Jiesi&nbsp;<br /></strong><a href="mailto:du_jiesi@moe.edu.sg"><em>du_jiesi@moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Du Jiesi&nbsp;<br /></strong><a href="mailto:du_jiesi@moe.edu.sg"><em>du_jiesi @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/sci17.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Fong Choo Wah<br /></strong><a href="mailto:fong_choo_wah@moe.edu.sg" target=""><em>fong_choo_wah @moe.edu.sg</em></a></div>
