@@ -694,7 +694,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Tan Joy</strong></div>
 <div>LH/Physics</div>
-<div><a href="mailto:tan_joy@moe.edu.sg" target=""><em>tan_joy@moe.edu.sg</em></a></div>
+<div><a href="mailto:tan_joy@moe.edu.sg" target=""><em>tan_joy @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/sci8.png"></td>
 <td style="width: 25%; text-align: center;">
