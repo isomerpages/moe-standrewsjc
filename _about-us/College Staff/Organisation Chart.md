@@ -21,9 +21,9 @@ third_nav_title: College Staff
 | Ms Poh Shi Yin Lynette   | School Staff Developer   |<a href="mailto:poh_shi_yin_lynette @moe.edu.sg">poh_shi_yin_lynette @moe.edu.sg</a> |
 | Mr Lim Mong Khai Melvin    |  LH/Economics     | <a href="mailto:lim_mong_khai_melvin @moe.edu.sg">lim_mong_khai_melvin @moe.edu.sg</a> |
 | Mr Peh Bock Kiat    |  Assistant Year Head 1    | <a href="mailto:peh_bock_kiat @moe.edu.sg">peh_bock_kiat @moe.edu.sg</a> |
-| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
-| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
-| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa@moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
+| Ms Teres Lim Yan Ling   |  Teacher   | <a href="mailto:teres_lim_yan_ling@moe.edu.sg">teres_lim_yan_ling @moe.edu.sg</a> |
+| Mr Chua Chun Lin Lyndon  |  Teacher   | <a href="mailto:chua_chun_lin_lyndon@moe.edu.sg">chua_chun_lin_lyndon@moe.edu.sg</a> |
 | Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
 | Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
 | Ms Cher Cai Wei Theresa   |  Teacher   | <a href="mailto:cher_cai_wei_theresa @moe.edu.sg">cher_cai_wei_theresa @moe.edu.sg</a> |
