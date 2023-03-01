@@ -877,6 +877,13 @@ third_nav_title: College Staff
 <div><em><a href="mailto:ng_yee_san@moe.edu.sg" target="">ng_yee_san@moe.edu.s</a>g</em></div>
 </td>
 </tr>
+
+
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Counselling</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas6.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -892,6 +899,12 @@ third_nav_title: College Staff
 <div><em><a href="mailto:kathena_lim@schools.gov.sg" target="">schools.gov.sg</a></em></div>
 </td>
 </tr>
+</tbody>
+</table>
+	
+<h4 style="text-align: center;"><strong>ICT</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas8.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -920,29 +933,6 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>Counselling</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/eas11.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mdm Cecilia Au Bee Hong<br /></strong><em><a href="mailto:au_bee_hong@moe.edu.sg" target="">au_bee_hong @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/eas12.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Oh Seoh Cheng Catherine<br /></strong><em><a href="mailto:oh_seoh_cheng@moe.edu.sg" target="">oh_seoh_cheng @moe.edu.sg</a></em></td>
-</tr>
-</tbody>
-</table>
-	
-<h4 style="text-align: center;"><strong>ICT</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/eas11.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mdm Cecilia Au Bee Hong<br /></strong><em><a href="mailto:au_bee_hong@moe.edu.sg" target="">au_bee_hong @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/eas12.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Oh Seoh Cheng Catherine<br /></strong><em><a href="mailto:oh_seoh_cheng@moe.edu.sg" target="">oh_seoh_cheng @moe.edu.sg</a></em></td>
-</tr>
-</tbody>
-</table>
 <h4 style="text-align: center;"><strong>Admin Staff</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -966,8 +956,8 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mr Mohammad Iskandar Riduan Bin Hussin<br /></strong><em><a href="mailto:mohammad_iskandar_riduan@moe.edu.sg">mohammad_iskandar _riduan@moe.edu.sg</a></em></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/eas15.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Lim Thong Choo Yvonne<br /></strong><em><a href="mailto:lim_thong_choo@moe.edu.sg" target="">lim_thong_choo @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Nur Waheeda Bte Mohtar<br /></strong><em><a href="mailto:nur_waheeda_mohtar@moe.edu.sg" target="">nur_waheeda_ mohtar@moe.edu.sg</a></em></td>
 <td style="width: 25%;"><img src="/images/eas16.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Rani Udaya Kumar<br /></strong><em><a href="mailto:rani_udaya_kumar@moe.edu.sg">rani_udaya_kumar @moe.edu.sg</a></em></td>
 </tr>
@@ -984,17 +974,18 @@ third_nav_title: College Staff
 <h4 style="text-align: center;"><strong>Laboratory Attendants</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
+
+</tbody>
+</table>
+<h4 style="text-align: center;"><strong>Operations</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas18.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Warty Bte Adam<br /></strong><em><a href="mailto:warty_adam@moe.edu.sg" target="">warty_adam @moe.edu.sg</a></em></td>
 <td style="width: 25%;"><img src="/images/eas19.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Kuldip Kaur<br /></strong><em><a href="mailto:kuldip_kaur@moe.edu.sg" target="">kuldip_kaur @moe.edu.sg</a></em></td>
 </tr>
-</tbody>
-</table>
-<h4 style="text-align: center;"><strong>Operations</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas20.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Toh Hiap Lim</strong></td>
@@ -1013,6 +1004,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/eas24.jpg"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Chee Kooi Seng Royce</strong></td>
 </tr>
+
 </tbody>
 </table>
 </div>
