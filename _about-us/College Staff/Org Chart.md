@@ -467,9 +467,9 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mr Koh Eng Chye Frederick<br /></strong><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target=""><em>koh_eng_chye_ frederick@moe.edu.sg</em></a></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/math11.png"></td>
+<td style="width: 25%;"><img src="/images/.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Mr Koh Yee Wei Lawrence<br /></strong><a href="mailto:koh_yee_wei@moe.edu.sg" target=""><em>koh_yee_wei @moe.edu.sg</em></a></div>
+<div><strong>Mr Choong Zie Cheng<br /></strong><a href="mailto:choong_zie_cheng@moe.edu.sg" target=""><em>choong_zie_cheng@ moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/math12.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Ng Wei Ying Abigail<br /></strong><a href="mailto:ng_wei_ying_abigail@moe.edu.sg" target=""><em>ng_wei_ying_abigail @moe.edu.sg</em></a></td>
@@ -481,10 +481,10 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mr William Lee Choong How<br /></strong><a href="mailto:william_lee_choong_how@moe.edu.sg"><em>william_lee_choong_ how@moe.edu.sg</em></a></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/math15.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Yeo Shor Peou<br /></strong><a href="mailto:yeo_shor_peou@moe.edu.sg" target=""><em>yeo_shor_peou @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/math16.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Yuen Wen Jun<br /></strong><a href="mailto:yuen_wen_jun@moe.edu.sg" target=""><em>yuen_wen_jun @moe.edu.sg</em></a></td>
+<td style="width: 25%;"></td>
+<td style="width: 25%; text-align: center;"><strong><br /></strong></td>
 </tr>
 </tbody>
 </table>
