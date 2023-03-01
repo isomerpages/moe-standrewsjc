@@ -319,7 +319,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/ed08.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Khoo Lilin</strong></div>
-<div>Senior Teacher<br /><a href="mailto:khoo_lilin@moe.edu.sg" target=""><em>khoo_lilin @moe.edu.sg</em></a></div>
+<div>Lead Teacher<br /><a href="mailto:khoo_lilin@moe.edu.sg" target=""><em>khoo_lilin @moe.edu.sg</em></a></div>
 </td>
 </tr>
 </tbody>
