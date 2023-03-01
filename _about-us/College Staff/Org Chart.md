@@ -927,17 +927,7 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>Admin Staff</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/eas11.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mdm Cecilia Au Bee Hong<br /></strong><em><a href="mailto:au_bee_hong@moe.edu.sg" target="">au_bee_hong @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/eas12.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Oh Seoh Cheng Catherine<br /></strong><em><a href="mailto:oh_seoh_cheng@moe.edu.sg" target="">oh_seoh_cheng @moe.edu.sg</a></em></td>
-</tr>
-</tbody>
-</table>
+
 <h4 style="text-align: center;"><strong>Science & Laboratory</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
