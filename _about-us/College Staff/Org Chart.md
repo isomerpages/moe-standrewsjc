@@ -123,10 +123,10 @@ third_nav_title: College Staff
 <div><strong>Mrs Lim-Wong Yingyi</strong></div>
 <div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_yingyi @moe.edu.sg</em></a></div>
 </td>
-<td style="width: 25%;"><img src="/images/ed12.png"></td>
+<td style="width: 25%;"><img src="/images/"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Yap Hwee Len</strong></div>
-<div><a href="mailto:yap_hwee_len@moe.edu.sg"><em>yap_hwee_len @moe.edu.sg</em></a></div>
+<div><strong>Ms Cynthia Lim Ai Lian</strong></div>
+<div><a href="mailto:ycynthia_lim_ai_lian@moe.edu.sg"><em>cynthia_lim_ai_l ian@moe.edu.sg</em></a></div>
 </td>
 </tr>
 <tr>
@@ -135,8 +135,23 @@ third_nav_title: College Staff
 <div><strong>Ms Wong Sook Yee</strong></div>
 <div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_sook_yee @moe.edu.sg</em></a></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/ed12.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Yap Hwee Len</strong></div>
+<div><a href="mailto:yap_hwee_len@moe.edu.sg"><em>yap_hwee_len @moe.edu.sg</em></a></div>
+</td>
+</tr>
+	<tr>
+<td style="width: 25%;"><img src="/images/ed13.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Wong Sook Yee</strong></div>
+<div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_sook_yee @moe.edu.sg</em></a></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed12.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Yap Hwee Len</strong></div>
+<div><a href="mailto:yap_hwee_len@moe.edu.sg"><em>yap_hwee_len @moe.edu.sg</em></a></div>
+</td>
 </tr>
 </tbody>
 </table>
