@@ -982,11 +982,18 @@ third_nav_title: College Staff
 <div><a href="mailto:sinni_suppiah@moe.edu.sg" target=""><em>sinni_suppiah @moe.edu.sg</em></a></div>
 </td>
 </tr>
+
+<tr>
+<td style="width: 25%;"><img src="/images/eas12.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Oh Seoh Cheng Catherine<br /></strong><em><a href="mailto:oh_seoh_cheng@moe.edu.sg" target="">oh_seoh_cheng @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/eas19.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Kuldip Kaur<br /></strong><em><a href="mailto:kuldip_kaur@moe.edu.sg" target="">kuldip_kaur @moe.edu.sg</a></em></td>
+</tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas18.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Warty Bte Adam<br /></strong><em><a href="mailto:warty_adam@moe.edu.sg" target="">warty_adam @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/eas19.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mdm Kuldip Kaur<br /></strong><em><a href="mailto:kuldip_kaur@moe.edu.sg" target="">kuldip_kaur @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Wan Yew Heng<br /></strong></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas20.png"></td>
