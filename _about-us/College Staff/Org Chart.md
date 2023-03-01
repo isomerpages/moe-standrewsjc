@@ -7,7 +7,7 @@ third_nav_title: College Staff
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">School Leaders</label>
 <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/sl1.png"></td>
