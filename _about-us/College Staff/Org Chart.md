@@ -687,8 +687,8 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/sci3.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Mr Sia Lai Chai</strong></div>
-<div>HOD/Educational Technology &amp; MRL<br /><a href="mailto:sia_lai_chai@moe.edu.sg"><em>sia_lai_chai @moe.edu.sg</em></a></div>
+<div><strong>Mr Isaac Ng</strong></div>
+<div>HOD/Educational Technology &amp; MRL<br /><a href="mailto:isaac_ng@moe.edu.sg"><em>isaac_ng @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/sci4.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -715,7 +715,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Tan Joy</strong></div>
 <div>LH/Physics</div>
-<div><a href="mailto:tan_joy@moe.edu.sg" target=""><em>tan_joy@moe.edu.sg</em></a></div>
+<div><a href="mailto:tan_joy@moe.edu.sg" target=""><em>tan_joy @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/sci8.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -728,7 +728,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/sci9.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Chong Te Wei David</strong></div>
-<div>SH/Partnerships</div>
+<div>SH/Student <br>Leadership 1</div>
 <div><a href="mailto:chong_te_wei@moe.edu.sg"><em>chong_te_wei @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/sci10.png"></td>
@@ -767,12 +767,7 @@ third_nav_title: College Staff
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/sci14.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mrs Chua-Tan Hwee Bin<br /></strong><a href="mailto:tan_hwee_bin@moe.edu.sg"><em>tan_hwee_bin @moe.edu.sg</em></a></td>
-<td style="width: 25%;"><img src="/images/sci15.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Charis Lee Jing Ying<br /></strong><a href="mailto:lee_jing_ying@moe.edu.sg" target=""><em>lee_jing_ying @moe.edu.sg</em></a></td>
-</tr>
+
 <tr>
 <td style="width: 25%;"><img src="/images/sci16.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Du Jiesi&nbsp;<br /></strong><a href="mailto:du_jiesi@moe.edu.sg"><em>du_jiesi@moe.edu.sg</em></a></td>
