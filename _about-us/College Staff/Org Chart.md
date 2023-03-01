@@ -862,7 +862,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Mdm Ng Yee San</strong></div>
 <div>Admin Executive 2</div>
-<div><em><a href="mailto:ng_yee_san@moe.edu.sg" target="">ng_yee_san@moe.edu.s</a>g</em></div>
+<div><em><a href="mailto:ng_yee_san@moe.edu.sg" target="">ng_yee_san @moe.edu.sg</a></em></div>
 </td>
 </tr>
 <tr>
