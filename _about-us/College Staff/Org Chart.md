@@ -297,7 +297,20 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/ed08.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Khoo Lilin</strong></div>
-<div>Senior Teacher<br /><a href="mailto:khoo_lilin@moe.edu.sg" target=""><em>khoo_lilin @moe.edu.sg</em></a></div>
+<div>Lead Teacher<br /><a href="mailto:khoo_lilin@moe.edu.sg" target=""><em>khoo_lilin @moe.edu.sg</em></a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ed015.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Mohammed Azlan Ab Malek</strong></div><div>SH/Student Leadership 2 (Covering)<br />
+<div><em><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg" target="">mohammed_azlan_ ab_malek@moe.edu.sg</a></em></div>
+</td>
+<td style="width: 25%;"><img src="/images/ed019.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Ms Priscilla Lily Samuel</strong></div>
+	<div>SH/Publicity, Communications & Outreach (Covering)<br />
+<div><em><a href="mailto:priscilla_lily_samuel@moe.edu.sg" target="">priscilla_lily_samuel @moe.edu.sg</a></em></div>
 </td>
 </tr>
 </tbody>
