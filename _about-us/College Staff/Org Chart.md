@@ -547,8 +547,8 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/mt5.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Chia Wai Ling<br /></strong><a href="mailto:chia_wai_ling@moe.edu.sg"><em>chia_wai_ling @moe.edu.sg</em></a></td>
-<td style="width: 25%;"><img src="/images/mt6.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Dai Qi<br /></strong><a href="mailto:dai_qi@moe.edu.sg"><em>dai_qi @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/mt10.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Wang Min<br /></strong><em><a href="mailto:wang_min@moe.edu.sg" target="">wang_min @moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/mt7.png"></td>
@@ -557,10 +557,9 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mdm Loh Lih Yeh<br /></strong><em><a href="mailto:loh_lih_yeh@moe.edu.sg" target="">loh_lih_yeh @moe.edu.sg</a></em></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/mt9.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mdm Toh Shyh Yee<br /></strong><em><a href="mailto:toh_shyh_yee@moe.edu.sg">toh_shyh_yee @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/mt10.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Wang Min<br /></strong><em><a href="mailto:wang_min@moe.edu.sg" target="">wang_min @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Lim Sock Hoon<br /></strong><em><a href="mailto:lim_sock_hoon@moe.edu.sg">lim_sock_hoon @moe.edu.sg</a></em></td>
+
 </tr>
 </tbody>
 </table>
