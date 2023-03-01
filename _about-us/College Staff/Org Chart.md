@@ -48,11 +48,11 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/ed1.png"></td>
+<td style="width: 25%;"><img src="/images/"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Shawna Lim Shi'En</strong></div>
+<div><strong>Ms Sng Yin Hui Joan</strong></div>
 <div>HOD/Economics</div>
-<div><a href="mailto:lim_shi_en_shawna@moe.edu.sg" target=""><em>lim_shi_en_shawna @moe.edu.sg</em></a></div>
+<div><a href="mailto:sng_yin_hui_joan@moe.edu.sg" target=""><em>sng_yin_hui_joan @moe.edu.sg</em></a></div>
 </td>
 <td style="width: 25%;"><img src="/images/ed2.png"></td>
 <td style="width: 25%; text-align: center;">
