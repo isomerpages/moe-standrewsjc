@@ -457,7 +457,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/math4.png"></td>
 <td style="width: 25%; text-align: center;">
 <div>
-<div><strong>Mr Beesoony Uttam Kumar</strong></div>
+<div><strong>Mr Beesoony <br>Uttam Kumar</strong></div>
 <div>SH/Educational Technology<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg"><em>beesoony_uttam_ kumar@moe.edu.sg</em></a></div>
 </div>
 </td>
