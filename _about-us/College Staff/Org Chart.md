@@ -868,7 +868,7 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/eas11.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Cecilia Au <br>Bee Hong<br /></strong><div>Corporate Support</div><em><a href="mailto:au_bee_hong@moe.edu.sg" target="">au_bee_hong @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Norbayah <br>Binti Jaffar<br /></strong><div>Corporate Support</div><em><a href="mailto:norbayah_jaffar@moe.edu.sg" target="">norbayah_jaffar @moe.edu.sg</a></em></td>
 </tr>
 
@@ -940,7 +940,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mr Mohammad Iskandar Riduan Bin Hussin<br /></strong><em><a href="mailto:mohammad_iskandar_riduan@moe.edu.sg">mohammad_iskandar _riduan@moe.edu.sg</a></em></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Nur Waheeda Bte Mohtar<br /></strong><em><a href="mailto:nur_waheeda_mohtar@moe.edu.sg" target="">nur_waheeda_ mohtar@moe.edu.sg</a></em></td>
 <td style="width: 25%;"><img src="/images/eas16.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Rani Udaya Kumar<br /></strong><em><a href="mailto:rani_udaya_kumar@moe.edu.sg">rani_udaya_kumar @moe.edu.sg</a></em></td>
@@ -982,7 +982,7 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/eas18.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Warty Bte Adam<br /></strong><em><a href="mailto:warty_adam@moe.edu.sg" target="">warty_adam @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Wan Yew Heng<br /></strong></td>
 </tr>
 <tr>
