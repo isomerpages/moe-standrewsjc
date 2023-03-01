@@ -528,14 +528,16 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong> Senior Teachers</strong></h4>
+
 <table style="border-collapse: collapse; width: 102.475%;" border="1">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/mt3.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mdm Noraidee Binte Abdul Sukor<br /></strong><a href="mailto:noraidee_abdul_sukor@moe.edu.sg"><em>noraidee_abdul_sukor @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/"></td>
+<td style="width: 25%; text-align: center;"><strong>Dr Mohd Pitchay Gani B M A Aziz<br /></strong>
+<div>Lead Teacher</div>
+<a href="mailto:mohd_pitchay_gani_b@moe.edu.sg"><em>mohd_pitchay_ gani_b@moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/mt4.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Kam Yong Chuan<br /></strong><a href="mailto:kam_yong_chuan@moe.edu.sg" target=""><em>kam_yong_chuan @moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Kam Yong Chuan<br /></strong><div>Senior Teacher</div><a href="mailto:kam_yong_chuan@moe.edu.sg" target=""><em>kam_yong_chuan @moe.edu.sg</em></a></td>
 </tr>
 </tbody>
 </table>
