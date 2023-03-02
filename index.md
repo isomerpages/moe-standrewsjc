@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_sajc.jpg
+      background: /images/banner_sajc_2.png
       key_highlights:
         - title: Students
           description: ""
