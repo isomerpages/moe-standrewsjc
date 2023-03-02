@@ -447,7 +447,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div>
 <div><strong>Mr Beesoony <br>Uttam Kumar</strong></div>
-<div>SH/Educational <br>Technology<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg"><em>beesoony_uttam_ kumar@moe.edu.sg</em></a></div>
+<div>SH/Educational <br>Technology<br /><a href="mailto:beesoony_uttam_kumar@moe.edu.sg"><em>beesoony_ uttam_kumar @moe.edu.sg</em></a></div>
 </div>
 </td>
 </tr>
@@ -474,7 +474,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/math9.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Dennis Chia<br /></strong><a href="mailto:chia_dennis@moe.edu.sg" target=""><em>chia_dennis @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/math10.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Koh Eng Chye <br>Frederick<br /></strong><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target=""><em>koh_eng_chye_ frederick@moe.edu.sg</em></a></td>
+<td style="width: 25%; text-align: center;"><strong>Mr Koh Eng Chye <br>Frederick<br /></strong><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" target=""><em>koh_eng_chye_ frederick @moe.edu.sg</em></a></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/default.png"></td>
