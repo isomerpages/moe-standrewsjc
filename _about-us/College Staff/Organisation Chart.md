@@ -531,7 +531,7 @@ third_nav_title: College Staff
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Teachers</strong></h4>
-<table style="border-collapse: collapse; width: 102.475%;" border="1">
+<table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/mt5.png"></td>
