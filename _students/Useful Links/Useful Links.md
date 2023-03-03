@@ -7,7 +7,7 @@ third_nav_title: Useful Links
 <ul>
 <li><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" target="_blank" rel="noopener">Skillsfuture</a></li>
 <li><a href="https://brightsparks.com.sg/" target="_blank" rel="noopener">Brightsparks</a></li>
-<li><a href="https://go.gov.sg/meet-ecgc" target="_blank" rel="noopener">Kathena, ECG Counsellor (booking link)</a></li>
+<li><a href="https://go.gov.sg/meet-ecgc" target="_blank" rel="noopener">ECG Counsellor Booking Link</a></li>
 <li><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space (SLS)</a></li>
 <li><a href="https://sites.google.com/moe.edu.sg/subjectresources/home" target="_blank" rel="noopener">Subject Resources</a></li>
 <li><a href="https://standrewsjc.moe.edu.sg/students/examination-timetable" target="">Examination Timetable</a></li>
