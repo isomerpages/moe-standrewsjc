@@ -3,4 +3,4 @@ title: Examination Timetable
 permalink: /students/examination-timetable/
 description: ""
 ---
-<p>Thank you for visiting this page. The examination timetables will be available for download around 4 weeks before major examinations. </p>
+<p>The examinations for Academic Year 2022 are over. Please visit this page in 2023 about a month before Major Examinations. Thank you!</p>
