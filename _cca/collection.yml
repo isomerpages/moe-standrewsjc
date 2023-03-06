@@ -1,0 +1,44 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Student Council.md
+      - Student Leadership/Saints Advocate.md
+      - Student Leadership/Saint for Christ.md
+      - Student Leadership/.keep
+      - Team SAJC/.keep
+      - Team SAJC/Team SAJC.md
+      - Team SAJC/Badminton.md
+      - Team SAJC/Basketball.md
+      - Team SAJC/Water Polo.md
+      - Team SAJC/Football.md
+      - Team SAJC/Hockey.md
+      - Team SAJC/Netball.md
+      - Team SAJC/Rugby.md
+      - Team SAJC/Ten–pin Bowling.md
+      - Team SAJC/Tennis.md
+      - Team SAJC/Touch Rugby.md
+      - Team SAJC/Track and Field.md
+      - Team SAJC/Ultimate Frisbee.md
+      - Saints on Stage/Saints on Stage.md
+      - Saints on Stage/Chinese Orchestra.md
+      - Saints on Stage/Choir.md
+      - Saints on Stage/Concert Band.md
+      - Saints on Stage/Dance Society.md
+      - Saints on Stage/Drama Club.md
+      - Saints on Stage/Guitar Ensemble.md
+      - Saints on Stage/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/AVA & Media Club.md
+      - Clubs & Societies/Literary and Debate Society.md
+      - Clubs & Societies/Environmental Club.md
+      - Clubs & Societies/Indian Cultural Society.md
+      - Clubs & Societies/Malay Cultural Society.md
+      - Clubs & Societies/Mentoring Club.md
+      - Clubs & Societies/Model United Nation.md
+      - Clubs & Societies/Saints Sports Club.md
+      - Clubs & Societies/Outdoor Activities Club.md
+      - Clubs & Societies/Photography Society.md
+      - Clubs & Societies/Infocomm Club.md
+      - Clubs & Societies/.keep

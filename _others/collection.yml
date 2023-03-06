@@ -1,0 +1,6 @@
+collections:
+  others:
+    output: true
+    order:
+      - Sliding Banners.md
+      - Error Page.md

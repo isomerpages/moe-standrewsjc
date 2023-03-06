@@ -1,0 +1,11 @@
+collections:
+  back-up:
+    output: true
+    order:
+      - Organisation Chart1.md
+      - JC2 Subject Tutors Email by Class.md
+      - Achievements1.md
+      - The School's Continuity Plan for Haze Situation.md
+      - Interact Club.md
+      - Canoeing.md
+      - Direct School Admission (DSA) – 2023 Intake.md

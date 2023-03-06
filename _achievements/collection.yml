@@ -1,0 +1,47 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Achievements.md
+      - CCA Accomplishments/.keep
+      - CCA Accomplishments/CCA Accomplishments.md
+      - CCA Accomplishments/Our Schools, Our Stories Honourable Mention Prize
+        2021.md
+      - CCA Accomplishments/CCA Accomplishment 2021.md
+      - Celebration of Success/.keep
+      - Celebration of Success/Celebration of Success.md
+      - Celebration of Success/JC1 CT Celebration of Success 2021.md
+      - Celebration of Success/JC2 BT1 Celebration of Success 2021.md
+      - Celebration of Success/JC2 BT2 Celebration of Success 2021.md
+      - Celebration of Success/JC2 Prelims Celebration of Success 2021.md
+      - Celebration of Success/JC1 Promos Celebration of Success 2021.md
+      - External Competitions/.keep
+      - External Competitions/External Competitions.md
+      - External Competitions/Computing@SMU Award by SMU 2021.md
+      - External Competitions/Goh Keng Swee Future Thinking Challenge 2021.md
+      - External Competitions/NUS Project and Facilities Management Essay Prize
+        2020.md
+      - External Competitions/Singapore Futures Youth Competition and Micron
+        NUS–ISE Business Analytics Case Competition 2021.md
+      - External Competitions/Youth Entrepreneurs Challenge 2021.md
+      - MOE Awards and Scholarships/.keep
+      - MOE Awards and Scholarships/MOE Awards and Scholarships.md
+      - MOE Awards and Scholarships/LKY Award for Outstanding Normal Course
+        Students 2021.md
+      - MOE Awards and Scholarships/MOE Scholarships for Pre–U 2021.md
+      - MOE Awards and Scholarships/MOE Teaching Scholarship SAJC Recipients
+        2021.md
+      - Scholarships Awarded to Alumni/.keep
+      - Scholarships Awarded to Alumni/Scholarships Awarded to Alumni.md
+      - Scholarships Awarded to Alumni/Defence Scholarship Awards 2021.md
+      - Scholarships Awarded to Alumni/Healthcare Scholarships Award Ceremony
+        2021.md
+      - Scholarships Awarded to Alumni/Singapore Digital Scholarship
+        (Undergraduate) 2021.md
+      - Scholarships Awarded to Alumni/Singapore Geospatial Scholarship by SLA
+        2021.md
+      - Scholarships Awarded to Alumni/Singapore–Industry Scholarship 2021.md
+      - Staff Awards/.keep
+      - Staff Awards/Staff Awards.md
+      - Staff Awards/Valedictorian of the Management and Leadership in Schools
+        Programme.md

@@ -1,0 +1,23 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - Vision, Mission, Values.md
+      - Campus Tour.md
+      - Heritage.md
+      - Board of Governors.md
+      - College Staff/Organisation Chart.md
+      - College Staff/CCA Teachers–in–Charge.md
+      - College Staff/.keep
+      - Contact Us.md
+      - Charity Status.md
+      - Admission Information/Admission Information.md
+      - Admission Information/Joint Admissions Exercise (JAE).md
+      - Admission Information/College Prospectus.md
+      - Admission Information/Subject Combinations.md
+      - Admission Information/Returning Singaporeans & International Students.md
+      - Admission Information/FAQ.md
+      - Admission Information/.keep
+      - College Profile.md

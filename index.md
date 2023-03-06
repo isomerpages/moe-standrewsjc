@@ -1,32 +1,36 @@
 ---
 layout: homepage
-title: Isomer Site
+title: St Andrew's Junior College
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/banner_sajc_2.png
+      key_highlights:
+        - title: Students
+          description: ""
+          url: /students
+        - title: Parents
+          description: ""
+          url: /parents
+        - title: Alumni
+          description: ""
+          url: https://www.saints.org.sg/
+  - infopic:
+      title: Our Saints’ Achievements
+      button: Read More
+      url: /sajc/achievements
+      image: /images/achievement4.png
+      alt: Image alt text
+  - infopic:
+      title: Media Features
+      button: Read More
+      url: /sajc/news/media-features
+      image: /images/media4.png
+      alt: Image alt text
+  - resources:
+      title: Announcements
+      button: More Announcements
 ---
-

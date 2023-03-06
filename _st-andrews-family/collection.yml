@@ -1,0 +1,11 @@
+collections:
+  st-andrews-family:
+    output: true
+    order:
+      - Parent's Support Group.md
+      - Alumni/Alumni.md
+      - Alumni/Valedictorian Address 2021.md
+      - Alumni/.keep
+      - Mentors.md
+      - Affiliated Schools.md
+      - SA Hall.md
