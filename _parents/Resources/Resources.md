@@ -12,6 +12,8 @@ third_nav_title: Resources
 <ul>
 <li><a href="https://vimeo.com/805357802/97d64ff9ad" target="_blank" rel="noopener">Link to recording of the session</a></li>
 <li><a href="/files/[](/files/2023/2023_JC1_Parents_Dialogue_QA.pdf)%20JC1_Parents_Dialogue_Session_collated_QA.pdf" target="_blank" rel="noopener">Collated Q&amp;A from the session</a></li>
+	
+	
 </ul>
 <p><strong>2022 JC1 Parents Dialogue Session Webinar</strong><strong><br /></strong></p>
 <ul>
