@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Parents.md
+      - Resources/2022 Resources.md
       - Resources/Resources.md
       - Resources/2021 Resources.md
       - Resources/.keep
