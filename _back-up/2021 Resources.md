@@ -2,8 +2,8 @@
 title: 2021 Resources
 permalink: /parents/resources/2021-resources/
 description: ""
-third_nav_title: Resources
 ---
+
 
 <p><strong>Mental Wellness: Moving towards the Final Examination<br /></strong>1.&nbsp;<a href="https://vimeo.com/586551728/133797efab" target="_blank" rel="noopener">Webinar Recording</a><br />2.&nbsp;<a href="https://standrewsjc-moe-edu-sg-admin.cwp.sg/qql/slot/u674/revamp2021/parents/resources/Moving%20towards%20the%20Final%20Examination/moving%20towards%20%20year%20end%20examinations%203.pdf" target="_blank" rel="noopener">Slides</a></p>
 <p><strong>Blended Learning Resources for Parents<br /></strong>1.&nbsp;<a href="https://standrewsjc-moe-edu-sg-admin.cwp.sg/qql/slot/u674/revamp2021/parents/resources/Blended%20Learning%20Resources%20for%20Parents/MOE%20resource%20for%20BL_my-independent-learner.pdf" target="_blank" rel="noopener">Parent Kit - My Independent Learner</a><br />2.&nbsp;<a href="https://standrewsjc-moe-edu-sg-admin.cwp.sg/qql/slot/u674/revamp2021/parents/resources/Blended%20Learning%20Resources%20for%20Parents/MOE%20resource%20for%20BL_cyber-wellness-for-your-child.pdf" target="_blank" rel="noopener">Parent Kit - Cyber Wellness for your Child</a></p>

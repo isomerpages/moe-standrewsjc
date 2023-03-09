@@ -149,8 +149,6 @@ third_nav_title: College Staff
 </td>
 <td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Loh Jia Hui</strong></div>
-<div><a href="mailto:loh_jia_hui@moe.edu.sg"><em>loh_jia_hui @moe.edu.sg</em></a></div>
 </td>
 </tr>
 </tbody>

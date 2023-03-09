@@ -2,8 +2,8 @@
 title: Collaboration
 permalink: /parents/collaboration/
 description: ""
-third_nav_title: Collaboration
 ---
+
 <p>Welcome to the collaboration section of the parents&rsquo; portal. This section informs parents on the college&rsquo;s parents-related events as well as opportunities for partnership with the college on students&rsquo; educational development.</p>
 <img src="/images/collab.jpg">
 <p><strong>THE SAJC HOME-SCHOOL PARTNERSHIP</strong></p>

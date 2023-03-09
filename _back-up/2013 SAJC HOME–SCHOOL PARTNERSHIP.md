@@ -2,8 +2,8 @@
 title: 2013 SAJC HOME–SCHOOL PARTNERSHIP
 permalink: /parents/collaboration/2013-sajc-home-school-partnership/
 description: ""
-third_nav_title: Collaboration
 ---
+
 <table class="iveo_table ives_tab_simple3 ive_eobj_center">
 <tbody>
 <tr>
