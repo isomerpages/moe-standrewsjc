@@ -743,7 +743,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/sci13.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mrs Loi-Koh Ching Hwee Sharon</strong></div>
-<div>Lead Teacher</div>
+<div>Lead Teacher/<br> Learning Needs (Educational Support)</div>
 <div><em><a href="mailto:koh_ching_hwee@moe.edu.sg">koh_ching_hwee @moe.edu.sg</a></em></div>
 </td>
 <td style="width: 25%;"><img src="/images/default.png"></td>
