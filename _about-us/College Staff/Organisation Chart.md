@@ -491,6 +491,8 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/math16.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Yuen Wen Jun<br /></strong><a href="mailto:yuen_wen_jun@moe.edu.sg" target=""><em>yuen_wen_jun @moe.edu.sg</em></a></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Peck Hwee Fang<br /></strong><a href="mailto:peck_hwee_fang@moe.edu.sg" target=""><em>peck_hwee_fang @moe.edu.sg</em></a></td>
 </tr>
 </tbody>
 </table>
@@ -743,7 +745,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/sci13.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mrs Loi-Koh Ching Hwee Sharon</strong></div>
-<div>Lead Teacher</div>
+<div>Lead Teacher/<br>Learning Needs (Educational Support)</div>
 <div><em><a href="mailto:koh_ching_hwee@moe.edu.sg">koh_ching_hwee @moe.edu.sg</a></em></div>
 </td>
 <td style="width: 25%;"><img src="/images/default.png"></td>
