@@ -674,7 +674,7 @@ third_nav_title: College Staff
 </td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/staff/hodisaac.png"></td>
+<td style="width: 25%;"><img src="/images/hod_isaac.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Isaac Ng</strong></div>
 <div>HOD/Educational Technology &amp; MRL<br><a href="mailto:isaac_ng@moe.edu.sg"><em>isaac_ng @moe.edu.sg</em></a></div>
