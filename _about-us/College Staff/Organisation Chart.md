@@ -475,7 +475,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mr Koh Eng Chye <br>Frederick<br></strong><a href="mailto:koh_eng_chye_frederick@moe.edu.sg"><em>koh_eng_chye_ frederick @moe.edu.sg</em></a></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/maths_ziecheng.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Choong <br>Zie Cheng<br></strong><a href="mailto:choong_zie_cheng@moe.edu.sg"><em>choong_zie_cheng @moe.edu.sg</em></a></div>
 </td>
