@@ -828,7 +828,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/Staff/bio_shuqing.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Tong Shuqing</strong><br><a href="mailto:tong_shuqing@moe.edu.sg"><em>tong_shuqing @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/Staff/bio_geraldine.png"></td>
-	<td style="width: 25%; text-align: center;"><strong>Ms Tong Shuqing</strong><br><a href="mailto:tong_shuqing@moe.edu.sg"><em>tong_shuqing @moe.edu.sg</em></a></td>
+	<td style="width: 25%; text-align: center;"><strong>Mdm Geraldine Yeo</strong><br><a href="mailto:yeo_hui_ching@moe.edu.sg"><em>yeo_hui_ching @moe.edu.sg</em></a></td>
 </tr>
 </tbody>
 </table>
