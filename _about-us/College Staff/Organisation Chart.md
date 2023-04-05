@@ -521,7 +521,7 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/mt_pitchay.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Dr Mohd Pitchay <br>Gani B M A Aziz<br></strong>
 <div>Lead Teacher</div>
 <a href="mailto:mohd_pitchay_gani_b@moe.edu.sg"><em>mohd_pitchay_ gani_b@moe.edu.sg</em></a></td>
@@ -748,7 +748,7 @@ third_nav_title: College Staff
 <div>Lead Teacher/<br>Learning Needs (Educational Support)</div>
 <div><em><a href="mailto:koh_ching_hwee@moe.edu.sg">koh_ching_hwee @moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/bio_suresh.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Suresh s/o <br> Nadarajan</strong></div>
 <div>Senior Teacher</div>
@@ -791,7 +791,7 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/sci24.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Ng Hui Fen<br></strong><a href="mailto:ng_hui_fen_a@moe.edu.sg"><em>ng_hui_fen_a @moe.edu.sg</em></a></td>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/bio_kristina.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Kristina Ming <br>Ming Chandran<br></strong><em><a href="mailto:kristina_chandran_ming@moe.edu.sg">kristina_chandran_ ming@moe.edu.sg </a></em></td>
 </tr>
 <tr>
@@ -825,7 +825,7 @@ third_nav_title: College Staff
 </td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/bio_shuqing.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Tong Shuqing</strong><br><a href="mailto:tong_shuqing@moe.edu.sg"><em>tong_shuqing @moe.edu.sg</em></a></td>
 
 </tr>
