@@ -48,7 +48,7 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/hod_joan.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Sng Yin Hui Joan</strong></div>
 <div>HOD/Economics</div>
