@@ -546,7 +546,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mdm Loh Lih Yeh<br></strong><em><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh @moe.edu.sg</a></em></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/mt_sockhoon.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Lim Sock Hoon<br></strong><em><a href="mailto:lim_sock_hoon@moe.edu.sg">lim_sock_hoon @moe.edu.sg</a></em></td>
 
 </tr>
