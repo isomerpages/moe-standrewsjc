@@ -135,14 +135,14 @@ third_nav_title: College Staff
 <div><strong>Ms Wong Sook Yee</strong></div>
 <div><a href="mailto:wong_sook_yee@moe.edu.sg"><em>wong_sook_yee @moe.edu.sg</em></a></div>
 </td>
-	<td style="width: 25%;"><img src="/images/default.png"></td>
+	<td style="width: 25%;"><img src="/images/Staff/econs_cynthia.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Cynthia Lim Ai Lian</strong></div>
 <div><a href="mailto:ycynthia_lim_ai_lian@moe.edu.sg"><em>cynthia_lim_ai_l ian@moe.edu.sg</em></a></div>
 </td>
 </tr>
 	<tr>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/econs_lester.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Wee Lee Meng Lester</strong></div>
 <div><a href="mailto:wee_lee_meng_lester@moe.edu.sg"><em>wee_lee_meng_ ester@moe.edu.sg</em></a></div>
@@ -827,7 +827,8 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/Staff/bio_shuqing.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Tong Shuqing</strong><br><a href="mailto:tong_shuqing@moe.edu.sg"><em>tong_shuqing @moe.edu.sg</em></a></td>
-
+<td style="width: 25%;"><img src="/images/Staff/bio_geraldine.png"></td>
+	<td style="width: 25%; text-align: center;"><strong>Ms Tong Shuqing</strong><br><a href="mailto:tong_shuqing@moe.edu.sg"><em>tong_shuqing @moe.edu.sg</em></a></td>
 </tr>
 </tbody>
 </table>
