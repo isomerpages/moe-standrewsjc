@@ -150,8 +150,7 @@ d) Please send by post to the following address:
 <p><strong>DSA Phase 2: 5 Aug 2023, 3 pm</strong></p>
 <br>Incomplete application forms will not be considered.<br>
 
-<p>Online APPLICATION FORM:  [https://go.gov.sg/sajcdsa2023]</p>
-
+[ONLINE APPLICATION FORM](https://go.gov.sg/sajcdsa2023)
 <div><img height="60" width="60" src="/images/dsa2024.png"></div>
 
 <p align="justify">Applicants who have submitted applications during Phase 1 but are not offered a place need not submit new applications for Phase 2 as all applications will automatically be considered for both phases. <br>
