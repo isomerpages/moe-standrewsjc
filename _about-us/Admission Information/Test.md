@@ -125,7 +125,7 @@ Commitment &amp; Contribution<br>
 Membership &amp; Involvement in relevant Clubs or Societies
 
 <p><strong>Note: </strong></p>
-Applicants who are successfully accepted are expected to offer A-Level H2 Chinese/Malay/Tamil Language &amp; Literature as one of their H2 subjects during the two years in SAJC.</td></tr>
+Applicants who are succ![](/images/dsa2024.png)essfully accepted are expected to offer A-Level H2 Chinese/Malay/Tamil Language &amp; Literature as one of their H2 subjects during the two years in SAJC.</td></tr>
 </tbody></table>
 
 <p>Interested applicants who do not meet the criteria may still apply based on their ability and potential.</p>
@@ -151,28 +151,23 @@ d) Please send by post to the following address:
 
 <p>Online APPLICATION FORM:  [https://go.gov.sg/sajcdsa2023]</p>
 
+<div><img src="/images/dsa2024.png"></div>
 
-<div><img src="#"></div>
+<p align="justify">Applicants who have submitted applications during Phase 1 but are not offered a place need not submit new applications for Phase 2 as all applications will automatically be considered for both phases. <br>
+	
+Only successful applicants will be informed via email and/or phone.
 
-<p>Applicants who have submitted applications during Phase 1 but are not offered a place need not submit new applications for Phase 2 as all applications will automatically be considered for both phases. </p>
+</p><p align="justify">Once you have accepted SAJC's DSA Offer, you will not be eligible to participate in the Joint Admissions Exercise (JAE), as long as you meet the eligibility criteria for JC admission based on your GCE O-Level examination results. </p>
 
-<p>Only successful applicants will be informed via email and/or phone.</p>
-
-<p>Once you have accepted SAJC's DSA Offer, you will not be eligible to participate in the Joint Admissions Exercise (JAE), as long as you meet the eligibility criteria for JC admission based on your GCE O-Level examination results. </p>
-
-<p>You are also not allowed to transfer to another school after the release of the GCE O-Level examination results. You are expected to honour your commitment to the college and your chosen CCA for the duration of your studies in SAJC. </p>
+<p align="justify">You are also not allowed to transfer to another school after the release of the GCE O-Level examination results. You are expected to honour your commitment to the college and your chosen CCA for the duration of your studies in SAJC. </p>
 
 <p>Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.  </p>
 
-<p>TRIALS/AUDITION &amp; INTERVIEW</p>
+<p><strong>TRIALS/AUDITION &amp; INTERVIEW</strong></p>
+In-person selection audition/trial will be conducted.  Please see DSA Trial/Audition Schedule for specific instructions.<br>
+If you require any further information/assistance, please contact the following SAJC staff.<br>
 
-<p>In-person selection audition/trial will be conducted.  Please see DSA Trial/Audition Schedule for specific instructions.</p>
-
-<p>If you require any further information/assistance, please contact the following SAJC staff.</p>
-
-<table><colgroup><col><col></colgroup><tbody><tr><td><p>CCA</p></td><td><p>Teachers In-Charge &amp; </p>
-
-<p>Email Contact </p></td></tr>
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>CCA</strong></p></td><td><p><strong>Teachers In-Charge </strong><br><strong>Email Contact </strong></p></td></tr>
 <tr><td><p>Chinese Orchestra</p></td><td><p>Mdm Wang Min</p>
 
 <p><a href="mailto:zhang_li@moe.edu.sg">wang_min@moe.edu.sg</a></p>
