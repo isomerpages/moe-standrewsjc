@@ -164,8 +164,8 @@ Only successful applicants will be informed via email and/or phone.
 <p>Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.  </p>
 
 <p><strong>TRIALS/AUDITION &amp; INTERVIEW</strong></p>
-In-person selection audition/trial will be conducted.  Please see DSA Trial/Audition Schedule for specific instructions.<br>
-If you require any further information/assistance, please contact the following SAJC staff.<br>
+<p>In-person selection audition/trial will be conducted.  Please see DSA Trial/Audition Schedule for specific instructions.<br>
+If you require any further information/assistance, please contact the following SAJC staff.<br></p>
 
 <p></p><table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>CCA</strong></p></td><td><p><strong>Teachers In-Charge </strong><br><strong>Email Contact </strong></p></td></tr>
 <tr><td><p><strong>Chinese Orchestra</strong></p></td><td><p>Mdm Wang Min<br>
