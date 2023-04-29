@@ -122,7 +122,7 @@ Events - Leadership &amp; Coordination<br>
 Applicants who have the following credits would have added advantage: <br>
 Initiatives &amp; Participation <br>
 Commitment &amp; Contribution<br>
-Membership &amp; Involvement in relevant Clubs or Societies<br>
+Membership &amp; Involvement in relevant Clubs or Societies
 
 <p><strong>Note: </strong></p>
 Applicants who are successfully accepted are expected to offer A-Level H2 Chinese/Malay/Tamil Language &amp; Literature as one of their H2 subjects during the two years in SAJC.</td></tr>
