@@ -23,7 +23,7 @@ table {
 <p align="justify">St Andrew's Junior College (SAJC) welcomes Sec 4 (or its equivalent) students who are currently studying in Singapore mainstream schools to apply under the Direct School Admission (DSA) for entry to the college in 2024. </p>
 
 <p>Successful applicants will gain admission into SAJC in 2024 for their JC education as long as they meet the eligibility criteria set by MOE for the two-year Junior College course based on their GCE 'O' Level examination results. </p>
-(For more information on DSA-JC, please refer to  [MOE DSA-JC website]([MOE DSA-JC Website](https://www.moe.gov.sg/post-secondary/admissions/dsa))
+(For more information on DSA-JC, please refer to [MOE DSA-JC Website](https://www.moe.gov.sg/post-secondary/admissions/dsa).)
 
 <p align="justify">We strongly encourage those with above average academic results and outstanding talent in the following CCAs to apply for admission.  (Applications for other CCAs will not be considered.)</p>
 
