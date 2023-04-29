@@ -279,12 +279,11 @@ If you require any further information/assistance, please contact the following 
 <p><a href="mailto:chay_wai_sum@moe.edu.sg">chay_wai_sum@moe.edu.sg</a></p></td></tr>
 </tbody></table>
 
-<p>ST ANDREW'S JUNIOR COLLEGE</p>
-
-<p>DSA TRIAL/AUDITION DATES</p>
-
-<p>PERFORMING ARTS</p>
-
+<p><strong>DSA TRIAL/AUDITION DATES</strong></p>
+Use the link below do view/download the DSA Trials/Audition dates.
+<p>1. PERFORMING ARTS</p>
+<p>2. SPORTS</p>
+<p>3. LANGUAGES &amp; HUMANITIES</p>
 <table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td><p>CCA</p></td><td><p>TEACHER I/Cs</p></td><td><p>DATE</p></td><td><p>TIME</p></td><td><p>VENUE</p></td></tr>
 <tr><td><p>Choir</p></td><td><p>Mr Yeo Jia Tian</p>
 
