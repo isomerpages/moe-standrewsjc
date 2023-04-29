@@ -4,8 +4,14 @@ permalink: /about-us/admission-information/test/
 description: ""
 third_nav_title: Admission Information
 ---
-<p><strong>Direct School Admission (DSA) - 2024 Intake</strong></p>
+<style>
+table, tr, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
 
+<strong>Direct School Admission (DSA) - 2024 Intake</strong>
 <p align="justify">St Andrew's Junior College (SAJC) welcomes Sec 4 (or its equivalent) students who are currently studying in Singapore mainstream schools to apply under the Direct School Admission (DSA) for entry to the college in 2024. </p>
 
 <p align="justify">Successful applicants will gain admission into SAJC in 2024 for their JC education as long as they meet the eligibility criteria set by MOE for the two-year Junior College course based on their GCE 'O' Level examination results. (For more information on DSA-JC, please refer to MOE DSA-JC website.)</p>
@@ -36,11 +42,9 @@ Chinese Language &amp; Literature<br>
 Malay Language &amp; Literature<br>
 Tamil Language &amp; Literature
 
-<p>Eligibility Criteria:</p>
-
-<p>Above average academic record in Secondary 3 Mid-Year &amp; Final Exams</p>
-
-<p>Exemplary Conduct Record</p>
+<p><strong>Eligibility Criteria:</strong></p>
+1.  Above average academic record in Secondary 3 Mid-Year &amp; Final Exams<br>
+2.  Exemplary Conduct Record
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p> Area of Talent</p></td><td><p>Eligibility Criteria</p></td></tr>
 <tr><td><p>Concert Band</p></td><td><p>Preferably with a minimum 4 years of playing experience in Concert Band.</p>
