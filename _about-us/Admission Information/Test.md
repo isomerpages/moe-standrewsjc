@@ -55,17 +55,12 @@ Tamil Language &amp; Literature
 2.  Exemplary Conduct Record <br><br>
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p> <strong>Area of Talent</strong></p></td><td><p><strong>Eligibility Criteria</strong></p></td></tr>
-<tr><td><p><strong>Concert Band</strong></p></td><td><p>Preferably with a minimum 4 years of playing experience in Concert Band.</p>
-
-<p>Represented school in Singapore Youth Festival Arts Presentation</p>
-
-<p>Confident in playing solo pieces </p>
-
-<p>Experience in Internal school and external performances</p>
-
-<p>Preferably at least a Sectional Leader or exhibiting potential leadership</p>
-
-<p>Pass selection audition and interview</p></td></tr>
+<tr><td><p><strong>Concert Band</strong></p></td><td>-Preferably with a minimum 4 years of playing experience in Concert Band.<br>
+-Represented school in Singapore Youth Festival Arts Presentation<br>
+-Confident in playing solo pieces <br>
+-Experience in Internal school and external performances<br>
+-Preferably at least a Sectional Leader or exhibiting potential leadership<br>
+-Pass selection audition and interview</td></tr>
 <tr><td><p><strong>Choir</strong></p></td><td><p>Represented school in Singapore Youth Festival Arts Presentation</p>
 
 <p>Preferably at least a Sectional Leader </p>
