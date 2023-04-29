@@ -44,9 +44,9 @@ Tamil Language &amp; Literature
 
 <p><strong>Eligibility Criteria:</strong></p>
 1.  Above average academic record in Secondary 3 Mid-Year &amp; Final Exams<br>
-2.  Exemplary Conduct Record
+2.  Exemplary Conduct Record <br><br>
 
-<table><colgroup><col><col></colgroup><tbody><tr><td><p> Area of Talent</p></td><td><p>Eligibility Criteria</p></td></tr>
+<table><colgroup style="width:100%"><col><col></colgroup><tbody><tr><td><p> Area of Talent</p></td><td><p>Eligibility Criteria</p></td></tr>
 <tr><td><p>Concert Band</p></td><td><p>Preferably with a minimum 4 years of playing experience in Concert Band.</p>
 
 <p>Represented school in Singapore Youth Festival Arts Presentation</p>
