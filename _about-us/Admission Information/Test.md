@@ -138,9 +138,9 @@ b) CCA Records<br>
 c) Other supporting documents – certificates of musical exams, certificates of participation in international competitions, etc<br>
 d) Please send by post to the following address:
 
-<strong>
-<p>DSA Coordinator<br>St Andrew's Junior College<br>5 Sorby Adams Drive<br>Singapore 357691
-<br>[TALENT: _____________ (enter your DSA talent)]</p></strong>
+
+<p><strong>DSA Coordinator<br>St Andrew's Junior College<br>5 Sorby Adams Drive<br>Singapore 357691</strong>
+<br><strong>[TALENT: _____________ (enter your DSA talent)]</strong></p>
 
 <p>Applicants are to ensure that they meet the following deadlines in order to be eligible for the exercise:</p>
 
