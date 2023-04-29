@@ -274,7 +274,7 @@ If you require any further information/assistance, please contact the following 
 <p>Ms Ng May Fun</p>
 
 <p><a href="mailto:ng_may_fun@moe.edu.sg">ng_may_fun@moe.edu.sg</a></p></td></tr>
-<tr><td><p>Other administrative matters </p></td><td><p>Mr Chay Wai Sum:</p>
+	<tr><td><p><strong>Other administrative matters</strong></p></td><td><p>Mr Chay Wai Sum:</p>
 
 <p><a href="mailto:chay_wai_sum@moe.edu.sg">chay_wai_sum@moe.edu.sg</a></p></td></tr>
 </tbody></table>
