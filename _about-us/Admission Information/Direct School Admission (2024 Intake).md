@@ -35,3 +35,7 @@ In particular, we strongly encourage those with above average academic results a
 
 <p align="justify">The 2023 DSA-JC Exercise opens in May 2023.  Shortlisted applicants will be contacted for a trial/audition and/or interview that will take place between end May and early August 2023.</p> 
 Do check out this site again on 3 May 2023.
+
+**Eligibility Criteria:** <br>
+* Above average academic record in Secondary 3 Mid-Year &amp; Final Exams <br>
+* Exemplary Conduct Record
