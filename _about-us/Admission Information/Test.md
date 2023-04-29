@@ -103,22 +103,22 @@ Pass selection trial and interview.<br>
 <strong>Tamil Language &amp; Literature</strong></td>
 	<td><strong>Eligibility &amp; Criteria: </strong><br>
 
-<p>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade <br></p>
-Applicants must meet at least one of the following MTL requirements: <br>
+<strong>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade <br></strong>
+		<strong>a) Applicants must meet at least one of the following MTL requirements: </strong><br>
 MT (L2) - A1 or A2<br>
-HMT - B3 or better<br><br>
-Applicants who offered the following subjects may have added advantage:  <br>
+HMT - B3 or better<br>
+<strong>b) Applicants who offered the following subjects may have added advantage:  </strong><br>
 Humanities (SS, Literature in CL/ML/TL) - preferably B3 or better<br>
 Literature in CL/ML/TL - preferably B4 or better<br>
 Special Programme (Chinese/Malay)/Bahasa Indonesia  - preferably B4 or better  <br>
-
-<p>2. School CCA relevant to the respective MT Language &amp; Culture</p>
-Applicants who have the following credits would have added advantage: <br>
+<strong>
+<p>2. School CCA relevant to the respective MT Language &amp; Culture</p> </strong>
+Applicants who have the following credits would have added advantage: <br><br>
 Competitions - Awards &amp; Achievements<br>
 Enrichment activities - Participation &amp; Involvement<br>
 Events - Leadership &amp; Coordination<br>
 
-<p>3. Passion &amp; Interest (External) relevant to the respective MT Language &amp; Culture</p>
+<strong><p>3. Passion &amp; Interest (External) relevant to the respective MT Language &amp; Culture</p></strong>
 Applicants who have the following credits would have added advantage: <br>
 Initiatives &amp; Participation <br>
 Commitment &amp; Contribution<br>
