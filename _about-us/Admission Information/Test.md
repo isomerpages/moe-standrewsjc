@@ -279,10 +279,10 @@ If you require any further information/assistance, please contact the following 
 <p><a href="mailto:chay_wai_sum@moe.edu.sg">chay_wai_sum@moe.edu.sg</a></p></td></tr>
 </tbody></table>
 
+Use the link below to download/view the DSA Trials/Audition dates. Thank you! <br>
 [SAJC 2024 DSA Trials &amp; Audition Dates](/files/2024_dsa_trials_audition_dates.pdf)
 
-<p><strong>[](/files/2024_dsa_trials_audition_dates.pdf)</strong></p>
-Use the link above to download/view the DSA Trials/Audition dates. Thank you!
+
 <p>1. PERFORMING ARTS</p>
 <p>2. SPORTS</p>
 <p>3. LANGUAGES &amp; HUMANITIES</p>
