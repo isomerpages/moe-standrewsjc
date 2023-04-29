@@ -167,26 +167,23 @@ Only successful applicants will be informed via email and/or phone.
 In-person selection audition/trial will be conducted.  Please see DSA Trial/Audition Schedule for specific instructions.<br>
 If you require any further information/assistance, please contact the following SAJC staff.<br>
 
-<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>CCA</strong></p></td><td><p><strong>Teachers In-Charge </strong><br><strong>Email Contact </strong></p></td></tr>
-<tr><td><p>Chinese Orchestra</p></td><td><p>Mdm Wang Min</p>
+<p></p><table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>CCA</strong></p></td><td><p><strong>Teachers In-Charge </strong><br><strong>Email Contact </strong></p></td></tr>
+<tr><td><p>Chinese Orchestra</p></td><td><p>Mdm Wang Min<br>
+<a href="mailto:wang_min@moe.edu.sg">wang_min@moe.edu.sg</a></p>
 
-<p><a href="mailto:zhang_li@moe.edu.sg">wang_min@moe.edu.sg</a></p>
+<p>Ms Loh Ke Yun
+<br><a href="mailto:loh_ke_yun@moe.edu.sg">loh_ke_yun@moe.edu.sg</a></p>
 
-<p>Ms Loh Ke Yun</p>
+<p>Mr Wee Lee Meng Lester<br>
+<a href="mailto:llester_wee@moe.edu.sg">llester_wee@moe.edu.sg</a></p>
+<p></p></td></tr>
+<tr><td><p>Choir</p></td><td>Mr Yeo Jia Tian:<br>
+<a href="mailto:yeo_jia_tian@moe.edu.sg">yeo_jia_tian@moe.edu.sg</a> </td></tr>
 
-<p><a href="mailto:loh_ke_yun@moe.edu.sg">loh_ke_yun@moe.edu.sg</a></p>
+<tr><td><p>Concert Band</p></td><td><p>Ms Jesulyn Lim <br>
+	<a href="mailto:lim_shi_en_jesulyn@moe.edu.sg">lim_shi_en_jesulyn@moe.edu.sg</a> 
 
-<p>Mr Wee Lee Meng Lester</p>
-
-<p>Lester_Wee@moe.edu.sg</p></td></tr>
-<tr><td><p>Choir</p></td><td><p>Mr Yeo Jia Tian:</p>
-
-<p>yeo_jia_tian@moe.edu.sg </p></td></tr>
-<tr><td><p>Concert Band</p></td><td><p>Ms Jesulyn Lim</p>
-
-<p>lim_shi_en_jesulyn@moe.edu.sg</p>
-
-<p>Ms Grace Leong</p>
+</p><p>Ms Grace Leong</p>
 
 <p>leong_jia_hui_grace @moe.edu.sg</p></td></tr>
 <tr><td><p>English Drama</p></td><td><p>Ms Salome Choa: <a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></p></td></tr>
