@@ -113,13 +113,13 @@ Humanities (SS, Literature in CL/ML/TL) - preferably B3 or better<br>
 Literature in CL/ML/TL - preferably B4 or better<br>
 Special Programme (Chinese/Malay)/Bahasa Indonesia  - preferably B4 or better  <br>
 <strong>
-<p>2. School CCA relevant to the respective MT Language &amp; Culture</p> </strong>
+2. School CCA relevant to the respective MT Language &amp; Culture </strong>
 Applicants who have the following credits would have added advantage: <br><br>
 Competitions - Awards &amp; Achievements<br>
 Enrichment activities - Participation &amp; Involvement<br>
 Events - Leadership &amp; Coordination<br>
 
-<strong><p>3. Passion &amp; Interest (External) relevant to the respective MT Language &amp; Culture</p></strong>
+<strong>3. Passion &amp; Interest (External) relevant to the respective MT Language &amp; Culture</strong>
 Applicants who have the following credits would have added advantage: <br>
 Initiatives &amp; Participation <br>
 Commitment &amp; Contribution<br>
