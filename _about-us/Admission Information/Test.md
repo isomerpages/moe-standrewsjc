@@ -281,7 +281,3 @@ If you require any further information/assistance, please contact the following 
 
 Use the link below to download/view the DSA Trials/Audition dates. Thank you! <br>
 [SAJC 2024 DSA Trials &amp; Audition Dates](/files/2024_dsa_trials_audition_dates.pdf)
-
-
-
-
