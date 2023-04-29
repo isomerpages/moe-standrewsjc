@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Admission Information
 ---
 <style>
-table, tr, th, td {
+table, th, td {
   border:1px solid black;
-  border-collapse: collapse;
 }
 </style>
 
