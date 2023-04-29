@@ -98,19 +98,17 @@ Pass selection trial and interview.<br>
 <p>(Water Polo Girls  – Swimmers who have represented their schools will be considered)</p></td></tr>
 <tr><td><strong>Chinese Language &amp; Literature</strong><br><br>
 
-<strong>Malay Language &amp; Literature</strong><br><strong>
+<strong>Malay Language &amp; Literature</strong><br>
 
-<p><strong>Tamil Language &amp; Literature</strong></p></strong></td><td><p>Eligibility &amp; Criteria: </p>
+<strong>Tamil Language &amp; Literature</strong></td>
+	<td><strong>Eligibility &amp; Criteria: </strong><br>
 
-<p>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade </p>
+<p>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade </p><br>
 
-<p>Applicants must meet at least one of the following MTL requirements:</p>
-
-<p>MT (L2) - A1 or A2</p>
-
-<p>HMT - B3 or better</p>
-
-<p>Applicants who offered the following subjects may have added advantage:  </p>
+Applicants must meet at least one of the following MTL requirements: <br>
+MT (L2) - A1 or A2<br>
+HMT - B3 or better<br><br>
+Applicants who offered the following subjects may have added advantage:  <p></p>
 
 <p>Humanities (SS, Literature in CL/ML/TL) - preferably B3 or better</p>
 
