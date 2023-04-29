@@ -144,9 +144,9 @@ d) Please send by post to the following address:
 
 <p>Applicants are to ensure that they meet the following deadlines in order to be eligible for the exercise:</p>
 
-<p><strong>DSA Phase 1: 1 July 2023, 3 pm</strong></p><strong>
+<p><strong>DSA Phase 1: 1 July 2023, 3 pm</strong></p>
 
-<p>DSA Phase 2: 5 Aug 2023, 3 pm</p></strong>
+<p><strong>DSA Phase 2: 5 Aug 2023, 3 pm</strong></p>
 <br>Incomplete application forms will not be considered.<br>
 
 <p>Online APPLICATION FORM:  [https://go.gov.sg/sajcdsa2023]</p>
