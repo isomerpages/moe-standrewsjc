@@ -186,7 +186,7 @@ If you require any further information/assistance, please contact the following 
 </p><p>Ms Grace Leong<br>
 	<a href="mailto:eong_jia_hui_grace @moe.edu.sg">leong_jia_hui_grace @moe.edu.sg</a> 
 </p></td></tr>
-<tr><td><p><strong>English Drama</strong></p></td><td><p>Ms Salome Choa: <a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></p></td></tr>
+<tr><td><p><strong>English Drama</strong></p></td><td><p>Ms Salome Choa: <br><a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></p></td></tr>
 <tr><td><p><strong>Guitar Ensemble</strong></p></td><td><p>Mdm Loh Lih Yeh:<br><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh@moe.edu.sg </a></p></td></tr>
 <tr><td><p><strong>Badminton <br>Boys &amp; Girls </strong></p></td><td><p>Ms Low Wanyi:<br><a href="mailto:Low_wanyi@moe.edu.sg">low_wanyi@moe.edu.sg</a></p>
 
@@ -212,7 +212,7 @@ If you require any further information/assistance, please contact the following 
 
 <p>Mr Dennis Chia<br><a href="mailto:chia_dennis@moe.edu.sg">chia_dennis@moe.edu.sg</a></p></td></tr>
 <tr><td><p><strong>Ten Pin Bowling Boys &amp; Girls</strong></p></td><td><p>Mr Aaron Lin: <br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">lin_jiahaoaaron@moe.edu.sg</a>  </p></td></tr>
-<tr><td><p><strong>Track and Field Boys &amp; Girls</strong></p></td><td><p>Mr Andrew Tan: <a href="mailto:tan_jin_xing_andrew@moe.edu.sg">tan_jin_xing_andrew@moe.edu.sg</a></p></td></tr>
+<tr><td><p><strong>Track and Field Boys &amp; Girls</strong></p></td><td><p>Mr Andrew Tan: <br><a href="mailto:tan_jin_xing_andrew@moe.edu.sg">tan_jin_xing_andrew@moe.edu.sg</a></p></td></tr>
 <tr><td><p><strong>Water Polo Boys &amp; Girls</strong></p></td><td><p>Ms Melissa Lim Singh<br><a href="mailto:melissa_lim_singh@moe.edu.sg">melissa_lim_singh@moe.edu.sg</a></p>
 
 <p>Mr Chia Ming Long<br><a href="mailto:chai_ming_long@moe.edu.sg">chai_ming_long@moe.edu.sg</a></p></td></tr>
