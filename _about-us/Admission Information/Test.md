@@ -183,94 +183,49 @@ If you require any further information/assistance, please contact the following 
 <tr><td><p><strong>Concert Band</strong></p></td><td><p>Ms Jesulyn Lim <br>
 	<a href="mailto:lim_shi_en_jesulyn@moe.edu.sg">lim_shi_en_jesulyn@moe.edu.sg</a> 
 
-</p><p>Ms Grace Leong</p>
-
-<p>leong_jia_hui_grace @moe.edu.sg</p></td></tr>
+</p><p>Ms Grace Leong<br>
+	<a href="mailto:eong_jia_hui_grace @moe.edu.sg">leong_jia_hui_grace @moe.edu.sg</a> 
+</p></td></tr>
 <tr><td><p><strong>English Drama</strong></p></td><td><p>Ms Salome Choa: <a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></p></td></tr>
-<tr><td><p><strong>Guitar Ensemble</strong></p></td><td><p>Mdm Loh Lih Yeh:</p>
-
-<p>loh_lih_yeh@moe.edu.sg </p></td></tr>
-<tr><td><p><strong>Badminton <br>Boys &amp; Girls </strong></p></td><td><p>Ms Low Wanyi:</p>
-
-<p><a href="mailto:Low_wanyi@moe.edu.sg">Low_wanyi@moe.edu.sg</a></p>
+<tr><td><p><strong>Guitar Ensemble</strong></p></td><td><p>Mdm Loh Lih Yeh:<br><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh@moe.edu.sg </a></p></td></tr>
+<tr><td><p><strong>Badminton <br>Boys &amp; Girls </strong></p></td><td><p>Ms Low Wanyi:<br><a href="mailto:Low_wanyi@moe.edu.sg">low_wanyi@moe.edu.sg</a></p>
 
 <p>Mr Peh Bock Kiat:<br><a href="mailto:peh_bock_kiat@moe.edu.sg">peh_bock_kiat@moe.edu.sg</a></p></td></tr>
-<tr><td><p><strong>Basketball Boys &amp; Girls</strong></p></td><td><p>Mr Gabriel Tang</p>
+<tr><td><p><strong>Basketball Boys &amp; Girls</strong></p></td><td><p>Mr Gabriel Tang<br><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg">gabriel_tang_jia_liang@moe.edu.sg</a></p>
 
-<p><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg">gabriel_tang_jia_liang@moe.edu.sg</a></p>
-
-<p>Ms Wong Weishan:</p>
-
-<p><a href="mailto:wong_weishan@moe.edu.sg">wong_weishan@moe.edu.sg</a> </p></td></tr>
+<p>Ms Wong Weishan:<br><a href="mailto:wong_weishan@moe.edu.sg">wong_weishan@moe.edu.sg</a> </p></td></tr>
 <tr><td><p><strong>Football Boys</strong></p></td><td><p>Mr Roland Lee:<br><a href="mailto:lee_kye_loong_roland@moe.edu.sg">lee_kye_loong_roland@moe.edu.sg</a> </p></td></tr>
-<tr><td><p><strong>Football Girls</strong></p></td><td><p>Mr Frederick Koh:</p>
+<tr><td><p><strong>Football Girls</strong></p></td><td>
+	<p>Mr Frederick Koh:<br><a href="mailto:koh_eng_chye_frederick@moe.edu.sg">koh_eng_chye_ frederick @moe.edu.sg</a></p>
+</td></tr><tr><td><p><strong>Netball Girls</strong></p></td><td><p>Mr Keith Teo:<br><a href="mailto:teo_ping_wei@moe.edu.sg">teo_ping_wei@moe.edu.sg</a></p>
 
-<p>koh_eng_chye_frederick@moe.edu.sg</p></td></tr>
-<tr><td><p><strong>Netball Girls</strong></p></td><td><p>Mr Keith Teo:</p>
+<p>Ms Jessica Yim<br><a href="mailto:yim_miao_ting_jessica@moe.edu.sg">yim_miao_ting_jessica@moe.edu.sg</a></p></td></tr>
+<tr><td><p><strong>Hockey <br>Boys &amp; Girls</strong></p></td><td><p>Mr Lyndon Chua<br><a href="mailto:chua_chun_lin_lyndon@moe.edu.sg">chua_chun_lin_lyndon@moe.edu.sg</a></p>
 
-<p><a href="mailto:teo_ping_wei@moe.edu.sg">teo_ping_wei@moe.edu.sg</a></p>
+<p>Ms Lee Jia Yi<br><a href="mailto:lee_jia_yi_a@moe.edu.sg">lee_jia_yi_a@moe.edu.sg</a>  </p></td></tr>
+<tr><td><p><strong>Rugby Boys</strong></p></td><td><p>Mr Lim Zi Qi<br><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></p>
 
-<p>Ms Jessica Yim</p>
+<p>Mr Mohammed Azlan Ab Malek<br><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg">mohammed_azlan_ab_malek@moe.edu.sg</a></p>
 
-<p><a href="mailto:yim_miao_ting_jessica@moe.edu.sg">yim_miao_ting_jessica@moe.edu.sg</a></p></td></tr>
-<tr><td><p><strong>Hockey <br>Boys &amp; Girls</strong></p></td><td><p>Mr Lyndon Chua</p>
-
-<p><a href="mailto:chua_chun_lin_lyndon@moe.edu.sg">chua_chun_lin_lyndon@moe.edu.sg</a></p>
-
-<p>Ms Lee Jia Yi</p>
-
-<p><a href="mailto:lee_jia_yi_a@moe.edu.sg">lee_jia_yi_a@moe.edu.sg</a>  </p></td></tr>
-<tr><td><p><strong>Rugby Boys</strong></p></td><td><p>Mr Lim Zi Qi</p>
-
-<p><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></p>
-
-<p>Mr Mohammed Azlan Ab Malek</p>
-
-<p><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg">mohammed_azlan_ab_malek@moe.edu.sg</a></p>
-
-<p>Raymond Phua Song Boon </p>
-
-<p><a href="mailto:raymond_phua_song_boon@moe.edu.sg">raymond_phua_song_boon@moe.edu.sg</a></p></td></tr>
+<p>Raymond Phua Song Boon <br><a href="mailto:raymond_phua_song_boon@moe.edu.sg">raymond_phua_song_boon@moe.edu.sg</a></p></td></tr>
 <tr><td><p><strong>Tennis Girls &amp; Boys</strong></p></td><td><p>Ms Cynthia Tan<br><a href="mailto:tan_mei_fong_cynthia@moe.edu.sg">tan_mei_fong_cynthia@moe.edu.sg</a> </p>
 
-<p>Mr Dennis Chia</p>
-
-<p><a href="mailto:chia_dennis@moe.edu.sg">chia_dennis@moe.edu.sg</a></p></td></tr>
-<tr><td><p><strong>Ten Pin Bowling Boys &amp; Girls</strong></p></td><td><p>Mr Aaron Lin:  </p>
-
-<p>lin_jiahaoaaron<a href="mailto:wong_wei_lin_julia@moe.edu.sg">@moe.edu.sg</a>  </p></td></tr>
+<p>Mr Dennis Chia<br><a href="mailto:chia_dennis@moe.edu.sg">chia_dennis@moe.edu.sg</a></p></td></tr>
+<tr><td><p><strong>Ten Pin Bowling Boys &amp; Girls</strong></p></td><td><p>Mr Aaron Lin: <br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">lin_jiahaoaaron@moe.edu.sg</a>  </p></td></tr>
 <tr><td><p><strong>Track and Field Boys &amp; Girls</strong></p></td><td><p>Mr Andrew Tan: <a href="mailto:tan_jin_xing_andrew@moe.edu.sg">tan_jin_xing_andrew@moe.edu.sg</a></p></td></tr>
-<tr><td><p><strong>Water Polo Boys &amp; Girls</strong></p></td><td><p>Ms Melissa Lim Singh</p>
+<tr><td><p><strong>Water Polo Boys &amp; Girls</strong></p></td><td><p>Ms Melissa Lim Singh<br><a href="mailto:melissa_lim_singh@moe.edu.sg">melissa_lim_singh@moe.edu.sg</a></p>
 
-<p><a href="mailto:melissa_lim_singh@moe.edu.sg">melissa_lim_singh@moe.edu.sg</a></p>
+<p>Mr Chia Ming Long<br><a href="mailto:chai_ming_long@moe.edu.sg">chai_ming_long@moe.edu.sg</a></p></td></tr>
+<tr><td><p><strong>Chinese Language &amp; Literature</strong></p></td><td><p>Mdm Wang Min<br><a href="mailto:zhang_li@moe.edu.sg">wang_min@moe.edu.sg</a></p>
 
-<p>Mr Chia Ming Long</p>
+<p>Ms Ng May Fun<br><a href="mailto:ng_may_fun@moe.edu.sg">ng_may_fun@moe.edu.sg</a></p></td></tr>
+<tr><td><p><strong>Malay Language &amp; Literature</strong></p></td><td><p>Dr Mohamed Pitchay Gani Aziz<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_pitchay_gani_b@moe.edu.sg</a></p>
 
-<p><a href="mailto:chai_ming_long@moe.edu.sg">chai_ming_long@moe.edu.sg</a></p></td></tr>
-<tr><td><p><strong>Chinese Language &amp; Literature</strong></p></td><td><p>Mdm Wang Min</p>
+<p>Ms Ng May Fun<br><a href="mailto:ng_may_fun@moe.edu.sg">ng_may_fun@moe.edu.sg</a></p></td></tr>
+	<tr><td><p><strong>Tamil Language &amp; Literature </strong></p></td><td><p>Dr Ganapathy Rajagopalan<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan@moe.edu.sg</a></p>
 
-<p><a href="mailto:zhang_li@moe.edu.sg">wang_min@moe.edu.sg</a></p>
-
-<p>Ms Ng May Fun</p>
-
-<p><a href="mailto:ng_may_fun@moe.edu.sg">ng_may_fun@moe.edu.sg</a></p></td></tr>
-<tr><td><p><strong>Malay Language &amp; Literature</strong></p></td><td><p>Dr Mohamed Pitchay Gani Aziz</p>
-
-<p><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_pitchay_gani_b@moe.edu.sg</a></p>
-
-<p>Ms Ng May Fun</p>
-
-<p><a href="mailto:ng_may_fun@moe.edu.sg">ng_may_fun@moe.edu.sg</a></p></td></tr>
-	<tr><td><p><strong>Tamil Language &amp; Literature </strong></p></td><td><p>Dr Ganapathy Rajagopalan</p>
-
-<p><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan@moe.edu.sg</a></p>
-
-<p>Ms Ng May Fun</p>
-
-<p><a href="mailto:ng_may_fun@moe.edu.sg">ng_may_fun@moe.edu.sg</a></p></td></tr>
-	<tr><td><p><strong>Other administrative matters</strong></p></td><td><p>Mr Chay Wai Sum:</p>
-
-<p><a href="mailto:chay_wai_sum@moe.edu.sg">chay_wai_sum@moe.edu.sg</a></p></td></tr>
+<p>Ms Ng May Fun<br><a href="mailto:ng_may_fun@moe.edu.sg">ng_may_fun@moe.edu.sg</a></p></td></tr>
+	<tr><td><p><strong>Other administrative matters</strong></p></td><td><p>Mr Chay Wai Sum:<br><a href="mailto:chay_wai_sum@moe.edu.sg">chay_wai_sum@moe.edu.sg</a></p></td></tr>
 </tbody></table>
 
 Use the link below to download/view the DSA Trials/Audition dates. Thank you! <br>
