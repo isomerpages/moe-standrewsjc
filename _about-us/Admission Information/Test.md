@@ -55,72 +55,52 @@ Tamil Language &amp; Literature
 2.  Exemplary Conduct Record <br><br>
 
 <table><colgroup><col><col></colgroup><tbody><tr><td><p> <strong>Area of Talent</strong></p></td><td><p><strong>Eligibility Criteria</strong></p></td></tr>
-<tr><td><p><strong>Concert Band</strong></p></td><td>-Preferably with a minimum 4 years of playing experience in Concert Band.<br>
--Represented school in Singapore Youth Festival Arts Presentation<br>
--Confident in playing solo pieces <br>
--Experience in Internal school and external performances<br>
--Preferably at least a Sectional Leader or exhibiting potential leadership<br>
--Pass selection audition and interview</td></tr>
-<tr><td><p><strong>Choir</strong></p></td><td><p>Represented school in Singapore Youth Festival Arts Presentation</p>
-
-<p>Preferably at least a Sectional Leader </p>
-
-<p>Pass selection audition and interview.</p></td></tr>
-<tr><td><p><strong>Chinese Orchestra</strong></p></td><td><p>Represented school in Singapore Youth Festival Arts Presentation</p>
-
-<p>Achievement/Awards in Singapore Youth Festival Arts Presentation</p>
-
-<p>Preferably at least a Sectional Leader </p>
-
-<p>Pass selection audition and interview.</p></td></tr>
-<tr><td><p><strong>English Drama</strong></p></td><td><p>Preferably represented school in Singapore Youth Festival Drama Arts Presentation</p>
-
-<p>Have acting and/ or staging experiences outside the Singapore Youth Festival Arts Presentation </p>
-
-<p>Pass selection audition and interview.</p>
-
-<p>Candidates who have acting or crew experience in TV, video, film or professional theatre companies, such as Act 3, will also be considered.</p></td></tr>
-<tr><td><p><strong>Guitar Ensemble </strong></p></td><td><p>Preferably with a minimum 3 years of playing experience.</p>
-
-<p>Represented school in Singapore Youth Festival Arts Presentation</p>
-
-<p>Achievement/Awards in Singapore Youth Festival Arts Presentation</p>
-
-<p>Preferably at least a Sectional Leader </p>
-
-<p>Pass selection audition and interview.</p></td></tr>
-<tr><td><p><strong>Badminton</strong></p><strong>
-
-<p><strong>Basketball</strong></p><strong>
-
-<p><strong>Bowling </strong></p><strong>
-
-<p><strong>Football</strong></p><strong>
-
-<p><strong>Hockey</strong></p><strong>
-
-<p><strong>Rugby</strong></p><strong>
-
-<p><strong>Netball</strong></p><strong>
-
-<p><strong>Tennis</strong></p><strong>
-
-<p><strong>Track and Field</strong></p><strong>
-
-<p><strong>Water Polo</strong></p></strong></strong></strong></strong></strong></strong></strong></strong></strong></td><td><p>Preferably with a minimum 3 years of active participation in the CCA</p>
-
-<p>Representation at national and zonal schools' competitions, national or club level.</p>
-
-<p>Achievement/Awards in National Schools'/international competitions</p>
-
-<p>Pass selection trial and interview.</p>
+<tr><td><p><strong>Concert Band</strong></p></td><td>Preferably with a minimum 4 years of playing experience in Concert Band.<br>
+Represented school in Singapore Youth Festival Arts Presentation<br>
+Confident in playing solo pieces <br>
+Experience in Internal school and external performances<br>
+Preferably at least a Sectional Leader or exhibiting potential leadership<br>
+Pass selection audition and interview</td></tr>
+	
+<tr><td><p><strong>Choir</strong></p></td><td>Represented school in Singapore Youth Festival Arts Presentation<br>
+Preferably at least a Sectional Leader <br>
+Pass selection audition and interview.</td></tr>
+<tr><td><p><strong>Chinese Orchestra</strong></p></td><td>Represented school in Singapore Youth Festival Arts Presentation<br>
+Achievement/Awards in Singapore Youth Festival Arts Presentation<br>
+Preferably at least a Sectional Leader <br>
+Pass selection audition and interview.</td></tr>
+	
+<tr><td><p><strong>English Drama</strong></p></td><td>Preferably represented school in Singapore Youth Festival Drama Arts Presentation<br>
+Have acting and/ or staging experiences outside the Singapore Youth Festival Arts Presentation <br>
+Pass selection audition and interview.<br>
+Candidates who have acting or crew experience in TV, video, film or professional theatre companies, such as Act 3, will also be considered.</td></tr>
+	
+<tr><td><p><strong>Guitar Ensemble </strong></p></td><td>Preferably with a minimum 3 years of playing experience.<br>
+Represented school in Singapore Youth Festival Arts Presentation<br>
+Achievement/Awards in Singapore Youth Festival Arts Presentation<br>
+Preferably at least a Sectional Leader <br>
+Pass selection audition and interview.</td></tr>
+	
+<tr><td><strong>Badminton</strong><br><strong>
+<strong>Basketball</strong><br><strong>
+<strong>Bowling </strong><br><strong>
+<strong>Football</strong><br><strong>
+<strong>Hockey</strong><br><strong>
+<strong>Rugby</strong><br><strong>
+<strong>Netball</strong><br><strong>
+<strong>Tennis</strong><br><strong>
+<strong>Track and Field</strong><br><strong>
+<strong>Water Polo</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></td><td>Preferably with a minimum 3 years of active participation in the CCA<br>
+Representation at national and zonal schools' competitions, national or club level.<br>
+Achievement/Awards in National Schools'/international competitions<br>
+Pass selection trial and interview.<br>
 
 <p>(Water Polo Girls  – Swimmers who have represented their schools will be considered)</p></td></tr>
-<tr><td><p><strong>Chinese Language &amp; Literature</strong></p><strong>
+<tr><td><strong>Chinese Language &amp; Literature</strong><br><br>
 
-<p><strong>Malay Language &amp; Literature</strong></p><strong>
+<strong>Malay Language &amp; Literature</strong><br><strong>
 
-<p><strong>Tamil Language &amp; Literature</strong></p></strong></strong></td><td><p>Eligibility &amp; Criteria: </p>
+<p><strong>Tamil Language &amp; Literature</strong></p></strong></td><td><p>Eligibility &amp; Criteria: </p>
 
 <p>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade </p>
 
