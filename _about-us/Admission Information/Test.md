@@ -103,61 +103,44 @@ Pass selection trial and interview.<br>
 <strong>Tamil Language &amp; Literature</strong></td>
 	<td><strong>Eligibility &amp; Criteria: </strong><br>
 
-<p>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade </p><br>
-
+<p>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade <br></p>
 Applicants must meet at least one of the following MTL requirements: <br>
 MT (L2) - A1 or A2<br>
 HMT - B3 or better<br><br>
-Applicants who offered the following subjects may have added advantage:  <p></p>
-
-<p>Humanities (SS, Literature in CL/ML/TL) - preferably B3 or better</p>
-
-<p>Literature in CL/ML/TL - preferably B4 or better</p>
-
-<p>Special Programme (Chinese/Malay)/Bahasa Indonesia  - preferably B4 or better  </p>
+Applicants who offered the following subjects may have added advantage:  <br>
+Humanities (SS, Literature in CL/ML/TL) - preferably B3 or better<br>
+Literature in CL/ML/TL - preferably B4 or better<br>
+Special Programme (Chinese/Malay)/Bahasa Indonesia  - preferably B4 or better  <br>
 
 <p>2. School CCA relevant to the respective MT Language &amp; Culture</p>
-
-<p>Applicants who have the following credits would have added advantage: </p>
-
-<p>Competitions - Awards &amp; Achievements</p>
-
-<p>Enrichment activities - Participation &amp; Involvement</p>
-
-<p>Events - Leadership &amp; Coordination</p>
+Applicants who have the following credits would have added advantage: <br>
+Competitions - Awards &amp; Achievements<br>
+Enrichment activities - Participation &amp; Involvement<br>
+Events - Leadership &amp; Coordination<br>
 
 <p>3. Passion &amp; Interest (External) relevant to the respective MT Language &amp; Culture</p>
+Applicants who have the following credits would have added advantage: <br>
+Initiatives &amp; Participation <br>
+Commitment &amp; Contribution<br>
+Membership &amp; Involvement in relevant Clubs or Societies<br>
 
-<p>Applicants who have the following credits would have added advantage: </p>
-
-<p> Initiatives &amp; Participation </p>
-
-<p>Commitment &amp; Contribution</p>
-
-<p>Membership &amp; Involvement in relevant Clubs or Societies</p>
-
-<p>Note: </p>
-
-<p>Applicants who are successfully accepted are expected to offer A-Level H2 Chinese/Malay/Tamil Language &amp; Literature as one of their H2 subjects during the two years in SAJC.</p></td></tr>
+<p><strong>Note: </strong></p>
+Applicants who are successfully accepted are expected to offer A-Level H2 Chinese/Malay/Tamil Language &amp; Literature as one of their H2 subjects during the two years in SAJC.</td></tr>
 </tbody></table>
 
 <p>Interested applicants who do not meet the criteria may still apply based on their ability and potential.</p>
 
-<p>APPLICATION PROCEDURE</p>
+<p><strong>APPLICATION PROCEDURE</strong></p>
 
-<p>Please complete the online application form and send by post or by hand the photocopies of the following documents:</p>
+Please complete the online application form and send by post or by hand the photocopies of the following documents:<br>
+a) Results Slips – Secondary 3 Mid-year (if any) &amp; Final Exams, Sec 4 Mid-year Exams (if any)<br>
+b) CCA Records<br>
+c) Other supporting documents – certificates of musical exams, certificates of participation in international competitions, etc<br>
+d) Please send by post to the following address:
 
-<p>Results Slips – Secondary 3 Mid-year (if any) &amp; Final Exams, Sec 4 Mid-year Exams (if any)</p>
-
-<p>CCA Records</p>
-
-<p>Other supporting documents – certificates of musical exams, certificates of participation in international competitions, etc</p>
-
-<p>Please send by post to the following address:</p>
-
-<p>DSA Coordinator<br>St Andrew's Junior College<br>5 Sorby Adams Drive<br>Singapore 357691</p>
-
-<p>[TALENT: _____________ (enter your DSA talent)]</p>
+<strong>
+<p>DSA Coordinator<br>St Andrew's Junior College<br>5 Sorby Adams Drive<br>Singapore 357691
+<br>[TALENT: _____________ (enter your DSA talent)]</p></strong>
 
 <p>Applicants are to ensure that they meet the following deadlines in order to be eligible for the exercise:</p>
 
