@@ -177,7 +177,7 @@ If you require any further information/assistance, please contact the following 
 <p>Mr Wee Lee Meng Lester<br>
 <a href="mailto:llester_wee@moe.edu.sg">llester_wee@moe.edu.sg</a></p>
 <p></p></td></tr>
-<tr><td><p><strong>Choir</strong></p></td><td>Mr Yeo Jia Tian:<br>
+	<tr><td><p><strong>Choir</strong></p></td><td><p>Mr Yeo Jia Tian:<br></p>
 <a href="mailto:yeo_jia_tian@moe.edu.sg">yeo_jia_tian@moe.edu.sg</a> </td></tr>
 
 <tr><td><p><strong>Concert Band</strong></p></td><td><p>Ms Jesulyn Lim <br>
