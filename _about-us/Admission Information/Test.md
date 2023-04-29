@@ -5,8 +5,17 @@ description: ""
 third_nav_title: Admission Information
 ---
 <style>
-table, th, td {
+table {
   border:1px solid black;
+  border-collapse: collapse;
+}
+	tr {
+  border:2px solid grey;
+  border-collapse: collapse;
+}
+	td {
+  border:2px solid grey;
+  border-collapse: collapse;
 }
 </style>
 
@@ -45,8 +54,8 @@ Tamil Language &amp; Literature
 1.  Above average academic record in Secondary 3 Mid-Year &amp; Final Exams<br>
 2.  Exemplary Conduct Record <br><br>
 
-<table><colgroup style="width:100%"><col><col></colgroup><tbody><tr><td><p> Area of Talent</p></td><td><p>Eligibility Criteria</p></td></tr>
-<tr><td><p>Concert Band</p></td><td><p>Preferably with a minimum 4 years of playing experience in Concert Band.</p>
+<table><colgroup><col><col></colgroup><tbody><tr><td><p> <strong>Area of Talent</strong></p></td><td><p><strong>Eligibility Criteria</strong></p></td></tr>
+<tr><td><p><strong>Concert Band</strong></p></td><td><p>Preferably with a minimum 4 years of playing experience in Concert Band.</p>
 
 <p>Represented school in Singapore Youth Festival Arts Presentation</p>
 
@@ -57,26 +66,26 @@ Tamil Language &amp; Literature
 <p>Preferably at least a Sectional Leader or exhibiting potential leadership</p>
 
 <p>Pass selection audition and interview</p></td></tr>
-<tr><td><p>Choir</p></td><td><p>Represented school in Singapore Youth Festival Arts Presentation</p>
+<tr><td><p><strong>Choir</strong></p></td><td><p>Represented school in Singapore Youth Festival Arts Presentation</p>
 
 <p>Preferably at least a Sectional Leader </p>
 
 <p>Pass selection audition and interview.</p></td></tr>
-<tr><td><p>Chinese Orchestra</p></td><td><p>Represented school in Singapore Youth Festival Arts Presentation</p>
+<tr><td><p><strong>Chinese Orchestra</strong></p></td><td><p>Represented school in Singapore Youth Festival Arts Presentation</p>
 
 <p>Achievement/Awards in Singapore Youth Festival Arts Presentation</p>
 
 <p>Preferably at least a Sectional Leader </p>
 
 <p>Pass selection audition and interview.</p></td></tr>
-<tr><td><p>English Drama</p></td><td><p>Preferably represented school in Singapore Youth Festival Drama Arts Presentation</p>
+<tr><td><p><strong>English Drama</strong></p></td><td><p>Preferably represented school in Singapore Youth Festival Drama Arts Presentation</p>
 
 <p>Have acting and/ or staging experiences outside the Singapore Youth Festival Arts Presentation </p>
 
 <p>Pass selection audition and interview.</p>
 
 <p>Candidates who have acting or crew experience in TV, video, film or professional theatre companies, such as Act 3, will also be considered.</p></td></tr>
-<tr><td><p>Guitar Ensemble </p></td><td><p>Preferably with a minimum 3 years of playing experience.</p>
+<tr><td><p><strong>Guitar Ensemble </strong></p></td><td><p>Preferably with a minimum 3 years of playing experience.</p>
 
 <p>Represented school in Singapore Youth Festival Arts Presentation</p>
 
@@ -85,25 +94,25 @@ Tamil Language &amp; Literature
 <p>Preferably at least a Sectional Leader </p>
 
 <p>Pass selection audition and interview.</p></td></tr>
-<tr><td><p>Badminton</p>
+<tr><td><p><strong>Badminton</strong></p><strong>
 
-<p>Basketball</p>
+<p><strong>Basketball</strong></p><strong>
 
-<p>Bowling </p>
+<p><strong>Bowling </strong></p><strong>
 
-<p>Football</p>
+<p><strong>Football</strong></p><strong>
 
-<p>Hockey</p>
+<p><strong>Hockey</strong></p><strong>
 
-<p>Rugby</p>
+<p><strong>Rugby</strong></p><strong>
 
-<p>Netball</p>
+<p><strong>Netball</strong></p><strong>
 
-<p>Tennis</p>
+<p><strong>Tennis</strong></p><strong>
 
-<p>Track and Field</p>
+<p><strong>Track and Field</strong></p><strong>
 
-<p>Water Polo</p></td><td><p>Preferably with a minimum 3 years of active participation in the CCA</p>
+<p><strong>Water Polo</strong></p></strong></strong></strong></strong></strong></strong></strong></strong></strong></td><td><p>Preferably with a minimum 3 years of active participation in the CCA</p>
 
 <p>Representation at national and zonal schools' competitions, national or club level.</p>
 
@@ -112,11 +121,11 @@ Tamil Language &amp; Literature
 <p>Pass selection trial and interview.</p>
 
 <p>(Water Polo Girls  – Swimmers who have represented their schools will be considered)</p></td></tr>
-<tr><td><p>Chinese Language &amp; Literature</p>
+<tr><td><p><strong>Chinese Language &amp; Literature</strong></p><strong>
 
-<p>Malay Language &amp; Literature</p>
+<p><strong>Malay Language &amp; Literature</strong></p><strong>
 
-<p>Tamil Language &amp; Literature</p></td><td><p>Eligibility &amp; Criteria: </p>
+<p><strong>Tamil Language &amp; Literature</strong></p></strong></strong></td><td><p>Eligibility &amp; Criteria: </p>
 
 <p>1. Relevant Subjects in the respective MT (CL/ML/TL) &amp; Grade </p>
 
