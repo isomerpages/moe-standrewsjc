@@ -280,7 +280,7 @@ If you require any further information/assistance, please contact the following 
 </tbody></table>
 
 <p><strong>DSA TRIAL/AUDITION DATES</strong></p>
-Use the link below do view/download the DSA Trials/Audition dates.
+Use the link above to download/view the DSA Trials/Audition dates. Thank you!
 <p>1. PERFORMING ARTS</p>
 <p>2. SPORTS</p>
 <p>3. LANGUAGES &amp; HUMANITIES</p>
