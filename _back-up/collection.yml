@@ -2,6 +2,7 @@ collections:
   back-up:
     output: true
     order:
+      - Direct School Admission (2024 Intake).md
       - 2012 SAJC HOME–SCHOOL PARTNERSHIP.md
       - 2013 SAJC HOME–SCHOOL PARTNERSHIP.md
       - 2017 SAJC HOME–SCHOOL PARTNERSHIP.md
