@@ -134,10 +134,10 @@ Applicants who are successfully accepted are expected to offer A-Level H2 Chines
 <p><strong>APPLICATION PROCEDURE</strong></p>
 
 Please complete the online application form and send by post or by hand the photocopies of the following documents:<br>
-a) Results Slips – Secondary 3 Mid-year (if any) &amp; Final Exams, Sec 4 Mid-year Exams (if any)<br>
+*a) Results Slips – Secondary 3 Mid-year (if any) &amp; Final Exams, Sec 4 Mid-year Exams (if any)<br>
 b) CCA Records<br>
 c) Other supporting documents – certificates of musical exams, certificates of participation in international competitions, etc<br>
-d) Please send by post to the following address:
+d) Please send by post to the following address:*
 
 
 <p><strong>DSA Coordinator<br>St Andrew's Junior College<br>5 Sorby Adams Drive<br>Singapore 357691</strong>
