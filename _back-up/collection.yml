@@ -2,6 +2,7 @@ collections:
   back-up:
     output: true
     order:
+      - Direct School Admission (2024).md
       - 2012 SAJC HOME–SCHOOL PARTNERSHIP.md
       - 2013 SAJC HOME–SCHOOL PARTNERSHIP.md
       - 2017 SAJC HOME–SCHOOL PARTNERSHIP.md
@@ -13,4 +14,4 @@ collections:
       - The School's Continuity Plan for Haze Situation.md
       - Interact Club.md
       - Canoeing.md
-      - Direct School Admission (DSA) – 2023 Intake.md
+      - Direct School Admission (DSA) – 2024 Intake.md
