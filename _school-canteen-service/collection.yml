@@ -1,4 +1,5 @@
 collections:
   school-canteen-service:
     output: true
-    order: []
+    order:
+      - School Canteen Service.md
