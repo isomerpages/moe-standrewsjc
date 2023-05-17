@@ -1,0 +1,4 @@
+collections:
+  canteen-advertisement:
+    output: true
+    order: []
