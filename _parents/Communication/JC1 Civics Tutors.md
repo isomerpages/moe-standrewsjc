@@ -57,7 +57,7 @@ third_nav_title: Communication
 <tr>
 <td>23S03</td>
 <td>Ms Jesulyn Lim</td>
-<td><a href="mailto:lim_shi_en_jesulyn@moe.edu.sg"><em>lim_shi_en_jesulyn@moe.edu.sg</em></a></div>
+<td><a href="mailto:lim_shi_en_jesulyn@moe.edu.sg"><em>lim_shi_en_jesulyn@moe.edu.sg</em></a>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ third_nav_title: Communication
 <tr>
 <td>23S12</td>
 <td>Ms Tong Shuqing</td>
-<td><a href="mailto:tong_shuqing@moe.edu.sg"><em>tong_shuqing@moe.edu.sgg</em></a><br />
+<td><a href="mailto:tong_shuqing@moe.edu.sg"><em>tong_shuqing@moe.edu.sgg</em></a><br>
 
 </td>
 </tr>

@@ -114,7 +114,7 @@ third_nav_title: Communication
 </tr>
 <tr>
 <td>22S13</td>
-<td>Ms Teow Wai Leng<br />Mdm Wang Min</td>
+<td>Ms Teow Wai Leng<br>Mdm Wang Min</td>
 <td>
 <div><a href="mailto:teow_wai_leng@moe.edu.sg"><em>teow_wai_leng @moe.edu.sg</em></a></div>
 <div><em><a href="mailto:wang_min@moe.edu.sg" target="">wang_min @moe.edu.sg</a></em></div>
@@ -162,9 +162,8 @@ third_nav_title: Communication
 </tr>
 <tr>
 <td>22S22</td>
-<td>Ms Somali Paul</td>
-<td><em><a href="mailto:somali_paul@moe.edu.sg">somali_paul @moe.edu.sg</a></em></td>
+<td>Mr Keith Teo</td>
+<td><em><a href="mailto:teo_ping_wei@moe.edu.sg">teo_ping_wei@moe.edu.sg </a></em></td>
 </tr>
 </tbody>
 </table>
-
