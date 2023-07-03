@@ -223,8 +223,12 @@ third_nav_title: College Staff
 <div><strong>Ms Loh Ke Yun</strong></div>
 <div><em><a href="mailto:loh_ke_yun@moe.edu.sg">loh_ke_yun @moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%; text-align: center;">&nbsp;</td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%; text-align: center;">
+<div><strong>Mr Wong Kia Jin Glenn</strong></div>
+<div><em><a href="mailto:wong_kia_jin_glenn@moe.edu.sg">wong_kia_jin_glenn
+	@moe.edu.sg</a></em></div>
+</td>
 </tr>
 </tbody>
 </table>
@@ -489,8 +493,6 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mr William Lee <br>Choong How<br></strong><a href="mailto:william_lee_choong_how@moe.edu.sg"><em>william_lee_choong_ how@moe.edu.sg</em></a></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/math16.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Yuen Wen Jun<br></strong><a href="mailto:yuen_wen_jun@moe.edu.sg"><em>yuen_wen_jun @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Peck Hwee Fang<br></strong><a href="mailto:peck_hwee_fang@moe.edu.sg"><em>peck_hwee_fang @moe.edu.sg</em></a></td>
 </tr>
@@ -534,16 +536,17 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 102.475%;" border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/mt5.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Chia Wai Ling<br></strong><a href="mailto:chia_wai_ling@moe.edu.sg"><em>chia_wai_ling @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/mt10.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Ms Wang Min<br></strong><em><a href="mailto:wang_min@moe.edu.sg">wang_min @moe.edu.sg</a></em></td>
-</tr>
-<tr>
+<td style="width: 25%; text-align: center;"><strong>Ms Wang Min<br></strong><a href="mailto:wang_min@moe.edu.sg"><em>wang_min @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/mt7.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mr Ganapathy Rajagopalan<br></strong><em><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan @moe.edu.sg</a></em></td>
+</tr>
+<tr>
 <td style="width: 25%;"><img src="/images/mt8.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Loh Lih Yeh<br></strong><em><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh @moe.edu.sg</a></em></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Mdm Mak Hee Man Hilda<br></strong><em><a href="mailto:mak_hee_man_hilda_1@moe.edu.sg">mak_hee_man_hilda_1
+	@moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/Staff/mt_sockhoon.png"></td>
