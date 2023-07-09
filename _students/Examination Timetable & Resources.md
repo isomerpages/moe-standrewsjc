@@ -9,8 +9,8 @@ description: ""
 [2023 JC2 Block Test (BT) Timetable](/files/2023/2023%20jc2%20bt_student%20version_final.pdf)
 
 ## **Weighted Assessment Schedule**
-
-[Term 3 JC1 WA Scedule](/files/2023/2023%20jc1%20ct_student%20version_final.pdf)<br>
+[Term 3 JC1 WA Schedule](/files/2023/2023_term3wa_schedule.pdf)
+<br>
 ## **Student Resources**<br>
 [1. 2023 A-Level Examination Rules &amp; Regulations](/files/2023/2023%20a%20level%20exam%20rules%20and%20regulations_seab.pdf) <br>
 [2. 2023 Approved List of Dictionaries](/files/2023/2023_approved%20list%20of%20dictionaries_seab.pdf) <br>
