@@ -182,7 +182,7 @@ Mrs Wee-Wong Wei Lin Julia<br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">won
 Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</a></p>
 </td>
 <td>
-<p>Econs</p>
+<p>Science</p>
 </td>
 </tr>
 <tr>
