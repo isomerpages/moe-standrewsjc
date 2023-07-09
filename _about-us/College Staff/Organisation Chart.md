@@ -67,7 +67,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/ed3.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Lim Mong Khai Melvin</strong></div>
-<div>L&nbsp;H/Economics 2</div>
+<div>L&nbsp;H/Economics</div>
 <div><em><a href="mailto:lim_mong_khai_melvin@moe.edu.sg">lim_mong_khai_melvin @moe.edu.sg</a></em></div>
 </td>
 <td style="width: 25%;"><img src="/images/ed4.png"></td>
@@ -274,7 +274,7 @@ third_nav_title: College Staff
 <div><strong>Mr Ma Huaqi</strong></div>
 <div>
 <div>
-<div>SH/Service Learning (Covering)<strong><br></strong></div>
+<div>SH/Service Learning <strong><br></strong></div>
 <div><em><a href="mailto:ma_huaqi@moe.edu.sg">ma_huaqi @moe.edu.sg</a></em></div>
 </div>
 </div>
@@ -283,7 +283,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Rachael Goh Cai Yun</strong></div>
 <div>
-<div>SH/Student Leadership 1<br>
+<div>SH/Student Leadership<br>
 <div><a href="mailto:goh_cai_yun_rachael@moe.edu.sg"><em>goh_cai_yun_rachael @moe.edu.sg</em></a></div>
 </div>
 </div>
@@ -304,11 +304,11 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Mohammed Azlan Ab Malek</strong></div>
 <div>
-<div>Mr Mohammed Azlan Ab Malek<br>
+<div><div>SH/Student Leadership 2 (Covering)<br><br>
 <div><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg"><em>mohammed_azlan_ ab_malek@moe.edu.sg</em></a></div>
 </div>
 </div>
-</td>
+</div></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/ed07.png"></td>
