@@ -539,7 +539,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/mt10.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Wang Min<br></strong><a href="mailto:wang_min@moe.edu.sg"><em>wang_min @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/mt7.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mr Ganapathy Rajagopalan<br></strong><em><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan @moe.edu.sg</a></em></td>
+<td style="width: 25%; text-align: center;"><strong>Dr Ganapathy Rajagopalan<br></strong><em><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan @moe.edu.sg</a></em></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/mt8.png"></td>
@@ -656,7 +656,7 @@ third_nav_title: College Staff
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>Teachers</strong></h4>
+
 </div>
 </li>
 <li><input id="accordion9" type="checkbox"> <label for="accordion9">Science Department</label>
