@@ -17,10 +17,10 @@ description: ""
 <li>Mother Tongue (MT) at H1 level</li>
 </ol>
 <p align="justify">In addition, students must offer 4 H2 subjects, or 3 H2 and 1 H1 content-based subjects, of which one must be from a contrasting discipline. Students who have the ability and aptitude are also able to offer subjects at H3 level. These may incorporate independent study projects, 1<sup>st</sup> year university modules or advanced examination papers.</p>
-<p align="justify"><strong>Subjects offered:<br></strong><u>H1 Subjects</u><br>Art, Biology, Chemistry, China Studies (English), Chinese Language, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language</p>
+<p align="justify"><strong>Subjects offered:<br></strong><u>H1 Subjects</u><br> Biology, Chemistry, Chinese Language, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language</p>
 <p align="justify"><u>H2 Subjects</u><br>Art, Biology, Chemistry, Chinese Language and Literature, Economics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language and Literature</p>
-<p align="justify"><u>H3 Subjects (with MOE Partners)</u><br>Biology, Economics, Geography, History, Physics</p>
-<p align="justify"><u>H3 Subjects (with College) based on demand</u><br>Chemistry, Mathematics, Physics</p>
+<p align="justify"><u>H3 Subjects (with MOE Partners)</u><br>Biology, Physics, Economics, Geography, History, Literature in English</p>
+<p align="justify"><u>H3 Subjects (within College) based on demand</u><br>Chemistry, Mathematics, Physics, Geography, History</p>
 <p><u>MT 'B' Subjects</u><br>Chinese 'B', Malay 'B', Tamil 'B'</p>
 <p align="justify"><strong>Project Work:<br></strong>Project Work requires students to work in a group of 4 or 5 to research a topic related to a project task assigned by the examining board for the GCE ‘A’ Level Examinations. Students have to submit a written report with a critical analysis of their chosen topic and its application in real world situations. Students are also assessed on their oral communication skills via a presentation of their research.&nbsp;</p>
 <p><strong>Assessments:<br></strong>The College conducts 2 major assessments for year one students and 2 major assessments for year two students. Continual Assessment via set assignments and/or modular tests is also practised.&nbsp;</p>
