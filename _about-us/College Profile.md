@@ -59,4 +59,4 @@ description: ""
 <p align="justify"><u>Subject Tutors&nbsp;</u>: Subject tutors teach the students of the class in the respective subjects. In the event that the Civics Tutor has left the College, the College will then rely on Subject Tutors' comments documented in the student's file.&nbsp;</p>
 <p align="justify"><strong>Certification of Documents:<br></strong>The College has no impression seal. Instead, photocopies of the original will be certified and signed by the relevant authorities.</p>
 <p><strong>Website:<br></strong>For more information on the College, please refer to its website at <a href="http://www.standrewsjc.moe.edu.sg/" target="">www.standrewsjc.moe.edu.sg</a>.</p>
-<p align="justify"><strong>Mr Tham Kine Thong<br>Principal<br></strong>St Andrew's Junior College<br><a href="/files/College_Profile_2022.pdf" target="_blank" rel="noopener">Click here to download the College Profile 2022</a></p>
+<p align="justify"><strong>Mr Tham Kine Thong<br>Principal<br></strong>St Andrew's Junior College<br><a href="/files/College_Profile_2023.pdf" target="_blank" rel="noopener">Click here to download the College Profile 2023</a></p>
