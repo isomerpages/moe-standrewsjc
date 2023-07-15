@@ -26,7 +26,7 @@ description: ""
 <p><strong>Assessments:<br></strong>The College conducts 2 major assessments for Year One students and 2 major assessments for Year Two students. Weighted Assessment via set assignments and/or modular tests is also practised.&nbsp;</p>
 <p align="justify">In the first year, there is an examination held in June/July and another held in September/October. A student must pass at least 2 H2 and 2 H1 subjects in the Promotional Examination to gain entry into the second year.</p>
 <p align="justify">In the second year, there are assessments held in March, June/July and August/September. The last assessment is in effect a “Preliminary Examination” for the GCE ‘A’ Level Examinations and begins in August of their second year. For the Preliminary Examination, the student sits for full-length papers(s) in each subject. At the GCE 'A' Level Examination, they seldom get a lower grade and many usually obtain at least one grade better than at the Preliminary Examination.&nbsp;</p>
-<p align="justify"><strong>Ranking:</strong><br>As the College does not rank its students, a table of our curriculum and an explanation of the grading system may be helpful for our students to evaluate themselves:&nbsp;<br><br></p>
+<p align="justify"><strong>Ranking:</strong><br>As the College does not rank its students, a table of the grading system may be helpful for our students to evaluate themselves:&nbsp;<br><br></p>
 <table>
 <tbody>
 <tr>
