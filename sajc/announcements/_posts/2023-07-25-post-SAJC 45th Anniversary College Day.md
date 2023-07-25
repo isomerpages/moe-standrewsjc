@@ -12,8 +12,6 @@ We would like to wish you all a blessed 45th Anniversary College Day. The colleg
 
 The College has also put together a special video montage to highlight the SAJC scholarships and the motivational comments from the recipients. Let’s hear from our awardees and be inspired by them. Keeping the flame burning brightly ever!
 
-[1. Principal's Report](/files/2023/college_day_principals_report_2023_v1.pdf)
-
-1. Principal's Report
-2. E-Booklet
+[1. Principal's Report](/files/2023/college_day_principals_report_2023_v1.pdf)<br>
+[2. E-Booklet](https://go.gov.sg/2023-college-day-ebooklet)<br>
 [3. TDP Scholarship Video](https://vimeo.com/848540251)
