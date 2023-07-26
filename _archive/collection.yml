@@ -1,5 +1,5 @@
 collections:
-  back-up:
+  archive:
     output: true
     order:
       - Direct School Admission (2024).md
