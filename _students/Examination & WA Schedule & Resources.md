@@ -5,8 +5,8 @@ description: ""
 ---
 ## **Examination Timetable**
 
-[2023 JC1 Common Test (CT) Timetable](/files/2023/2023%20jc1%20ct_student%20version_final.pdf)<br>
-[2023 JC2 Block Test (BT) Timetable](/files/2023/2023%20jc2%20bt_student%20version_final.pdf)
+[2023 JC2 Preliminary Examination Timetable](/files/2023/2023_jc2_prelim_exam_timetable_11aug.pdf)<br>
+
 
 ## **Weighted Assessment Schedule**
 [Term 3 JC1 WA Schedule](/files/2023/2023_term3wa_schedule.pdf)
