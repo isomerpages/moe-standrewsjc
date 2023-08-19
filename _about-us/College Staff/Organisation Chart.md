@@ -223,7 +223,7 @@ third_nav_title: College Staff
 <div><strong>Ms Loh Ke Yun</strong></div>
 <div><em><a href="mailto:loh_ke_yun@moe.edu.sg">loh_ke_yun @moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/glennwong.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Wong Kia Jin Glenn</strong></div>
 <div><em><a href="mailto:wong_kia_jin_glenn@moe.edu.sg">wong_kia_jin_glenn
@@ -279,12 +279,12 @@ third_nav_title: College Staff
 </div>
 </div>
 </td>
-<td style="width: 25%;"><img src="/images/ed06.png"></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Ms Rachael Goh Cai Yun</strong></div>
+<div><strong></strong></div>
 <div>
-<div>SH/Student Leadership<br>
-<div><a href="mailto:goh_cai_yun_rachael@moe.edu.sg"><em>goh_cai_yun_rachael @moe.edu.sg</em></a></div>
+<div><br>
+<div><a href="mailto:"><em></em></a></div>
 </div>
 </div>
 </td>
@@ -304,7 +304,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Mohammed Azlan Ab Malek</strong></div>
 <div>
-<div><div>SH/Student Leadership 2 (Covering)<br><br>
+<div><div>SH/Student Leadership (Covering)<br><br>
 <div><a href="mailto:mohammed_azlan_ab_malek@moe.edu.sg"><em>mohammed_azlan_ ab_malek@moe.edu.sg</em></a></div>
 </div>
 </div>
@@ -330,7 +330,7 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/ed09.png"></td>
+<td style="width: 25%;"><img src="/images/chengshiyun.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Cheng Shi Yun<br></strong><a href="mailto:cheng_shi_yun@moe.edu.sg"><em>cheng_shi_yun @moe.edu.sg</em></a></td>
 <td style="width: 25%;"><img src="/images/ed010.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -411,7 +411,7 @@ third_nav_title: College Staff
 <div><strong>Ms Yim Miao Ting Jessica</strong></div>
 <div><em><a href="mailto:yim_miao_ting_jessica@moe.edu.sg">yim_miao_ting_jessica @moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;"><img src="/images/ed026.png"></td>
+<td style="width: 25%;"><img src="/images/veenabharwani.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Ms Veena Bharwani</strong></div>
 <div><em><a href="mailto:veena_bharwani@moe.edu.sg">veena_bharwani @moe.edu.sg</a></em></div>
@@ -544,7 +544,7 @@ third_nav_title: College Staff
 <tr>
 <td style="width: 25%;"><img src="/images/mt8.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Loh Lih Yeh<br></strong><em><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh @moe.edu.sg</a></em></td>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/hildamak.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Mak Hee Man Hilda<br></strong><em><a href="mailto:mak_hee_man_hilda_1@moe.edu.sg">mak_hee_man_hilda_1
 	@moe.edu.sg</a></em></td>
 </tr>
@@ -856,11 +856,11 @@ third_nav_title: College Staff
 </tr>
 
 <tr>
-<td style="width: 25%;"><img src="/images/eas5.png"></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Mdm Chak Hung Ling Suanne</strong></div>
-<div>Admin Executive 1</div>
-<div><em><a href="mailto:chak_hung_ling_suanne@moe.edu.sg">chak_hung_ling_suan ne@moe.edu.sg&nbsp;</a></em></div>
+<div><strong></strong></div>
+<div></div>
+<div><em><a href="mailto:">&nbsp;</a></em></div>
 </td>
 <td style="width: 25%;"><img src="/images/yeesan.png"></td>
 <td style="width: 25%; text-align: center;">
@@ -904,7 +904,7 @@ third_nav_title: College Staff
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/eas8.png"></td>
+<td style="width: 25%;"><img src="/images/ngxiping.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mr Ng Xiping</strong></div>
 <div>ICT Manager</div>
@@ -954,8 +954,8 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong><strong>Ms Rasyidah Binte Mohammad Sanusi</strong></strong>
 <div><em><a href="mailto:rasyidah_mohammad_sanusi@moe.edu.sg">rasyidah_mohammad _sanusi@moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%; text-align: center;"><strong>&nbsp;</strong></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%; text-align: center;"><strong>Ms Meemaduma Manoja Priyangika<br></strong><em><a href="mailto:"></a></em></td>
 </tr>
 </tbody>
 </table>
