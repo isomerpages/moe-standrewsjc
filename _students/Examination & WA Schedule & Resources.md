@@ -6,10 +6,7 @@ description: ""
 ## **Examination Timetable**
 
 [2023 JC2 Preliminary Examination Timetable](/files/2023/2023_jc2_prelim_exam_timetable_11aug.pdf)<br>
-
-[2023 JC1 Final Examination Timetable]
-(/files/2023/2023 jc1 fe timetable_v2_student_26august.pdf)<br>
-
+[2023 JC1 Final Examination Timetable](/files/2023/2023%20jc1%20fe%20timetable_v2_student_26august.pdf)
 
 ## **Weighted Assessment Schedule**
 [Term 3 JC1 WA Schedule](/files/2023/2023_term3wa_schedule.pdf)
