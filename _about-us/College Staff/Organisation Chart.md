@@ -545,7 +545,7 @@ third_nav_title: College Staff
 <td style="width: 25%;"><img src="/images/mt8.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Mdm Loh Lih Yeh<br></strong><em><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh @moe.edu.sg</a></em></td>
 <td style="width: 25%;"><img src="/images/hildamak.png"></td>
-<td style="width: 25%; text-align: center;"><strong>Mdm Mak Hee Man Hilda<br></strong><em><a href="mailto:mak_hee_man_hilda_1@moe.edu.sg">mak_hee_man_hilda_1
+<td style="width: 25%; text-align: center;"><strong>Ms Mak Hee Man Hilda<br></strong><em><a href="mailto:mak_hee_man_hilda_1@moe.edu.sg">mak_hee_man_hilda_1
 	@moe.edu.sg</a></em></td>
 </tr>
 <tr>
