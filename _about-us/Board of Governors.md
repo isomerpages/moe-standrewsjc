@@ -7,7 +7,7 @@ description: ""
 Chairman
 
 **Mr Tham Kine Thong**  
-Secretary Principal
+Secretary / Principal, SAJC
 
 **Mr Tan Yong Hong Eric**  
 Treasurer
@@ -21,7 +21,7 @@ Committee Member
 **Mr David Ng Boon Kiong**  
 Committee Member
 
-**Rev Lee Peng Ong @ David**  
+**Rev David Lee**  
 Committee Member
 
 **Mr Leong Hon Mun Peter**  
