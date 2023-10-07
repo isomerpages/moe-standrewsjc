@@ -14,7 +14,7 @@ third_nav_title: Student Leadership
 <td style="width: 33.3333%;"><a href="/ccas/student-leadership/saints-advocate"><img src="/images/cca3.jpg"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/student-leadership/saint-for-christ">Saint for Christ</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/student-leadership/saint-for-christ">Saints for Christ</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/student-leadership/student-council">Student Council</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/student-leadership/saints-advocate">Saints Advocate</a></td>
 </tr>
