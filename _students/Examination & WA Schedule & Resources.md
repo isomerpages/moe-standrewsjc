@@ -5,12 +5,10 @@ description: ""
 ---
 ## **Examination Timetable**
 
-[2023 JC2 Preliminary Examination Timetable](/files/2023/2023_jc2_prelim_exam_timetable_11aug.pdf)<br>
-[2023 JC1 Final Examination Timetable](/files/2023/2023%20jc1%20fe%20timetable_v2_student_26august.pdf)
+Thank you for visiting this page. The 2023 Examinations for both levels has been concluded. The schedule for 2024 will be uploaded about a month before the major examinations 
 
 ## **Weighted Assessment Schedule**
-[Term 3 JC1 WA Schedule](/files/2023/2023_term3wa_schedule.pdf)
-<br>
+The 2023 JC1 WAs has been concluded.
 ## **Student Resources**<br>
 [1. 2023 A-Level Examination Rules &amp; Regulations](/files/2023/2023%20a%20level%20exam%20rules%20and%20regulations_seab.pdf) <br>
 [2. 2023 Approved List of Dictionaries](/files/2023/2023_approved%20list%20of%20dictionaries_seab.pdf) <br>
