@@ -4,16 +4,17 @@ permalink: /school-canteen-service/canteen/
 description: ""
 ---
 #### School Canteen Advertisement
-Thank you for visiting this page. We do not have any Canteen stall available for rent at the moment.
+Updated - 19 Oct 2023
 
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-
+|**Type of Stall**|**Closing Date**|**Requirement**|
+|:--------: | :--------: | :--------: |
+|Thai/Japanese and Korean food|29 December 2023|Halal/Non-halal
+|Economical bee hoon/mee/kuay teow|29 December 2023|Non-halal
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-[Application Form](/files/2023/canteen_stall_application_form.pdf)
+[Application Form](https://drive.google.com/file/d/13IZ7aNbwDa5VRxDpbTrRRxUG7ZKuKx1f/view?usp=sharing)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -25,7 +26,10 @@ Thank you for visiting this page. We do not have any Canteen stall available for
 * Address: 5 Sorby Adams Drive, Singapore 357691
 * Contact No: 6285 7008
 * Email: sajc@moe.edu.sg
-* Contact Person: Mdm Ng Yee San 
+
+Contact Person:
+* Mr Joseph Pereira (Operation Manager)
+* Mdm Ng Yee San (Administrative Executive)
 
 **How to get there?**
 * Nearest MRT: Potong Pasir (NE10 line) – 10 minutes walking distance
