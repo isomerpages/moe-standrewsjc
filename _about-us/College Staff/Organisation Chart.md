@@ -3,6 +3,7 @@ title: Organisation Chart
 permalink: /about-us/college-staff/organisation-chart/
 description: ""
 third_nav_title: College Staff
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">School Leaders</label>
@@ -493,7 +494,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong>Mr William Lee <br>Choong How<br></strong><a href="mailto:william_lee_choong_how@moe.edu.sg"><em>william_lee_choong_ how@moe.edu.sg</em></a></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/staff/maths_hweefang.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Peck Hwee Fang<br></strong><a href="mailto:peck_hwee_fang@moe.edu.sg"><em>peck_hwee_fang @moe.edu.sg</em></a></td>
 </tr>
 </tbody>
@@ -848,7 +849,7 @@ third_nav_title: College Staff
 <div><strong>Mdm Wu Miau Kee</strong></div>
 <div>Admin Manager 1<br><a href="mailto:wu_miau_kee@schools.gov.sg"><em>wu_miau_kee @schools.gov.sg</em></a></div>
 </td>
-<td style="width: 25%;"><img src="/images/eas2.png"></td>
+<td style="width: 25%;"><img src="/images/staff/eas_seowlayhoon.png"></td>
 <td style="width: 25%; text-align: center;">
 <div><strong>Mdm Seow Lay Hoon</strong></div>
 <div>Admin Manager 2<br><a href="mailto:seow_lay_hoon@schools.gov.sg"><em>seow_lay_hoon @schools.gov.sg</em></a></div>
@@ -918,12 +919,12 @@ third_nav_title: College Staff
 </td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/eas10.png"></td>
+<td style="width: 25%;"><img src="/images/default.png"></td>
 <td style="width: 25%; text-align: center;">
-<div><strong>Mr Mohamed Kasim Mohamed Raja</strong></div>
+<div><strong></strong></div>
 <div>
-<div>Desktop Engineer 2</div>
-<div><em><a href="mailto:mohamed.km@ncs.com.sg">mohamed.km @ncs.com.sg</a></em></div>
+<div></div>
+<div><em><a href="mailto:"></a></em></div>
 </div>
 </td>
 <td style="width: 25%;">&nbsp;</td>
@@ -954,7 +955,7 @@ third_nav_title: College Staff
 <td style="width: 25%; text-align: center;"><strong><strong>Ms Rasyidah Binte Mohammad Sanusi</strong></strong>
 <div><em><a href="mailto:rasyidah_mohammad_sanusi@moe.edu.sg">rasyidah_mohammad _sanusi@moe.edu.sg</a></em></div>
 </td>
-<td style="width: 25%;"><img src="/images/default.png"></td>
+<td style="width: 25%;"><img src="/images/Staff/eas_manoja.png"></td>
 <td style="width: 25%; text-align: center;"><strong>Ms Meemaduma Manoja Priyangika<br></strong><em><a href="mailto:"></a></em></td>
 </tr>
 </tbody>
