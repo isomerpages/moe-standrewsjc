@@ -1,0 +1,5 @@
+collections:
+  2024-open-house:
+    output: true
+    order:
+      - Open House 2024 Information.md

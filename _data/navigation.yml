@@ -7,8 +7,6 @@ links:
         url: /about-us/principals-message
       - title: Vision, Mission, Values
         url: /about-us/vision-mission-values
-      - title: Campus Tour
-        url: /about-us/campus-tour
       - title: Heritage
         url: /about-us/heritage
       - title: Board of Governors
@@ -19,10 +17,20 @@ links:
         url: /about-us/contact-us
       - title: Charity Status
         url: /about-us/charity-status
-      - title: Admission information
-        url: /about-us/Admission-Information/admission-info/
       - title: College Profile
         url: /about-us/college-profile
+  - title: Admissions
+    url: /about-us/Admission-Information/admission-info/
+    sublinks: []
+  - title: Curriculum
+    url: /curriculum/educational-philosophy-and-framework
+    sublinks:
+      - title: Philosophy & Framework
+        url: /curriculum/educational-philosophy-and-framework
+      - title: Subject Combinations
+        url: /curriculum/subject-combinations
+      - title: Academic Disciplines
+        url: /curriculum/academic-disciplines
   - title: CCA
     url: /ccas/student-leadership/
     sublinks:
@@ -34,15 +42,6 @@ links:
         url: /ccas/saints-on-stage
       - title: Clubs & Societies
         url: /ccas/clubs-n-societies
-  - title: Curriculum
-    url: /curriculum/educational-philosophy-and-framework
-    sublinks:
-      - title: Philosophy & Framework
-        url: /curriculum/educational-philosophy-and-framework
-      - title: Subject Combinations
-        url: /curriculum/subject-combinations
-      - title: Academic Disciplines
-        url: /curriculum/academic-disciplines
   - title: The Saints Experience
     url: /the-saints-experience/exemplary-character
     sublinks:
@@ -56,6 +55,8 @@ links:
         url: /the-saints-experience/community-builder
       - title: Through the Lens of Saints
         url: /the-saints-experience/through-the-lens-of-saints
+      - title: Campus Tour
+        url: New submenu/about-us/campus-tour
   - title: St Andrew's Family
     url: /st-andrews-family/parents-support-group
     sublinks:
