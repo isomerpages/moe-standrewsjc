@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH2024_1280x720px.png
+      background: /images/test1.jpg
       key_highlights:
         - title: Students
           description: ""
