@@ -3,6 +3,7 @@ title: CCA Teachers–in–Charge
 permalink: /about-us/college-staff/cca-teachers-in-charge/
 description: ""
 third_nav_title: College Staff
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 	<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4>Club &amp; Society</h4></label>
@@ -25,7 +26,7 @@ third_nav_title: College Staff
 <p>AVA &amp; PA Club</p>
 </td>
 <td>
-<p>Mr Fong Choo Wah<br><a href="mailto:fong_choo_wah@moe.edu.sg">fong_choo_wah@moe.edu.sg</a></p>
+<p>Mr Tan Yeow Beng Moses Lude<br><a href="mailto:tan_yeow_beng_moses@moe.edu.sg">tan_yeow_beng_moses@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Phy</p>
@@ -92,7 +93,7 @@ third_nav_title: College Staff
 <p>Photographic Society</p>
 </td>
 <td>
-<p>Mrs Chow-Kwan Julia<br><a href="mailto:kwan_pei_sze_julia@moe.edu.sg">kwan_pei_sze_julia@moe.edu.sg</a></p>
+<p>Mr Choong Zie Cheng<br><a href="mailto:choong_zie_cheng@moe.edu.sg">choong_zie_cheng@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Maths</p>
