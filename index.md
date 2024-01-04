@@ -18,8 +18,9 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
+      variant: image
   - infopic:
-      title: "Open House 2024 "
+      title: Open House 2024
       button: Find out more here!
       url: /sajc/achievements
       image: /images/achievement4.png
