@@ -135,7 +135,7 @@ Mrs Wee-Wong Wei Lin Julia<br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">won
 <p>Chinese Orchestra</p>
 </td>
 <td>
-<p>Ms Wang Min<br><a href="mailto:wang_min@moe.edu.sg" target="">wang_min@moe.edu.sg</a></p>
+<p>Mr Wee Lee Meng Lester<br><a href="mailto:wee_lee_meng_lester@moe.edu.sg" target="">wee_lee_meng_lester@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Language</p>
