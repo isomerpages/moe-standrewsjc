@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/OH2024_1280x720px.png
       key_highlights:
+        - title: Open House 2024
+          description: Click here!
+          url: /oh2024
         - title: Students
           description: ""
           url: /students
@@ -18,13 +21,10 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
-        - title: Open House 2024
-          description: Click here!
-          url: /oh2024
       variant: image
       title: Make SAJC Home
   - infopic:
-      title: Open House 2024
+      title: Student Achievements
       button: Find out more here!
       url: /sajc/achievements
       image: /images/achievement4.png
