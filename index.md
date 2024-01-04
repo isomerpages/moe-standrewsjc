@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH2024_1280x720px.png
+      background: /images/OH 2024/OH2024_1280x720px.png
       key_highlights:
         - title: Open House 2024
           description: Click here!
