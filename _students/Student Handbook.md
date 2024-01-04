@@ -2,5 +2,6 @@
 title: Student Handbook
 permalink: /students/student-handbook/
 description: ""
+variant: markdown
 ---
-[Student Handbook 2023](/files/2023_SAJC_Student_Handbook_final.pdf)
+[SAJC_Student_Handbook_2024](/files/2024/SAJC_Student_Handbook_2024.pdf)

@@ -3,6 +3,7 @@ title: CCA Teachers–in–Charge
 permalink: /about-us/college-staff/cca-teachers-in-charge/
 description: ""
 third_nav_title: College Staff
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 	<li><input id="accordion1" type="checkbox"> <label for="accordion1"><h4>Club &amp; Society</h4></label>
@@ -25,10 +26,10 @@ third_nav_title: College Staff
 <p>AVA &amp; PA Club</p>
 </td>
 <td>
-<p>Mr Fong Choo Wah<br><a href="mailto:fong_choo_wah@moe.edu.sg">fong_choo_wah@moe.edu.sg</a></p>
+<p>Mr Tan Yeow Beng Moses Lude<br><a href="mailto:tan_yeow_beng_moses@moe.edu.sg">tan_yeow_beng_moses@moe.edu.sg</a></p>
 </td>
 <td>
-<p>Phy</p>
+<p>English</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +93,7 @@ third_nav_title: College Staff
 <p>Photographic Society</p>
 </td>
 <td>
-<p>Mrs Chow-Kwan Julia<br><a href="mailto:kwan_pei_sze_julia@moe.edu.sg">kwan_pei_sze_julia@moe.edu.sg</a></p>
+<p>Mr Choong Zie Cheng<br><a href="mailto:choong_zie_cheng@moe.edu.sg">choong_zie_cheng@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Maths</p>
@@ -108,17 +109,6 @@ Mrs Wee-Wong Wei Lin Julia<br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">won
 </td>
 <td>
 <p>English</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Saints Sports Club</p>
-</td>
-<td>
-<p>Mr Wayne Ko<br><a href="mailto:ko_wei_en_wayne@moe.edu.sg">ko_wei_en_wayne@moe.edu.sg</a></p>
-</td>
-<td>
-<p>Econs</p>
 </td>
 </tr>
 </tbody>
@@ -145,7 +135,7 @@ Mrs Wee-Wong Wei Lin Julia<br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">won
 <p>Chinese Orchestra</p>
 </td>
 <td>
-<p>Ms Wang Min<br><a href="mailto:wang_min@moe.edu.sg" target="">wang_min@moe.edu.sg</a></p>
+<p>Mr Wee Lee Meng Lester<br><a href="mailto:wee_lee_meng_lester@moe.edu.sg" target="">wee_lee_meng_lester@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Language</p>
