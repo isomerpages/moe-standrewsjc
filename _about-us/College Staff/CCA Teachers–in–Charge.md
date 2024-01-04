@@ -111,6 +111,30 @@ Mrs Wee-Wong Wei Lin Julia<br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">won
 <p>English</p>
 </td>
 </tr>
+	<tr>
+<td>
+<p>Indian Cultural Society</p>
+</td>
+<td>
+<p>	
+Mr Ganapathy Rajagopalan<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Language</p>
+</td>
+</tr>
+	<tr>
+<td>
+<p>Malay Cultural Society</p>
+</td>
+<td>
+<p>	
+Dr Mohamed Pitchay Gani<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_pitchay_gani_b@moe.edu.sg</a></p>
+</td>
+<td>
+<p>Language</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -192,29 +216,6 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 </td>
 <td>
 <p>Ms Loh Lih Yeh<br><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh@moe.edu.sg</a></p>
-</td>
-<td>
-<p>Language</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Indian Cultural Society</p>
-</td>
-<td>
-<p>Mr Ganapathy Rajagopalan<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan@moe.edu.sg</a></p>
-</td>
-<td>
-<p>Language</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Malay Cultural Society</p>
-</td>
-<td>
-<p>	
-Dr Mohamed Pitchay Gani<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_pitchay_gani_b@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Language</p>
