@@ -29,7 +29,7 @@ variant: markdown
 <p>Mr Tan Yeow Beng Moses Lude<br><a href="mailto:tan_yeow_beng_moses@moe.edu.sg">tan_yeow_beng_moses@moe.edu.sg</a></p>
 </td>
 <td>
-<p>Phy</p>
+<p>English</p>
 </td>
 </tr>
 <tr>
@@ -109,17 +109,6 @@ Mrs Wee-Wong Wei Lin Julia<br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">won
 </td>
 <td>
 <p>English</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Saints Sports Club</p>
-</td>
-<td>
-<p>Mr Wayne Ko<br><a href="mailto:ko_wei_en_wayne@moe.edu.sg">ko_wei_en_wayne@moe.edu.sg</a></p>
-</td>
-<td>
-<p>Econs</p>
 </td>
 </tr>
 </tbody>
