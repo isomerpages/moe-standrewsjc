@@ -23,7 +23,7 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<p>AVA &amp; PA Club</p>
+<p>AVA &amp; Media Club</p>
 </td>
 <td>
 <p>Mr Tan Yeow Beng Moses Lude<br><a href="mailto:tan_yeow_beng_moses@moe.edu.sg">tan_yeow_beng_moses@moe.edu.sg</a></p>
