@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test1.jpg
+      background: /images/OH2024_1280x720px.png
       key_highlights:
         - title: Students
           description: ""
@@ -19,6 +19,7 @@ sections:
           description: ""
           url: https://www.saints.org.sg/
       variant: image
+      title: Make SAJC Home
   - infopic:
       title: Open House 2024
       button: Find out more here!
