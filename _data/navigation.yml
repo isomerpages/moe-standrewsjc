@@ -23,11 +23,11 @@ links:
     url: /Admissions/admission-info/
     sublinks:
       - title: Admission Information
-        url: /permalink
-      - title: New submenu
-        url: /permalink
-      - title: New submenu
-        url: /permalink
+        url: /admissions/admission-info/
+      - title: Joint Admissions Exercise
+        url: /admissions/
+      - title: College Prospectus
+        url: /admissions/college-prospectus/
       - title: New submenu
         url: /permalink
   - title: Curriculum
