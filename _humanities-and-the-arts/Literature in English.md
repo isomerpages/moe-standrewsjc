@@ -2,41 +2,6 @@
 title: Literature in English
 permalink: /curriculum/academic-disciplines/humanities-n-the-arts/literature-in-english/
 description: ""
+variant: tiptap
 ---
-<h4><strong>1. What is A Level English Literature?</strong></h4>
-<p align="justify">Both H1 and H2 English Literature papers are similar in terms of rigour. However, H2 students are required to make comparisons across texts. H2 students will also sit for the additional topic paper, Paper 3: The Mind and Self, in addition to Paper 1: Reading Literature. Texts are usually chosen such that students are exposed to a range of literary texts and genres.</p>
-<p><u><strong>H1 students will take only one paper.<br /></strong></u></p>
-<ul>
-<li>Section A: Analysis of an unseen poem.</li>
-<li align="justify">Section B: they will respond to either a passage-based question or an essay question on a set text.</li>
-<li align="justify">Section C, they will respond to either a passage-based question or an essay question on another set text.</li>
-</ul>
-<p><u><strong>H2 Literature students take two papers.<br /></strong></u><em>Paper 1: Reading Literature<br /></em></p>
-<ul>
-<li>Section A: Comparison between two unseen poems</li>
-<li>Section B: A choice of either essay/passage-based question for a set text</li>
-<li>Section C: A choice of either essay/passage-based question for another set text.</li>
-</ul>
-<p><em>Paper 3: The Mind and Self (Topic paper offered in SAJC)<br /></em></p>
-<ul>
-<li>Section A: Choice between two unseen genres (poetry/ prose/ drama)</li>
-<li>Section B: Comparison between two set texts.</li>
-<li>Section C: Essay on a set text that was not used in Section B</li>
-</ul>
-<h4><strong>2. How is English Literature taught at SAJC?</strong></h4>
-<p align="justify">English Literature teachers at SAJC use a range of pedagogies to guide your child, including the use of effective questioning. We encourage collaborative learning amongst students, so that students learn from one another, as well as from the teachers. Our department also adopts a differentiated approach in helping our students. We have a 3-tier approach (Lecture-Tutorial-Consultations) for English Literature students to help level up their skills and content knowledge.</p>
-<h4><strong>3. What can I do to prepare myself for English Literature?</strong></h4>
-<p align="justify">A student of Literature should be prepared to read and write critically, and often. You should be comfortable with ambiguity and be able to offer your own critical interpretation of texts, supported by analysis of textual evidence.</p>
-<p align="justify">You may also visit the following SEAB website for the detailed syllabus information.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/lit1.png" /></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/lit2.png" /></td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><strong>H1 Literature&nbsp;Syllabus</strong></td>
-<td style="width: 50%; text-align: center;"><strong>H2 Literature&nbsp;Syllabus</strong></td>
-</tr>
-</tbody>
-</table>
+<h4><strong>1. What is A Level English Literature?</strong></h4><p>Both H1 and H2 English Literature papers are similar in terms of rigour. However, H2 students are required to make comparisons across texts. H2 students will also sit for the additional topic paper, Paper 3: The Mind and Self, in addition to Paper 1: Reading Literature. Texts are usually chosen such that students are exposed to a range of literary texts and genres.</p><p><strong><u>H1 students will take only one paper.<br></u></strong></p><ul data-tight="true" class="tight"><li><p>Section A: Analysis of an unseen poem.</p></li><li><p>Section B: they will respond to either a passage-based question or an essay question on a set text.</p></li><li><p>Section C, they will respond to either a passage-based question or an essay question on another set text.</p></li></ul><p><strong><u>H2 Literature students take two papers.<br></u></strong><em>Paper 1: Reading Literature<br></em></p><ul data-tight="true" class="tight"><li><p>Section A: Comparison between two unseen poems</p></li><li><p>Section B: A choice of either essay/passage-based question for a set text</p></li><li><p>Section C: A choice of either essay/passage-based question for another set text.</p></li></ul><p><em>Paper 3: The Mind and Self (Topic paper offered in SAJC)<br></em></p><ul data-tight="true" class="tight"><li><p>Section A: Choice between two unseen genres (poetry/ prose/ drama)</p></li><li><p>Section B: Comparison between two set texts.</p></li><li><p>Section C: Essay on a set text that was not used in Section B</p></li></ul><h4><strong>2. How is English Literature taught at SAJC?</strong></h4><p>English Literature teachers at SAJC use a range of pedagogies to guide your child, including the use of effective questioning. We encourage collaborative learning amongst students, so that students learn from one another, as well as from the teachers. Our department also adopts a differentiated approach in helping our students. We have a 3-tier approach (Lecture-Tutorial-Consultations) for English Literature students to help level up their skills and content knowledge.</p><h4><strong>3. What can I do to prepare myself for English Literature?</strong></h4><p>A student of Literature should be prepared to read and write critically, and often. You should be comfortable with ambiguity and be able to offer your own critical interpretation of texts, supported by analysis of textual evidence.</p><p>For more information about Literature in English, please refer to the <a href="/files/2024/SAJC_Prospectus_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 College Prospectus.</a></p><p>You may also visit the following SEAB website for the detailed syllabus information.</p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 65%;" height="auto" width="100%" src="/images/lit1.png"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 65%;" height="auto" width="100%" src="/images/lit2.png"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong>H1 Literature&nbsp;Syllabus</strong></p></td><td rowspan="1" colspan="1"><p><strong>H2 Literature&nbsp;Syllabus</strong></p></td></tr></tbody></table><p></p>
