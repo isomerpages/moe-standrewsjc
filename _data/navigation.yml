@@ -20,7 +20,7 @@ links:
       - title: College Profile
         url: /about-us/college-profile
   - title: Admissions
-    url: /admissions/admission-info/
+    url: /admissions/admission-info
     sublinks:
       - title: Admission Information
         url: /admissions/admission-info/
