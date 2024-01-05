@@ -28,8 +28,8 @@ links:
         url: /admissions/
       - title: College Prospectus
         url: /admissions/college-prospectus/
-      - title: New submenu
-        url: /permalink
+      - title: Subject Combinations
+        url: /admissions/subject-combinations/
   - title: Curriculum
     url: /curriculum/educational-philosophy-and-framework
     sublinks:
