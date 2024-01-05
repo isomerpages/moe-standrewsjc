@@ -117,7 +117,7 @@ Mrs Wee-Wong Wei Lin Julia<br><a href="mailto:wong_wei_lin_julia@moe.edu.sg">won
 </td>
 <td>
 <p>	
-Mr Ganapathy Rajagopalan<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan@moe.edu.sg</a></p>
+Dr Ganapathy Rajagopalan<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ganapathy_rajagopalan@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Language</p>

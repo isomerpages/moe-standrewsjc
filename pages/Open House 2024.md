@@ -1,5 +1,5 @@
 ---
-title: Open House
+title: Open House 2024
 permalink: /oh2024/
 variant: tiptap
 description: ""
