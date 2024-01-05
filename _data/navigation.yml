@@ -21,7 +21,15 @@ links:
         url: /about-us/college-profile
   - title: Admissions
     url: /Admissions/admission-info/
-    sublinks: []
+    sublinks:
+      - title: New submenu
+        url: /permalink
+      - title: New submenu
+        url: /permalink
+      - title: New submenu
+        url: /permalink
+      - title: New submenu
+        url: /permalink
   - title: Curriculum
     url: /curriculum/educational-philosophy-and-framework
     sublinks:
