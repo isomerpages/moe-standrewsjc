@@ -18,7 +18,7 @@ variant: markdown
 <tbody>
 <tr>
 
-<td style="width: 50%;"><img style="width: 65%;" src="/images/art2.png"></td>
+<td style="width: 50%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9750_y24_sy.pdf"><img style="width: 65%;" src="/images/art2.png"></a></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><strong>H2 Art Syllabus</strong></td>
