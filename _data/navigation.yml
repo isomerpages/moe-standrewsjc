@@ -19,6 +19,8 @@ links:
         url: /about-us/charity-status
       - title: College Profile
         url: /about-us/college-profile
+      - title: Campus Tour
+        url: /about-us/campus-tour/
   - title: Admissions
     url: /admissions/admission-info/
     sublinks:
