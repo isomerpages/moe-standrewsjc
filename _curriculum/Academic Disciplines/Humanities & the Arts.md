@@ -3,12 +3,6 @@ title: Humanities & the Arts
 permalink: /curriculum/academic-disciplines/humanities-n-the-arts/
 description: ""
 third_nav_title: Academic Disciplines
+variant: tiptap
 ---
-<ol>
-<li><a href="/curriculum/academic-disciplines/humanities-n-the-arts/art" target="">Art</a></li>
-<li><a href="/curriculum/academic-disciplines/humanities-n-the-arts/geography" target="">Geography</a></li>
-<li><a href="/curriculum/academic-disciplines/humanities-n-the-arts/history" target="">History</a></li>
-<li><a href="/curriculum/academic-disciplines/humanities-n-the-arts/literature-in-english" target="">Literature in English</a></li>
-<li><a href="/curriculum/academic-disciplines/humanities-n-the-arts/economics" target="">Economics</a></li>
-<li><a href="/curriculum/academic-disciplines/humanities-n-the-arts/china-studies-in-english" target="">China Studies in English</a></li>
-</ol>
+<ol data-tight="true" class="tight"><li><p><a href="/curriculum/academic-disciplines/humanities-n-the-arts/art" rel="noopener noreferrer nofollow" target="">Art</a></p></li><li><p><a href="/curriculum/academic-disciplines/humanities-n-the-arts/geography" rel="noopener noreferrer nofollow" target="">Geography</a></p></li><li><p><a href="/curriculum/academic-disciplines/humanities-n-the-arts/history" rel="noopener noreferrer nofollow" target="">History</a></p></li><li><p><a href="/curriculum/academic-disciplines/humanities-n-the-arts/literature-in-english" rel="noopener noreferrer nofollow" target="">Literature in English</a></p></li><li><p><a href="/curriculum/academic-disciplines/humanities-n-the-arts/economics" rel="noopener noreferrer nofollow" target="">Economics</a></p><p></p></li></ol><p></p>
