@@ -32,8 +32,8 @@ links:
         url: /admissions/subject-combinations/
       - title: SPERS & Intnl Students
         url: /admissions/returning-singaporeans-international-students/
-      - title: New submenu
-        url: /permalink
+      - title: FAQ
+        url: /admissions/faq/
   - title: Curriculum
     url: /curriculum/educational-philosophy-and-framework
     sublinks:
