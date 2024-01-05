@@ -2,10 +2,10 @@ collections:
   mathematics-and-science:
     output: true
     order:
-      - Further Mathematics.md
       - Mathematics & Science.md
       - Biology.md
       - Chemistry.md
       - Physics.md
       - Mathematics.md
+      - Further Mathematics.md
       - Computing.md
