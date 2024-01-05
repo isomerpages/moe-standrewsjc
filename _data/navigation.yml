@@ -20,7 +20,7 @@ links:
       - title: College Profile
         url: /about-us/college-profile
   - title: Admissions
-    url: /about-us/Admission-Information/admission-info/
+    url: /Admissions/admission-info/
     sublinks: []
   - title: Curriculum
     url: /curriculum/educational-philosophy-and-framework
