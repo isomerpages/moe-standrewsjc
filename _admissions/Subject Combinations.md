@@ -1,8 +1,8 @@
 ---
 title: Subject Combinations
-permalink: /about-us/admission-information/subject-combinations/
+permalink: /admissions/subject-combinations/
 description: ""
-third_nav_title: Admission Information
+variant: tiptap
 ---
 <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"></blockquote>
 <ol>

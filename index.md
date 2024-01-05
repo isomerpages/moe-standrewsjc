@@ -7,8 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_sajc_2.png
+      background: /images/OH 2024/OH2024_1280x720px.png
       key_highlights:
+        - title: Open House 2024
+          description: Click here!
+          url: /oh2024
         - title: Students
           description: ""
           url: /students
@@ -18,17 +21,13 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
+      variant: image
+      title: Make SAJC Home
   - infopic:
-      title: Our Saints’ Achievements
-      button: Read More
+      title: Student Achievements
+      button: Find out more here!
       url: /sajc/achievements
       image: /images/achievement4.png
-      alt: Image alt text
-  - infopic:
-      title: Media Features
-      button: Read More
-      url: /sajc/news/media-features
-      image: /images/media4.png
       alt: Image alt text
   - resources:
       title: Announcements

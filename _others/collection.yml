@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - Direct School Admission (2024 Intake).md
       - Sliding Banners.md
       - Error Page.md
