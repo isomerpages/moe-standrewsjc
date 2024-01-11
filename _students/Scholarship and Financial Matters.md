@@ -2,9 +2,10 @@
 title: Scholarship and Financial Matters
 permalink: /students/scholarship-and-financial-matters/
 description: ""
+variant: markdown
 ---
 <p>a. Student Assistance Schemes</p>
-<p align="justify">The College offers two main types of financial assistance schemes for financially needy students. One is the Ministry of Education Financial Assistance Scheme (MOE FAS) and the other is the St Andrew&rsquo;s Junior College Student Assistance Fund (SAJC SAF). Eligible students will be granted only either ONE of these financial assistance schemes.</p>
+<p align="justify">The College offers two main types of financial assistance schemes for financially needy students. One is the Ministry of Education Financial Assistance Scheme (MOE FAS) and the other is the St Andrew’s Junior College Student Assistance Fund (SAJC SAF). Eligible students will be granted only either ONE of these financial assistance schemes.</p>
 <table>
 <tbody>
 <tr>
@@ -33,13 +34,13 @@ description: ""
 <td width="256">
 <div>
 <ul>
-<li>Family&rsquo;s gross household income (GHI) of $3,000 per month or below;</li>
+<li>Family’s gross household income (GHI) of $3,000 per month or below;</li>
 </ul>
 </div>
 <div style="padding-left: 40px;"><strong>or</strong></div>
 <div>
 <ul>
-<li>Family&rsquo;s per capita income (PCI) of $750 per month or below.</li>
+<li>Family’s per capita income (PCI) of $750 per month or below.</li>
 </ul>
 </div>
 <div>PCI=&nbsp;<u>Total gross household income</u></div>
@@ -48,13 +49,13 @@ description: ""
 <td width="236">
 <div>
 <ul>
-<li>Family&rsquo;s gross household income (GHI) $3,001 to $4,000 per month;</li>
+<li>Family’s gross household income (GHI) $3,001 to $4,000 per month;</li>
 </ul>
 </div>
 <div style="padding-left: 40px;"><strong>or</strong></div>
 <div>
 <ul>
-<li>Family&rsquo;s per capita income (PCI) of $751 to $1,000 per month.</li>
+<li>Family’s per capita income (PCI) of $751 to $1,000 per month.</li>
 </ul>
 </div>
 </td>
@@ -99,8 +100,8 @@ description: ""
 <td colspan="2" width="492">
 <div>
 <ul>
-<li>Application forms are available from the College&rsquo;s General Office.</li>
-<li>Submit the completed form together with all relevant supporting documents to the General Office and the Teacher in-charge will contact you.</li>
+<li>Application forms are available from the College’s General Office or apply electronically through MOE website: [MOE FAS Application Form (updated Oct 2023)](https://form.gov.sg/64e2f8f73f582600139f54ac)</li>
+<li>For hardcopy forms, please submit the completed form together with all relevant supporting documents to the General Office and the Teacher in-charge will contact you.</li>
 </ul>
 </div>
 </td>
@@ -121,10 +122,10 @@ description: ""
 <li>The&nbsp;<strong>Gold Award</strong>&nbsp;is given to the Dux (the top scholar of the year and also</li>
 <li>the top scholar in his/her faculty).</li>
 <li>The&nbsp;<strong>Silver Award</strong>&nbsp;is given to the top scholar of the other faculty.</li>
-<li>The&nbsp;<strong>Bronze Award</strong>&nbsp;is given to the top achiever in each academic subject (based on GCE A-Level examination results, College major assessments, and the subject tutors&rsquo; recommendations).<br />
-<div>For students who are taking 1-year&nbsp;<strong>MT courses</strong>, the SAJC Bronze Awards are awarded to the respective top performers who scored at least a &ldquo;B&rdquo; for both GCE A-Level and Promotional Examination.</div>
+<li>The&nbsp;<strong>Bronze Award</strong>&nbsp;is given to the top achiever in each academic subject (based on GCE A-Level examination results, College major assessments, and the subject tutors’ recommendations).<br>
+<div>For students who are taking 1-year&nbsp;<strong>MT courses</strong>, the SAJC Bronze Awards are awarded to the respective top performers who scored at least a “B” for both GCE A-Level and Promotional Examination.</div>
 </li>
-<li><strong>Scholars&rsquo; Awards</strong>&nbsp;are given to students who achieve&nbsp;<strong>at least 3 &ldquo;H2&rdquo; distinctions in the GCE A-Level Examination</strong>.</li>
+<li><strong>Scholars’ Awards</strong>&nbsp;are given to students who achieve&nbsp;<strong>at least 3 “H2” distinctions in the GCE A-Level Examination</strong>.</li>
 </ul>
 </ul>
 <ol start="2">
@@ -158,22 +159,22 @@ description: ""
 <ol start="6">
 <li><strong>Vivian Quek Book Prize</strong></li>
 </ol>
-<p>This is awarded annually to the top performer in General Paper (GP), based on both GCE A-Level Examination and JC2 Preliminary Examinations. The awardee must achieve a minimum grade of &ldquo;B&rdquo; for GP in the GCE A-Level Examination.</p>
+<p>This is awarded annually to the top performer in General Paper (GP), based on both GCE A-Level Examination and JC2 Preliminary Examinations. The awardee must achieve a minimum grade of “B” for GP in the GCE A-Level Examination.</p>
 <ol start="7">
 <li><strong>Geoffrey Abisheganadan Art Prize</strong></li>
 </ol>
-<p>This is awarded annually to the top performer in H2 Art, based on both the GCE A-Level Examination and the JC2 Preliminary Examination. The awardee must achieve a minimum grade of &ldquo;B&rdquo; for H2 Art in the GCE A-Level Examination.</p>
+<p>This is awarded annually to the top performer in H2 Art, based on both the GCE A-Level Examination and the JC2 Preliminary Examination. The awardee must achieve a minimum grade of “B” for H2 Art in the GCE A-Level Examination.</p>
 <p><strong>Awards For Outstanding Performance In Promotional Examination</strong></p>
 <p>1. The&nbsp;<strong>SAJC Faculty Prize</strong>&nbsp;is awarded to the top student in the Arts and Science faculty respectively, who achieves the highest rank points in Promotional Examination and has consistent good performance for all major assessments.</p>
-<p>2. The&nbsp;<strong>Dr Wong Poi Kwong Book Prize</strong>&nbsp;is awarded to the top performer (who scores at least a &ldquo;B&rdquo; in Promotional Examination) in each respective subject, subject to tutors&rsquo; recommendations, with exceptions for 1-year H1 MT courses.</p>
-<p>For students who are taking 1-year MT courses, the SAJC Bronze Awards are awarded to the respective top performers who scored at least a &ldquo;B&rdquo; for both GCE A-Level and Promotional Examination.</p>
+<p>2. The&nbsp;<strong>Dr Wong Poi Kwong Book Prize</strong>&nbsp;is awarded to the top performer (who scores at least a “B” in Promotional Examination) in each respective subject, subject to tutors’ recommendations, with exceptions for 1-year H1 MT courses.</p>
+<p>For students who are taking 1-year MT courses, the SAJC Bronze Awards are awarded to the respective top performers who scored at least a “B” for both GCE A-Level and Promotional Examination.</p>
 <p>3.&nbsp;<strong>Bishop of Singapore Prize</strong>&nbsp;is awarded to the student who has made the greatest progress in his/her studies (based on the highest difference between the rank points scored in Promotional Examination and Common Test).</p>
-<p>4. The&nbsp;<strong>Vivian Quek Book Prize</strong>&nbsp;is awarded annually to the top performer in General Paper in JC1 Promotional Examination, with a minimum grade of &ldquo;B&rdquo;.</p>
+<p>4. The&nbsp;<strong>Vivian Quek Book Prize</strong>&nbsp;is awarded annually to the top performer in General Paper in JC1 Promotional Examination, with a minimum grade of “B”.</p>
 <p><strong>Awards for Outstanding Performance in Co-Curricular Activities</strong></p>
 <p>1. The&nbsp;<strong>SAJC Colours Award</strong>&nbsp;is awarded to students who have outstanding co-curricular achievements in the sports or performing arts.</p>
 <p>2. The&nbsp;<strong>SAJC Service Award</strong>&nbsp;is awarded to students who have made outstanding contributions and/or service to the college.</p>
 <p><strong>College Scholarships</strong></p>
-<p><strong>The following scholarships are available in St Andrew&rsquo;s Junior College:</strong></p>
+<p><strong>The following scholarships are available in St Andrew’s Junior College:</strong></p>
 <ol>
 <li>Mrs Grace Ballas Scholarship</li>
 </ol>
