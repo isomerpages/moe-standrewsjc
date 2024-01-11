@@ -2,6 +2,6 @@
 title: Calendar of Events and Important Dates
 permalink: /students/calendar-of-events-n-important-dates/
 description: ""
+variant: markdown
 ---
-
-<a href="/files/Student_Calendar_2022.pdf">External Link</a>
+[2024_Student_Calendar](/files/2024/2024_Student_Calendar_Final.pdf)
