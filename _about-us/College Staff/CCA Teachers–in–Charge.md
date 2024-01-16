@@ -48,7 +48,7 @@ variant: markdown
 <p>Environment Club</p>
 </td>
 <td>
-<p>Mr William Lee Choong How<br><a href="mailto:william_lee_choong_how@moe.edu.sg">william_lee_choong_how@moe.edu.sg</a></p>
+<p>Mr Lee Choong How William<br><a href="mailto:william_lee_choong_how@moe.edu.sg">william_lee_choong_how@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Maths</p>
@@ -71,7 +71,7 @@ variant: markdown
 <p>Mentoring Club</p>
 </td>
 <td>
-<p>Ms Jackina d/o Sultan Athaham<br><a href="mailto:jackina_sultan_athaham@moe.edu.sg" target="">jackina_sultan_athaham@moe.edu.sg</a></p>
+<p>Mdm Jackina Sultan Athaham<br><a href="mailto:jackina_sultan_athaham@moe.edu.sg" target="">jackina_sultan_athaham@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Econs</p>
@@ -129,7 +129,7 @@ Dr Ganapathy Rajagopalan<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg">ga
 </td>
 <td>
 <p>	
-Dr Mohamed Pitchay Gani<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_pitchay_gani_b@moe.edu.sg</a></p>
+Dr Mohd Pitchay Gani B M A Aziz<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_pitchay_gani_b@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Language</p>
@@ -193,7 +193,7 @@ Dr Mohamed Pitchay Gani<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg">mohd_
 </td>
 <td>
 <p>	
-Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</a></p>
+Mr Ong Kim Lin Scott<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Chemistry</p>
@@ -204,7 +204,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Drama Club</p>
 </td>
 <td>
-<p>Ms Salome Choa<br><a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></p>
+<p>Ms Salome Choa Jia Xin<br><a href="mailto:salome_choa_jia_xin@moe.edu.sg">salome_choa_jia_xin@moe.edu.sg</a></p>
 </td>
 <td>
 <p>English</p>
@@ -215,7 +215,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Guitar Ensemble</p>
 </td>
 <td>
-<p>Ms Loh Lih Yeh<br><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh@moe.edu.sg</a></p>
+<p>Mdm Loh Lih Yeh<br><a href="mailto:loh_lih_yeh@moe.edu.sg">loh_lih_yeh@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Language</p>
@@ -245,7 +245,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Saints for Christ</p>
 </td>
 <td>
-<p>Mrs Ruth Perry<br><a href="mailto:ruth_amsani_yusli@moe.edu.sg">ruth_amsani_yusli@moe.edu.sg</a></p>
+<p>Mdm Ruth Amsani Perry<br><a href="mailto:ruth_amsani_yusli@moe.edu.sg">ruth_amsani_yusli@moe.edu.sg</a></p>
 </td>
 <td>
 <p>English</p>
@@ -325,7 +325,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Football (Boys)</p>
 </td>
 <td>
-<p>Mr Lee Kye Loong, Roland<br><a href="mailto:lee_kye_loong_roland@moe.edu.sg">lee_kye_loong_roland@moe.edu.sg</a></p>
+<p>Mr Lee Kye Loong Roland<br><a href="mailto:lee_kye_loong_roland@moe.edu.sg">lee_kye_loong_roland@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Phy</p>
@@ -336,7 +336,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Football (Girls)</p>
 </td>
 <td>
-<p>Mr Frederick Koh<br><a href="mailto:koh_eng_chye_frederick@moe.edu.sg">koh_eng_chye_frederick@moe.edu.sg</a></p>
+<p>Mr Koh Eng Chye Frederick<br><a href="mailto:koh_eng_chye_frederick@moe.edu.sg">koh_eng_chye_frederick@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Maths</p>
@@ -358,7 +358,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Netball</p>
 </td>
 <td>
-<p>Mr Keith Teo<br><a href="mailto:teo_ping_wei@moe.edu.sg">teo_ping_wei@moe.edu.sg</a></p>
+<p>Mr Teo Ping Wei Keith<br><a href="mailto:teo_ping_wei@moe.edu.sg">teo_ping_wei@moe.edu.sg</a></p>
 </td>
 <td>
 <p>PE</p>
@@ -372,7 +372,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Mr Lim Zi Qi<br><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></p>
 </td>
 <td>
-<p>English</p>
+<p>PE</p>
 </td>
 </tr>
 <tr>
@@ -391,7 +391,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Tennis</p>
 </td>
 <td>
-<p>Ms Tan Mei Fong, Cynthia<br><a href="mailto:tan_mei_fong_cynthia@moe.edu.sg">tan_mei_fong_cynthia@moe.edu.sg</a></p>
+<p>Ms Tan Mei Fong Cynthia<br><a href="mailto:tan_mei_fong_cynthia@moe.edu.sg">tan_mei_fong_cynthia@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Phy</p>
@@ -402,7 +402,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Touch Rugby</p>
 </td>
 <td>
-<p>Mr Jason Ong Kah Siang<br><a href="mailto:jason_ong_kah_siang@moe.edu.sg">jason_ong_kah_siang@moe.edu.sg</a></p>
+<p>Mr Ong Kah Siang Jason<br><a href="mailto:jason_ong_kah_siang@moe.edu.sg">jason_ong_kah_siang@moe.edu.sg</a></p>
 </td>
 <td>
 <p>PE</p>
@@ -413,7 +413,7 @@ Mr Scott Ong<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.edu.sg</
 <p>Track and Field</p>
 </td>
 <td>
-<p>Mr Tan Jin Xing, Andrew<br><a href="mailto:tan_jin_xing_andrew@moe.edu.sg">tan_jin_xing_andrew@moe.edu.sg</a></p>
+<p>Mr Tan Jin Xing Andrew<br><a href="mailto:tan_jin_xing_andrew@moe.edu.sg">tan_jin_xing_andrew@moe.edu.sg</a></p>
 </td>
 <td>
 <p>Chem</p>

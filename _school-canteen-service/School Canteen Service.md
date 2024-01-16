@@ -2,14 +2,15 @@
 title: School Canteen Service
 permalink: /school-canteen-service/canteen/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 19 Oct 2023
+Updated - 16 January 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Thai/Japanese and Korean food|29 December 2023|Halal/Non-halal
-|Economical bee hoon/mee/kuay teow|29 December 2023|Non-halal
+|Thai/Japanese and Korean food|31 January 2024|Halal/Non-halal
+|Economical bee hoon/mee/kuay teow|31 January 2024|Non-halal
 
 **Application Procedure**
 
@@ -28,7 +29,7 @@ Updated - 19 Oct 2023
 * Email: sajc@moe.edu.sg
 
 Contact Person:
-* Mr Joseph Pereira (Operation Manager)
+* Mdm Wu Miau Kee (Admin Manager)
 * Mdm Ng Yee San (Administrative Executive)
 
 **How to get there?**
