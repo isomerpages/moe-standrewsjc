@@ -47,6 +47,14 @@ variant: markdown
 <p><a href="mailto:chionh_lilian_jenny@moe.edu.sg" target="">Ms Jenny Chionh</a></p>
 </td>
 </tr>
+<tr>
+<td>
+<p>Management Support Officer</p>
+</td>
+<td>
+<p><a href="mailto:loo_han_piang@moe.edu.sg" target="">Mr Loo Han Piang Ryan</a></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>For inquiries, please email any of the above staff or&nbsp;<a href="/files/SAH_Student%20Boarders_Application%20Form%20Jan2022.pdf" target="">download</a>&nbsp;the application form for interested applicant.</p>
