@@ -372,7 +372,7 @@ Mr Ong Kim Lin Scott<br><a href="mailto:ong_kim_lin@moe.edu.sg">ong_kim_lin@moe.
 <p>Mr Lim Zi Qi<br><a href="mailto:lim_zi_qi@moe.edu.sg">lim_zi_qi@moe.edu.sg</a></p>
 </td>
 <td>
-<p>English</p>
+<p>PE</p>
 </td>
 </tr>
 <tr>
