@@ -41,10 +41,18 @@ variant: markdown
 
 <tr>
 <td>
-<p>Management Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td>
 <p><a href="mailto:chionh_lilian_jenny@moe.edu.sg" target="">Ms Jenny Chionh</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Corporate Support Officer</p>
+</td>
+<td>
+<p><a href="mailto:loo_han_piang@moe.edu.sg" target="">Mr Loo Han Piang Ryan</a></p>
 </td>
 </tr>
 </tbody>
