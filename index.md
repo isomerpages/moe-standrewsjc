@@ -7,11 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH 2024/OH2024_1280x720px.png
+      background: /images/banner_sajc_2.png
       key_highlights:
-        - title: Open House 2024
-          description: Click here!
-          url: /oh2024
         - title: Students
           description: ""
           url: /students
