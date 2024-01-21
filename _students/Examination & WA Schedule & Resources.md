@@ -9,7 +9,7 @@ variant: markdown
 Thank you for visiting this page. The 2023 Examinations for both levels has been concluded. The schedule for 2024 will be uploaded about a month before the major examinations 
 
 ## **Weighted Assessment Schedule**
-[1. 2024 JC2 Weighted Assessment Schedule](/files/2024/2024%20Exams%20and%20Assessments%202024_JC2_WA_schedule_19Jan.pdf) <br>
+The 2023 JC1 WAs has been concluded.
 
 ## **Student Resources**<br>
 [1. 2023 A-Level Examination Rules &amp; Regulations](/files/2023/2023%20a%20level%20exam%20rules%20and%20regulations_seab.pdf) <br>
