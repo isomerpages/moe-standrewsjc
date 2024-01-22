@@ -2,6 +2,7 @@
 title: Examination & WA Schedule & Resources
 permalink: /students/examination-timetable/
 description: ""
+variant: markdown
 ---
 ## **Examination Timetable**
 
@@ -9,6 +10,7 @@ Thank you for visiting this page. The 2023 Examinations for both levels has been
 
 ## **Weighted Assessment Schedule**
 The 2023 JC1 WAs has been concluded.
+
 ## **Student Resources**<br>
 [1. 2023 A-Level Examination Rules &amp; Regulations](/files/2023/2023%20a%20level%20exam%20rules%20and%20regulations_seab.pdf) <br>
 [2. 2023 Approved List of Dictionaries](/files/2023/2023_approved%20list%20of%20dictionaries_seab.pdf) <br>
