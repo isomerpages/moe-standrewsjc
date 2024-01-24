@@ -1,0 +1,13 @@
+collections:
+  students:
+    output: true
+    order:
+      - Students.md
+      - Scholarship and Financial Matters.md
+      - Calendar of Events and Important Dates.md
+      - Student Handbook.md
+      - Useful Links/.keep
+      - Useful Links/Useful Links.md
+      - Useful Links/University Admissions.md
+      - No one is Here By Chance — Saints Inspire.md
+      - Examination & WA Schedule & Resources.md

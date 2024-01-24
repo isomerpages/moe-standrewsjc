@@ -1,0 +1,84 @@
+logo: /images/logo_sajc.png
+links:
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Vision, Mission, Values
+        url: /about-us/vision-mission-values
+      - title: Campus Tour
+        url: /about-us/campus-tour/
+      - title: Heritage
+        url: /about-us/heritage
+      - title: Board of Governors
+        url: /about-us/board-of-governors
+      - title: College Staff
+        url: /about-us/college-staff/organisation-chart/
+      - title: Contact Us
+        url: /about-us/contact-us
+      - title: Charity Status
+        url: /about-us/charity-status
+      - title: College Profile
+        url: /about-us/college-profile
+  - title: Admissions
+    url: /admissions/admission-info/
+    sublinks:
+      - title: Admission Information
+        url: /admissions/admission-info/
+      - title: Joint Admissions Exercise
+        url: /admissions/joint-admission-exercise-jae/
+      - title: College Prospectus
+        url: /admissions/college-prospectus/
+      - title: Subject Combinations
+        url: /admissions/subject-combinations/
+      - title: SPERS & Intnl Students
+        url: /admissions/returning-singaporeans-international-students/
+      - title: FAQ
+        url: /admissions/faq/
+  - title: Curriculum
+    url: /curriculum/educational-philosophy-and-framework
+    sublinks:
+      - title: Philosophy & Framework
+        url: /curriculum/educational-philosophy-and-framework
+      - title: Subject Combinations
+        url: /curriculum/subject-combinations
+      - title: Academic Disciplines
+        url: /curriculum/academic-disciplines
+  - title: CCA
+    url: /ccas/student-leadership/
+    sublinks:
+      - title: Student Leadership
+        url: /ccas/student-leadership
+      - title: Team SAJC
+        url: /ccas/team-sajc
+      - title: Saints on Stage
+        url: /ccas/saints-on-stage
+      - title: Clubs & Societies
+        url: /ccas/clubs-n-societies
+  - title: The Saints Experience
+    url: /the-saints-experience/exemplary-character
+    sublinks:
+      - title: Exemplary Character
+        url: /the-saints-experience/exemplary-character
+      - title: Holistic Thinker
+        url: /the-saints-experience/holistic-thinker
+      - title: Skilled Communicator
+        url: /the-saints-experience/skilled-communicator
+      - title: Community Builder
+        url: /the-saints-experience/community-builder
+      - title: Through the Lens of Saints
+        url: /the-saints-experience/through-the-lens-of-saints
+  - title: St Andrew's Family
+    url: /st-andrews-family/parents-support-group
+    sublinks:
+      - title: Parent's Support Group
+        url: /st-andrews-family/parents-support-group
+      - title: Alumni
+        url: /st-andrews-family/alumni
+      - title: Mentors
+        url: /st-andrews-family/mentors
+      - title: Affiliated Schools
+        url: /st-andrews-family/affiliated-schools
+      - title: SA Hall
+        url: /st-andrews-family/sa-hall

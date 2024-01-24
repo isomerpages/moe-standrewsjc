@@ -1,0 +1,17 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parents.md
+      - Resources/.keep
+      - Resources/Resources.md
+      - Resources/2022 Resources.md
+      - Communication/Communication.md
+      - Communication/JC2 Civics Tutors.md
+      - Communication/Tutors Email.md
+      - Communication/Security Measures & Traffic Safety.md
+      - Communication/.keep
+      - Academic Schedule.md
+      - Sexuality Education.md
+      - Parent Support Group.md
+      - Parent Gateway (MOE).md

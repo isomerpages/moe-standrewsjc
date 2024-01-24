@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - Vision, Mission, Values.md
+      - Campus Tour.md
+      - Heritage.md
+      - Board of Governors.md
+      - College Staff/Organisation Chart.md
+      - College Staff/CCA Teachers–in–Charge.md
+      - College Staff/.keep
+      - Contact Us.md
+      - Charity Status.md
+      - Admission Information/.keep
+      - College Profile.md
