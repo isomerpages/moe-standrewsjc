@@ -103,6 +103,7 @@ variant: markdown
 <li>Application forms are available from the College’s General Office or apply electronically through MOE website:
 
 [MOE FAS Application Form](https://form.gov.sg/64e2f8f73f582600139f54ac)
+
 </li>
 <li>For hardcopy forms, please submit the completed form together with all relevant supporting documents to the General Office and the Teacher in-charge will contact you.</li>
 </ul>
