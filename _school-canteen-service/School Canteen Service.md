@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 16 January 2024
+Updated - 26 January 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
