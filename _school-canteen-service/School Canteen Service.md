@@ -9,8 +9,8 @@ Updated - 16 January 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Thai/Japanese and Korean food|31 January 2024|Halal/Non-halal
-|Economical bee hoon/mee/kuay teow|31 January 2024|Non-halal
+|Economical bee hoon/mee/kuay teow|23 February 2024|Non-halal
+|Indian/Muslim food|23 February 2024|Halal
 
 **Application Procedure**
 
