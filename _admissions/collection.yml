@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Joint Admissions Exercise/.keep
       - JAE Appeal Exercise 2024.md
       - Admission Information.md
       - Joint Admissions Exercise (JAE).md
