@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Joint Admissions Exercise (JAE).md
-      - JAE Appeal Exercise 2024/.keep
       - Admission Information.md
       - College Prospectus.md
       - Subject Combinations.md
