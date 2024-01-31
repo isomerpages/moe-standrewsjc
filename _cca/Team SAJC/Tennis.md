@@ -3,18 +3,43 @@ title: Tennis
 permalink: /ccas/team-sajc/tennis/
 description: ""
 third_nav_title: Team SAJC
+variant: tiptap
 ---
-<p align="justify">SAJC Tennis is made up of players who share a love for the sport and strive to do their best on court. During trainings, we practice drills to hone our racquet skills and play in matches to develop physical and mental resilience, in order to play at our best in the National School Games competitions.</p>
-<p align="justify">Our training days are on Monday and Thursday. If you are someone with a passion and dedication for tennis, we will definitely be able to create enjoyable and memorable experiences with you!</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>The SAJC Tennis Boys’ and Girls’ teams share a common love for the sport
+and strive to do our best on court. During trainings, we practice drills
+to hone our racquet skills and play in matches to develop physical and
+mental resilience. We also play at our best in the annual National School
+Games competitions.</p>
+<p>Our training days are on Mondays, Wednesdays and Thursdays. If you are
+someone with a passion and dedication for tennis, we hope to create an
+enjoyable and memorable experience with you!</p>
+<table>
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/ten1.jpeg"></td>
-<td style="width: 50%;"><img src="/images/ten2.jpeg"></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Tennis/Tennis_1_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Tennis/Tennis_2_2024.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/ten3.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Tennis/Tennis_3_2024.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
