@@ -3,18 +3,50 @@ title: Touch Rugby
 permalink: /ccas/team-sajc/touch-rugby/
 description: ""
 third_nav_title: Team SAJC
+variant: tiptap
 ---
-<p align="justify">Saints&rsquo; Touch Rugby is a CCA that strives to cultivate team spirit, dedication, responsibility and integrity in our players. As a sport, it requires a combination of strategic thinking, fitness and agility. Unlike rugby, touch rugby is a non-contact sport. Instead of tackling, we use touches to gain possession of the ball.</p>
-<p align="justify">All of our members enter the CCA with no prior experience, so everyone starts on a level playing field. Our training days are on Wednesdays and Fridays. If you&rsquo;re looking for an incredibly fun sport with an opportunity to forge deep, valuable connections, this is the sport for you!</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>Are you ready for a sporting adventure like no other? Experience the thrill
+of Touch Rugby! Brace yourself for the excitement and exhilaration of the
+sport, the ultimate fusion of strategy, speed, and skill!</p>
+<p>Collaborate, communicate, and strategize with your teammates to outwit
+your opponents. Playing touch rugby strengthens the bonds of friendship
+and fosters an incredible sense of camaraderie. Together, you'll experience
+the thrill of victory as you celebrate your triumphs, big and small, with
+your team.</p>
+<p>Saints Touch Rugby offers an open invitation for anyone and everyone;
+whether you’re a seasoned athlete or new to the game. Grab your friends,
+lace up your boots, and prepare to be immersed in a world of fast-paced
+action and boundless excitement! Trainings are on Wednesday (3.45PM - 5.45PM)
+and Friday (4PM - 6PM).</p>
+<p>Check out our socials below for more details!
+<br>Instagram: @sajctouch
+<br>TikTok: @sajctouch</p>
+<table>
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/tr1.jpg"></td>
-<td style="width: 50%;"><img src="/images/tr2.jpeg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Touch Rugby/Touch_Rug1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Touch Rugby/Touch_Rug2.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/tr3.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Touch Rugby/Touch_Rug3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Touch Rugby/Touch_Rug4.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
