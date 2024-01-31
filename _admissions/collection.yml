@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - JAE Appeal Exercise 2024/Joint Admissions Exercise (JAE).md
       - JAE Appeal Exercise 2024/.keep
       - Admission Information.md
       - College Prospectus.md
