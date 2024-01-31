@@ -5,8 +5,9 @@ variant: markdown
 description: ""
 ---
 <h2><strong>Hi JC 1 Students!</strong></h2>
-<p>🎉Congratulations on being posted to SAJC!🎉</p>
+<p></p><center><h5><strong>🎉Congratulations on being posted to SAJC!🎉</strong></h5></center><p></p>
 <p></p>
+
 <h3>Contact from Our OGLs</h3>
 <p>Your Orientation Group Leaders (OGLs) will be contacting you from <strong><u>4.00pm</u></strong> onwards
 on Thursday, 1 February - so do look out for their WhatsApp text!</p>
