@@ -14,7 +14,7 @@ on Thursday, 1 February - so do look out for their WhatsApp text!</p>
 information), fret not! Just head to the General Office to visit the <strong>OG Enquiry Booth</strong> when
 you arrive in school on Friday, 2 February.</p>
 <p></p>
-<h3>Orientation Information </h3>
+<h3>Orientation Information</h3>
 <p>As you wait for your OGLs to contact you, here is some <em>basic information</em> about
 Orientation that starts on Friday, 2 February.</p>
 <table>
