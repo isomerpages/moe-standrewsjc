@@ -19,6 +19,11 @@ you arrive in school on Friday, 2 February.</p>
 <p>As you wait for your OGLs to contact you, here is some <em>basic information</em> about
 Orientation that starts on Friday, 2 February.</p>
 <table>
+	    <style>
+    td, th {
+       border: none!important;
+    }
+    </style>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
