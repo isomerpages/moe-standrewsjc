@@ -18,6 +18,9 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
+        - title: Orientation 2024
+          description: Information
+          url: /orientation-info-2024/
       variant: image
       title: Make SAJC Home
   - infopic:
