@@ -44,8 +44,8 @@ their appeal application.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR Codes/JAE Appeal 2024/jae_appeal_2024.png">
 </div>
-<p><a href="https://go.gov.sg/sajc-jae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-jae2024</a>
-</p>
+<p></p><center><a href="https://go.gov.sg/sajc-jae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-jae2024</a>
+	</center><p></p>
 <p></p>
 <p>The decision of the college is final.</p>
 <p>For more information, please email us at <a href="sajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a>, or call our General Office
