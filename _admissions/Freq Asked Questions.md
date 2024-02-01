@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>This FAQ addresses some concerns you may have about entering SAJC. If you still have more to ask please feel free to contact us. We'd be happy to help. You can click here to send us an e-mail.</strong>
 </p>
 <h4><strong>1. What is the aggregate score to get in to the College?</strong></h4>
-<p>The cut-off based on 2023's Joint Admission Exercise was: Science – 9;
+<p>The cut-off based on 2024's Joint Admission Exercise was: Science – 9;
 Arts – 10.</p>
 <h4><strong>2. Can I combine subjects from different streams?</strong></h4>
 <p>The JC curriculum requires all students whatever JC they are in to offer
