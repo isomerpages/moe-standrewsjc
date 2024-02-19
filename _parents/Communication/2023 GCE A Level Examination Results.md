@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Communication
 ---
-<h4>Dear Saints from graduating batch of 2023 </h4>
+<h4>Dear Saints from graduating batch of 2023</h4>
 <p>The release of the 2023 GCE A-Level examination results will take place
 on&nbsp;<strong>23&nbsp;February 2024&nbsp;(Friday) at 2.30 pm.</strong>&nbsp;</p>
 <p></p>
