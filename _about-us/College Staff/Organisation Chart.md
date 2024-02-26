@@ -3,7 +3,7 @@ title: Organisation Chart
 permalink: /about-us/college-staff/organisation-chart/
 description: ""
 third_nav_title: College Staff
-variant: markdown
+variant: tiptap
 ---
 <table>
 <tbody>
@@ -1975,42 +1975,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Oh Seoh Cheng Catherine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">oh_seoh_cheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kuldip Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kuldip_kaur@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Warty Bte Adam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">warty_adam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chee Kooi Seng Royce</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2044,6 +2008,18 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kuldip Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">kuldip_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lim James</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2066,6 +2042,18 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Oh Seoh Cheng Catherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">oh_seoh_cheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Toh Hiap Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2084,6 +2072,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Warty Bte Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">warty_adam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
