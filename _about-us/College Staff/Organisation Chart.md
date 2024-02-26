@@ -1721,7 +1721,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Norbayah_Jaffar@moe.edu.sg</a>
+<p><a href="norbayah_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norbayah_jaffar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1859,13 +1859,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rema Meenakshi</p>
+<p>Ms Meemaduma Manoja Priyangika</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rema_meenakshi@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meemaduma_manoja_priyangika_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1919,19 +1919,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Meemaduma Manoja Priyangika</p>
+<p>Mdm Rema Meenakshi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">meemaduma_manoja_priyangika_a@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">rema_meenakshi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1975,42 +1974,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Oh Seoh Cheng Catherine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">oh_seoh_cheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kuldip Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kuldip_kaur@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Warty Bte Adam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">warty_adam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chee Kooi Seng Royce</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2044,6 +2007,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kuldip Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">kuldip_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lim James</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2066,6 +2041,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Oh Seoh Cheng Catherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">oh_seoh_cheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Toh Hiap Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2084,6 +2071,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Warty Bte Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">warty_adam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
