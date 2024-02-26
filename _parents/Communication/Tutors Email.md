@@ -81,7 +81,6 @@ variant: markdown
 | Mr Peh Bock Kiat| peh_bock_kiat@moe.edu.sg|
 | Mr Pio Pereira| pio_pereira@moe.edu.sg|
 | Ms Poh Shi Yin Lynette| poh_shi_yin_lynette@moe.edu.sg|
-| Ms Priscilla Lily Samuel| priscilla_lily_samuel@moe.edu.sg|
 | Mr Randy Gill| randhir_singh@moe.edu.sg|
 | Mr Phua Song Boon Raymond| raymond_phua_song_boon@moe.edu.sg|
 | Mdm Ruth Amsani Perry| ruth_amsani_yusli@moe.edu.sg|
