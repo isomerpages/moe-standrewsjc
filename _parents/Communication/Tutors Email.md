@@ -112,7 +112,6 @@ variant: markdown
 | Mr Wee Lee Meng Lester| wee_lee_meng_lester@moe.edu.sg|
 | Mr Lee Wen Feng Felix| wen_feng_felix_lee@moe.edu.sg|
 | Mr Lee Choong How William| william_lee_choong_how@moe.edu.sg|
-| Mrs Wong Chai Kee| wong_chai_kee@moe.edu.sg|
 | Mr Wong Chee Wai| wong_chee_wai_a@moe.edu.sg|
 | Mr Wong Kia Jin Glenn| wong_kia_jin_glenn@moe.edu.sg|
 | Ms Wong Sook Yee| wong_sook_yee@moe.edu.sg|
