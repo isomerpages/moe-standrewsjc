@@ -5,12 +5,11 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 26 January 2024
+Updated - 15 Mar 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Economical Bee Hoon / Yong Tau Foo / Zi Char / Steamed gourmet / Lei Cha|29 February 2024|Non-halal
-|Indian food / Mediterranean food / Turkish food / Pizzas|29 February 2024|Halal
+|Open to Proposal / Indian food / Mediterranean food / Turkish food / Pizzas / Lei Cha|29 March 2024|Halal
 
 **Application Procedure**
 
