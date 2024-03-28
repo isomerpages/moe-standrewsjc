@@ -1,6 +1,6 @@
 ---
 title: Orientation 2024
-permalink: /orientation-info-2024/
+permalink: /archived01/
 variant: markdown
 description: ""
 ---
