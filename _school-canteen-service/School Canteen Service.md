@@ -5,11 +5,11 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 15 Mar 2024
+Updated - 5 Apr 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Open to Proposal / Indian food / Mediterranean food / Turkish food / Pizzas / Lei Cha|29 March 2024|Halal
+|Open to proposal but must be Halal certified. E.g. Indian-Muslim food / Pizzas / Noodles / Ramen|31 May 2024|Halal certified
 
 **Application Procedure**
 
