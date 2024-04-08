@@ -36,7 +36,8 @@ variant: markdown
 | Mr Ong Kah Siang Jason| jason_ong_kah_siang@moe.edu.sg|
 | Mr Kam Yong Chuan| kam_yong_chuan@moe.edu.sg|
 | Mr Keith Lee Kum Chuen| keith_lee_kum_chuen@moe.edu.sg|
-| Mdm Khoo Lilin| Khoo_Lilin@moe.edu.sg|
+| Ms Khoo Lih Yui| khoo_lih_yui@moe.edu.sg|
+| Mdm Khoo Lilin| Khoo_lilin@moe.edu.sg|
 | Mr Kieu Chin Wah Bryan| kieu_chin_wah@moe.edu.sg|
 | Mr Ko Wei En Wayne| ko_wei_en_wayne@moe.edu.sg|
 | Mrs Loi-Koh Ching Hwee Sharon| koh_ching_hwee@moe.edu.sg|
@@ -107,6 +108,7 @@ variant: markdown
 | Ms Teres Lim Yan Ling| teres_lim_yan_ling@moe.edu.sg|
 | Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
 | Ms Tong Shuqing| tong_shuqing@moe.edu.sg|
+| Mr Tristen Tjokro| tristen_tjokro@moe.edu.sg|
 | Ms Veena Bharwani| veena_bharwani@moe.edu.sg|
 | Mdm Wang Min| wang_min@moe.edu.sg|
 | Mr Wee Lee Meng Lester| wee_lee_meng_lester@moe.edu.sg|
