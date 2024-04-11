@@ -20,13 +20,13 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/indian-cultural-society"><img src="/images/cca26.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/interact-club"><img src="/images/cca27.jpg"></a></td>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/malay-cultural-society"><img src="/images/cca28.jpg"></a></td>
+<td style="width: 33.3333%;"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/indian-cultural-society">Indian Cultural Society</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/interact-club">Interact Club</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/malay-cultural-society">Malay Cultural Society</a></td>
+<td style="width: 33.3333%; text-align: center;"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/mentoring-club"><img src="/images/cca29.jpg"></a></td>
@@ -35,7 +35,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/mentoring-club">Mentoring Club</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/model-united-nation">Model United Nation</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/model-united-nation">Saints Model United Nation</a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/outdoor-activities-club"><img src="/images/cca32.jpg"></a></td>
@@ -44,7 +44,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/outdoor-activities-club">Outdoor Activities Club</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/photography-society">Photography Society</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/photography-society">Photographic Society</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/infocomm-club">Infocomm Club</a></td>
 </tr>
 </tbody>
