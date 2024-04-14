@@ -185,7 +185,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Language</p>
+<p>Econs</p>
 </td>
 </tr>
 <tr>
