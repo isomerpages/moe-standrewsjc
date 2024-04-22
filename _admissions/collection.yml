@@ -2,8 +2,8 @@ collections:
   admissions:
     output: true
     order:
-      - Direct School Admission (2025 Intake).md
       - Admission Information.md
+      - Direct School Admission (2025 Intake).md
       - Joint Admissions Exercise/.keep
       - Joint Admissions Exercise/Joint Admissions Exercise (JAE).md
       - Joint Admissions Exercise/JAE Appeal Exercise 2024.md
