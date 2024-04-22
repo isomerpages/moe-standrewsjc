@@ -4,6 +4,6 @@ date: 2024-04-22
 layout: link
 description: ""
 image: ""
-external: https://standrewsjc.moe.edu.sg/about-us/admission-information/dsa2025/
+external: https://standrewsjc.moe.edu.sg/admission-information/dsa2025/
 variant: tiptap
 ---

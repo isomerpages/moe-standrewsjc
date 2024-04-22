@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (2025 Intake)
-permalink: /about-us/admission-information/dsa2025/
+permalink: /admission-information/dsa2025/
 description: ""
 variant: tiptap
 ---
