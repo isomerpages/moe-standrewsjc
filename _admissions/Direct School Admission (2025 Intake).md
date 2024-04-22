@@ -87,7 +87,7 @@ results and outstanding talent in the following CCAs to apply for admission.&nbs
 </li>
 </ul>
 <p></p>
-<p>The 2023 DSA-JC Exercise opens in May 2024. &nbsp;Shortlisted applicants
+<p>The 2025 DSA-JC Exercise opens in May 2024. &nbsp;Shortlisted applicants
 will be contacted for a trial/audition and/or interview that will take
 place between May and early August 2024.</p>
 <p>Do check out this site again on 6 May 2024.</p>
