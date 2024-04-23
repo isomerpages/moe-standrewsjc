@@ -1,6 +1,6 @@
 ---
-title: Literary and Debate Society
-permalink: /ccas/clubs-n-societies/literary-and-debate-society/
+title: Literary and Debating Society
+permalink: /ccas/clubs-n-societies/literary-and-debating-society/
 description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
