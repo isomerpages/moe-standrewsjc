@@ -16,7 +16,7 @@ variant: markdown
 <tr>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/ava-n-media-club">AVA &amp; Media Club</a></td>
 <td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/literary-and-debate-society">Literary and Debate Society</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/environmental-club">Environmental Club</a></td>
+<td style="width: 33.3333%; text-align: center;"><a href="/ccas/clubs-n-societies/environmental-club">Environment Club</a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/ccas/clubs-n-societies/indian-cultural-society"><img src="/images/cca26.jpg"></a></td>
