@@ -90,4 +90,5 @@ results and outstanding talent in the following CCAs to apply for admission.&nbs
 <p>The 2025 DSA-JC Exercise opens in May 2024. &nbsp;Shortlisted applicants
 will be contacted for a trial/audition and/or interview that will take
 place between May and early August 2024.</p>
-<p>Do check out this site again on <strong>6 May 2024</strong>.</p>
+<p><strong>6 May 2024</strong> - <a href="/files/2024/DSA___6_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for DSA 2025</a>
+</p>
