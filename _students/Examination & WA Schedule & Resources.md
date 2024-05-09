@@ -5,8 +5,7 @@ description: ""
 variant: markdown
 ---
 ## **Examination Timetable**
-
-Thank you for visiting this page. The 2023 Examinations for both levels has been concluded. The schedule for 2024 will be uploaded about a month before the major examinations 
+[2024 JC2 Block Test Examination Timetable](/files/2024/2024%20Exams%20and%20Assessments/2024_Block_Test_Student_22April.pdf)
 
 ## **A-Level Exam Documents**
 [2024 A-Level Exam Timetable](/files/2024/2024%20Exams%20and%20Assessments/2024_A_level_Exam_Timetable_26April.pdf)
