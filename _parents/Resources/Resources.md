@@ -33,5 +33,4 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 </ul>
-<p><strong>2022 Resources<br></strong><a href="/parents/resources/2022-resources" rel="noopener noreferrer nofollow" target="">Click here to access last year's resources!&nbsp;</a>
-</p>
+<p></p>
