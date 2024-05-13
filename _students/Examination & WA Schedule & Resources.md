@@ -19,4 +19,4 @@ variant: markdown
 ## **Weighted Assessment Schedule**
 [1. 2024 JC2 Weighted Assessment Schedule](/files/2024/2024%20Exams%20and%20Assessments/2024_jc2_wa_schedule_19jan.pdf) <br>
 
-[2. 2024 JC1 Weighted Assessment Schedule](/files/2024/2024%20Exams%20and%20Assessments/2024_jc1_wa_schedule_updated_19_jan.pdf) <br>
+[2. 2024 JC1 Weighted Assessment Schedule](/files/2024/2024%20Exams%20and%20Assessments/JC1_WA2_Schedule_updated_12May2024.pdf)
