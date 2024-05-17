@@ -33,7 +33,7 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 </ul>
-<p><strong>2024 JC1 and JC2 Parent Support Group Talk</strong>
+<p><strong>PSG Webinar, "Journeying with our children, Achieving their Aspirations.", 11 May 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
