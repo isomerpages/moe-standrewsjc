@@ -18,7 +18,7 @@ and unwavering commitment to excellence!</p>
 and future Saints, and we are confident that your future endeavours will
 continue to make us proud!</p>
 <p></p>
-<p><strong>Congratulations on this outstanding accomplishment!</strong> 
+<p><strong>Congratulations on this outstanding accomplishment!</strong>
 </p>
 <p></p>
 <p>Read more about his accomplishments below!</p>
