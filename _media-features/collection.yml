@@ -2,8 +2,8 @@ collections:
   media-features:
     output: true
     order:
-      - "Class of 2017: Jonathan Loh.md"
       - Media Features.md
+      - "Class of 2017: Jonathan Loh.md"
       - Community First Responder Awards by SCDF.md
       - Emmanuel Wong of 19A05.md
       - Rita Tan Mei Ying of 18A05.md
