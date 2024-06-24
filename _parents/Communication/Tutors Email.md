@@ -42,13 +42,13 @@ variant: markdown
 | Mr Ko Wei En Wayne| ko_wei_en_wayne@moe.edu.sg|
 | Mrs Loi-Koh Ching Hwee Sharon| koh_ching_hwee@moe.edu.sg|
 | Mr Koh Eng Chee| koh_eng_chee@moe.edu.sg|
-| Mr Koh Eng Chye Frederick| koh_eng_chye_frederick@moe.edu.sg|
+|
 | Ms Kristina Ming Ming Chandran| kristina_chandran_ming_ming@moe.edu.sg|
 | Mrs Chow Pei Sze Julia| kwan_pei_sze_julia@moe.edu.sg|
 | Mdm Lee Chun Theng Jermaine| lee_chun_theng@moe.edu.sg|
 | Ms Lee Jia Yi| lee_jia_yi_a@moe.edu.sg|
 | Mr Lee Kye Loong Roland| lee_kye_loong_roland@moe.edu.sg|
-| Mdm Lee Pei Lin Corinne| lee_pei_lin_corinne@moe.edu.sg|
+|
 | Mr Lee Wen Thye| lee_wen_thye@moe.edu.sg|
 | Mdm Leong Jia Hui Grace| leong_jia_hui_grace@moe.edu.sg|
 | Ms Leong Kim Lian Janet| leong_kim_lian_janet@moe.edu.sg|
