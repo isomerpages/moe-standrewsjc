@@ -5,7 +5,12 @@ description: ""
 third_nav_title: College Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -329,18 +334,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="khoo_lih_yui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_lih_yui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Pei Lin Corinne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_pei_lin_corinne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -832,18 +825,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Eng Chye Frederick</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_eng_chye_frederick@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chow Pei Sze Julia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1022,6 +1003,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Kian Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Wang Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1030,6 +1022,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wang_min@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhao Mengqi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1916,18 +1919,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rani_udaya_kumar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rasyidah Binte Mohammad Sanusi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rasyidah_mohammad_sanusi@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -8,7 +8,12 @@ variant: tiptap
 <ul>
 <li>
 <p>Club &amp; Society</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,7 +164,12 @@ variant: tiptap
 </li>
 <li>
 <p>Performing Arts</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -258,7 +268,12 @@ variant: tiptap
 </li>
 <li>
 <p>Student Leadership</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -318,7 +333,12 @@ variant: tiptap
 </li>
 <li>
 <p>Sports CCA</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -394,9 +414,7 @@ variant: tiptap
 <p>Football (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Eng Chye Frederick
-<br><a href="mailto:koh_eng_chye_frederick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_eng_chye_frederick@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
