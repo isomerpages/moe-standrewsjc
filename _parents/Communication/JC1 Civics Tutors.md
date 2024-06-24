@@ -22,7 +22,7 @@ variant: markdown
 | 24S07 | Mr Koh Eng Chee | koh_eng_chee@moe.edu.sg |
 | 24S08 | Mr Tan Yeow Beng Moses Lude | tan_yeow_beng_moses@moe.edu.sg |
 | 24S09 | Mr Yeo Jia Tian | yeo_jia_tian@moe.edu.sg |
-| 24S10 | Mr Koh Eng Chye Frederick | koh_eng_chye_frederick@moe.edu.sg |
+| 24S10 | 
 | 24S11 | Mr Lin Wenquan | lin_wenquan@moe.edu.sg |
 | 24S12 | Mr Randy Gill | randhir_singh@moe.edu.sg |
 | 24S13 | Ms Teow Wai Leng | teow_wai_leng@moe.edu.sg |
