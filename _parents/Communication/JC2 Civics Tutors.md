@@ -27,7 +27,7 @@ variant: markdown
 | 23S12| Ms Tong Shuqing| tong_shuqing@moe.edu.sg| 
 | 23S13| Ms Veena Bharwani| veena_bharwani@moe.edu.sg| 
 | 23S14| Mdm Ruth Amsani Perry| ruth_amsani_yusli@moe.edu.sg| 
-| 23S15| Mdm Lee Pei Lin Corinne| lee_pei_lin_corinne@moe.edu.sg| 
+| 23S15| 
 | 23S16| Ms Leong Kim Lian Janet| leong_kim_lian_janet@moe.edu.sg| 
 | 23S17| Ms Peck Hwee Fang| peck_hwee_fang@moe.edu.sg| 
 | 23S18| Ms Yim Miao Ting Jessica| yim_miao_ting_jessica@moe.edu.sg| 
