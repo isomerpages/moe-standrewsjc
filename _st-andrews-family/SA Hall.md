@@ -35,7 +35,7 @@ variant: markdown
 <p>Administration Manager</p>
 </td>
 <td>
-<p><a href="mailto:" target=""></a></p>
+<p><a href="mailto:goh_yee_ping@moe.edu.sg" target="">Mdm Goh Yee Ping Rene</a></p>
 </td>
 </tr>
 
