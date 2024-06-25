@@ -12,7 +12,7 @@ variant: markdown
 | 24A03 | Mr Lin Lunjie Terence | lin_lunjie_terence@moe.edu.sg |
 | 24A04 | Mr Lim Zi Qi | lim_zi_qi@moe.edu.sg |
 | 24A05 | Ms Lim Yi Xuan Debi | lim_yi_xuan_debi@moe.edu.sg |
-| 24A06 | Ms Melissa Lim Singh | melissa_lim_singh@moe.edu.sg|
+| 24A06 | 
 | 24S01 | Ms Cher Cai Wei Theresa | cher_cai_wei_theresa@moe.edu.sg |
 | 24S02 | Ms Low Wanyi | low_wanyi@moe.edu.sg |
 | 24S03 | Mr Dennis Chia | chia_dennis@moe.edu.sg |
