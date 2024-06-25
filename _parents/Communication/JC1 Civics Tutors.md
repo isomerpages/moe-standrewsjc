@@ -12,17 +12,17 @@ variant: markdown
 | 24A03 | Mr Lin Lunjie Terence | lin_lunjie_terence@moe.edu.sg |
 | 24A04 | Mr Lim Zi Qi | lim_zi_qi@moe.edu.sg |
 | 24A05 | Ms Lim Yi Xuan Debi | lim_yi_xuan_debi@moe.edu.sg |
-| 24A06 | 
+| 24A06 | Mdm Zhao Meng qi | zhao_mengqi@moe.edu.sg |
 | 24S01 | Ms Cher Cai Wei Theresa | cher_cai_wei_theresa@moe.edu.sg |
 | 24S02 | Ms Low Wanyi | low_wanyi@moe.edu.sg |
 | 24S03 | Mr Dennis Chia | chia_dennis@moe.edu.sg |
-| 24S04 | Mdm Wang Min | wang_min@moe.edu.sg |
+| 24S04 | Mr Tan Kian Tong | tan_kian_tong@moe.edu.sg |
 | 24S05 | Ms Lee Jia Yi | lee_jia_yi_a@moe.edu.sg |
 | 24S06 | Ms Mak Hee Man Hilda | mak_hee_man_hilda_1@moe.edu.sg |
 | 24S07 | Mr Koh Eng Chee | koh_eng_chee@moe.edu.sg |
 | 24S08 | Mr Tan Yeow Beng Moses Lude | tan_yeow_beng_moses@moe.edu.sg |
 | 24S09 | Mr Yeo Jia Tian | yeo_jia_tian@moe.edu.sg |
-| 24S10 | 
+| 24S10 | Mr Tristen Tjokro | tristen_tjokro@moe.edu.sg |
 | 24S11 | Mr Lin Wenquan | lin_wenquan@moe.edu.sg |
 | 24S12 | Mr Randy Gill | randhir_singh@moe.edu.sg |
 | 24S13 | Ms Teow Wai Leng | teow_wai_leng@moe.edu.sg |
