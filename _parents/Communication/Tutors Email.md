@@ -66,7 +66,7 @@ variant: markdown
 | Ms Low Wanyi| low_wanyi@moe.edu.sg|
 | Mr Ma Huaqi| ma_huaqi@moe.edu.sg|
 | Ms Mak Hee Man Hilda| mak_hee_man_hilda_1@moe.edu.sg|
-| Ms Melissa Lim Singh| melissa_lim_singh@moe.edu.sg|
+|
 | Mr Mohammed Azlan bin Ab Malek| mohammed_azlan_ab_malek@moe.edu.sg|
 | Dr Mohd Pitchay Gani B M A Aziz| mohd_pitchay_gani_b@moe.edu.sg|
 | Mdm Ng Geok Peng| ng_geok_peng@moe.edu.sg|

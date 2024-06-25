@@ -5,7 +5,7 @@ description: ""
 third_nav_title: College Staff
 variant: tiptap
 ---
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Club &amp; Society</p>
 <table style="minWidth: 75px">
@@ -414,10 +414,12 @@ variant: tiptap
 <p>Football (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wong Sook Yee</p>
+<p><a href="mailto:wong_sook_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sook_yee@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Econs</p>
 </td>
 </tr>
 <tr>
@@ -516,12 +518,12 @@ variant: tiptap
 <p>Water Polo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melissa Lim Singh
-<br><a href="mailto:melissa_lim_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="">melissa_lim_singh@moe.edu.sg</a>
+<p>Mdm Zhao Mengqi
+<br><a href="zhao_mengqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_mengqi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Language</p>
 </td>
 </tr>
 <tr>
