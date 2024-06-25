@@ -68,11 +68,34 @@ both here and in every corner of the world!</p>
 <p>Hall Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_leng_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mr Shaun Ang</a>
-</p>
+<p>Mr Shaun Ang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Yee Ping Rene</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Chionh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loo Han Piang Ryan</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>For inquiries, please email Hall Master or&nbsp;<a href="/files/SAH_Student%20Boarders_Application%20Form%20Jan2022.pdf" rel="noopener noreferrer nofollow" target="">download</a>&nbsp;the
+<p>For inquiries, please email <a href="ang_leng_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hall Master</a> or&nbsp;<a href="/files/SAH_Student%20Boarders_Application%20Form%20Jan2022.pdf" rel="noopener noreferrer nofollow" target="">download</a>&nbsp;the
 application form for interested applicant.</p>
