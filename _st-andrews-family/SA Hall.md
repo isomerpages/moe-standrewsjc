@@ -68,7 +68,7 @@ both here and in every corner of the world!</p>
 <p>Hall Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shaun Ang</p>
+<p>Mr Shaun Ang (<a href="mailto:ang_leng_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_leng_chuan@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
