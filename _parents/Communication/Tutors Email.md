@@ -42,13 +42,11 @@ variant: markdown
 | Mr Ko Wei En Wayne| ko_wei_en_wayne@moe.edu.sg|
 | Mrs Loi-Koh Ching Hwee Sharon| koh_ching_hwee@moe.edu.sg|
 | Mr Koh Eng Chee| koh_eng_chee@moe.edu.sg|
-|
 | Ms Kristina Ming Ming Chandran| kristina_chandran_ming_ming@moe.edu.sg|
 | Mrs Chow Pei Sze Julia| kwan_pei_sze_julia@moe.edu.sg|
 | Mdm Lee Chun Theng Jermaine| lee_chun_theng@moe.edu.sg|
 | Ms Lee Jia Yi| lee_jia_yi_a@moe.edu.sg|
 | Mr Lee Kye Loong Roland| lee_kye_loong_roland@moe.edu.sg|
-|
 | Mr Lee Wen Thye| lee_wen_thye@moe.edu.sg|
 | Mdm Leong Jia Hui Grace| leong_jia_hui_grace@moe.edu.sg|
 | Ms Leong Kim Lian Janet| leong_kim_lian_janet@moe.edu.sg|
@@ -66,7 +64,6 @@ variant: markdown
 | Ms Low Wanyi| low_wanyi@moe.edu.sg|
 | Mr Ma Huaqi| ma_huaqi@moe.edu.sg|
 | Ms Mak Hee Man Hilda| mak_hee_man_hilda_1@moe.edu.sg|
-|
 | Mr Mohammed Azlan bin Ab Malek| mohammed_azlan_ab_malek@moe.edu.sg|
 | Dr Mohd Pitchay Gani B M A Aziz| mohd_pitchay_gani_b@moe.edu.sg|
 | Mdm Ng Geok Peng| ng_geok_peng@moe.edu.sg|
@@ -98,6 +95,7 @@ variant: markdown
 | Mr Muthu Tamilselvan| tamilselvan_muthu@moe.edu.sg|
 | Mr Tan Jin Xing Andrew| tan_jin_xing_andrew@moe.edu.sg|
 | Ms Tan Joy| tan_joy@moe.edu.sg|
+| Mr Tan Kian Tong| tan_kian_tong@moe.edu.sg|
 | Ms Tan Mei Fong Cynthia| tan_mei_fong_cynthia@moe.edu.sg|
 | Mr Tan Yeow Beng Moses Lude| tan_yeow_beng_moses@moe.edu.sg|
 | Mr Tay Rong Shenq Christopher| tay_rong_shenq_christopher@moe.edu.sg|
@@ -126,3 +124,4 @@ variant: markdown
 | Mdm Yeo Hui Ching Geraldine| yeo_hui_ching@moe.edu.sg|
 | Mr Yeo Jia Tian| yeo_jia_tian@moe.edu.sg|
 | Ms Yim Miao Ting Jessica| yim_miao_ting_jessica@moe.edu.sg|
+| Mdm Zhao Mengqi| zhao_mengqi@moe.edu.sg|
