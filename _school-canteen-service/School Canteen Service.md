@@ -9,7 +9,7 @@ Updated - 5 Apr 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Open to proposal but must be Halal certified. E.g. Indian-Muslim food / Pizzas / Noodles / Ramen|31 May 2024|Halal certified
+|Open to proposal but must be Halal certified. E.g. Indian-Muslim food / Pizzas / Noodles / Ramen|1 Dec 2024|Halal certified
 
 **Application Procedure**
 
