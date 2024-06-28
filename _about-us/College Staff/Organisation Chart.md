@@ -997,7 +997,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_kian_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kian_tong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1020,7 +1021,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhao_mengqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_mengqi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
