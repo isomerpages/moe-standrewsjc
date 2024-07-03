@@ -14,8 +14,9 @@ June 2024. Our Saints experienced an exciting slew of activities, such
 as visiting the Ancient City, Bank of Thailand Learning Centre and Stock
 Exchange of Thailand to gain a better appreciation of the cultural and
 economical aspects of Thailand.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Announcements/2024   TDP Thailand Trip/IMG_20240528_WA0012.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcements/2024   TDP Thailand Trip/20240528_103039.jpg">
 </div>
 <p>&nbsp;</p>
 <p>The highlight of this trip was the exchange programme with our longstanding
