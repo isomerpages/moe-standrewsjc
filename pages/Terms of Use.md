@@ -2,50 +2,161 @@
 title: Terms of Use
 permalink: /terms-of-use/
 description: ""
+variant: markdown
 ---
+<h2><strong>Terms of Use</strong></h2>
+<p>Thank you for visiting St. Andrew's Junior College's Web Site. By accessing
+and using this Web Site, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Web Site.</p>
+<p></p>
+<h3><strong>General</strong></h3>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>These Terms of Use may be changed from time to time. Changes will be
+posted on this page and your use of this Web Site after such changes have
+been posted will constitute your agreement to the modified Terms of Use
+and all of the changes</p>
+</li>
+</ol>
 
+<p></p>
+<h3><strong>Proprietary Rights</strong></h3>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>This Web Site is maintained by St. Andrew's Junior College. It is owned
+by St. Andrew's Junior College.</p>
 
+</li>
+	<li><p>The materials located on this Web Site including the information and
+software programs (the Contents), are protected by copyright, trademark
+and other forms of proprietary rights. All rights, title and interest in
+the Contents are owned by, licensed to or controlled by St. Andrew's Junior
+College.</p>
+	</li>
+</ol>
 
+<p></p>
+<h3><strong>Privacy Policy</strong></h3>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Click <a href="https://www.standrewsjc.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
+</li>
+</ol>
+<p></p>
+<h3><strong>Restrictions on Use of Materials</strong></h3>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Except as otherwise provided, the Contents of this Web Site shall not
+be reproduced, republished, uploaded, posted, transmitted or otherwise
+distributed in any way, without the prior written permission of St. Andrew's
+Junior College.&nbsp; To use any parts of the contents of this Site, the
+user must seek permission in writing, stating the contents for use; intent
+of use; manner of use; time frame of use and identity of the user. MOE
+reserves the right to refuse permission without declaring reason(s); and/or
+if information submitted by user is deemed insufficient.</p>
+</li>
+<li>
+<p> 
+	Modification of any of the Contents or use of the Contents for any
+other purpose will be a violation of St. Andrew's Junior College's copyright
+and other intellectual property rights. Graphics and images on this Web
+Site are protected by copyright and may not be reproduced or appropriated
+in any manner without written permission ofSt. Andrew's Junior College.
+</p>
+</li>
 
-
-<p><strong>Agreement &ndash; Terms</strong></p>
-<ol>
-<li align="justify">Thank you for visiting this Website (&ldquo;The Website&rdquo;). The Website is owned and maintained by the St Andrew's Junior College, Singapore.</li>
-<li>All access of any area of The Website is governed by the terms and conditions below (&ldquo;Terms&rdquo;). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.</li>
-<li align="justify">In these Terms, the words &ldquo;we,&rdquo; &ldquo;our&rdquo; and &ldquo;us&rdquo; refer to St Andrew's Junior College.</li>
-<li>St Andrew's Junior College reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.</li>
+<h3><strong>Right of Access</strong></h3>
+<ol start="8" data-tight="true" class="tight">
+<li><p>St. Andrew's Junior College reserves all rights to deny or restrict
+access to this Web Site to any particular person, or to block access from
+a particular external address to this Web Site, at any time, without ascribing
+any reasons whatsoever.</p>
+	</li>
 </ol>
-<p><strong>Access to The Website</strong></p>
-<ol>
-<li align="justify">The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.</li>
-</ol>
-<p><strong>Relying on Information</strong></p>
-<ol>
-<li align="justify">The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.</li>
-<li align="justify">The materials located on The Website, including the information as well as software programs available on or through it (&ldquo;the Contents&rdquo;), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by St Andrew's Junior College.</li>
-</ol>
-<p><strong>Security</strong></p>
-<ol>
-<li align="justify">Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.</li>
-<li align="justify">Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.</li>
-</ol>
-<p><strong>Hyperlinks</strong></p>
-<ol>
-<li align="justify">We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.</li>
-<li>If you create a link or frame to The Website you do so at your own risk.</li>
-<li align="justify">Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at sajc@moe.edu.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website&rsquo;s function, and reasons for wanting to be hyperlinked on The Website.</li>
-<li>We reserve the right to object to, or disable any link or frame to or from The Website.</li>
-<li>We reserve the right to change the URL of The Website.</li>
-</ol>
-<p><strong>Intellectual Property</strong></p>
-<ol>
-<li align="justify">Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (&copy; 2012 St Andrew's Junior College)</li>
-<li align="justify">Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.</li>
-</ol>
-<p><strong>Disclaimer of Warranties and Liability<br /></strong>1. We will not be liable for any loss or damage:</p>
-<div>
-<ul>
-<li align="justify">that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;</li>
-<li align="justify">resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or</li>
-<li>the conduct or the views of any person who accesses or uses The Website.</li>
+<p></p>
+<h3><strong>Disclaimer of Warranties and Liability</strong></h3>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>The Contents of this Web Site are provided on an "as is" basis without
+warranties of any kind. To the fullest extent permitted by law, St. Andrew's
+Junior College does not warrant and hereby disclaims any warranty:</p>
+<ul><p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
+title, merchantability or fitness for any particular purpose of the Contents
+of this Web Site;</p>
+<p>(b) that the Contents available through this Web Site or any functions
+associated therewith will be uninterrupted or error-free, or that defects
+will be corrected or that this Web Site and the server is and will be free
+of all viruses and/or other harmful elements.</p>
 </ul>
+	<p></p>
+</li><li>
+<p> St. Andrew's Junior College shall also not be liable for any damage
+or loss of any kind caused as a result (direct or indirect) of the use
+of the Web Site, including but not limited to any damage or loss suffered
+as a result of reliance on the Contents contained in or available from
+the Web Site.</p>
+	</li>
+</ol>
+<h4><strong>Links from This Web Site to Other Web Sites</strong></h4>
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p>This Web Site contains hyperlinks to web sites which are not maintained
+by St. Andrew's Junior College. St. Andrew's Junior College is not responsible
+for the contents of those web sites and shall not be liable for any damages
+or loss arising from access to those web sites. Use of the hyperlinks and
+access to such web sites are entirely at your own risk.</p>
+	</li>
+<li>
+<p>12. Hyperlinks to other web sites are provided as a convenience. In no
+circumstances shall St. Andrew's Junior College be considered to be associated
+or affiliated with any trade or service marks, logos, insignia or other
+devices used or appearing on web sites to which this Web Site is linked.</p>
+	</li>
+	</ol>
+<h4><strong>Links to This Web Site from Other Web Sites</strong></h4>
+<ol start="13" data-tight="true" class="tight">
+<li>
+	<p>Except as set forth below, caching and links to, and the framing of
+this Web Site or any of the Contents are prohibited.</p>
+	</li>
+<li>
+<p>You must secure permission from St. Andrew's Junior College prior
+to hyperlinking to, or framing, this Web Site or any of the Contents, or
+engaging in similar activities. St. Andrew's Junior College reserves the
+right to impose conditions when permitting any hyperlinking to, or framing
+of this Web Site or any of the Contents.</p>
+	</li><li>
+<p> Your linking to, or framing any part of this Web Site or its Contents
+constitute acceptance of these Terms of Use. This is deemed to be the case
+even after the posting of any changes or modifications to these Terms of
+Use. If you do not accept these Terms of Use, you must discontinue linking
+to, or framing of this Web Site or any of the Contents.</p>
+	</li><li>
+<p>In no circumstances shall St. Andrew's Junior College be considered
+to be associated or affiliated in whatever manner with any trade or service
+marks, logos, insignia or other devices used or appearing on web sites
+that link to this Web Site or any of the Contents.</p>
+	</li><li>
+<p>St. Andrew's Junior College reserves all rights to disable any links
+to, or frames of any site containing inappropriate, profane, defamatory,
+infringing, obscene, indecent or unlawful topics, names, material or information,
+or material or information that violates any written law, any applicable
+intellectual property, proprietary, privacy or publicity rights.</p>
+	</li><li>
+<p>St. Andrew's Junior College reserves the right to disable any unauthorised
+links or frames and disclaims any responsibility for the content available
+on any other site reached by links to or from this Web Site or any of the
+Contents.</p>
+	</li>
+	</ol>
+	
+<h3><strong>Governing Law</strong></h3>
+	<ol start="19" data-tight="true" class="tight">
+<li>
+	<p>These Terms of Use shall be governed and construed in accordance with
+laws of the Republic of Singapore.</p>
+		</li>
+	</ol>
+<p>&nbsp;</p></ol>
