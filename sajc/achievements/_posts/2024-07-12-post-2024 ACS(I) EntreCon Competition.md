@@ -24,30 +24,25 @@ the final and were awarded with the Certificate of Distinction. They are</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="minWidth: 75px; border: none">
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="border: none" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2024 ACS(I) EntreCon/Kieran_Kwek_24A01.jpg">
-</div>
-<p>Kieran Kwek (24A01)</p>
+</div><br>
+<p style="text-align: center">Kieran Kwek (24A01)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="border: none; vertical-align: middle; text-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2024 ACS(I) EntreCon/Zheng_Jinbo_24A01.jpg">
 </div>
-<p>Zheng Jinbo (24A01)</p>
+<p style="text-align: center">Zheng Jinbo (24A01)</p>
 </th>
 </tr>
 <tr>
@@ -56,7 +51,7 @@ the final and were awarded with the Certificate of Distinction. They are</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2024 ACS(I) EntreCon/Cheng_Kirby_24S05.jpg">
 </div>
-<p><strong>Kirby Cheng (24S05)</strong>
+<p style="text-align: center"><strong>Kirby Cheng (24S05)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +62,7 @@ the final and were awarded with the Certificate of Distinction. They are</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2024 ACS(I) EntreCon/Kim_Jayoon_24S13.jpg">
 </div>
-<p><strong>Kim Jayoon (24S13)</strong>
+<p style="text-align: center"><strong>Kim Jayoon (24S13)</strong>
 </p>
 </td>
 </tr>
