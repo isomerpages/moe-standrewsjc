@@ -74,9 +74,6 @@ and Literature,</p>
 <p><u>H3 Subjects (with MOE Partners)</u>
 </p>
 <p>Biology, Physics, Economics, Geography, History, Literature in English</p>
-<p>____________________________________________________</p>
-<p><sup>1</sup> Wonder, Integrity, Self-Discipline &amp; Excellence</p>
-<p><sup>2</sup> Thanksgiving, Resilience, Unity &amp; Empathy</p>
 <p></p>
 <p><u>H3 Subjects (within college) based on demand</u>
 </p>
@@ -220,4 +217,9 @@ will be certified and signed by the relevant authorities.</p>
 <p><strong>Mr Tham Kine Thong<br>Principal<br></strong>St Andrew's Junior
 College
 <br><a href="/files/2024/College_Profile_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download the College Profile 2024</a>
+<br>
 </p>
+<hr>
+<p>1 Wonder, Integrity, Self-Discipline &amp; Excellence</p>
+<p>2 Thanksgiving, Resilience, Unity &amp; Empathy</p>
+<p></p>
