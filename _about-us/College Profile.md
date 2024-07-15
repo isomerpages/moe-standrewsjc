@@ -219,22 +219,7 @@ College
 <br><a href="/files/2024/College_Profile_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download the College Profile 2024</a>
 <br>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><sup>1</sup> Wonder, Integrity, Self-Discipline &amp; Excellence</p>
-<p><sup>2</sup> Thanksgiving, Resilience, Unity &amp; Empathy</p>
-</td>
-</tr>
-</tbody>
-</table>
+<hr>
+<p>1 Wonder, Integrity, Self-Discipline &amp; Excellence</p>
+<p>2 Thanksgiving, Resilience, Unity &amp; Empathy</p>
 <p></p>
