@@ -17,4 +17,5 @@ E-Booklet and the Principal’s Report using the links below.</p>
 <p></p>
 <p><a href="/files/2024/2024   College Day/College_Day_Principal_s_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">1, SAJC 46th Anniversary College Day - Principal's Report</a>
 </p>
-<p></p>
+<p><a href="https://drive.google.com/file/d/1W3NmhRfaHZKDteyYaXVaaP2OlmgwUAU7/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2. SAJC 46th Anniversary College Day - Programme Booklet</a>
+</p>
