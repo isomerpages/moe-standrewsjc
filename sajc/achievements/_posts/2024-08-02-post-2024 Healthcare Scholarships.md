@@ -14,40 +14,20 @@ They are</p>
 <h4><strong>Healthcare Merit Award</strong></h4>
 <p>• Lim Shu Ann Charity (Class of 2017)</p>
 <p>• Tan Wei Ning (Class of 2023)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Tan Wei Ning" src="/images/Announcements/ 2024 Healthcare Scholarships/Tan_Wei_Ning.jpg">
+</div>
+<p></p>
 <h4><strong>Healthcare Graduate Studies Award</strong></h4>
 <p>• Moriah Lim Hui (Class of 2016)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Moriah Lim" src="/images/Announcements/ 2024 Healthcare Scholarships/Moriah_Lim.jpg">
+</div>
 <h4><strong>Integrated Nursing Scholarship</strong></h4>
 <p>• Bernadette Ho Yi Xin (Class of 2023)</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan Wei Ning" src="/images/Announcements/ 2024 Healthcare Scholarships/Tan_Wei_Ning.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Bernadette Ho" src="/images/Announcements/ 2024 Healthcare Scholarships/Bernadette_Ho.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Moriah Lim" src="/images/Announcements/ 2024 Healthcare Scholarships/Moriah_Lim.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Bernadette Ho" src="/images/Announcements/ 2024 Healthcare Scholarships/Bernadette_Ho.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>We would like to wish them all the best in their future endeavours as
 Servant Leaders in the healthcare sector. Up and On!</p>
