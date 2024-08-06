@@ -9,7 +9,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 24A01 | Mdm Nurhabibah Bte Md Yusope | nurhabibah_mohamed_yusope@moe.edu.sg |
 | 24A02 | Mdm Jackina Sultan Athaham | jackina_sultan_athaham@moe.edu.sg |
-| 24A03 | Mr Lin Lunjie Terence | lin_lunjie_terence@moe.edu.sg |
+| 24A03 | Mr Mohammed Azlan bin Ab Malek | mohammed_azlan_ab_malek@moe.edu.sg |
 | 24A04 | Mr Lim Zi Qi | lim_zi_qi@moe.edu.sg |
 | 24A05 | Ms Lim Yi Xuan Debi | lim_yi_xuan_debi@moe.edu.sg |
 | 24A06 | Mdm Zhao Mengqi | zhao_mengqi@moe.edu.sg |
