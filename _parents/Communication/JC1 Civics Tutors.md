@@ -33,6 +33,6 @@ variant: markdown
 | 24S18 | Mr Ong Kim Lin Scott | ong_kim_lin@moe.edu.sg |
 | 24S19 | Ms Wong Weishan | wong_weishan@moe.edu.sg |
 | 24S20 | Ms Ng Hui Lin Felicia | ng_hui_lin_felicia@moe.edu.sg |
-| 24S21 | Ms Ng Wei Ying Abigail | ng_wei_ying_abigail@moe.edu.sg |
+| 24S21 | Mr Ong Kah Siang Jason | jason_ong_kah_siang@moe.edu.sg |
 | 24S22 | Mr Chua Chun Lin Lyndon | chua_chun_lin_lyndon@moe.edu.sg |
 | 24S23 | Mr Chai Ming Long | chai_ming_long@moe.edu.sg |
