@@ -18,7 +18,6 @@ variant: markdown
 | Ms Cher Cai Wei Theresa| cher_cai_wei_theresa@moe.edu.sg|
 | Mr Chia Chin Han| chia_chin_han@moe.edu.sg|
 | Mr Dennis Chia| chia_dennis@moe.edu.sg|
-| Mr Chia Thien Huat Jae| chia_thien_huat@moe.edu.sg|
 | Mdm Chiam Qian Zhen Alethea| chiam_qian_zhen_alethea@moe.edu.sg|
 | Mr Ching Swee Hoe| ching_swee_hoe@moe.edu.sg|
 | Mr Chong Te Wei David| chong_te_wei@moe.edu.sg|
@@ -58,7 +57,6 @@ variant: markdown
 | Ms Lim Yi Xuan Debi| lim_yi_xuan_debi@moe.edu.sg|
 | Mr Lim Zi Qi| lim_zi_qi@moe.edu.sg|
 | Mr Lin Jiahao Aaron| lin_jiahaoaaron@moe.edu.sg|
-| Mr Lin Lunjie Terence| lin_lunjie_terence@moe.edu.sg|
 | Mr Lin Wenquan| lin_wenquan@moe.edu.sg|
 | Mdm Loh Lih Yeh| loh_lih_yeh@moe.edu.sg|
 | Ms Low Wanyi| low_wanyi@moe.edu.sg|
@@ -107,7 +105,6 @@ variant: markdown
 | Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
 | Ms Tong Shuqing| tong_shuqing@moe.edu.sg|
 | Mr Tristen Tjokro| tristen_tjokro@moe.edu.sg|
-| Ms Veena Bharwani| veena_bharwani@moe.edu.sg|
 | Mdm Wang Min| wang_min@moe.edu.sg|
 | Mr Wee Lee Meng Lester| wee_lee_meng_lester@moe.edu.sg|
 | Mr Lee Wen Feng Felix| wen_feng_felix_lee@moe.edu.sg|
