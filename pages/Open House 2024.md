@@ -1,0 +1,7 @@
+---
+title: Open House 2024
+permalink: /oh2024/
+variant: tiptap
+description: ""
+---
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2024/1.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2024/2.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2024/mini_banner_1.png"></div><table><tbody><tr><th rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="/admissions/subject-combinations/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2024/4a.png"></a></th><th rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="/files/2024/SAJC_Prospectus_2024.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2024/4b.png"></a></th><th rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="/admissions/faq/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2024/4c.png"></a></th></tr></tbody></table><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2024/mini_banner_2.png"></div><p></p>
