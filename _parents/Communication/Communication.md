@@ -18,5 +18,4 @@ for announcements on parents-related events for the year.</p>
 <p></p>
 <p>If you have any enquries, clarification or feedback with regard to parents
 invovlement or the events organised by the college for parents, feel free
-to contact Mr Wayne Ko via email at <a href="mailto:ko_wei_en_wayne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ko_wei_en_wayne@moe.edu.sg</a>
-</p>
+to contact Mr William Lee via email <a href="william_lee_choong_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">william_lee_choong_how@moe.edu.sg</a>.</p>

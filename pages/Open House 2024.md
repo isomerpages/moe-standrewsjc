@@ -1,6 +1,6 @@
 ---
 title: Open House 2024
-permalink: /oh2024/thishasbeendeactivated/
+permalink: /oh2024/
 variant: tiptap
 description: ""
 ---
