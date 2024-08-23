@@ -131,6 +131,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ko Wei En Wayne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Character Education (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ko_wei_en_wayne@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <h4><strong>Teachers</strong></h4>
 </td>
@@ -180,18 +192,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">jackina_sultan_athaham@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ko Wei En Wayne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ko_wei_en_wayne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
