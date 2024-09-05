@@ -29,7 +29,7 @@ Updated - 5 Sep 2024
 
 Contact Person:
 * Mdm Wu Miau Kee (Admin Manager)
-* Mdm Ng Yee San (Administrative Executive)
+* Ms Angeline Lee (Corporate Support Officer)
 
 **How to get there?**
 * Nearest MRT: Potong Pasir (NE10 line) – 10 minutes walking distance
