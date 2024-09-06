@@ -5,11 +5,11 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 28 Jun 2024
+Updated - 5 Sep 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Open to proposal but must be Halal certified. E.g. Indian-Muslim food / Pizzas / Noodles / Ramen|1 Dec 2024|Halal certified
+|Open to proposal for Halal or non-Halal food such as Chinese Mixed Rice/Japan-Korean Food/ Thai Food/Vegetarian etc|1 Dec 2024|For Halal Food, Halal Certification is required
 
 **Application Procedure**
 
@@ -29,7 +29,7 @@ Updated - 28 Jun 2024
 
 Contact Person:
 * Mdm Wu Miau Kee (Admin Manager)
-* Mdm Ng Yee San (Administrative Executive)
+* Ms Angeline Lee (Corporate Support Officer)
 
 **How to get there?**
 * Nearest MRT: Potong Pasir (NE10 line) – 10 minutes walking distance
