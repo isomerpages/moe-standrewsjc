@@ -2,29 +2,62 @@
 title: About Us
 permalink: /about-us/
 description: ""
+variant: tiptap
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 50%;"><a href="/about-us/principals-message"><img src="/images/au1.png"></a></td>
-<td style="width: 50%;"><a href="/about-us/vision-mission-values"><img src="/images/au2.png"></a></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au2.png">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="/about-us/campus-tour"><img src="/images/au3.png"></a></td>
-<td style="width: 50%;"><a href="/about-us/heritage"><img src="/images/au4.png"></a></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au4.png">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="/about-us/board-of-governors"><img src="/images/au5.png"></a></td>
-	
-<td style="width: 50%;"><a href="/about-us/college-staff/organisation-chart"><img src="/images/au6.png"></a></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au6.png">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="/about-us/contact-us"><img src="/images/au7.png"></a></td>
-<td style="width: 50%;"><a href="/about-us/charity-status"><img src="/images/au8.png"></a></td>
-</tr>
-<tr>
-<td style="width: 50%;"><a href="/about-us/admission-information"><img src="/images/au9.png"></a></td>
-<td style="width: 50%;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/au8.png">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
