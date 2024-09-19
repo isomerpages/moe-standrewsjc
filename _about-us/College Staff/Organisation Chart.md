@@ -351,18 +351,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhabibah Bte Md Yusope</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurhabibah_mohamed_yusope@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Paul Somali</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1826,6 +1814,18 @@ variant: tiptap
 <p><strong>Science &amp; Laboratory</strong>
 </p>
 </blockquote>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ammala Rajamani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ammala_rajamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ammala_rajamani@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

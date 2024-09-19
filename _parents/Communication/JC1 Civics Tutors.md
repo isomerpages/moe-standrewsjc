@@ -7,7 +7,7 @@ variant: markdown
 ---
 | CG | CIVICS TUTOR | EMAIL |
 | -------- | -------- | -------- |
-| 24A01 | Mdm Nurhabibah Bte Md Yusope | nurhabibah_mohamed_yusope@moe.edu.sg |
+| 24A01 | Mr Lim Mong Khai Melvin | lim_mong_khai_melvin@moe.edu.sg |
 | 24A02 | Mdm Jackina Sultan Athaham | jackina_sultan_athaham@moe.edu.sg |
 | 24A03 | Mr Mohammed Azlan bin Ab Malek | mohammed_azlan_ab_malek@moe.edu.sg |
 | 24A04 | Mr Lim Zi Qi | lim_zi_qi@moe.edu.sg |
