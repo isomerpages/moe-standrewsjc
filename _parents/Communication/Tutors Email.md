@@ -70,7 +70,6 @@ variant: markdown
 | Ms Ng May Fun| ng_may_fun@moe.edu.sg|
 | Mdm Ng Sue Ling| ng_sue_ling@moe.edu.sg|
 | Ms Ng Wei Ying Abigail| ng_wei_ying_abigail@moe.edu.sg|
-| Mdm Nurhabibah Bte Md Yusope| nurhabibah_mohamed_yusope@moe.edu.sg|
 | Mr Ong Duen Liang Stanley| ong_duen_liang@moe.edu.sg|
 | Mr Ong Kim Lin Scott| ong_kim_lin@moe.edu.sg|
 | Ms Peck Hwee Fang| peck_hwee_fang@moe.edu.sg|
