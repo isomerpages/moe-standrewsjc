@@ -2,6 +2,7 @@
 title: Board of Governors
 permalink: /about-us/board-of-governors/
 description: ""
+variant: markdown
 ---
 **Mr Tan Soo Kiang**  
 Chairman
@@ -15,9 +16,6 @@ Treasurer
 **Mr Alfred Wong Siu Hong**  
 Committee Member
 
-**Mrs Alice Tan**  
-Committee Member
-
 **Mr David Ng Boon Kiong**  
 Committee Member
 
@@ -28,6 +26,9 @@ Committee Member
 Committee Member
 
 **Rev Dr Peter Poon**  
+Committee Member
+
+**Mr Ronnie Chen**  
 Committee Member
 
 **Mr Terence Han Ching Juan**  
