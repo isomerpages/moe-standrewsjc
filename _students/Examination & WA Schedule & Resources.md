@@ -9,6 +9,8 @@ variant: markdown
 
 [2024 JC1 Final Exam Timetable](/files/2024/2024%20Exams%20and%20Assessments/2024_JC1_Final_Examination_Timetable.pdf)
 
+[JC1 Exam Briefing Slides](/files/2024/2024%20Exams%20and%20Assessments/JC1_Exam_Briefing_Slides.pdf)
+
 ## **A-Level Exam Documents**
 [2024 A-Level Exam Timetable](/files/2024/2024%20Exams%20and%20Assessments/2024_A_level_Exam_Timetable_26April.pdf)
 
