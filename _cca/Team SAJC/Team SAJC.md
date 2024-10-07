@@ -23,12 +23,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca5.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/cca5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca7.jpg">
+<img style="width: 55%;" height="auto" width="100%" src="/images/cca7.jpg">
 </div>
 <p></p>
 </td>
@@ -55,12 +55,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca9.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/cca9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca10.jpg">
+<img style="width: 55%;" height="auto" width="100%" src="/images/cca10.jpg">
 </div>
 </td>
 </tr>
@@ -89,12 +89,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca12.jpg">
+<img style="width: 76%;" height="auto" width="100%" src="/images/cca12.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca13.jpg">
+<img style="width: 55%;" height="auto" width="100%" src="/images/cca13.jpg">
 </div>
 </td>
 </tr>
@@ -123,12 +123,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wp1.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/wp1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca15.jpg">
+<img style="width: 55%;" height="auto" width="100%" src="/images/cca15.jpg">
 </div>
 </td>
 </tr>
