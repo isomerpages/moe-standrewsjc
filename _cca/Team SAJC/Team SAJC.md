@@ -27,10 +27,10 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wp1.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/cca7.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -43,16 +43,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/water-polo" rel="noopener noreferrer nofollow" target="_blank">Water Polo</a>
+<p><a href="/ccas/team-sajc/football" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca7.jpg">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/cca8.jpg">
@@ -63,27 +58,30 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/cca9.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/football" rel="noopener noreferrer nofollow" target="_blank">Football</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/hockey" rel="noopener noreferrer nofollow" target="_blank">Hockey</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/cca10.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/ccas/team-sajc/hockey" rel="noopener noreferrer nofollow" target="_blank">Hockey</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/ccas/team-sajc/netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/ccas/team-sajc/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/cca11.jpg">
@@ -94,30 +92,38 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/cca12.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/ten-pin-bowling" rel="noopener noreferrer nofollow" target="_blank">Ten-pin Bowling</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/tennis" rel="noopener noreferrer nofollow" target="_blank">Tennis</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/cca13.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="/ccas/team-sajc/ten-pin-bowling" rel="noopener noreferrer nofollow" target="_blank">Ten-pin Bowling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="/ccas/team-sajc/tennis" rel="noopener noreferrer nofollow" target="_blank">Tennis</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="/ccas/team-sajc/touch-rugby" rel="noopener noreferrer nofollow" target="_blank">Touch Rugby</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/cca14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wp1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,11 +134,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/touch-rugby" rel="noopener noreferrer nofollow" target="_blank">Touch Rugby</a>
+<p></p>
+<p><a href="/ccas/team-sajc/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track and Field</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ccas/team-sajc/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track and Field</a>
+<p><a href="/ccas/team-sajc/water-polo" rel="noopener noreferrer nofollow" target="_blank">Water Polo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
