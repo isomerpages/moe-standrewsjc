@@ -68,17 +68,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/ccas/team-sajc/hockey" rel="noopener noreferrer nofollow" target="_blank">Hockey</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/ccas/team-sajc/netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/ccas/team-sajc/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -100,17 +97,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="/ccas/team-sajc/ten-pin-bowling" rel="noopener noreferrer nofollow" target="_blank">Ten-pin Bowling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="/ccas/team-sajc/tennis" rel="noopener noreferrer nofollow" target="_blank">Tennis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="/ccas/team-sajc/touch-rugby" rel="noopener noreferrer nofollow" target="_blank">Touch Rugby</a>
 </p>
 </td>
@@ -134,7 +128,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="/ccas/team-sajc/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track and Field</a>
 </p>
 </td>
