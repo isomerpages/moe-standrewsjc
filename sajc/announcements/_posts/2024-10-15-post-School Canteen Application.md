@@ -1,7 +1,7 @@
 ---
 title: School Canteen Application
 permalink: /school-canteen-service/canteen/
-date: 2024-09-05
+date: 2024-10-15
 layout: post
 description: ""
 image: ""

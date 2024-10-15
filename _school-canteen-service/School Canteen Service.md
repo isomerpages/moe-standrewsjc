@@ -5,11 +5,11 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 5 Sep 2024
+Updated - 15 Oct 2024
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Open to proposal for Halal or non-Halal food such as Chinese Mixed Rice/Japan-Korean Food/ Thai Food/Vegetarian etc|1 Dec 2024|For Halal Food, Halal Certification is required
+|Halal Cuisine (Noodle/Rice)|1 Dec 2024|Halal Certification is required
 
 **Application Procedure**
 
