@@ -4,7 +4,7 @@ permalink: /parents/resources/2021-resources/
 description: ""
 variant: markdown
 ---
-<p><strong>Mental Wellness: Moving towards the Final Examination<br></strong>1.&nbsp;<a href="https://vimeo.com/586551728/133797efab" target="_blank" rel="noopener">Webinar Recording</a><br>2.&nbsp;<a href="https://standrewsjc-moe-edu-sg-admin.cwp.sg/qql/slot/u674/revamp2021/parents/resources/Moving%20towards%20the%20Final%20Examination/moving%20towards%20%20year%20end%20examinations%203.pdf" target="_blank" rel="noopener">Slides</a></p>
+<p><strong>Mental Wellness: Moving towards the Final Examination<br></strong>1.&nbsp;<a href="https://vimeo.com/586551728/133797efab" target="_blank" rel="noopener">Webinar Recording</a><br>2.&nbsp;Slides (Link Broken)</p>
 <p><strong>Blended Learning Resources for Parents<br></strong>1.&nbsp;Parent Kit - My Independent Learner (Link broken)<br>2.&nbsp;Parent Kit - Cyber Wellness for your Child (Link broken)</p>
 <p><strong>Time Management Workshop<br></strong>1.&nbsp;<a href="https://vimeo.com/558453672/0da90037d4" target="_blank" rel="noopener">Webinar Recording</a><br>2.&nbsp;Consolidated Q&amp;A (Link broken)</p>
 <p><strong>It Takes A Village Webinar for Parents<br></strong>1.&nbsp;<a href="https://vimeo.com/543488246/9162ea07de" target="_blank" rel="noopener">Webinar Recording</a><br>2.&nbsp;<a href="https://vimeo.com/547360492/2e526f670f" target="_blank" rel="noopener">Journeying with our Child Video - by ECG Counsellor</a><br>3.&nbsp;Consolidated Q&amp;A (Link broken)</p>
