@@ -10,7 +10,7 @@ aims to inform parents on the general information on Higher Education and
 on the latest local university admission requirements. It also aims to
 equip parents with information resources related to parenting.</p>
 <p><strong>MOE Resources<br></strong>1. <a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener" target="_blank">MySkillsFuture(Pre-U) Brochure</a> 
-<br>2.&nbsp;<a href="https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html#p=1" rel="noopener" target="_blank">ECG Guide forParents</a> 
+<br>2. <a href="/files/2024/ecg_guide_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Guide for Parents</a>
 <br>3.&nbsp;<a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-a-level.pdf" rel="noopener" target="_blank">What’s Next? – Post‘A’ level Guide for Students</a>
 </p>
 <p><strong>Other Resources<br></strong>  <a href="/files/2023/Communicating_with_your_Teenager_summary.pdf" rel="noopener" target="_blank">Communicating with your Teenagers</a> 
