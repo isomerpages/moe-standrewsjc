@@ -112,13 +112,15 @@ are coping well.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2025/3__1_.png">
 </div>
 <h3>H3 Subjects</h3>
-<p>H3 subjects have syllabi that are of much higher level of difficulty.
+<p>H3 subjects have syllabi that are of a much higher level of difficulty.
 Students offering H3 subjects must have the time and ability to manage
-a workload beyond their subject combination. A H3 subject must be offered
+workload beyond their subject combination. A H3 subject must be offered
 together with the corresponding subject at the H2 level.
 <br>
-<br>H3 subjects may be offered to students to take in JC2 if they have scored
-distinctions for all H2 subjects in the JC1 Promotional Examination.
+<br>Students may offer H3 subjects in JC2 if they meet the following requirements
+in their JC1 Promotional Examination: a distinction in the subject they
+wish to pursue as H3, a minimum of a B grade in all other H2 subjects,
+and a pass in their H1 subject.
 <br>
 <br>Students can apply for H3 subjects offered by one of the following MOE
 partners involving tertiary institutions such as SMU, NUS or NTU.
