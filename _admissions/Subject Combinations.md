@@ -112,10 +112,10 @@ are coping well.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2025/3__1_.png">
 </div>
 <h3>H3 Subjects</h3>
-<p>H3 subjects have syllabi that are of a much higher level of difficulty.
-Students offering H3 subjects must have the time and ability to manage
-workload beyond their subject combination. A H3 subject must be offered
-together with the corresponding subject at the H2 level.
+<p>H3 subjects have syllabi that are of much higher level difficulty. Students
+offering H3 subjects must have the time and ability to manage workload
+beyond their subject combination. A H3 subject must be offered together
+with the corresponding subject at the H2 level.
 <br>
 <br>Students may offer H3 subjects in JC2 if they meet the following requirements
 in their JC1 Promotional Examination: a distinction in the subject they
