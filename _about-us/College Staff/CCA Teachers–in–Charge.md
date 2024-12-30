@@ -307,8 +307,8 @@ variant: tiptap
 <p>Students' Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hui Ching
-<br><a href="mailto:lim_hui_ching_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_ching_a@moe.edu.sg</a>
+<p>Mr Chong Te Wei David
+<br><a href="chong_te_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_te_wei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
