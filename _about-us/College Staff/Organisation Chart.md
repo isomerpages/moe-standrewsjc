@@ -55,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Kwang How Bernard</p>
+<p>Mr Tony Tan Sek Liang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Principal (Admin)</p>
@@ -403,18 +403,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sashikumar Jaichandra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sashikumar_jaichandra@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sin Mei Chuen Caroline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -619,18 +607,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">soh_cai_wen_noelle@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muthu Tamilselvan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tamilselvan_muthu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1261,18 +1237,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hui Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_hui_ching_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Soh Xiao Fen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1316,18 +1280,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chong_te_wei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teng Guan Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Talent Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teng_guan_foo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1996,18 +1948,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Oh Seoh Cheng Catherine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">oh_seoh_cheng@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
