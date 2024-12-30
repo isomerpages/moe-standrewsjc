@@ -34,12 +34,12 @@ variant: tiptap
 <p>AVA &amp; Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yeow Beng Moses Lude
-<br><a href="mailto:tan_yeow_beng_moses@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yeow_beng_moses@moe.edu.sg</a>
+<p>Mr Dennis Chia
+<br><a href="chia_dennis@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_dennis@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Maths</p>
 </td>
 </tr>
 <tr>
@@ -190,12 +190,12 @@ variant: tiptap
 <p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Lee Meng Lester
-<br><a href="mailto:wee_lee_meng_lester@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wee_lee_meng_lester@moe.edu.sg</a>
+<p>Mdm Wang Min
+<br><a href="wang_min@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_min@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Econs</p>
+<p>Language</p>
 </td>
 </tr>
 <tr>
@@ -229,12 +229,12 @@ variant: tiptap
 <p>Dance Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kim Lin Scott
-<br><a href="mailto:ong_kim_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kim_lin@moe.edu.sg</a>
+<p>Mrs Chow Pei Sze Julia
+<br><a href="kwan_pei_sze_julia@moe.edu.sg" rel="noopener nofollow" target="_blank">kwan_pei_sze_julia@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chemistry</p>
+<p>Maths</p>
 </td>
 </tr>
 <tr>
@@ -307,8 +307,8 @@ variant: tiptap
 <p>Students' Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hui Ching
-<br><a href="mailto:lim_hui_ching_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_ching_a@moe.edu.sg</a>
+<p>Mr Chong Te Wei David
+<br><a href="chong_te_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_te_wei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,12 +359,12 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Wanyi
-<br><a href="mailto:low_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_wanyi@moe.edu.sg</a>
+<p>Mr Kieu Chin Wah Bryan
+<br><a href="kieu_chin_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">kieu_chin_wah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chem</p>
+<p>PE</p>
 </td>
 </tr>
 <tr>
@@ -414,12 +414,12 @@ variant: tiptap
 <p>Football (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Sook Yee</p>
-<p><a href="mailto:wong_sook_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sook_yee@moe.edu.sg</a>
+<p>Ms Leong Kim Lian Janet</p>
+<p><a href="leong_kim_lian_janet@moe.edu.sg" rel="noopener nofollow" target="_blank">leong_kim_lian_janet@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Econs</p>
+<p>Bio</p>
 </td>
 </tr>
 <tr>
@@ -518,12 +518,12 @@ variant: tiptap
 <p>Water Polo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Mengqi
-<br><a href="zhao_mengqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_mengqi@moe.edu.sg</a>
+<p>Mr Chai Ming Long
+<br><a href="chai_ming_long@moe.edu.sg" rel="noopener nofollow" target="_blank">chai_ming_long@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Language</p>
+<p>PE</p>
 </td>
 </tr>
 <tr>
