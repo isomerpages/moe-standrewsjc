@@ -414,12 +414,12 @@ variant: tiptap
 <p>Football (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Kim Lian Janet</p>
-<p><a href="leong_kim_lian_janet@moe.edu.sg" rel="noopener nofollow" target="_blank">leong_kim_lian_janet@moe.edu.sg</a>
+<p>Mr Lee Kye Loong Roland
+<br><a href="mailto:lee_kye_loong_roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kye_loong_roland@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bio</p>
+<p>Phy</p>
 </td>
 </tr>
 <tr>
