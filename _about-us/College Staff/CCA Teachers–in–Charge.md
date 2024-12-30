@@ -359,12 +359,12 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Wanyi
-<br><a href="mailto:low_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">low_wanyi@moe.edu.sg</a>
+<p>Mr Kieu Chin Wah Bryan
+<br><a href="kieu_chin_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">kieu_chin_wah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chem</p>
+<p>PE</p>
 </td>
 </tr>
 <tr>
@@ -414,12 +414,12 @@ variant: tiptap
 <p>Football (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Sook Yee</p>
-<p><a href="mailto:wong_sook_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sook_yee@moe.edu.sg</a>
+<p>Ms Leong Kim Lian Janet</p>
+<p><a href="leong_kim_lian_janet@moe.edu.sg" rel="noopener nofollow" target="_blank">leong_kim_lian_janet@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Econs</p>
+<p>Bio</p>
 </td>
 </tr>
 <tr>
@@ -518,12 +518,12 @@ variant: tiptap
 <p>Water Polo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Mengqi
-<br><a href="zhao_mengqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_mengqi@moe.edu.sg</a>
+<p>Mr Chai Ming Long
+<br><a href="chai_ming_long@moe.edu.sg" rel="noopener nofollow" target="_blank">chai_ming_long@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Language</p>
+<p>PE</p>
 </td>
 </tr>
 <tr>
