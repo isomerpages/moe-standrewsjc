@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH 2025/OH_Logo_Final__1_.png
+      background: /images/OH 2025/Untitled_design.png
       key_highlights:
         - title: Students
           description: ""
