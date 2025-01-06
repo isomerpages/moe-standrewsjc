@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.saints.org.sg/
         - title: Open House 2025
-          description: ""
+          description: Click here for more details!
           url: /open-house-2025/
       variant: image
       title: Make SAJC Home
