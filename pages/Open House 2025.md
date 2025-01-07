@@ -6,8 +6,8 @@ description: ""
 ---
 <h4>To all prospective JC1 Saints,</h4>
 <p>Come on down to SAJC's Open House 2025 and find your reason to <strong>Make SAJC Home</strong>!</p>
-<p>Open House will be <strong>Saturday, 11th January 2025</strong>, and will
-be from <strong>9 am to 3 pm</strong>. A shuttle bus service will be provided
+<p>Open House will be held on <strong>Saturday, 11th January 2025</strong>,
+from <strong>9 am to 3 pm</strong>. A shuttle bus service will be provided
 from <em><u>Potong Pasir MRT Exit C</u></em> for your convenience!</p>
 <p>Come down to speak with our school leaders and teachers, experience what
 life as a Saint means, and explore the various opportunities that we have
