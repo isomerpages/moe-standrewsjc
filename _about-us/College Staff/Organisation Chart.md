@@ -1176,25 +1176,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Xiao Fen</p>
+<p>Mr Ang Thiam Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science 1 (Chemistry Covering)</p>
+<p>HOD/Science 1 (Physics &amp; Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_xiao_fen@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Thiam Wei</p>
+<p>Ms Soh Xiao Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science 2 (Physics &amp; Biology)</p>
+<p>HOD/Science 2 (Chemistry Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_wei@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_xiao_fen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
