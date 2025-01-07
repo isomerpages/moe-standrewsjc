@@ -865,6 +865,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Mak Hee Man Hilda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head 2 (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">mak_hee_man_hilda_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Dr Mohd Pitchay Gani B M A Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -925,18 +937,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">loh_lih_yeh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Mak Hee Man Hilda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mak_hee_man_hilda_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
