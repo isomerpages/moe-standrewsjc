@@ -854,6 +854,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Gabriel Tien Jin Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Dr Mohd Pitchay Gani B M A Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
