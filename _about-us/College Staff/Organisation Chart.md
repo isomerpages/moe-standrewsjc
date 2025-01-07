@@ -1638,18 +1638,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norbayah Binti Jaffar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="norbayah_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norbayah_jaffar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Hannah Yeo Yen Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1663,13 +1651,25 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p>Ms Norbayah Binti Jaffar</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="norbayah_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norbayah_jaffar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
