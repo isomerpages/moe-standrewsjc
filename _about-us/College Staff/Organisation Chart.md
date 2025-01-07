@@ -442,7 +442,7 @@ variant: tiptap
 <p>Mr Lee Wen Feng Felix</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Publicity, Communications &amp; Outreach (Covering)</p>
+<p>SH/Publicity, Communications &amp; Outreach</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wen_feng_felix_lee@moe.edu.sg</a>
@@ -454,7 +454,7 @@ variant: tiptap
 <p>Mr Mohammed Azlan bin Ab Malek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Leadership</p>
+<p>SH/Student Leadership 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohammed_azlan_ab_malek@moe.edu.sg</a>
