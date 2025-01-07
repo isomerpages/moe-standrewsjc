@@ -1650,13 +1650,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Angeline Lee Su Keng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="lee_su_keng@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_su_keng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
