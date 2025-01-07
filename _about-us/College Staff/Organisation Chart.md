@@ -1177,13 +1177,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sunarfa Supaah</p>
+<p>Ms Soh Xiao Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science 1 (Chemistry)</p>
+<p>HOD/Science 1 (Chemistry Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sunarfa_supaah@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_xiao_fen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1196,6 +1196,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sunarfa Supaah</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sunarfa_supaah@moe.edu.sg" rel="noopener nofollow" target="_blank">sunarfa_supaah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1237,14 +1250,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Xiao Fen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_xiao_fen@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
