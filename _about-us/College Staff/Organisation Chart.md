@@ -1297,13 +1297,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Low Wanyi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Talent Development (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">low_wanyi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1440,18 +1441,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lin_wenquan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Low Wanyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_wanyi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
