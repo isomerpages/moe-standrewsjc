@@ -135,7 +135,7 @@ variant: tiptap
 <p>Mr Ko Wei En Wayne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Character Education (Covering)</p>
+<p>SH/Character Education (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ko_wei_en_wayne@moe.edu.sg</a>
