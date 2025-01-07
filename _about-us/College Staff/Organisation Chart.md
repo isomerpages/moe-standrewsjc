@@ -288,7 +288,7 @@ variant: tiptap
 <p>Mdm Ng Geok Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Humanities (Covering)</p>
+<p>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_geok_peng@moe.edu.sg</a>
