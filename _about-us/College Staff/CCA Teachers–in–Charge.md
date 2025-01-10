@@ -515,19 +515,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Water Polo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chai Ming Long
-<br><a href="chai_ming_long@moe.edu.sg" rel="noopener nofollow" target="_blank">chai_ming_long@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ultimate Frisbee</p>
 </td>
 <td rowspan="1" colspan="1">
