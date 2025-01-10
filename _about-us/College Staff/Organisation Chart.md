@@ -842,7 +842,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gabriel Tien Jin Wei</p>
+<p>Mr Gabriel Tien Jing Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/Chinese Language</p>
