@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH 2025/Untitled_design.png
+      background: /images/banner_sajc_2.png
       key_highlights:
         - title: Students
           description: ""
@@ -18,9 +18,6 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
-        - title: Open House 2025
-          description: Click here for more details!
-          url: /open-house-2025/
       variant: image
       title: Make SAJC Home
   - infopic:
