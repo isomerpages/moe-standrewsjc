@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Educational Philosophy and Framework.md
-      - Subject Combinations.md
       - Academic Disciplines/Academic Disciplines.md
       - Academic Disciplines/Knowledge Skills.md
       - Academic Disciplines/Languages.md
