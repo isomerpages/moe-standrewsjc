@@ -21,6 +21,6 @@ variant: markdown
 [List of dictionaries for examination](/files/2024/2024%20Exams%20and%20Assessments/list_of_dictionaries_for_examination.pdf)
 
 ## **Weighted Assessment Schedule**
-[1. 2024 JC2 Weighted Assessment Schedule](/files/2024/2024%20Exams%20and%20Assessments/2024_jc2_wa_schedule_19jan.pdf) <br>
+[1. 2025 JC2 Weighted Assessment Schedule](/files/2025/Exam/2025_JC2_Weighted_Assessment_Schedule.pdf)
 
-[2. 2024 JC1 Weighted Assessment Schedule](/files/2024/2024%20Exams%20and%20Assessments/JC1_WA2_Schedule_updated_12May2024.pdf)
+[2. 2025 JC1 Weighted Assessment Schedule](/files/2025/Exam/2025_JC1_Weighted_Assessment_Schedule.pdf)
