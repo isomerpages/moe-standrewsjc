@@ -838,7 +838,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kwok Pang keat</p>
+<p>Mr Kwok Pang Keat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1614,7 +1614,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Wee Hock John</p>
+<p>Mr Ng Wee Hock John</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
