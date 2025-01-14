@@ -30,9 +30,8 @@ for them to download news channel apps on their mobile phones so that they
 can keep themselves updated on the latest news around the world. Equally
 important would be for students to always adopt a critical mind to think
 through the implications of current issues on our own society.</p>
-<p>For more information about General Paper, please refer to the <a href="/files/2024/SAJC_Prospectus_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 College Prospectus.</a>
-</p>
-<p>You may also visit the following SEAB website for the detailed syllabus
-information.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy-pdf_(updated).pdf"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/QR Codes/GP_Syllabus__2024_.png"></a>
+<p>For more information about General Paper, please refer to our latest
+<a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
+<p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
+the latest information on the syllabus.</p>
 <p></p>
