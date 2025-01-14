@@ -34,8 +34,7 @@ the broader questions of what life is and how life is sustained. Through
 the study of the H2 Biology course, students will be prepared for life
 science-related courses at university and, consequently, careers that are
 related to this field.</p>
-<p>For more information about Project Work, please refer to our latest
-<a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
+<p>For more information about Biology, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
 <p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
 the latest information on the syllabus.</p>
 <p></p>
