@@ -1,7 +1,8 @@
 ---
 title: Achievements
-permalink: /sajc/achievements/
+permalink: /legacy-2021-achievements/
 description: ""
+variant: tiptap
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>

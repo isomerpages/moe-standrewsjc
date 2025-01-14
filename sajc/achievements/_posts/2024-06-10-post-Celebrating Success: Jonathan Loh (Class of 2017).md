@@ -1,6 +1,6 @@
 ---
 title: "Celebrating Success: Jonathan Loh (Class of 2017)"
-permalink: /celebrating-success-jonathan-loh-class-of-2017/
+permalink: /sajc/achievements/celebrating-success-jonathan-loh-class-of-2017/
 date: 2024-06-10
 layout: post
 description: ""
