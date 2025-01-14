@@ -38,8 +38,7 @@ highlight key points in your notes. If lost, you should approach your friendly
 and approachable History teachers for help. History is not for the faint-hearted
 or the unmotivated but if you are committed and interested, you will not
 regret taking the subject.</p>
-<p>For more information about Project Work, please refer to our latest
-<a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
+<p>For more information about History, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
 <p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
 the latest information on the syllabus.</p>
 <p></p>
