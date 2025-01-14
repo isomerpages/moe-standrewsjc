@@ -36,8 +36,7 @@ yield positive outcomes as well as learning experience. Seeking help from
 teachers to clarify understanding of what has been taught is key. Finally,
 having a genuine interest in the subject will help ensure that the journey
 embarked on is a sustainable one over the course of two years.</p>
-<p>For more information about Project Work, please refer to our latest
-<a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
+<p>For more information about Geography, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
 <p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
 the latest information on the syllabus.</p>
 <p></p>
