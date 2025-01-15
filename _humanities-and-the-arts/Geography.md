@@ -36,24 +36,7 @@ yield positive outcomes as well as learning experience. Seeking help from
 teachers to clarify understanding of what has been taught is key. Finally,
 having a genuine interest in the subject will help ensure that the journey
 embarked on is a sustainable one over the course of two years.</p>
-<p>For more information about Geography, please refer to the <a href="/files/2024/SAJC_Prospectus_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 College Prospectus.</a>
-</p>
-<p>You may also visit the following SEAB website for the detailed syllabus
-information.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy_final.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR Codes/H1_GEOG_QR.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sy.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR Codes/H2_GEOG_QR.png"></a>
-</td>
-</tr>
-</tbody>
-</table>
+<p>For more information about Geography, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
+<p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
+the latest information on the syllabus.</p>
 <p></p>

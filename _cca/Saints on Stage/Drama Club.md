@@ -3,6 +3,7 @@ title: Drama Club
 permalink: /ccas/saints-on-stage/drama-club/
 description: ""
 third_nav_title: Saints on Stage
+variant: tiptap
 ---
 <p align="justify">Theatre, like all performing arts, aims to forge connections, whether through the stories in our performances, or the camaraderie formed in putting one together. The tradition of an annual College play is the hallmark of the SAJC Drama Club. Staging a play develops self-discipline, empathy, imagination and a whole list of other brilliant traits. Most importantly, it encourages members of the Drama Club to work together as one, both on stage and behind the scenes, doing their best to capture the magic of theatre.</p>
 <p align="justify">The SAJC Drama Club welcomes anyone with an interest in theatre, from production to acting. Come and meet us on Wednesdays and Fridays!</p>

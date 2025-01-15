@@ -3,29 +3,37 @@ title: Saints on Stage
 permalink: /ccas/saints-on-stage/
 description: ""
 third_nav_title: Saints on Stage
+variant: tiptap
 ---
-<h4><strong>Saints on Stage</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<h1><strong>Saints on Stage</strong></h1>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/chinese-orchestra"><img src="/images/cca17.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/choir"><img src="/images/cca18.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/concert-band"><img src="/images/cca19.jpg"></a></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/saints-on-stage/chinese-orchestra">Chinese Orchestra</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/saints-on-stage/choir">Choir</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/saints-on-stage/concert-band">Concert Band</a></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/dance-society"><img src="/images/cca20.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/drama-club"><img src="/images/cca21.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/ccas/saints-on-stage/guitar-ensemble"><img src="/images/cca22.jpg"></a></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/saints-on-stage/dance-society">Dance Society</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/saints-on-stage/drama-club">Drama Club</a></td>
-<td style="width: 33.3333%; text-align: center;"><a href="/ccas/saints-on-stage/guitar-ensemble">Guitar Ensemble</a></td>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/ccas/saints-on-stage/chinese-orchestra/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Chinese_Orchestra.png"></a>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/ccas/saints-on-stage/dance-society/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Dance.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/ccas/saints-on-stage/saints-chorale/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Chorale.png"></a>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/ccas/saints-on-stage/drama-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Drama.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/ccas/saints-on-stage/concert-band/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Band.png"></a>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/ccas/saints-on-stage/guitar-ensemble/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Guitar.png"></a>
+</th>
 </tr>
 </tbody>
 </table>
+<p></p>
