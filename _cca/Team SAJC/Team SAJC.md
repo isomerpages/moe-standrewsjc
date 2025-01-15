@@ -18,10 +18,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/ccas/team-sajc/badminton/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Badminton.png"></a>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Hockey.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/ccas/team-sajc/hockey/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Hockey.png"></a>
 <p></p>
 <p></p>
 <p></p>
@@ -39,10 +36,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/ccas/team-sajc/basketball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Basketball.png"></a>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Netball.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/ccas/team-sajc/netball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Netball.png"></a>
 <p></p>
 <p></p>
 <p></p>
@@ -57,16 +51,10 @@ variant: tiptap
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Football.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/ccas/team-sajc/football/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Football.png"></a>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Rugby.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/ccas/team-sajc/rugby/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/CCA Profile/Rugby.png"></a>
 <p></p>
 <p></p>
 <p></p>
