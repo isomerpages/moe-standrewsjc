@@ -86,7 +86,9 @@ so they will be equip with facing the future.</p>
 <p>Face-to-face or Zoom consultations – individual, pairs or group.</p>
 </li>
 </ul>
-<p>For more information about Art, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
+<p></p>
+<p>For more information about Mother Tongue, please refer to our latest
+<a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
 <p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
 the latest information on the syllabus.</p>
 <p></p>
