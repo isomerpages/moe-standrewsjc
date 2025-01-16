@@ -18,6 +18,7 @@ variant: markdown
 | Ms Cher Cai Wei Theresa| cher_cai_wei_theresa@moe.edu.sg|
 | Ms Cheri Nur Aini| cheri_nur_aini@moe.edu.sg|
 | Mr Chia Chin Han| chia_chin_han@moe.edu.sg|
+| Mrs Lian-Chua Li Shan Irene| chua_li_shan_irene_a@moe.edu.sg|
 | Mr Dennis Chia| chia_dennis@moe.edu.sg|
 | Mdm Chiam Qian Zhen Alethea| chiam_qian_zhen_alethea@moe.edu.sg|
 | Mr Ching Swee Hoe| ching_swee_hoe@moe.edu.sg|
