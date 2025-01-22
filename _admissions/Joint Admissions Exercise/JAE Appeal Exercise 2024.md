@@ -12,15 +12,15 @@ who wish to submit an appeal.</p>
 <p></p>
 <h4><u>Application Period</u></h4>
 <p>Start&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-1 February 2024 (Thursday), 9.00am</p>
-<p>End&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-12 noon 7 February 2024 (Wednesday)</p>
+4 February 2025 (Tuesday), 9.00am</p>
+<p>End&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>[Tentative] <em> </em></strong>7
+February 2024 (Friday), 12.00nn</p>
 <p>Late or incomplete submission will not be considered. &nbsp;You are advised
 to submit early.</p>
 <p>In order for JAE appeals to be considered, applicants' net aggregate score
 must meet the cut-off point for the year.</p>
 <h4><u>Appeal Requirements</u></h4>
-<p>For 2024, SAJC’s cut-off-point are:</p>
+<p>For 2024*, SAJC’s cut-off-point are:</p>
 <p><strong>Science – 9 points</strong>
 </p>
 <p><strong>Arts – 10 points</strong>
@@ -29,6 +29,9 @@ must meet the cut-off point for the year.</p>
 vacancies and school’s admission criteria.</p>
 <p>Students who have been posted to an institution via Direct Schools Admission
 (DSA) are not eligible for this exercise as no DSA transfers are allowed.</p>
+<p></p>
+<p>*Note: 2024's cut-off-point is not indicative of what they would be in
+2025.</p>
 <p></p>
 <h4><u>Notice of Application Status</u></h4>
 <p>Only successful applicants will be notified by phone latest by <strong>7 Feb 2024 1400hrs.</strong>
