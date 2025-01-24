@@ -33,3 +33,6 @@ Committee Member
 
 **Mr Terence Han Ching Juan**  
 Committee Member
+
+**Dr Tan Bee Geok**  
+Committee Member
