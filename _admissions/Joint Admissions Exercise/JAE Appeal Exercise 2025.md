@@ -20,11 +20,9 @@ who wish to submit an appeal.</p>
 to submit early.</p>
 <p>In order for JAE appeals to be considered, applicants' net aggregate score
 must meet the cut-off point for the year.</p>
-<p>For 2025, SAJC’s cut-off-point are:</p>
-<p><strong>Science – <em>TBC</em></strong>
-</p>
-<p><strong>Arts – <em>TBC</em></strong>
-</p>
+<blockquote>
+<p>🚨 Note: SAJC's 2025 Cut-Off Points will be updated at <strong>9 am </strong>on <strong>4th February 2025</strong>.</p>
+</blockquote>
 <p>Eligible applicants are then given due consideration, subject to available
 vacancies and school’s admission criteria.</p>
 <p>Students who have been posted to an institution via Direct Schools Admission
@@ -37,9 +35,13 @@ letter.&nbsp;</p>
 by MOE or accept course offered online while waiting for the outcome of
 their appeal application.</p>
 <p></p>
-<p>Note: The appeals application process <strong>has not opened</strong> for
-2025. Please check again after 4th February, 2025.&nbsp;</p>
+<p>Please scan the QR code or on the link to apply:
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-jae-appeal</a>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR Codes/QR_JAE2025.png">
+</div>
 <p>The decision of the college is final.</p>
 <p>For more information, please email us at <a rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a>,
 or call our General Office at 62857008.</p>
