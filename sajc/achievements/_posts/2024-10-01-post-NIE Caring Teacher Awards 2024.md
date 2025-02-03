@@ -10,8 +10,8 @@ variant: tiptap
 <p></p>
 <blockquote>
 <p>The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools
-who go beyond the call of duty, nurturing the holistic development of of
-their students and ensuring their charges grow up to be confident, independent,
+who go beyond the call of duty, nurturing the holistic development of their
+students and ensuring their charges grow up to be confident, independent,
 and resilient learners for our nation - <a href="cta.nie.edu.sg" rel="noopener nofollow" target="_blank">NIE CTA 2024</a>
 </p>
 </blockquote>
