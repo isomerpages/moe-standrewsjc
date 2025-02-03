@@ -36,17 +36,10 @@ letter.&nbsp;</p>
 <p>All applicants must report to the institutions that they are posted to
 by MOE or accept course offered online while waiting for the outcome of
 their appeal application.</p>
-<p>&nbsp;</p>
-<p>Please scan the QR code or on the link to apply:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-jae-appeal</a>
-</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/QR Codes/QR_JAE2025.png">
-</div>
-<p><em>(Note: The appeal link will only be available later.)</em>
-</p>
-<p>&nbsp;</p>
+<p></p>
+<p>Note: The appeals application process <strong>has not opened</strong> for
+2025. Please check again after 4th February, 2025.&nbsp;</p>
+<p></p>
 <p>The decision of the college is final.</p>
 <p>For more information, please email us at <a rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a>,
 or call our General Office at 62857008.</p>
