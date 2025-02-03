@@ -98,4 +98,5 @@ both here and in every corner of the world!</p>
 </tbody>
 </table>
 <p>For inquiries, please email <a href="ang_leng_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hall Master</a> or&nbsp;<a href="/files/SAH_Student%20Boarders_Application%20Form%20Jan2022.pdf" rel="noopener noreferrer nofollow" target="">download</a>&nbsp;the
-application form for interested applicant.</p>
+application form /<a href="/files/2025/SA_Hall_Pitch_Deck_short_term_group_29Nov24.pdf" rel="noopener noreferrer nofollow" target="_blank">download</a> the
+brochure for interested applicant.</p>
