@@ -39,7 +39,7 @@ by MOE or accept course offered online while waiting for the outcome of
 their appeal application.</p>
 <p></p>
 <p>Please scan the QR code or on the link to apply:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-jae-appeal</a>
+<br><a href="https://go.gov.sg/sajc-jae-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-jae-appeal</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
