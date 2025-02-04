@@ -23,13 +23,17 @@ sections:
           url: https://www.standrewsjc.moe.edu.sg/admissions/joint-admission-exercise-jae/
       variant: image
       title: Make SAJC Home
+  - infobar:
+      title: Orientation
+      subtitle: "2025"
+      id: infobar
+      description: Day 1 Information
+      button: Click here for more information
+      url: /orientation-2025/
   - infopic:
       title: Student Achievements
       button: Find out more here!
       url: /sajc/achievements
       image: /images/achievement4.png
       alt: Image alt text
-  - resources:
-      title: Announcements
-      button: More Announcements
 ---
