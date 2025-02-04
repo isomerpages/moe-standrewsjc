@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -49,23 +50,23 @@ for 2025.
 </p>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
-<p>8. Parents may opt their children out of Sexuality Education and/or supplementary
+<p>Parents may opt their children out of Sexuality Education and/or supplementary
 Sexuality Education programmes by MOE-approved external providers.</p>
 <p></p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education
+<p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. If you would like to withdraw
 your child out of the Sexuality Education Programme in 2025, please complete
 the Opt-out Form <a href="https://go.gov.sg/sajc-sed-opt-out2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-sed-opt-out2025</a>.</p>
 <p></p>
 <p>The completed form is to be submitted by <strong>07/03/2025</strong>.</p>
 <p></p>
-<p>10. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
+<p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. If you would like to withdraw your child from
 the eTeens Programme in 2025, please complete the Parents Opt-out Form
 at <a href="https://go.gov.sg/sajc-eteens-opt-out2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-eteens-opt-out2025</a>.</p>
 <p></p>
 <p>The completed form is to be submitted by <strong>07/03/2025</strong>.</p>
 <p></p>
-<p>11. Parents can contact the school at 6285 7008 (Mr Wayne Ko Ext 254)
-for discussion or to seek clarification about the school’s Sexuality Education
+<p>Parents can contact the school at 6285 7008 (Mr Wayne Ko Ext 254) for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
