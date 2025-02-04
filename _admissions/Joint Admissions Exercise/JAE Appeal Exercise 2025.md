@@ -20,9 +20,12 @@ who wish to submit an appeal.</p>
 to submit early.</p>
 <p>In order for JAE appeals to be considered, applicants' net aggregate score
 must meet the cut-off point for the year.</p>
-<blockquote>
-<p>🚨 Note: SAJC's 2025 Cut-Off Points will be updated at <strong>9 am </strong>on <strong>4th February 2025</strong>.</p>
-</blockquote>
+<p>The cut-off points for 2025 are:</p>
+<p>Science Stream: <strong><u>9</u></strong>
+</p>
+<p>Arts Stream: <strong><u>10</u></strong>
+</p>
+<p></p>
 <p>Eligible applicants are then given due consideration, subject to available
 vacancies and school’s admission criteria.</p>
 <p>Students who have been posted to an institution via Direct Schools Admission
