@@ -74,8 +74,8 @@ school. <em>You will be advised on further steps to take</em>.</p>
 </table>
 <p></p>
 <h4>Additional Information</h4>
-
-<p>Please have a hearty breakfast 🥞 before coming to school tomorrow! See
+<p> More details about the Orientation Programme can be found at our <a href="https://sites.google.com/moe.edu.sg/sajc/home">Orientation Microsite here!</a>
+</p><p>Please have a hearty breakfast 🥞 before coming to school tomorrow! See
 you! 🤗</p>
 <p></p>
 <p></p>
