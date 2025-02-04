@@ -38,13 +38,11 @@ letter.&nbsp;</p>
 by MOE or accept course offered online while waiting for the outcome of
 their appeal application.</p>
 <p></p>
-<p>Please scan the QR code or on the link to apply:
-<br><a href="https://go.gov.sg/sajc-jae-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-jae-appeal</a>
+<p>Please click on the link below to apply:</p>
+<p><a href="http://jae.sajc.edu.sg/" rel="noopener nofollow" target="_blank">http://jae.sajc.edu.sg/</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR Codes/QR_JAE2025.png">
-</div>
+<p></p>
 <p>The decision of the college is final.</p>
 <p>For more information, please email us at <a rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a>,
 or call our General Office at 62857008.</p>
