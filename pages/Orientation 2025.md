@@ -1,6 +1,6 @@
 ---
-title: Orientation 2024
-permalink: /archived01/
+title: Orientation 2025
+permalink: /orientation-2025/
 variant: markdown
 description: ""
 ---
@@ -10,14 +10,14 @@ description: ""
 
 <h3>Contact from Our OGLs</h3>
 <p>Your Orientation Group Leaders (OGLs) will be contacting you from <strong><u>4.00pm</u></strong> onwards
-on Thursday, 1 February - so do look out for their WhatsApp text!</p>
+on Tuesday, 4 February - so do look out for their WhatsApp text!</p>
 <p>If you do not receive any text (perhaps due to missing/ wrong contact
 information), fret not! Just head to the General Office to visit the <strong>OG Enquiry Booth</strong> when
-you arrive in school on Friday, 2 February.</p>
+you arrive in school on Wednesday, 5 February.</p>
 <p></p>
 <h3>Orientation Information</h3>
 <p>As you wait for your OGLs to contact you, here is some <em>basic information</em> about
-Orientation that starts on Friday, 2 February.</p>
+Orientation that starts on Wednesday, 5 February.</p>
 <table>
 	    <style>
     td, th {
@@ -30,7 +30,7 @@ Orientation that starts on Friday, 2 February.</p>
 <p>Reporting Time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.45 am</strong> at the Sports Gallery (Track)</p>
+<p><strong>8 am</strong> at the Sports Gallery (Track)</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ Orientation that starts on Friday, 2 February.</p>
 <p>Ending Time (2 Feb):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2.30 pm</strong>
+<p><strong>2 pm</strong>
 </p>
 </td>
 </tr>
@@ -74,9 +74,7 @@ school. <em>You will be advised on further steps to take</em>.</p>
 </table>
 <p></p>
 <h4>Additional Information</h4>
-<p>More detailed information about Orientation can be found at our <a href="https://sites.google.com/moe.edu.sg/2024orientationsajc/home" rel="noopener noreferrer nofollow" target="_blank">Orientation Microsite</a>.</p>
-<p></p>
-<h4>p.s.</h4>
+
 <p>Please have a hearty breakfast 🥞 before coming to school tomorrow! See
 you! 🤗</p>
 <p></p>
