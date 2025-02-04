@@ -1773,7 +1773,7 @@ variant: tiptap
 <p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kathena_lim@schools.gov.sg</a>
+<p><a href="kathena_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">kathena_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1785,7 +1785,8 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="jasmine_chan_jia_min@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_chan_jia_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
