@@ -65,7 +65,7 @@ is able to access the internet <em>without </em>Wi-Fi</p>
 <p>Note 2:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>If you are unable to report to SAJC on Friday, 2 February, please call
+<p>If you are unable to report to SAJC on Wednesday, 5 February, please call
 us at <strong>62857008</strong> or email us at <a href="mailto:sajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a> to confirm your place
 in the school. <em>You will be advised on further steps to take</em>.</p>
 </td>
