@@ -128,6 +128,6 @@ partners involving tertiary institutions such as SMU, NUS or NTU.
 <br>Alternatively, H3 subjects offered in SAJC include H3 Chemistry, H3 Mathematics,
 H3 Physics, H3 Literature, H3 Geography and H3 History.
 <br>
-<br>For more information, please refer to the <a href="/files/2025/SAJC_Prospectus_2025.pdf" rel="noopener nofollow" target="_blank">2025 SAJC Prospectus</a>.</p>
+<br>For more information, please refer to the <a href="/files/2025/SAJC_Prospectus_2025__2_.pdf" rel="noopener nofollow" target="_blank">2025 SAJC Prospectus</a>.</p>
 <p><em>(Updated as at 2 December 2024)</em>
 </p>
