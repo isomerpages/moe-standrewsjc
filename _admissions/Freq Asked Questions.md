@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <p><strong>Frequently Asked Questions (updated Feb 2025)</strong>
 </p>
-<p><strong>This FAQ addresses some concerns you may have about entering SAJC. If you still have more to ask please feel free to contact us. We'd be happy to help. You can click here to send us an e-mail.</strong>
+<p><strong>This FAQ addresses some concerns you may have about entering SAJC. If you still have more to ask please feel free to contact us. We'd be happy to help. You can click </strong>
+<a href="mailto: sajc@moe.edu.sg" rel="noopener nofollow" target="_blank">here</a><strong> to send us an e-mail.</strong>
 </p>
 <h4><strong>1. What is the aggregate score to get in to the College?</strong></h4>
 <p>The cut-off based on 2025's Joint Admission Exercise was: Science – 9;
