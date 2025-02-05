@@ -4,7 +4,7 @@ permalink: /admissions/faq/
 description: ""
 variant: tiptap
 ---
-<p><strong>Frequently Asked Questions (updated Feb 2024)</strong>
+<p><strong>Frequently Asked Questions (updated Feb 2025)</strong>
 </p>
 <p><strong>This FAQ addresses some concerns you may have about entering SAJC. If you still have more to ask please feel free to contact us. We'd be happy to help. You can click here to send us an e-mail.</strong>
 </p>
@@ -53,7 +53,7 @@ the subject combinations offered by SAJC&nbsp;<a href="/admissions/subject-combi
 </p>
 <h4><strong>8. Can I offer Art as a subject at SAJC?</strong></h4>
 <p>H2 Art may be used to replace one H2 subject in the 3H2 1H1 Arts or Science
-combinations (refer to SAJC Prospectus 2021 p.8 &amp; 9) provided students
+combinations (refer to SAJC Prospectus 2025 p.9 &amp; 10) provided students
 fulfil the contrasting subject requirement. Note that H2 Art cannot be
 taken together with H2 CLL or H2 TLL. Art is also offered at H1 level.</p>
 <h4><strong>9. I am interested in offering Music as a H2 subject. Does SAJC offer Music as a subject?</strong></h4>
