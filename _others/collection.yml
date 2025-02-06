@@ -2,6 +2,5 @@ collections:
   others:
     output: true
     order:
-      - China Studies in English.md
       - Sliding Banners.md
       - Error Page.md
