@@ -22,62 +22,32 @@ parents, teachers and Saints. Our vision is:</p>
 leaders, teachers and students to create a caring and encouraging environment
 for our students to excel in. Every year, we plan and organize the following
 programmes in conjunction with the school:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Organised by the College with PSG Support:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Organised by PSG independently:</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Breakfast with the Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese New Year Celebrations</p>
+</li>
+<li>
+<p>JC1 Parent Dialogue</p>
+</li>
+<li>
 <p>Cross Country</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
+<p>Teachers' Day</p>
+</li>
+<li>
 <p>Exam Care Pack</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sports Carnival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thanksgiving Brunch</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents Workshop</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Night Study Programme</p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
+<p>Thanksgiving Celebration</p>
+</li>
+<li>
+<p>Parents' Workshop</p>
+</li>
+<li>
 <p>JC2 Farewell Assembly</p>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 <p></p>
 <h4><strong>PSG Exco 2025</strong></h4>
 <table style="minWidth: 50px">
