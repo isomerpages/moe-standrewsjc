@@ -140,11 +140,8 @@ programmes in conjunction with the school:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Come and join us! </strong>Click the link below or scan the QR
-Code to join!</p>
-<p><strong> </strong><a href="https://tinyurl.com/SAJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/SAJCPSG</a>
-</p>
-<p></p>
+<p></p><center><strong>Come and join us! </strong><br>Click the link below or scan the QR
+Code to join! <br><strong> </strong><a href="https://tinyurl.com/SAJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/SAJCPSG</a></center>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/qrcode_docs_google_com.png">
 </div>
