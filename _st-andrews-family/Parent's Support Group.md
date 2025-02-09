@@ -127,6 +127,38 @@ programmes in conjunction with the school:</p>
 <p>Get latest updates and information about our activities at
 <br><strong>Facebook:</strong>&nbsp;<a href="http://www.facebook.com/groups/psgsajc" rel="noopener" target="_blank">www.facebook.com/groups/psgsajc</a>
 <br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Come and join us! </strong>Click the link below or scan the QR
+Code to join!</p>
+<p><strong> </strong><a href="https://tinyurl.com/SAJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/SAJCPSG</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/qrcode_docs_google_com.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
 <br>
+</p>
+<p>
 <br>
 </p>
