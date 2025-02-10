@@ -18,7 +18,7 @@ parents, teachers and Saints. Our vision is:</p>
 <p>Impacting the School and our Saints</p>
 </li>
 </ul>
-<p>Our committed and passionate Parent volunteers work closely with the school
+<p>Our committed and passionate parent volunteers work closely with the school
 leaders, teachers and students to create a caring and encouraging environment
 for our students to excel in. Every year, we plan and organize the following
 programmes in conjunction with the school:</p>
@@ -127,6 +127,7 @@ programmes in conjunction with the school:</p>
 <p>Get latest updates and information about our activities at
 <br><strong>Facebook:</strong>&nbsp;<a href="http://www.facebook.com/groups/psgsajc" rel="noopener" target="_blank">www.facebook.com/groups/psgsajc</a>
 <br>
+	<strong>Instagram: </strong> <a href="https://www.instagram.com/sajc_psg" rel="noopener" target="_blank"> https://www.instagram.com/sajc_psg </a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
