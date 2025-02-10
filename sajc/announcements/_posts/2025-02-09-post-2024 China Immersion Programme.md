@@ -18,10 +18,35 @@ that empowers students to learn in new and engaging ways. Designed to foster
 global awareness, critical thinking, and cross-cultural literacy, this
 immersive programme allows students to actively shape a future where tradition
 and innovation thrive together.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Announcements/2024 China Immersion Trip/Embroidery.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2024 China Immersion Trip/Tea_plantation.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2024 China Immersion Trip/School_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2024 China Immersion Trip/School_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>In its inaugural year, the programme offered a multi-dimensional journey
 that immersed students in the pillars of culture, education, economy, and
 technology. This provided the students with a rich real-world experience.
@@ -40,6 +65,7 @@ while equipping students with practical skills. Hands-on activities like
 crafting and tea-making deepened their appreciation for Chinese traditions,
 while visits to local schools inspired reflections on discipline, community,
 and personal growth.</p>
+<p></p>
 <p>Through their exploration of China’s economic and technological advances,
 students gained insights into entrepreneurship, innovation, robotics, AI,
 and smart cities, sparking curiosity about future-forward industries. Ultimately,
