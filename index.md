@@ -18,6 +18,9 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
+        - title: 2024 GCE A Level Examination Results
+          description: ""
+          url: https://www.standrewsjc.moe.edu.sg/parents/communication/2024gcealevelexaminationresults/
       variant: image
       title: Make SAJC Home
   - infopic:
