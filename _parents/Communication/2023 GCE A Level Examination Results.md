@@ -8,7 +8,7 @@ third_nav_title: Communication
 <p><strong>Dear Saints from graduating batch of 2024</strong>
 </p>
 <p></p>
-<p>The release of the 2023 GCE A-Level examination results will take place
+<p>The release of the 2024 GCE A-Level examination results will take place
 on&nbsp;<strong>21&nbsp;February 2025&nbsp;(Friday) at 2.30 pm.</strong>
 </p>
 <p></p>
