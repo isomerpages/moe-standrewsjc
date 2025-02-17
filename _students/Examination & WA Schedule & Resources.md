@@ -12,7 +12,7 @@ variant: markdown
 [JC1 Exam Briefing Slides](/files/2024/2024%20Exams%20and%20Assessments/JC1_Exam_Briefing_Slides.pdf)
 
 ## **A-Level Exam Documents**
-[2024 A-Level Exam Timetable](/files/2024/2024%20Exams%20and%20Assessments/2024_A_level_Exam_Timetable_26April.pdf)
+[2025 GCE A Level Exam Calendar](/files/2025/Exam/2025_gce_a_level_exam_timetable.pdf)
 
 [2024 GCE A Exams Rules Regulations](/files/2024/2024%20Exams%20and%20Assessments/2024_gce_a_exams_rules_regulations.pdf)
 
