@@ -22,7 +22,7 @@ on&nbsp;<strong>21&nbsp;February 2025&nbsp;(Friday) at 2.30 pm.</strong>
 <p>For the release of 2024 A-Level Examination Results, all candidates regardless
 of whether they are in Singapore or overseas, will be able to access their
 results online via Singapore Examinations and Assessment Board (SEAB)’s
-Candidates Portal at&nbsp;<a href="www.seab.gov.sg" rel="noopener nofollow" target="_blank">www.seab.gov.sg</a>&nbsp;<em>from </em><strong><em><u>3.15pm on Friday, 21 February 2025 till 11pm on Friday, 7 March 2025</u></em></strong>.&nbsp;</p>
+Candidates Portal at&nbsp;<a href="https://www.seab.gov.sg" rel="noopener nofollow" target="_blank">www.seab.gov.sg</a>&nbsp;<em>from </em><strong><em><u>3.15pm on Friday, 21 February 2025 till 11pm on Friday, 7 March 2025</u></em></strong>.&nbsp;</p>
 <p>School candidates who are eligible for Singpass can use their Singpass
 account to access SEAB’s Candidates Portal. School candidates who are International
 Students will receive their system-generated username via email from <strong><em><u>19 February 2025</u></em></strong>.</p>
