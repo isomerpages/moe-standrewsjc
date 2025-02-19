@@ -29,4 +29,11 @@ sections:
       url: /sajc/achievements
       image: /images/achievement4.png
       alt: Image alt text
+  - infopic:
+      title: Announcements
+      id: infopic
+      button: Click here to stay updated!
+      url: /sajc/announcements/
+      image: /images/media4.png
+      alt: Saints
 ---
