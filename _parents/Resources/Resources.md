@@ -9,10 +9,31 @@ variant: tiptap
 aims to inform parents on the general information on Higher Education and
 on the latest local university admission requirements. It also aims to
 equip parents with information resources related to parenting.</p>
-<p><strong>MOE Resources<br></strong>1. <a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener" target="_blank">MySkillsFuture(Pre-U) Brochure</a> 
-<br>2. <a href="/files/2024/ecg_guide_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Guide for Parents</a>
-<br>3.&nbsp;<a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-a-level.pdf" rel="noopener" target="_blank">What’s Next? – Post‘A’ level Guide for Students</a>
+<p><strong>MOE Resources<br></strong>
 </p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener" target="_blank">MySkillsFuture(Pre-U) Brochure</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024/ecg_guide_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Guide for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-a-level.pdf" rel="noopener" target="_blank">What’s Next? – Post‘A’ level Guide for Students</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Infosheet_for_Parents__A_Level_.pdf" rel="noopener nofollow" target="_blank">Supporting your Teens – Post A-level guide for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/CP_Guide_for_parents.pdf" rel="noopener nofollow" target="_blank">Candidates Portal User Guide - Post A-level reference for Parents</a>
+</p>
+</li>
+</ol>
+<p></p>
 <p><strong>Other Resources<br></strong>  <a href="/files/2023/Communicating_with_your_Teenager_summary.pdf" rel="noopener" target="_blank">Communicating with your Teenagers</a> 
 <br><a href="/files/Raising_resilient_teenager.pdf" rel="noopener" target="_blank">Raising Emotionally Resilient Teenagers</a> 
 <br><a href="https://www.moe.gov.sg/coursefinder?journey=Autonomous%20University" rel="noopener nofollow" target="_blank">University Undergraduate Programme</a>
