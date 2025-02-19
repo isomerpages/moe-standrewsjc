@@ -49,6 +49,8 @@ hours from Monday to Friday.
 download a copy of the&nbsp;Letter of Authorisation to collect your 2024
 GCE&nbsp;<strong>A Levels result slip, SGC and testimonial.</strong>
 </p>
+<p></p>
+<p>Download a copy of the <a href="/files/2025/2024_A_Level_Results_Release_Briefing_Slides_for_Students__Edited__1.pdf" rel="noopener nofollow" target="_blank">2024 A-Level Results Release Briefing Slides for Students</a> here.</p>
 <p><strong>We wish Saints all the best for their A level results!</strong>
 </p>
 <p>&nbsp;</p>
