@@ -35,4 +35,5 @@ sections:
       button: Click here to stay updated!
       url: /sajc/announcements/
       image: /images/media4.png
+      alt: Saints
 ---
