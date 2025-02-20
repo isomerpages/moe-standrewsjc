@@ -1,6 +1,6 @@
 ---
 title: RELEASE OF 2024 SINGAPORE CAMBRIDGE GCE A LEVEL EXAMINATION RESULTS
-permalink: /parents/communication/2023gcealevelexaminationresults/
+permalink: /parents/communication/2024gcealevelexaminationresults/
 date: 2025-02-17
 layout: post
 description: ""
