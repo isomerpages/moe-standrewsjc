@@ -40,15 +40,15 @@ equip parents with information resources related to parenting.</p>
 <br><a href="/files/Parenting%20for%20resilience.pdf" rel="noopener" target="_blank">Parenting for Resilience</a> 
 <br><a href="/files/Useful%20websites%20for%20parents.pdf" rel="noopener" target="_blank">List of Useful Websites</a>
 </p>
-<p><strong>2024 JC1 Parents Dialogue Session Webinar<br></strong>
+<p><strong>2025 JC1 Parents Dialogue Session Webinar<br></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1tC9V0RQ198RL5xCTO_cTZh4juOoM2ZHY/view?usp=sharing" rel="noopener" target="_blank">Link to recording of the session</a>
+<p><a href="https://drive.google.com/file/d/1cP3jXbCw8Kp7_Jsgc4u1gDI2PguUfJ_E/view?usp=sharing" rel="noopener" target="_blank">Link to recording of the session</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024/2024_JC1_Parents_Dialogue_Session_Q_and_A_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Collated Q&amp;A from the session</a>
+<p><a href="/files/2025/2025_JC1_Parents_Dialogue_Session_Q_and_A_final.pdf" rel="noopener nofollow" target="_blank">Collated Q&amp;A from the session</a>
 </p>
 </li>
 </ul>
