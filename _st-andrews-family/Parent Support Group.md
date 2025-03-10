@@ -4,10 +4,6 @@ permalink: /st-andrews-family/parents-support-group/
 description: ""
 variant: markdown
 ---
-
-![](/images/PSG/2025%20Exco/SAJC_PSG_Exco2025.jpg)
-<p></p><center> <i> From L to R: Low Chee Aik, Charles Poon, Siti Rugayah, Jeanelle Tan, Valerie Ong and Fiona Koh </i> </center> <p></p> 
-
 <p>SAJC’s Parent Support Group (PSG) works to advance the College’s values
 and visions, supports its programmes and build strong relationships among
 parents, teachers and Saints. Our vision is:</p>
