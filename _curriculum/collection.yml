@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - SAJC Homework Policy.md
       - Educational Philosophy and Framework.md
       - Academic Disciplines/Academic Disciplines.md
       - Academic Disciplines/Knowledge Skills.md
