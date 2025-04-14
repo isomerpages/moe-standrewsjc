@@ -1686,6 +1686,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Goh Yee Ping Rene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_yee_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_yee_ping@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ng Yee San</p>
 </td>
 <td rowspan="1" colspan="1">
