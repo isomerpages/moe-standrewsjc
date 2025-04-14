@@ -1638,6 +1638,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Choong Jia En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="choong_jia_en_a@moe.edu.sg" rel="noopener nofollow" target="_blank">choong_jia_en_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1681,6 +1693,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">seow_lay_hoon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Yee Ping Rene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_yee_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_yee_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>

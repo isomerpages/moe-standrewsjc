@@ -3,9 +3,10 @@ collections:
     output: true
     order:
       - Educational Philosophy and Framework.md
+      - SAJC Homework Policy.md
+      - Academic Disciplines/.keep
       - Academic Disciplines/Academic Disciplines.md
       - Academic Disciplines/Knowledge Skills.md
       - Academic Disciplines/Languages.md
       - Academic Disciplines/Humanities & the Arts.md
       - Academic Disciplines/Mathematics & Science.md
-      - Academic Disciplines/.keep

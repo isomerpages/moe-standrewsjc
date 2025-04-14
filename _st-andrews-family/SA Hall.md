@@ -76,7 +76,7 @@ both here and in every corner of the world!</p>
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Yee Ping Rene</p>
+<p>Mdm Wu Miau Kee</p>
 </td>
 </tr>
 <tr>
