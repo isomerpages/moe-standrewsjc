@@ -5,11 +5,12 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 15 Oct 2024
+Updated - 14 Apr 2025
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|Halal Cuisine (Noodle/Rice)|1 Dec 2024|Halal Certification is required
+|1) Vegetarian Food/Thai Food|15 May 2025|Non-Halal
+|2) Indian Food|15 May 2025|Halal Certification is required
 
 **Application Procedure**
 
@@ -18,6 +19,7 @@ Updated - 15 Oct 2024
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
+* A copy of Stall assistant’s LTVP or LTVP-Plus holders with Letters of Consent (LOC) if applicable.
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
@@ -28,8 +30,8 @@ Updated - 15 Oct 2024
 * Email: sajc@moe.edu.sg
 
 Contact Person:
-* Mdm Wu Miau Kee (Admin Manager)
 * Ms Angeline Lee (Corporate Support Officer)
+* Mdm Wu Miau Kee (Admin Manager)
 
 **How to get there?**
 * Nearest MRT: Potong Pasir (NE10 line) – 10 minutes walking distance
@@ -43,7 +45,6 @@ Contact Person:
 * Healthy and fit to operate the stall.
 * School/Catering experience preferred.
 * Successful applicant must personally operate the stall during canteen operation hours.
-* Proposed menu with price list must be attached to the application form for our consideration.
-* Successful candidates (and their helpers) will have to register and pass the Basic Food Hygiene Course (WSQ BFHC) and then apply for a food stall license from Singapore Food Agency (SFA).
-
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
