@@ -15,7 +15,8 @@ GCE 'O' Level examination results.</p>
 <p>(For more information on DSA-JC, please refer to&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC Website</a>.)</p>
 <p>We strongly encourage applicants with above-average academic results and
 outstanding talent in specific Co-Curricular Activities (CCAs) to apply.
-Only applications from the following CCAs will be considered:</p>
+Only applications from the following areas of talent will be considered:</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
