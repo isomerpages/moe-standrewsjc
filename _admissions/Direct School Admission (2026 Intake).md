@@ -4,7 +4,6 @@ permalink: /admission-information/dsa2026/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Direct School Admission (DSA) - 2026 Intake</strong></h1>
 <p>St Andrew's Junior College (SAJC) invites applications from Sec 4 students
 or their equivalents in Singapore mainstream schools for the Direct School
 Admission (DSA) .&nbsp; This offers an opportunity for talented individuals
