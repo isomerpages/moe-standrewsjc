@@ -7,7 +7,7 @@ variant: tiptap
 <p>St Andrew's Junior College (SAJC) invites applications from Sec 4 students
 or their equivalents in Singapore mainstream schools for the Direct School
 Admission (DSA) .&nbsp; This offers an opportunity for talented individuals
-to secure admission to SAJC for their Junior College education in 202.</p>
+to secure admission to SAJC for their Junior College education in 2026.</p>
 <p>Successful applicants must meet the Ministry of Education's (MOE) eligibility
 criteria for the two-year Junior College course, primarily based on their
 GCE 'O' Level examination results.</p>
