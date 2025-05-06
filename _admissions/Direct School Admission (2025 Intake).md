@@ -323,8 +323,6 @@ theatre companies, such as Act 3, will also be considered.</p>
 <li>
 <p>Selected applicants must pass the selection audition and interview.
 <br>
-<br>
-<br>
 </p>
 </li>
 </ul>
