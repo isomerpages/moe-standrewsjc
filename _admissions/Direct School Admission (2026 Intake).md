@@ -626,7 +626,8 @@ following SAJC staff.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suresh Nadarajan <a href="mailto:suresh_nadarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suresh_nadarajan@moe.edu.sg</a>
+<p>Mr Suresh Nadarajan</p>
+<p><a href="mailto:suresh_nadarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suresh_nadarajan@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Mr Kwok Pang Keat&nbsp;&nbsp;</p>
