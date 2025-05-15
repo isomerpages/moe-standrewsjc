@@ -558,7 +558,7 @@ Jin Glenn</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SAJC Rugby Field</p>
 </td>
 </tr>
@@ -572,9 +572,6 @@ Jin Glenn</p>
 <p>Shortlisted candidates will be contacted by teacher in charge.</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC Rugby Field</p>
 </td>
 </tr>
 </tbody>
