@@ -19,11 +19,8 @@ third_nav_title: DSA 2026
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
+<th rowspan="1" colspan="2">
+<p>Date / Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
@@ -33,13 +30,10 @@ third_nav_title: DSA 2026
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2 July 2025</p>
+<td rowspan="1" colspan="2">
+<p>2 July, 4pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>4pm</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SAJC Music Room</p>
 </td>
 </tr>
@@ -47,14 +41,8 @@ third_nav_title: DSA 2026
 <td rowspan="1" colspan="1">
 <p>Phase 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>13 August 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC Music Room</p>
+<td rowspan="1" colspan="2">
+<p>13 August, 4pm</p>
 </td>
 </tr>
 </tbody>
@@ -97,11 +85,8 @@ attire.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
+<th rowspan="1" colspan="2">
+<p>Date / Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
@@ -111,13 +96,10 @@ attire.</p>
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>9 July 2025</p>
+<td rowspan="1" colspan="2">
+<p>9 July, 3.30pm - 7pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>3.30pm - 7pm</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SAJC Band Room</p>
 </td>
 </tr>
@@ -125,14 +107,8 @@ attire.</p>
 <td rowspan="1" colspan="1">
 <p>Phase 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>30 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.30pm - 7pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC Band Room</p>
+<td rowspan="1" colspan="2">
+<p>30 July, 3.30pm - 7pm</p>
 </td>
 </tr>
 </tbody>
@@ -200,11 +176,8 @@ their own mouthpieces.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
+<th rowspan="1" colspan="2">
+<p>Date / Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
@@ -214,13 +187,10 @@ their own mouthpieces.</p>
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1 July - 11 July 2025</p>
+<td rowspan="1" colspan="2">
+<p>1 July - 11 July, 3.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>3.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SAJC Chinese Orchestra Room</p>
 </td>
 </tr>
@@ -228,14 +198,8 @@ their own mouthpieces.</p>
 <td rowspan="1" colspan="1">
 <p>Phase 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>11 August - 15 August 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC Chinese Orchestra Room</p>
+<td rowspan="1" colspan="2">
+<p>11 August - 15 August, 3.30pm</p>
 </td>
 </tr>
 </tbody>
@@ -317,11 +281,8 @@ with the following information:</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
+<th rowspan="1" colspan="2">
+<p>Date / Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
@@ -331,11 +292,8 @@ with the following information:</p>
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>9 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4pm</p>
+<td rowspan="1" colspan="2">
+<p>9 July, 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC Dance Studio</p>
@@ -345,11 +303,8 @@ with the following information:</p>
 <td rowspan="1" colspan="1">
 <p>Phase 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>6 August 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4pm</p>
+<td rowspan="1" colspan="2">
+<p>6 August, 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC Dance Studio</p>
@@ -431,11 +386,8 @@ or most recent results (if available).</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
+<th rowspan="1" colspan="2">
+<p>Date / Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
@@ -445,13 +397,10 @@ or most recent results (if available).</p>
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>9 July 2025</p>
+<td rowspan="1" colspan="2">
+<p>9 July, 4pm - 6pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>4pm - 6pm</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SAJC Cultural Centre</p>
 </td>
 </tr>
@@ -459,14 +408,8 @@ or most recent results (if available).</p>
 <td rowspan="1" colspan="1">
 <p>Phase 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1 August 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4pm - 6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC Cultural Centre</p>
+<td rowspan="1" colspan="2">
+<p>1 August, 4pm - 6pm</p>
 </td>
 </tr>
 </tbody>
@@ -540,11 +483,8 @@ you have any questions.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
+<th rowspan="1" colspan="2">
+<p>Date / Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
@@ -554,13 +494,11 @@ you have any questions.</p>
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>1 July - 11 July 2025</p>
+<td rowspan="1" colspan="2">
+<p>1 July - 11 July, 4pm - 6pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>4pm - 6pm</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p>SAJC Trophy Room</p>
 <p>SAJC Trophy Room</p>
 </td>
 </tr>
@@ -568,14 +506,8 @@ you have any questions.</p>
 <td rowspan="1" colspan="1">
 <p>Phase 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>11 July - 15 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4pm - 6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC Trophy Room</p>
+<td rowspan="1" colspan="2">
+<p>11 July - 15 July, 4pm - 6pm</p>
 </td>
 </tr>
 </tbody>
