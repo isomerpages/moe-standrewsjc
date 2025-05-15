@@ -3,6 +3,7 @@ title: Direct School Admission (2026 Intake)
 permalink: /admission-information/dsa2026/
 description: ""
 variant: tiptap
+third_nav_title: DSA 2026
 ---
 <p>St Andrew's Junior College (SAJC) invites applications from Sec 4 students
 or their equivalents in Singapore mainstream schools for the Direct School
@@ -460,8 +461,17 @@ will automatically be considered for both phases.</p>
 <p></p>
 <h3><strong>TRIALS/ AUDITION &amp; INTERVIEW</strong></h3>
 <p>In-person selection audition/trial will be conducted.</p>
-<p>Please see DSA Trial/Audition Schedule for specific instructions. <em><u>(Available from 16th May 2025)</u></em>
+<p>Please see DSA Trial/Audition Schedule for specific instructions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://standrewsjc.moe.edu.sg/performing-arts-audition-schedule/" rel="noopener nofollow" target="_blank">Performing Arts Audition Information</a>
 </p>
+</li>
+<li>
+<p><a href="https://standrewsjc.moe.edu.sg/sports-trial-schedule/" rel="noopener nofollow" target="_blank">Sports Trial Information</a>
+</p>
+</li>
+</ul>
 <p>
 <br>If you require any further information/assistance, please contact the
 following SAJC staff.</p>
