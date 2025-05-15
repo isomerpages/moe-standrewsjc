@@ -2,10 +2,10 @@ collections:
   admissions:
     output: true
     order:
-      - DSA 2026/Sports Trial Schedule.md
-      - DSA 2026/Performing Arts Audition Schedule.md
-      - DSA 2026/Direct School Admission (2026 Intake).md
       - DSA 2026/.keep
+      - DSA 2026/Direct School Admission (2026 Intake).md
+      - DSA 2026/Performing Arts Audition Schedule.md
+      - DSA 2026/Sports Trial Schedule.md
       - Admission Information.md
       - Joint Admissions Exercise/.keep
       - Joint Admissions Exercise/Joint Admissions Exercise (JAE).md
