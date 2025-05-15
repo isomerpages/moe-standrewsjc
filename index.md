@@ -18,6 +18,9 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
+        - title: DSA 2026
+          description: ""
+          url: /admission-information/dsa2026/
       variant: image
       title: Make SAJC Home
   - infopic:
