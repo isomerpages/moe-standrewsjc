@@ -507,7 +507,7 @@ you have any questions.</p>
 <p>Phase 2</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>11 July - 15 July, 4pm - 6pm</p>
+<p>11 August - 15 August, 4pm - 6pm</p>
 </td>
 </tr>
 </tbody>
