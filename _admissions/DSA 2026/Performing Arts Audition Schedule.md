@@ -295,7 +295,7 @@ with the following information:</p>
 <td rowspan="1" colspan="2">
 <p>9 July, 4pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SAJC Dance Studio</p>
 </td>
 </tr>
@@ -305,9 +305,6 @@ with the following information:</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>6 August, 4pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC Dance Studio</p>
 </td>
 </tr>
 </tbody>
@@ -498,7 +495,6 @@ you have any questions.</p>
 <p>1 July - 11 July, 4pm - 6pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>SAJC Trophy Room</p>
 <p>SAJC Trophy Room</p>
 </td>
 </tr>
