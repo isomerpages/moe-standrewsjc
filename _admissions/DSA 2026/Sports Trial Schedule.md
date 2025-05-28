@@ -36,12 +36,12 @@ third_nav_title: DSA 2026
 <p>21 May, 4pm - 6pm</p>
 </li>
 <li>
-<p>4 July, 4.30pm - 6.30pm</p>
+<p>9 July, 4pm - 6pm</p>
 </li>
 </ul>
 </td>
 <td rowspan="2" colspan="1">
-<p>SAJC Hall</p>
+<p>SAJC Multi-Purpose Hall (L2)</p>
 <p></p>
 </td>
 </tr>
@@ -415,7 +415,7 @@ as well.</p>
 </ul>
 </td>
 <td rowspan="2" colspan="1">
-<p>SAJC Hall</p>
+<p>SAJC Multi-Purpose Hall (L2)</p>
 </td>
 </tr>
 <tr>
