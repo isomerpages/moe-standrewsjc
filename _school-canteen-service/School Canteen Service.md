@@ -5,12 +5,12 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 14 Apr 2025
+Updated - 16 Jun 2025
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|1) Vegetarian Food/Thai Food|15 May 2025|Non-Halal
-|2) Indian Food|15 May 2025|Halal Certification is required
+|1) Vegetarian Food / Thai Food / Open to Proposal|31 July 2025|Non-Halal
+|2) Indian Food / Open to Proposal|31 July 2025|Halal Certification is preferred
 
 **Application Procedure**
 
@@ -26,11 +26,11 @@ Updated - 14 Apr 2025
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 5 Sorby Adams Drive, Singapore 357691
-* Contact No: 6285 7008
 * Email: sajc@moe.edu.sg
 
+For enquiries, please contact the General Office at 62857008
 Contact Person:
-* Ms Angeline Lee (Corporate Support Officer)
+* Mdm Angeline Lee (Corporate Support Officer)
 * Mdm Wu Miau Kee (Admin Manager)
 
 **How to get there?**
