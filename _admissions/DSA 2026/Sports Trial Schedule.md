@@ -59,7 +59,7 @@ third_nav_title: DSA 2026
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p>All shortlisted candidates will be contacted via email before reporting
 to SAJC for selection trials.</p>
 <p>Please contact Mr Kieu Chin Wah at <a href="mailto:kieu_chin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kieu_chin_wah@moe.edu.sg</a> for
@@ -118,7 +118,7 @@ any clarifications.</p>
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p><em>By appointment only.</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -194,7 +194,7 @@ Trial sign up: <a href="https://forms.gle/HLAYpqyEJHMtiMYQ6" rel="noopener noref
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p><em>By appointment only.</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -280,7 +280,7 @@ reporting to SAJC for selection trials.</p>
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p><em>By appointment only.</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -355,7 +355,7 @@ as well.</p>
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p><em>By appointment only.</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -432,7 +432,7 @@ as well.</p>
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p>All shortlisted candidates will be contacted by Teacher IC before reporting
 to SAJC for selection trials.</p>
 <p>&nbsp;Any queries, please contact teacher in charge, Mr Keith Teo via
@@ -508,7 +508,7 @@ in your applications:</p>
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p>Shortlisted Candidates will be contacted</p>
 <p>&nbsp;For enquiries, please contact:</p>
 <ul data-tight="true" class="tight">
@@ -576,7 +576,7 @@ Jin Glenn</p>
 </tr>
 </tbody>
 </table>
-<h4>Note:</h4>
+<h3>Note:</h3>
 <p><em>By appointment only.</em>
 </p>
 <p>Contact Mr Lim Zi Qi&nbsp; at 96445592 or via <a href="mailto:lim_zi_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_zi_qi@moe.edu.sg.</u></a>
@@ -632,7 +632,7 @@ Jin Glenn</p>
 </tr>
 </tbody>
 </table>
-<h4>Note</h4>
+<h3>Note:</h3>
 <p><em>By appointment only.</em>
 </p>
 <p>Contact Ms Tan at <a href="mailto:tan_mei_fong_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_fong_cynthia@moe.edu.sg</a> to
@@ -693,7 +693,7 @@ to SAJC for selection trials.</p>
 </tr>
 </tbody>
 </table>
-<h4>Note</h4>
+<h3>Note:</h3>
 <p>By appointment only.</p>
 <p>Contact Mr Aaron Lin @ <a href="mailto:lin_jiahaoaaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jiahaoaaron@moe.edu.sg</a>&nbsp;
 to register.</p>
@@ -751,7 +751,7 @@ to register.</p>
 </tr>
 </tbody>
 </table>
-<h4>Note</h4>
+<h3>Note:</h3>
 <p><em>By appointment only.</em>
 </p>
 <p>Contact Mr Andrew Tan at <a href="mailto:tan_jin_xing_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jin_xing_andrew@moe.edu.sg</a> to
