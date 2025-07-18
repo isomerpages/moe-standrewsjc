@@ -43,14 +43,23 @@ dialogue with public office holders.</p>
 </table>
 <p>
 <br>Over the course of two hours, students engaged actively with SMS Tan,
-raising more than 15 thoughtful questions. Discussions revolved around:
-<br>🔹 Support for vulnerable populations – including eldercare and healthcare
-access
-<br>🔹 AI and digital ethics – focusing on supporting healthcare needs, managing
-misinformation, and responsible innovation
-<br>🔹 Governance and trust – examining the balance between transparency,
-regulation, and civil liberties
+raising more than 15 thoughtful questions. Discussions revolved around:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Support for vulnerable populations – including eldercare and healthcare
+access</p>
+</li>
+<li>
+<p>AI and digital ethics – focusing on supporting healthcare needs, managing
+misinformation, and responsible innovation</p>
+</li>
+<li>
+<p>Governance and trust – examining the balance between transparency, regulation,
+and civil liberties
 <br>
 <br>It was a valuable opportunity for students to reflect on Singapore’s present
 realities, build a stronger sense of belonging, and express hopes for the
 nation’s future.</p>
+</li>
+</ul>
+<p></p>
