@@ -12,7 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 SG Perspectives/1.png">
 </div>
-<p>SG Perspectives is a national engagement platform that allows Pre-University
+<p>The JC2 Dialogue session with Senior Minister of State (SMS), Mr. Tan
+Kiat How, is part of an engagement platform that allows Pre-University
 students to deepen their understanding of Singapore’s policy landscape.
 The session aims to raise awareness of national issues and help students
 appreciate the rationale behind key government decisions through direct
