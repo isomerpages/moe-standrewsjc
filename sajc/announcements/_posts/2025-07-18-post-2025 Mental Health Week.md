@@ -10,13 +10,17 @@ variant: tiptap
 <h2><strong>You’ve Got a Friend in Me – Building Positive Relationships for Wellbeing</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043470_x.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043470_x.jpg">
 </div>
 <p></p>
 <p>SAJC’s annual Mental Health &amp; Wellbeing Week took place from 8 to
 11 July 2025, bringing students, staff, and alumni together to reflect
 on the importance of community and care in maintaining mental wellbeing.</p>
-<p></p>
+<p>Activities included a Human Library, wellness booths, and hands-on workshops
+— all centred on the theme of strengthening connections. The week served
+as a powerful reminder that mental wellbeing is not a solitary journey.
+Our heartfelt thanks to all participants and partners, especially our Human
+Library speakers: Julian, Pak Luen, Cassia, Germaine, William, and Joy.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,30 +30,23 @@ on the importance of community and care in maintaining mental wellbeing.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043459_y.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043459_y.jpg">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/IMG_0811.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043457_y.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Activities included a Human Library, wellness booths, and hands-on workshops
-— all centred on the theme of strengthening connections. The week served
-as a powerful reminder that mental wellbeing is not a solitary journey.
-Our heartfelt thanks to all participants and partners, especially our Human
-Library speakers: Julian, Pak Luen, Cassia, Germaine, William, and Joy.</p>
-<p></p>
 <h4>At SAJC, we continue our commitment to building a safe and supportive environment where every Saint feels seen, heard, and valued.</h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043456_y.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043456_y.jpg">
 </div>
 <p></p>
