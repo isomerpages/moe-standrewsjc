@@ -552,6 +552,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Isis Iskandar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="isis_iskandar@moe.edu.sg" rel="noopener nofollow" target="_blank">isis_iskandar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Jesulyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1514,6 +1526,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tong_shuqing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Teck Tian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="wong_teck_tian_a@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_teck_tian_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
