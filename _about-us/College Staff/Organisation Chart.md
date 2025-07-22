@@ -1756,18 +1756,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kathena Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="kathena_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">kathena_lim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Jasmine Chan Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1775,6 +1763,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="jasmine_chan_jia_min@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_chan_jia_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kathena Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="kathena_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">kathena_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
