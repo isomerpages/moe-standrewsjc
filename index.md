@@ -23,17 +23,9 @@ sections:
           url: /admission-information/dsa2026/
       variant: image
       title: Make SAJC Home
-  - infopic:
-      title: Student Achievements
-      button: Find out more here!
-      url: /sajc/achievements
-      image: /images/achievement4.png
-      alt: Image alt text
-  - infopic:
+  - resources:
       title: Announcements
-      id: infopic
-      button: Click here to stay updated!
-      url: /sajc/announcements/
-      image: /images/media4.png
-      alt: Saints
+      subtitle: Here are our latest updates
+      id: resources
+      button: Click here for more!
 ---
