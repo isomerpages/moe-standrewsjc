@@ -13,14 +13,17 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Mental Health Week/photo_6312093382738043470_x.jpg">
 </div>
 <p></p>
-<p>SAJC’s annual Mental Health &amp; Wellbeing Week took place from 8 to
+<p>SAJC’s annual Mental Health &amp; Wellbeing Week took place from 9 to
 11 July 2025, bringing students, staff, and alumni together to reflect
 on the importance of community and care in maintaining mental wellbeing.</p>
 <p>Activities included a Human Library, wellness booths, and hands-on workshops
 — all centred on the theme of strengthening connections. The week served
-as a powerful reminder that mental wellbeing is not a solitary journey.
-Our heartfelt thanks to all participants and partners, especially our Human
-Library speakers: Julian, Pak Luen, Cassia, Germaine, William, and Joy.</p>
+as a powerful reminder that mental wellbeing is not a solitary journey.</p>
+<p>Our heartfelt thanks to all participants and partners, especially our
+Human Library speakers: <strong>Julian</strong>, <strong>Pak Luen</strong>, <strong>Cassia</strong>, <strong>Germaine</strong>, <strong>William</strong>,
+and <strong>Joy</strong>. A special thanks as well to: <strong>Good News Community Services</strong>, <strong>Metropolitan YMCA Singapore</strong>, <strong>Limitless Singapore</strong>, <strong>Fei Yue Community Services (Community Resource Engagement and Support Team)</strong>,
+and Singapore Association for <strong>Mental Health (C’SAY CREST-Youth)</strong> for
+engaging Saints in the Wellness Roadshow.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
