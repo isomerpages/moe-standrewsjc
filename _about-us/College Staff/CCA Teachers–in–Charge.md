@@ -294,8 +294,8 @@ variant: tiptap
 <p>Saints for Christ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruth Amsani Perry
-<br><a href="mailto:ruth_amsani_yusli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ruth_amsani_yusli@moe.edu.sg</a>
+<p>Ms Salome Choa Jia Xin</p>
+<p><a href="salome_choa_jia_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">salome_choa_jia_xin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
