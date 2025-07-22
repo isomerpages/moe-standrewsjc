@@ -1687,7 +1687,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chak Hung Ling</p>
+<p>Mdm Suanne Chak Hung Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Executive 2</p>
