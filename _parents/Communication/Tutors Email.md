@@ -27,7 +27,6 @@ variant: markdown
 | Mr Chua Chun Lin Lyndon| chua_chun_lin_lyndon@moe.edu.sg|
 | Ms Cynthia Lim Ai Lian| cynthia_lim_ai_lian@moe.edu.sg|
 | Mdm Du Jiesi| du_jiesi@moe.edu.sg|
-| Mr Er Heow Hui| er_heow_hui@moe.edu.sg|
 | Mr Fong Choo Wah| fong_choo_wah@moe.edu.sg|
 | Mr Gabriel Tang Jia Liang| gabriel_tang_jia_liang@moe.edu.sg|
 | Mr Gabriel Tien Jing Wei| tien_jing_wei_gabriel@moe.edu.sg|
@@ -52,7 +51,6 @@ variant: markdown
 | Mr Lee Kye Loong Roland| lee_kye_loong_roland@moe.edu.sg|
 | Mr Lee Wen Thye| lee_wen_thye@moe.edu.sg|
 | Mdm Leong Jia Hui Grace| leong_jia_hui_grace@moe.edu.sg|
-| Ms Leong Kim Lian Janet| leong_kim_lian_janet@moe.edu.sg|
 | Ms Lim Hsiao Yien| lim_hsiao_yien@moe.edu.sg|
 | Mr Lim Mong Khai Melvin| lim_mong_khai_melvin@moe.edu.sg|
 | Ms Jesulyn Lim| lim_shi_en_jesulyn@moe.edu.sg|
@@ -83,7 +81,6 @@ variant: markdown
 | Ms Poh Shi Yin Lynette| poh_shi_yin_lynette@moe.edu.sg|
 | Mr Randy Gill| randhir_singh@moe.edu.sg|
 | Mr Phua Song Boon Raymond| raymond_phua_song_boon@moe.edu.sg|
-| Mdm Ruth Amsani Perry| ruth_amsani_yusli@moe.edu.sg|
 | Ms Salome Choa Jia Xin| salome_choa_jia_xin@moe.edu.sg|
 | Ms Sathya Bama| sathya_bama@moe.edu.sg|
 | Ms Sin Mei Chuen Caroline| sin_mei_chuen_caroline@moe.edu.sg|
@@ -102,7 +99,6 @@ variant: markdown
 | Mr Teo Ping Wei Keith| teo_ping_wei@moe.edu.sg|
 | Ms Teo Shue Mei Michelle| teo_shue_mei_michelle@moe.edu.sg|
 | Ms Teow Wai Leng| teow_wai_leng@moe.edu.sg|
-| Ms Teres Lim Yan Ling| teres_lim_yan_ling@moe.edu.sg|
 | Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
 | Ms Tong Shuqing| tong_shuqing@moe.edu.sg|
 | Mr Tristen Tjokro| tristen_tjokro@moe.edu.sg|

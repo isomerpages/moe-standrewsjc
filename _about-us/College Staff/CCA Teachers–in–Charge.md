@@ -242,12 +242,12 @@ variant: tiptap
 <p>Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Salome Choa Jia Xin
-<br><a href="mailto:salome_choa_jia_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salome_choa_jia_xin@moe.edu.sg</a>
+<p>Mr Tay Rong Shenq Christopher</p>
+<p><a href="tay_rong_shenq_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_rong_shenq_christopher@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Humanities</p>
 </td>
 </tr>
 <tr>
@@ -294,8 +294,8 @@ variant: tiptap
 <p>Saints for Christ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruth Amsani Perry
-<br><a href="mailto:ruth_amsani_yusli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ruth_amsani_yusli@moe.edu.sg</a>
+<p>Ms Salome Choa Jia Xin</p>
+<p><a href="salome_choa_jia_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">salome_choa_jia_xin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -414,12 +414,12 @@ variant: tiptap
 <p>Football (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kye Loong Roland
-<br><a href="mailto:lee_kye_loong_roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kye_loong_roland@moe.edu.sg</a>
+<p>Mr Chai Ming Long</p>
+<p><a href="chai_ming_long@moe.edu.sg" rel="noopener nofollow" target="_blank">chai_ming_long@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phy</p>
+<p>PE</p>
 </td>
 </tr>
 <tr>

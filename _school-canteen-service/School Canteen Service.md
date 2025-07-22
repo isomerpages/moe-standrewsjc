@@ -5,12 +5,12 @@ description: ""
 variant: markdown
 ---
 #### School Canteen Advertisement
-Updated - 16 Jun 2025
+Updated - 22 Jul 2025
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|1) Vegetarian Food / Thai Food / Open to Proposal|31 July 2025|Non-Halal
-|2) Indian Food / Open to Proposal|31 July 2025|Halal Certification is preferred
+|1) Vegetarian Food / Thai Food / Open to Proposal|30 Nov 2025|-
+|2) Indian Food / Open to Proposal|30 Nov 2025|Halal Certification is preferred
 
 **Application Procedure**
 
@@ -29,6 +29,7 @@ Updated - 16 Jun 2025
 * Email: sajc@moe.edu.sg
 
 For enquiries, please contact the General Office at 62857008
+
 Contact Person:
 * Mdm Angeline Lee (Corporate Support Officer)
 * Mdm Wu Miau Kee (Admin Manager)

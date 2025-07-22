@@ -21,10 +21,6 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-a-level.pdf" rel="noopener" target="_blank">What’s Next? – Post‘A’ level Guide for Students</a>
-</p>
-</li>
-<li>
 <p><a href="/files/2025/Infosheet_for_Parents__A_Level_.pdf" rel="noopener nofollow" target="_blank">Supporting your Teens – Post A-level guide for Parents</a>
 </p>
 </li>
