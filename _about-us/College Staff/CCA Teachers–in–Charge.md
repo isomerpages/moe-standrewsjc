@@ -247,7 +247,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Humanities</p>
 </td>
 </tr>
 <tr>
