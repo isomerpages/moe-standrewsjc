@@ -29,6 +29,7 @@ Updated - 22 Jul 2025
 * Email: sajc@moe.edu.sg
 
 For enquiries, please contact the General Office at 62857008
+
 Contact Person:
 * Mdm Angeline Lee (Corporate Support Officer)
 * Mdm Wu Miau Kee (Admin Manager)
