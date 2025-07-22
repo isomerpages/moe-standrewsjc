@@ -908,7 +908,8 @@ variant: tiptap
 <p>LH/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="tien_jing_wei_gabriel@moe.edu.sg" rel="noopener nofollow" target="_blank">tien_jing_wei_gabriel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
