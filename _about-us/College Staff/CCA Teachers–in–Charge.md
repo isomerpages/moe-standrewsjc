@@ -242,8 +242,8 @@ variant: tiptap
 <p>Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Salome Choa Jia Xin
-<br><a href="mailto:salome_choa_jia_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salome_choa_jia_xin@moe.edu.sg</a>
+<p>Mr Tay Rong Shenq Christopher</p>
+<p><a href="tay_rong_shenq_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_rong_shenq_christopher@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
