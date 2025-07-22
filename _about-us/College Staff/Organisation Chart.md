@@ -1375,6 +1375,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Choong Jia En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="choong_jia_en_a@moe.edu.sg" rel="noopener nofollow" target="_blank">choong_jia_en_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Du Jiesi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1466,6 +1478,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_hui_fen_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Hui Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_shan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Wee Hock John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wee_hock_john_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_hock_john_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1574,42 +1610,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">yeo_jia_tian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Hui Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Wee Hock John</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wee_hock_john_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_hock_john_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Choong Jia En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="choong_jia_en_a@moe.edu.sg" rel="noopener nofollow" target="_blank">choong_jia_en_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
