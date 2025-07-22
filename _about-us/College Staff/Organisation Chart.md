@@ -1747,7 +1747,7 @@ variant: tiptap
 <p>Ms Lam Yoke Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Full Time School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lam_yoke_fong@moe.edu.sg</a>
