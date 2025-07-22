@@ -1666,7 +1666,7 @@ variant: tiptap
 <p>Mdm Goh Yee Ping Rene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Admin Manager 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="goh_yee_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_yee_ping@schools.gov.sg</a>
@@ -1678,7 +1678,7 @@ variant: tiptap
 <p>Mdm Ng Yee San</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Admin Executive 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_yee_san@moe.edu.sg</a>
@@ -1687,25 +1687,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Au Bee Hong Cecilia</p>
+<p>Mdm Chak Hung Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Admin Executive 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">au_bee_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hannah Yeo Yen Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hannah_yeo_yen_ling_a@moe.edu.sg</a>
+<p><a href="chak_hung_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">chak_hung_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1718,6 +1706,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_su_keng@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_su_keng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Au Bee Hong Cecilia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">au_bee_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
