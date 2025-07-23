@@ -1228,7 +1228,7 @@ variant: tiptap
 <p>Ms Soh Xiao Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science 2 (Chemistry Covering)</p>
+<p>HOD/Science 2 (Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">soh_xiao_fen@moe.edu.sg</a>
