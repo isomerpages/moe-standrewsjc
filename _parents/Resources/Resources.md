@@ -48,7 +48,7 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 </ul>
-<p><strong>PSG Webinar, "Journeying with our children, Achieving their Aspirations.", 11 May 2024</strong>
+<p><strong>PSG Webinar, "Journeying with our children, Supporting their Aspirations.", 19 Jul 2025</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
