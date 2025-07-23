@@ -52,7 +52,7 @@ equip parents with information resources related to parenting.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1r493AjiHfgTB7OnEVoOHL1exGes-UKGP/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link to recording of the session</a>
+<p><a href="https://drive.google.com/file/d/1uB6L0oCJf-_5YIPmBSgxDogcVPkYRvQR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link to recording of the session</a>
 </p>
 </li>
 </ul>
