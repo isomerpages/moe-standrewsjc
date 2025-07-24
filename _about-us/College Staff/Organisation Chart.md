@@ -415,7 +415,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Sui Lee</p>
+<p>Ms Wong Sui Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/English Language</p>
@@ -1756,7 +1756,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Chan Jia Min</p>
+<p>Mdm Jasmine Chan Jia Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -1792,7 +1792,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <blockquote>
-<p><strong>ICT</strong>
+<p><strong>ICT &amp; Library</strong>
 </p>
 </blockquote>
 </td>
@@ -1831,6 +1831,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nabil.binkamalariffin@ncs.com.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
