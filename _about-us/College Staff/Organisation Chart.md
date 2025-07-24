@@ -1917,7 +1917,7 @@ variant: tiptap
 <p>Mdm Rani Udayakumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Biology/Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rani_udaya_kumar@moe.edu.sg</a>
