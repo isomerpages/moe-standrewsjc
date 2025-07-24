@@ -208,7 +208,7 @@ will be certified and signed by the relevant authorities.</p>
 <p></p>
 <p><strong>Mr Tham Kine Thong<br>Principal<br></strong>St Andrew's Junior
 College
-<br><a href="/files/2024/College_Profile_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download the College Profile 2025</a>
+<br><a href="/files/2025/College_Profile_2025_July.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download the College Profile 2025</a>
 </p>
 <hr>
 <p>1 Wonder, Integrity, Self-Discipline &amp; Excellence</p>
