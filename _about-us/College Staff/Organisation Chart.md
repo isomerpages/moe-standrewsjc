@@ -1835,18 +1835,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Ms Nurliza Salim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liza@sajc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liza@sajc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
