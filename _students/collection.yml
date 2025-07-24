@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Students.md
-      - Examination & WA Schedule & Resources.md
+      - A Level Exam Documents.md
       - Scholarship and Financial Matters.md
       - Useful Links/.keep
       - Useful Links/Useful Links.md
