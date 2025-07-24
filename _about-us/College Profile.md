@@ -17,8 +17,8 @@ for the Singapore-Cambridge General Certification of Education at Advanced
 ‘A’ level.</p>
 <p>The College’s vision is to be a Home of Servant Leaders who bring life
 to the Nations. The College believes in nurturing Saints who are principled
-servant-leaders, upholding the WISE<sup>1</sup> and TRUE<sup>2</sup> values
-that define who we are and how we act when we stand together as a village.</p>
+servant-leaders, upholding the WISE1 and TRUE2 values that define who we
+are and how we act.</p>
 <p>Besides attaining academic success, its students also excel in the Co-Curricular
 Activities. Many of the sports regularly attain the top 4 positions at
 the national championship competitions. The performing arts groups also
@@ -30,14 +30,14 @@ in the College.</p>
 <p></p>
 <p><strong>Enrolment:</strong>
 </p>
-<p>The College has a total enrolment of about 1406 students. 80.9% of the
-students are in the science faculty and 19.1% are in the arts faculty.
-Of those who graduated in 2023, at least 97.4% achieved 3H2 passes including
-General Paper (GP), which is above the national average.</p>
+<p>The College has a total enrolment of about 1419 students. 80.4% of the
+students are in the science faculty and 19.6% are in the arts faculty.
+Of those who graduated in 2024, at least 94% achieved 3H2 passes including
+General Paper (GP).</p>
 <p></p>
 <p><strong>Staff:</strong>
 </p>
-<p>In 2024, the College has about 119 full-time members on the teaching staff.
+<p>In 2025, the College has about 117 full-time members on the teaching staff.
 All have at least a Bachelor’s degree with most holding an Honours Degree
 (cum Laude).</p>
 <p></p>
@@ -45,39 +45,36 @@ All have at least a Bachelor’s degree with most holding an Honours Degree
 </p>
 <p>Every student must offer the following compulsory subjects:</p>
 <p>(i) General Paper (GP) at H1 level</p>
-<p>(ii) Project Work (PW) at H1 level, and</p>
-<p>(iii) Mother Tongue (MT) at H1 level</p>
+<p>(ii) Mother Tongue (MT) at H1 level, and</p>
+<p>(iii) Project Work (PW)</p>
 <p></p>
 <p>In addition, students must offer a combination of 4 H2 subjects, or 3
 H2 and 1 H1 content-based subjects, of which one must be from a contrasting
 discipline. Students who have the ability and aptitude are also able to
 offer subjects at H3 level. These may incorporate independent study projects,
-1<sup>st</sup> year university modules or advanced examination papers.</p>
+1st year university modules or advanced examination papers.</p>
 <p></p>
 <p><strong>Subjects offered:</strong>
 </p>
 <p><u>H1 Subjects</u>
 </p>
 <p>Biology, Chemistry, Chinese Language, Economics, General Paper, Geography,
-History,</p>
-<p>Literature in English, Malay Language, Mathematics, Physics, Project Work,
-Tamil Language</p>
+History, Literature in English, Malay Language, Mathematics, Physics, Project
+Work, Tamil Language</p>
 <p></p>
 <p><u>H2 Subjects</u>
 </p>
-<p>Art, Biology, Chemistry, Chinese Language and Literature, Computing, Economics,
-Further</p>
-<p>Mathematics, Geography, History, Literature in English, Malay Language
-and Literature,</p>
-<p>Mathematics, Physics, Tamil Language and Literature</p>
+<p>Art, Biology, Chemistry, Chinese Language and Literature, Economics, Further
+Mathematics, Geography, History, Literature in English, Malay Language
+and Literature, Mathematics, Physics, Tamil Language and Literature</p>
 <p></p>
 <p><u>H3 Subjects (with MOE Partners)</u>
 </p>
-<p>Biology, Physics, Economics, Geography, History, Literature in English</p>
+<p>Physics, Economics, Geography, History</p>
 <p></p>
 <p><u>H3 Subjects (within college) based on demand</u>
 </p>
-<p>Chemistry, Mathematics, Physics, Geography, History</p>
+<p>Biology, Chemistry, Mathematics, Physics, History</p>
 <p></p>
 <p><u>MT ‘B’ Subjects</u>
 </p>
@@ -99,22 +96,21 @@ assessments for Year Two students. Weighted Assessment via set assignments
 and/or modular tests is also practised.</p>
 <p></p>
 <p>In the first year, there is an examination held in June/July and another
-held in September/October. A student must pass 2 H2 and 2 H1 subjects in
-the Promotional Examination to gain entry into the second year.</p>
+held in September/October. A student is expected to pass 2 H2 and 1 H1
+subjects in the Promotional Examination to gain entry into the second year.</p>
 <p></p>
 <p>In the second year, there are assessments held in June/July and August/Sept.
 The last assessment is in effect a “Preliminary Examination” for the GCE
 ‘A’ Level Examinations and begins in August of their second year. For the
 Preliminary Examination, the student sits for full-length papers(s) in
 each subject. At the GCE 'A' Level Examination, students usually obtain
-at least a grade better than at the Preliminary Examination.</p>
+at least 1-2 grades better than at the Preliminary Examination.</p>
 <p></p>
 <p><strong>Ranking:</strong>
 </p>
 <p>As the College does not rank its students, a table of the grading system
-may be helpful for our students to evaluate themselves:
-<br>
-</p>
+may be helpful for our students to evaluate themselves:</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -124,31 +120,27 @@ may be helpful for our students to evaluate themselves:
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Grading Levels</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;'H3' Level<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;'H2' Level<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>'H1' Level<br></strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Grading Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>'H3' Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>‘H2’ Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>'H1' Level</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Full Pass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction
-<br>Merit
-<br>Pass</p>
+<p>Distinction</p>
+<p>Merit</p>
+<p>Pass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A - E</p>
@@ -216,8 +208,7 @@ will be certified and signed by the relevant authorities.</p>
 <p></p>
 <p><strong>Mr Tham Kine Thong<br>Principal<br></strong>St Andrew's Junior
 College
-<br><a href="/files/2024/College_Profile_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download the College Profile 2024</a>
-<br>
+<br><a href="/files/2024/College_Profile_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download the College Profile 2025</a>
 </p>
 <hr>
 <p>1 Wonder, Integrity, Self-Discipline &amp; Excellence</p>
