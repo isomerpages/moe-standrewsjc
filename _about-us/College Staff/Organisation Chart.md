@@ -269,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Chin Leong</p>
+<p>Mr William Yeo Chin Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
