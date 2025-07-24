@@ -1,7 +1,7 @@
 ---
 title: JC2 Dialogue session with SMS Mr Tan Kiat How
 permalink: /jc2-dialogue-session-2025/
-date: 2025-07-18
+date: 2025-07-09
 layout: post
 description: ""
 image: ""

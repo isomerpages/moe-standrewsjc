@@ -48,11 +48,11 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 </ul>
-<p><strong>PSG Webinar, "Journeying with our children, Achieving their Aspirations.", 11 May 2024</strong>
+<p><strong>PSG Webinar, "Journeying with our children, Supporting their Aspirations.", 19 Jul 2025</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1r493AjiHfgTB7OnEVoOHL1exGes-UKGP/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link to recording of the session</a>
+<p><a href="https://drive.google.com/file/d/1uB6L0oCJf-_5YIPmBSgxDogcVPkYRvQR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link to recording of the session</a>
 </p>
 </li>
 </ul>
