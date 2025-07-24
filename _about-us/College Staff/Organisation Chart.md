@@ -1869,7 +1869,7 @@ variant: tiptap
 <p>Ms Ammala Rajamani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ammala_rajamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ammala_rajamani@moe.edu.sg</a>
@@ -1881,7 +1881,7 @@ variant: tiptap
 <p>Ms Meemaduma Manoja Priyangika</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">meemaduma_manoja_priyangika_a@moe.edu.sg</a>
@@ -1905,7 +1905,7 @@ variant: tiptap
 <p>Ms Nur Waheeda Bte Mohtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_waheeda_mohtar@moe.edu.sg</a>
@@ -1929,7 +1929,7 @@ variant: tiptap
 <p>Mdm Rema Meenakshi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rema_meenakshi@moe.edu.sg</a>
@@ -1984,7 +1984,7 @@ variant: tiptap
 <p>Mr Chee Kooi Seng Royce</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1995,7 +1995,7 @@ variant: tiptap
 <p>Mr Chen Seit Neh Bobby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2006,7 +2006,7 @@ variant: tiptap
 <p>Mr Hamzani Bin Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2017,7 +2017,7 @@ variant: tiptap
 <p>Mdm Kuldip Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">kuldip_kaur@moe.edu.sg</a>
@@ -2029,7 +2029,7 @@ variant: tiptap
 <p>Mr Lim James</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2040,7 +2040,7 @@ variant: tiptap
 <p>Mr Lim Quek Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2051,7 +2051,7 @@ variant: tiptap
 <p>Mr Toh Hiap Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2062,7 +2062,7 @@ variant: tiptap
 <p>Mr Wan Yew Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2073,7 +2073,7 @@ variant: tiptap
 <p>Mdm Warty Bte Adam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">warty_adam@moe.edu.sg</a>
