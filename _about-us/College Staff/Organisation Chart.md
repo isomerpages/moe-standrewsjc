@@ -1869,7 +1869,7 @@ variant: tiptap
 <p>Ms Ammala Rajamani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ammala_rajamani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ammala_rajamani@moe.edu.sg</a>
@@ -1881,7 +1881,7 @@ variant: tiptap
 <p>Ms Meemaduma Manoja Priyangika</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">meemaduma_manoja_priyangika_a@moe.edu.sg</a>
@@ -1893,7 +1893,7 @@ variant: tiptap
 <p>Mr Mohammad Iskandar Riduan Bin Hussin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor (Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohammad_iskandar_riduan@moe.edu.sg</a>
@@ -1905,7 +1905,7 @@ variant: tiptap
 <p>Ms Nur Waheeda Bte Mohtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_waheeda_mohtar@moe.edu.sg</a>
@@ -1917,7 +1917,7 @@ variant: tiptap
 <p>Mdm Rani Udayakumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rani_udaya_kumar@moe.edu.sg</a>
@@ -1929,7 +1929,7 @@ variant: tiptap
 <p>Mdm Rema Meenakshi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rema_meenakshi@moe.edu.sg</a>
