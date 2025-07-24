@@ -1,6 +1,6 @@
 ---
-title: Examination & WA Schedule & Resources
-permalink: /students/examination-timetable/
+title: A Level Exam Documents
+permalink: /students/a-level-exam-documents/
 description: ""
 variant: markdown
 ---
