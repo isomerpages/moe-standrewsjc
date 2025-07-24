@@ -188,7 +188,7 @@ variant: tiptap
 <p>Ms Cynthia Lim Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">cynthia_lim_ai_lian@moe.edu.sg</a>
@@ -200,7 +200,7 @@ variant: tiptap
 <p>Mdm Jackina Sultan Athaham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">jackina_sultan_athaham@moe.edu.sg</a>
@@ -209,10 +209,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Lian-Chua Li Shan Irene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chua_li_shan_irene_a@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_li_shan_irene_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lim Wong Yingyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yingyi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Wee Lee Meng Lester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wee_lee_meng_lester@moe.edu.sg</a>
@@ -224,22 +248,10 @@ variant: tiptap
 <p>Ms Wong Sook Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wong_sook_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim Wong Yingyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_yingyi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -264,18 +276,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_chin_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_chin_leong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lian-Chua Li Shan Irene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chua_li_shan_irene_a@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_li_shan_irene_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
