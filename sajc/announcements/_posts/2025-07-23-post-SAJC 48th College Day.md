@@ -20,7 +20,7 @@ E-Booklet and the Principal’s Report using the links below.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1962F1_Xbo13NDV5MLxBXkgaUecTcveL9/view?usp=sharing" rel="noopener nofollow" target="_blank">SAJC 48th College Day - e-Programme Booklet</a>
+<p><a href="https://drive.google.com/file/d/1KboipyOjnhyXgSkswrdukWqeaGnOQEFm/view?usp=drive_link" rel="noopener nofollow" target="_blank">SAJC 48th College Day - e-Programme Booklet</a>
 </p>
 </li>
 </ol>
