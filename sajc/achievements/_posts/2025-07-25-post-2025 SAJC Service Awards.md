@@ -9,8 +9,8 @@ variant: tiptap
 ---
 <p>The <strong>SAJC Service Awards</strong> recognises Saints who have demonstrated
 exemplary behaviour and impacted the school through their service to the
-school in both <strong>Clubs and Societies</strong>, and <strong>Student Leadership</strong> CCAs.
-This year's recipients of the Service Awards are:</p>
+school in both <strong>Clubs and Societies</strong>, and <strong>Student Leadership</strong> CCAs.</p>
+<p>This year's recipients of the Service Awards are:</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
