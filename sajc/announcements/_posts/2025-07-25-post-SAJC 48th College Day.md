@@ -111,11 +111,12 @@ outstanding achievements across various domains. Click on the links below
 to find out more about the awardees for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SAJC Colours Awards (for Team SAJC and Saints on Stage CCAs)</p>
+<p><a href="/2025-sajc-colours-awards/" rel="noopener nofollow" target="_blank">SAJC Colours Awards</a> (for
+Team SAJC and Saints on Stage CCAs)</p>
 </li>
 <li>
-<p>SAJC Service Awards (for Clubs &amp; Societies and Student Leadership
-CCAs)</p>
+<p><a href="/2025-sajc-service-awards/" rel="noopener nofollow" target="_blank">SAJC Service Awards</a> (for
+Clubs &amp; Societies and Student Leadership CCAs)</p>
 </li>
 <li>
 <p>2024 A Level Awards</p>
