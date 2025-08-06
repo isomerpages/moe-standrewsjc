@@ -8,6 +8,10 @@ image: ""
 variant: tiptap
 ---
 <h2>Shine Among Them, Like Stars in the Sky</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="Principal's speech" src="/images/Announcements/2025 College Day/SAJC_79.jpg">
+</div>
 <p>On 25 July 2025, St. Andrew’s Junior College marked its 48th College Day
 — an occasion that reflects both continuity and renewal in our school’s
 journey. In the presence of our Guest of Honour, Professor Ivy Ng, Board
@@ -18,6 +22,10 @@ in the sky” — invited all Saints to reflect on how they might live with
 quiet conviction and bold compassion. Echoing last year’s call to “Let
 your light shine before others,” this theme points us toward a vision of
 influence anchored not in recognition, but in service.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="Guests" src="/images/Announcements/2025 College Day/SAJC_31.jpg">
+</div>
 <p>In her keynote address, our Guest-of-Honour, Professor Ivy Ng, shared
 a powerful and memorable message built around four key attributes — the
 ABCDs of leading a purposeful life in today's world. She encouraged out
@@ -44,6 +52,59 @@ but also serve as guiding lights for every Saint seeking to lead and serve
 in the years ahead. Professor Ng's words deeply resonated with the college
 community, affirming the importance of character, courage, and compassion
 in shaping a better tomorrow.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese Orchestra Performance" src="/images/Announcements/2025 College Day/3.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SFC Singing" src="/images/Announcements/2025 College Day/7.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Choir Performance" src="/images/Announcements/2025 College Day/1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dance Perfomance" src="/images/Announcements/2025 College Day/5.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 College Day/6.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 College Day/valedictorianspeech.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>Student Achievements</h3>
 <p>The event included a series of awards that honoured students for their
 outstanding achievements across various domains. Click on the links below
@@ -63,7 +124,12 @@ CCAs)</p>
 <p>2025 Internal Awards (for JC1s and JC2s)</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 College Day/SAJC_2.jpg">
+</div>
 <h3>Staff Recognition</h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -375,6 +441,11 @@ set firmly on the horizon. In the lives of every student who steps forward
 with courage, every teacher who nurtures with hope, and every partner who
 walks alongside us in faith — we see the stars rising.</p>
 <p>Together, we move Up and On.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 College Day/sajcwall.png">
+</div>
 <hr>
 <p><em>Please find below links to some useful documents from the 48th College Day:</em>
 </p>
