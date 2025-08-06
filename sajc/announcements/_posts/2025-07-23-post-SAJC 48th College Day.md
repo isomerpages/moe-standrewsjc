@@ -433,9 +433,9 @@ to our three guiding beliefs:</p>
 </li>
 <li>
 <p>Every Saint is called to lead a purpose-driven and others-centred life.</p>
+<p></p>
 </li>
 </ul>
-<p>[Insert Group Photo or Closing Ceremony Visual]</p>
 <p>We close this year’s College Day with hearts full of gratitude, and eyes
 set firmly on the horizon. In the lives of every student who steps forward
 with courage, every teacher who nurtures with hope, and every partner who
