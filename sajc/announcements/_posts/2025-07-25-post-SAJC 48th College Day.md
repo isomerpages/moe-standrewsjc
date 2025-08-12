@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Shine Among Them, Like Stars in the Sky</h2>
+<h2>Shine Among Them Like Stars in the Sky</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Principal's speech" src="/images/Announcements/2025 College Day/SAJC_79.jpg">
@@ -123,7 +123,8 @@ Clubs &amp; Societies and Student Leadership CCAs)</p>
 </p>
 </li>
 <li>
-<p>2025 Internal Awards (for JC1s and JC2s)</p>
+<p><a href="/2025-sajc-jc1-and-jc2-awards/" rel="noopener nofollow" target="_blank">2025 JC1 and JC2 Awards</a> 
+</p>
 </li>
 </ul>
 <p></p>
