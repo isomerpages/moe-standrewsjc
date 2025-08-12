@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>OUTSTANDING SAINTS AWARD </strong>
+<p><strong>OUTSTANDING SAINTS AWARD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
