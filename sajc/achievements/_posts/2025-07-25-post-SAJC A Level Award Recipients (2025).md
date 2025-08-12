@@ -227,14 +227,6 @@ who achieved exemplary academic results at the 2024 GCE-A Level Examinations.</p
 <p>MAH JIA MAY (23A04)&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
