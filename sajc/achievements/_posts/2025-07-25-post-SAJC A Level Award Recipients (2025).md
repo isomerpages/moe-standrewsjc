@@ -220,7 +220,7 @@ who achieved exemplary academic results at the 2024 GCE-A Level Examinations.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VIVIAN QUEK GENERAL PAPER BOOK PRIZE (GCE A-LEVEL EXAMINATIONS 2023)</strong>
+<p><strong>VIVIAN QUEK GENERAL PAPER BOOK PRIZE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
