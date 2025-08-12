@@ -119,7 +119,8 @@ Team SAJC and Saints on Stage CCAs)</p>
 Clubs &amp; Societies and Student Leadership CCAs)</p>
 </li>
 <li>
-<p>2024 A Level Awards</p>
+<p><a href="/sajc-a-level-award-recipients-2025/" rel="noopener nofollow" target="_blank">2024 A Level Awards</a>
+</p>
 </li>
 <li>
 <p>2025 Internal Awards (for JC1s and JC2s)</p>
