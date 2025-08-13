@@ -7,9 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 Asian Rugby Championships/4th_Asian_Schools_Rugby_Sevens_Championship_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 Asian Rugby Championships/001.jpg">
 </div>
 <p>The 4th Asian School Rugby Sevens Championship was held in Hong Kong from
 8–12 Aug 2025. In this campaign, Singapore's team managed to clinch the
