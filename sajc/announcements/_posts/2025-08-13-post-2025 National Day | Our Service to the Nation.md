@@ -17,9 +17,10 @@ year of independence — a milestone that invites us to reflect not only
 on our nation’s achievements, but also on the values that have shaped our
 shared journey.</p>
 <p>The morning began with a vibrant National Day celebration on campus, graced
-by Mayor Denise Phua of the Central Singapore CDC and Mr Alex Yeo, Grassroots
-Advisor for Potong Pasir. Their presence underscored the strong partnerships
-that have supported our service learning efforts through the years.</p>
+by Ms. Denise Phua, Mayor of the Central Singapore District and Mr Alex
+Yeo, Grassroots Advisor for Potong Pasir. Their presence underscored the
+strong partnerships that have supported our service learning efforts through
+the years.</p>
 <p>From there, our students carried the spirit of the day into Singapore’s
 heartlands. Our JC1 cohort embarked on a series of service learning projects
 across the island, engaging with various elderly groups to bring warmth,
@@ -53,9 +54,8 @@ connection, and care.</p>
 <p></p>
 <p>Meanwhile, our JC2 students marked a special milestone — the 10th year
 of our partnership with Central Singapore CDC’s Giraffe’s Project. In true
-“giraffe” spirit, they committed acts of kindness and sought out stories
-from fellow Singaporeans who have courageously “stuck their necks out”
-for the common good.</p>
+“giraffe” spirit, they committed acts of kindness and we sought out for
+pledges from fellow Singaporeans on what kind of Singapore we envisage.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
