@@ -53,9 +53,9 @@ connection, and care.</p>
 </table>
 <p></p>
 <p>Meanwhile, our JC2 students marked a special milestone — the 10th year
-of our partnership with Central Singapore CDC’s Giraffe’s Project. In true
-“giraffe” spirit, they committed acts of kindness and we sought out for
-pledges from fellow Singaporeans on what kind of Singapore we envisage.</p>
+of our partnership with Central Singapore CDC’s GiraffeSG@Central. In true
+“giraffe” spirit, they committed acts of kindness and sought out for pledges
+from fellow Singaporeans on what kind of Singapore we envisage.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
