@@ -2,7 +2,7 @@
 title: Achievements
 permalink: /legacy-2021-achievements/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>

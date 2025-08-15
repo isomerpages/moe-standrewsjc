@@ -5,9 +5,7 @@ description: ""
 third_nav_title: College Staff
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p>Club &amp; Society</p>
+<h2><strong>Club &amp; Society</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -17,8 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Club &amp; Society</strong>
-</p>
+<h4></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
@@ -161,9 +158,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Performing Arts</p>
+<h2><strong>Performing Arts</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -173,8 +168,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-</p>
+<h4></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
@@ -265,9 +259,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Student Leadership</p>
+<h2><strong>Student Leadership</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -277,8 +269,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Leadership</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
@@ -330,9 +321,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Sports CCA</p>
+<h2><strong>Sports CCA</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -342,8 +331,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sports CCA</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
@@ -528,6 +516,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p></p>
