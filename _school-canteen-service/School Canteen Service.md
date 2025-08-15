@@ -9,8 +9,7 @@ Updated - 15 Aug 2025
 
 |**Type of Stall**|**Closing Date**|**Requirement**|
 |:--------: | :--------: | :--------: |
-|1) Vegetarian Food / Thai Food / Open to Proposal|30 Nov 2025|-
-|2) Indian Food / Open to Proposal|30 Nov 2025|Halal Certification is preferred
+|1) Malay Rice &amp; Noodles (Halal)|30 Nov 2025|Halal Certification is Required
 
 **Application Procedure**
 
