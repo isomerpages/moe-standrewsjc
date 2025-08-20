@@ -91,5 +91,11 @@ of one of our college’s core qualities — to be community-builders. In servin
 others, our Saints are also shaping the future of Singapore, one act of
 kindness at a time.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 National Day/CDC_Thank_You_Poster.png">
+</div>
 <p>📸 Photo credits: Central Singapore CDC, Photography Society, and student
 contributors</p>
+<hr>
+<p><em>Note: An edit was made on 20th August to include more images.</em>
+</p>
