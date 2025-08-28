@@ -10,14 +10,15 @@ variant: tiptap
 <h2>Strengthening International Friendships Through Exchange and Engagement</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 Triam Udom Exchange/IMG_9985.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Triam Udom Exchange/IMG_9985.jpg">
 </div>
 <p>We are delighted to share the continued success of the enduring partnership
 between St. Andrew’s Junior College (SAJC) and Triam Udom Suksa School
-in Thailand—a vibrant collaboration built on mutual respect, cultural exchange,
-and meaningful connections.</p>
+in Thailand. Starting in 2003, our vibrant collaboration has been built
+on mutual respect, cultural exchange, and meaningful connections.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 Triam Udom Exchange/IMG_9918.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Announcements/2025 Triam Udom Exchange/IMG_9918.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
