@@ -156,9 +156,6 @@ Clubs &amp; Societies and Student Leadership CCAs)</p>
 <li>
 <p>Soh Xiao Fen (Science)</p>
 </li>
-<li>
-<p>Wang Min (Language)</p>
-</li>
 </ul>
 </td>
 </tr>
@@ -248,12 +245,6 @@ our Saints:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Cheng Wei Kai Kelvin (Tennis)</p>
-</li>
-<li>
-<p>Cheng Xin Wei (Tennis)</p>
-</li>
-<li>
 <p>Loo Yi Lin Joylynn (Netball)</p>
 </li>
 </ul>
@@ -266,9 +257,6 @@ our Saints:</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Chew Yin Choi (Ten Pin Bowling)</p>
-</li>
 <li>
 <p>Eunice Wee Shi Quan (Dance Society)</p>
 </li>
