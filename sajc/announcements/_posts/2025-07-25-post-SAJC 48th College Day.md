@@ -107,8 +107,11 @@ in shaping a better tomorrow.</p>
 </table>
 <h3>Student Achievements</h3>
 <p>The event included a series of awards that honoured students for their
-outstanding achievements across various domains. Click on the links below
-to find out more about the awardees for:</p>
+outstanding achievements across academic and non-academic domains.</p>
+<div class="iframe-wrapper">
+<iframe height="629" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgkhABrr-KBK3fcoX_kVPIyTxAGGzv3XMvPy-7_keKVLN0DAXxK2IY9Vo5JLBDfpKXt6YDL_jtXYhW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Click on the links below to for the full list of awardees for:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/2025-sajc-colours-awards/" rel="noopener nofollow" target="_blank">SAJC Colours Awards</a> (for
@@ -123,10 +126,11 @@ Clubs &amp; Societies and Student Leadership CCAs)</p>
 </p>
 </li>
 <li>
-<p><a href="/2025-sajc-jc1-and-jc2-awards/" rel="noopener nofollow" target="_blank">2025 JC1 and JC2 Awards</a> 
+<p><a href="/2025-sajc-jc1-and-jc2-awards/" rel="noopener nofollow" target="_blank">2025 JC1 and JC2 Awards</a>
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/2025 College Day/SAJC_2.jpg">
@@ -151,9 +155,6 @@ Clubs &amp; Societies and Student Leadership CCAs)</p>
 </li>
 <li>
 <p>Soh Xiao Fen (Science)</p>
-</li>
-<li>
-<p>Wang Min (Language)</p>
 </li>
 </ul>
 </td>
@@ -244,12 +245,6 @@ our Saints:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Cheng Wei Kai Kelvin (Tennis)</p>
-</li>
-<li>
-<p>Cheng Xin Wei (Tennis)</p>
-</li>
-<li>
 <p>Loo Yi Lin Joylynn (Netball)</p>
 </li>
 </ul>
@@ -262,9 +257,6 @@ our Saints:</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Chew Yin Choi (Ten Pin Bowling)</p>
-</li>
 <li>
 <p>Eunice Wee Shi Quan (Dance Society)</p>
 </li>
