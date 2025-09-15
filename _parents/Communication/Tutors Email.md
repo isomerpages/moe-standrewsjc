@@ -104,7 +104,6 @@ variant: markdown
 | Mr Tan Jin Xing Andrew| tan_jin_xing_andrew@moe.edu.sg|
 | Ms Tan Joy| tan_joy@moe.edu.sg|
 | Mr Tan Kian Tong| tan_kian_tong@moe.edu.sg|
-| Ms Tan Loke Bin| tan_loke_bin_b@moe.edu.sg|
 | Ms Tan Mei Fong Cynthia| tan_mei_fong_cynthia@moe.edu.sg|
 | Mr Tan Yeow Beng Moses Lude| tan_yeow_beng_moses@moe.edu.sg|
 | Mr Tan Yew Meng| tan_yew_meng_1@moe.edu.sg|
