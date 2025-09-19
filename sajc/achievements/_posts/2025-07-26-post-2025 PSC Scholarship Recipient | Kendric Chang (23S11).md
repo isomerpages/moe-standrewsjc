@@ -21,8 +21,8 @@ and Empathy in all he did. From excelling in national competitions and
 internships, to conceptualising impactful college events, Kendric balanced
 his stellar academics with service and leadership.</p>
 <p></p>
-<p>Whether stepping up to lead the National Anthem for 1,500 Saints when
-the PA system failed, or mentoring juniors through morning reflections,
-Kendric consistently inspired others through courage, compassion, and commitment.
-We celebrate his achievement and look forward to how he will continue to
-make a difference in Singapore as an engineer and leader. Well done, Kendric!</p>
+<p>Whether stepping up to lead the National Anthem for 1,500 Saints, or mentoring
+juniors through morning reflections, Kendric consistently inspired others
+through courage, compassion, and commitment. We celebrate his achievement
+and look forward to how he will continue to make a difference in Singapore
+as an engineer and leader. Well done, Kendric!</p>
