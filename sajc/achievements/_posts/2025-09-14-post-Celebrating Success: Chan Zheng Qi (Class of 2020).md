@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>We are proud to announce that our alumnus, Chan Zheng Qi from 19S18 is
+<p>We are proud to announce that our alumna, Chan Zheng Qi from 19S18 is
 the James Dyson Award 2025, Singapore National Winner.</p>
 <p>Zheng Qi, who is currently an Industrial Design graduate at the National
 University of Singapore was given the recognition for her invention <strong><em>nido</em></strong> -
