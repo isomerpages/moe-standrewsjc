@@ -1754,7 +1754,8 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="shahrul_nizam_saiful_bahri@moe.edu.sg" rel="noopener nofollow" target="_blank">shahrul_nizam_saiful_bahri@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
