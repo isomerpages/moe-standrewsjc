@@ -11,7 +11,6 @@ variant: markdown
 | Mr Beesoony Uttam Kumar| beesoony_uttam_kumar@moe.edu.sg|
 | Ms Tan Meileen Bliss| bliss_tan@moe.edu.sg|
 | Mr Chai Ming Long| chai_ming_long@moe.edu.sg|
-| Dr Caroline Chan| chan_may_ling_caroline_a@moe.edu.sg|
 | Ms Chan Siew Cheng Regina| chan_siew_cheng@moe.edu.sg|
 | Ms Chan Wai Yee| chan_wai_yee@moe.edu.sg|
 | Mr Chay Wai Sum| chay_wai_sum@moe.edu.sg|
@@ -106,7 +105,6 @@ variant: markdown
 | Mr Tan Kian Tong| tan_kian_tong@moe.edu.sg|
 | Ms Tan Mei Fong Cynthia| tan_mei_fong_cynthia@moe.edu.sg|
 | Mr Tan Yeow Beng Moses Lude| tan_yeow_beng_moses@moe.edu.sg|
-| Mr Tan Yew Meng| tan_yew_meng_1@moe.edu.sg|
 | Mr Teo Ping Wei Keith| teo_ping_wei@moe.edu.sg|
 | Ms Teo Shue Mei Michelle| teo_shue_mei_michelle@moe.edu.sg|
 | Ms Teow Wai Leng| teow_wai_leng@moe.edu.sg|
