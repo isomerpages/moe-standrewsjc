@@ -4,32 +4,50 @@ permalink: /curriculum/academic-disciplines/mathematics-n-science/mathematics/
 description: ""
 variant: tiptap
 ---
+<p><em><sub>Last Updated: 14 November 2025</sub></em>
+</p>
 <h4><strong>1. What is ‘A’ Level H2 Mathematics?</strong></h4>
-<p>H2 Mathematics is designed to prepare students with the required content
-and skills for courses on science and engineering related courses, where
-a good foundation in mathematics is required. It develops mathematical
-thinking and reasoning skills that are essential for further learning of
-mathematics. Through real world application of mathematics, students are
-also able to develop an appreciation of the usefulness of Mathematics in
-Science and Engineering fields.</p>
+<p>H2 Mathematics provides students with a strong foundation in mathematical
+concepts, reasoning, and problem-solving, essential for studies in mathematics,
+sciences, engineering, and other quantitative disciplines. The subject
+develops logical thinking and the ability to connect mathematical ideas
+to real-world applications in diverse fields such as economics, data analytics,
+and technology.</p>
+<p>Through topics such as calculus, algebra, geometry, and statistics, students
+learn to model and solve problems using mathematical methods and to appreciate
+how mathematics underpins modern scientific and technological progress.</p>
+<p>Ultimately, H2 Mathematics equips students with the analytical mindset
+and precision needed to thrive in university courses and future careers
+that demand critical and quantitative thinking.</p>
 <h4><strong>2. How is H2 Mathematics taught at SAJC?</strong></h4>
-<p>The lessons for H2 Mathematics are conducted in the lecture-tutorial style.
-Content teaching and demonstrations on the application of the skills required
-in a particular topic are presented in a lecture. In a smaller class setting,
-namely the tutorials, tutors will discuss with the class on how to approach
-and solve the various mathematics questions. All students are required
-to purchase a Graphing Calculator which is a learning tool for H2 Math.
-Students are expected to be proficient in the use of Graphing Calculator
-in solving Mathematics problems.</p>
+<p>At St Andrew’s Junior College, H2 Mathematics is taught through a blended-learning
+model that integrates online and classroom experiences. Students first
+learn new concepts through online lecture videos, which allow flexible
+and self-paced learning. During tutorials, teachers focus on applying concepts
+to problem-solving, guiding students to analyse, reason, and communicate
+mathematical ideas effectively.</p>
+<p>This approach promotes independent learning and deeper understanding,
+as students come to class prepared to engage actively in discussions, clarify
+misconceptions, and tackle challenging problems collaboratively.</p>
+<p>By combining technology with personalised interaction, SAJC’s blended-learning
+model nurtures confident, reflective, and self-directed learners — ready
+to meet the demands of higher-level mathematical thinking.</p>
 <h4><strong>3. What can I do to prepare myself for H2 Mathematics?</strong></h4>
-<p>You will need to adopt a consistent approach towards the learning of H2
-Mathematics. Students are expected to be well prepared for tutorials, to
-be proactive in seeking clarifications from subject tutors and disciplined
-in setting time aside to practice solving problems, to ensure mastery of
-concepts and skills. Last but not least, students are expected to think
-critically and be able to articulate their learning using proper mathematical
-language and solve the problems with logical reasoning.</p>
-<p>For more information about Mathematics, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>.</p>
+<p>Students preparing for H2 Mathematics should strengthen their algebraic
+and trigonometric skills and cultivate accuracy and perseverance in problem-solving.
+Understanding key principles, rather than memorising procedures, is vital
+for long-term mastery.</p>
+<p>Developing self-discipline and curiosity will also help students adapt
+well to the blended-learning environment. They should watch online lessons
+actively, attempt tutorial questions independently, and seek clarification
+early when in doubt.</p>
+<p>Beyond classroom materials, students can explore mathematical puzzles,
+enrichment tasks, or real-world applications to deepen appreciation for
+the subject. With consistency and curiosity, they will find H2 Mathematics
+both challenging and rewarding.</p>
+<p></p>
+<p>For more information about Mathematics, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>. <em>Note: An updated prospectus will be available by January 2026.</em>
+</p>
 <p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
 the latest information on the syllabus.</p>
 <p></p>
