@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Team SAJC
 variant: tiptap
 ---
+<p><em><sub>Last Updated: 14 November 2025</sub></em>
+</p>
 <p>SAJC Track and Field trains hard and plays hard. If you are thinking of
 taking up a new challenge, look no further! Don’t worry if you think you
 lack experience or can’t run. Everybody can start somewhere and joining
