@@ -4,6 +4,8 @@ permalink: /the-saints-experience/holistic-thinker/
 description: ""
 variant: tiptap
 ---
+<p><em><sub>Last Updated: 14 November 2025</sub></em>
+</p>
 <p>Many educators and philosophers concur that the ultimate goal of education
 is to nurture thoughtful individuals with empathy, one who can make sound
 decisions in both their personal and professional lives.</p>
