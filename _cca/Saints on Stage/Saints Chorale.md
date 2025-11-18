@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Saints on Stage
 variant: tiptap
 ---
+<p><em><sub>Last updated: 18 November 2025</sub></em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Saints Chorale 2" src="/images/CCA Pictures/Choir/Saints_Chorale_4.jpg">
 </div>
