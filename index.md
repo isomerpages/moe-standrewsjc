@@ -18,14 +18,13 @@ sections:
         - title: Alumni
           description: ""
           url: https://www.saints.org.sg/
-        - title: DSA 2026
+        - title: Saints Portal
           description: ""
-          url: /admission-information/dsa2026/
+          url: https://portal.sajc.edu.sg
       variant: image
       title: Make SAJC Home
   - resources:
-      title: Announcements
-      subtitle: Here are our latest updates
+      title: Latest News
       id: resources
       button: Click here for more!
 ---

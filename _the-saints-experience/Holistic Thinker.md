@@ -2,57 +2,166 @@
 title: Holistic Thinker
 permalink: /the-saints-experience/holistic-thinker/
 description: ""
+variant: tiptap
 ---
-<p align="justify">It is widely agreed by educators and philosophers that the paramount purpose of education is to develop thinking individuals with a heart, who can make good decisions in their lives and work.</p>
-<p align="justify">The "Holistic Thinker" is defined as one who makes good judgements by considering the big picture, innovates and provides practical solutions, envisions the future and is prepared for it. The four dimensions in Holistic Thinking advocated in SAJC are: Critical Thinking, Creative Thinking, Caring Thinking and Forward Thinking.</p>
-<p align="justify">All lessons and activities in SAJC have clear objectives which include thinking skills to be taught or reinforced.</p>
+<p><em><sub>Last Updated: 14 November 2025</sub></em>
+</p>
+<p>Many educators and philosophers concur that the ultimate goal of education
+is to nurture thoughtful individuals with empathy, one who can make sound
+decisions in both their personal and professional lives.</p>
+<p></p>
+<p>At SAJC, a Holistic Thinker is someone who exercises sound judgment by
+considering the broader context, innovates to find practical solutions,
+envisions the future, and prepares for it. The College’s framework for
+Holistic Thinking encompasses four dimensions: Critical Thinking, Creative
+Thinking, Caring Thinking, and Forward Thinking.</p>
+<p></p>
+<p>Every lesson and activity in SAJC is purposefully designed with clear
+objectives that incorporate and strengthen specific thinking skills.</p>
 <h4><strong>Talent Development Programme</strong></h4>
-<p align="justify">The Talent Development Programme (TDP) serves to stretch our Saints by honing their 21st century competencies in information and communication skills, critical and inventive thinking, civic literacy, global awareness and cross-cultural skills. This is done through the provision of opportunities to develop and grow them in the domains of Scholastic Development, Servant Leadership Development and Expanding Perspectives.</p>
-<p align="justify">Saints in the TDP can expect to gain knowledge and skills beyond the GCE A-level curriculum. To deepen and broaden the content taught in classrooms, TDP students in the Arts and Science stream have the opportunity to gain experiences offered under the Humanities Scholars Programme (HSP) and Science Scholars Programme (SSP) respectively. The table below lists some of the opportunities offered in both programmes.</p>
-<table>
+<p>The Talent Development Programme (TDP) aims to stretch our Saints by cultivating
+essential 21<sup>st</sup> century competencies, including information and
+communication skills, critical and inventive thinking, civic literacy,
+global awareness, and cross-cultural skills. This is achieved through a
+range of opportunities designed to support growth across three key domains:
+Scholastic Development, Servant Leadership Development, and Expanding Perspectives.</p>
+<p>&nbsp;</p>
+<p>Through the TDP, Saints can expect to acquire knowledge and skills that
+go beyond the GCE A-Level curriculum. To enrich and extend classroom learning,
+Arts and Science students in the programme can participate in specialised
+experiences offered through the Humanities Scholars Programme (HSP) and
+the Science Scholars Programme (SSP) respectively. The table below outlines
+some of the opportunities available under both programmes.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="text-align: center;">Humanities Scholars Programme</th>
-<th style="text-align: center;">Science Scholars Programme</th>
+<th rowspan="1" colspan="1">
+<p>Humanities Scholars Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Science Scholars Programme</p>
+</th>
 </tr>
 <tr>
-<td>
-<ul>
-<li>Humanities Seminar Series</li>
-<li>EU @ Your School</li>
-<li>Academic mentoring</li>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Humanities Symposium</p>
+</li>
+<li>
+<p>Academic Monitoring</p>
+</li>
+<li>
+<p>Go Green SG</p>
+</li>
 </ul>
 </td>
-<td>
-<ul>
-<li>External science research programmes with local universities</li>
-<li>MOE Scientist in School Programme</li>
-<li>Learning journey to research institutes</li>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>External Science Research Programmes with Local Universities</p>
+</li>
+<li>
+<p>MOE Scientist-in-School Programme</p>
+</li>
+<li>
+<p>Learning Journey to Research Institutes</p>
+</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p align="justify">Saints in the TDP are also equipped with skills and experiences to take on challenges confidently, as they grow to be Servant Leaders with the ability to leverage multiple perspectives. With the TDP experience, our Saints are better poised to strive for prestigious scholarships in both the public and private sectors.</p>
-<img src="/images/ht.jpg">
+<p>Saints in the TDP are also empowered with the skills and experiences needed
+to face challenges with confidence, growing into Servant Leaders who can
+appreciate and integrate multiple perspectives. Through the TDP experience,
+our Saints are well-prepared and better positioned to pursue prestigious
+scholarships in both the public and private sectors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/ht.jpg">
+</div>
 <h4><strong>Global Experience Programmes</strong></h4>
-<p align="justify">To deepen students&rsquo; acquisition of 21st Centrury Competencies and to provide authentic learning in the global world, SAJC believes in providing opportunities for students to participate in the College&rsquo;s' twinning programme with other schools around the world. In developing our Saints to becoming Holistic Thinkers through this Global Experience Programme, we hope that they are able to</p>
-<ul>
-<li>Increase their socio-cultural and religious sensitivity and awareness</li>
-<li>Enhance their skills in recognising and appreciating diversity, empathising with and respecting others</li>
-<li>Deepen their appreciation of Singapore&rsquo;s context in our region and the world</li>
-<li>Form friendships and networks with their international peers</li>
-<li>Foster camaraderie and deepen friendships with their school mates</li>
-<li>Deepen their awareness of global issues and trends</li>
-<li>Deepen their desire to contribute to the well-being of the international community while maintaining a sense of rootedness</li>
-<li>Deepen their critical and inventive thinking skills</li>
-<li>Be more resilient, resourceful, independent, and adapt to different contexts, unanticipated and frequent change</li>
+<p>To strengthen students’ 21st century competencies and provide authentic
+learning opportunities in a globalised world, SAJC offers a range of Global
+Experience Programmes through its twinning partnerships with schools around
+the world. These experiences are integral to nurturing our Saints as Holistic
+Thinkers who are globally aware, adaptable, and grounded in their values.</p>
+<p>&nbsp;</p>
+<p>Through these programmes, we hope our Saints will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop greater socio-cultural and religious sensitivity and awareness</p>
+</li>
+<li>
+<p>Strengthen their ability to recognise and appreciate diversity, empathise
+with, and respect others</p>
+</li>
+<li>
+<p>Deepen their understanding of Singapore’s place within the regional and
+global context</p>
+</li>
+<li>
+<p>Build friendships and networks with international peers</p>
+</li>
+<li>
+<p>Foster camaraderie and stronger bonds with their schoolmates</p>
+</li>
+<li>
+<p>Broaden their awareness of global issues and emerging trends</p>
+</li>
+<li>
+<p>Cultivate a desire to contribute meaningfully to the global community
+while remaining rooted in Singaporean values</p>
+</li>
+<li>
+<p>Enhance their critical and inventive thinking skills</p>
+</li>
+<li>
+<p>Grow in resilience, resourcefulness, independence, and adaptability when
+facing new or unpredictable environments</p>
+</li>
 </ul>
+<p></p>
 <p>The College has a strong partnership with the following overseas schools:</p>
-<ul>
-<li>Romain Rolland Gymnasium (Germany)</li>
-<li>Omi Brotherhood Senior High School (Japan)</li>
-<li>Triam Udom Suska School (Thailand)</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Triam Udom Suska School (Thailand)</p>
+</li>
+<li>
+<p>Gloria Christian High School (Indonesia)</p>
+</li>
 </ul>
-<img src="/images/ht2.jpg"><br>
-<img src="/images/ht3.jpg">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="Students on overseas trip to Thailand." src="/images/Announcements/2024   TDP Thailand Trip/DSC8461.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students on overseas trip to Thailand." src="/images/Announcements/2024   TDP Thailand Trip/20240530_152513.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p></p>
