@@ -112,7 +112,6 @@ variant: markdown
 | Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
 | Ms Tong Shuqing| tong_shuqing@moe.edu.sg|
 | Mr Tristen Tjokro| tristen_tjokro@moe.edu.sg|
-| Mr V Balachandran| v_balachandran@moe.edu.sg|
 | Mdm Wang Min| wang_min@moe.edu.sg|
 | Mr Wee Lee Meng Lester| wee_lee_meng_lester@moe.edu.sg|
 | Mr Lee Wen Feng Felix| wen_feng_felix_lee@moe.edu.sg|
@@ -133,5 +132,4 @@ variant: markdown
 | Mr Yeo Jia Tian| yeo_jia_tian@moe.edu.sg|
 | Ms Yim Miao Ting Jessica| yim_miao_ting_jessica@moe.edu.sg|
 | Mr Zaid bin Mohamed Ali| zaid_mohamed_ali_a@moe.edu.sg|
-| Ms Zeenat Binte Noor Mohamed| zeenat_noor_mohamed_b@moe.edu.sg|
 | Mdm Zhao Mengqi| zhao_mengqi@moe.edu.sg|
