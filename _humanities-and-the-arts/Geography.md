@@ -24,14 +24,14 @@ and make decisions grounded in evidence.</p>
 at SAJC trains you to think critically, act responsibly, and design solutions
 that are both feasible and future ready.</p>
 <h4><strong>3. What can I do to prepare myself for Geography?</strong></h4>
-<p>Careful reading and thinking through of given materials is a must, followed
-by active application of learned concepts and examples through the help
-of question practice. Deep and entrenched understanding of the geographical
-concepts comes only with consistent hard work, and in the long run will
-yield positive outcomes as well as learning experience. Seeking help from
-teachers to clarify understanding of what has been taught is key. Finally,
-having a genuine interest in the subject will help ensure that the journey
-embarked on is a sustainable one over the course of two years.</p>
+<p><strong>Careful reading and thinking</strong> through of given materials
+is a must, followed by active application of learned concepts and examples
+through the help of question practice. Deep and entrenched understanding
+of the geographical concepts comes only with <strong>consistent hard work</strong>,
+and in the long run will yield positive outcomes as well as learning experience. <strong>Seeking help from teachers</strong> to
+clarify understanding of what has been taught is key. Finally, having <strong>a genuine interest in the subject </strong>will
+help ensure that the journey embarked on is a sustainable one over the
+course of two years.</p>
 <p>For more information about Geography, please refer to our latest <a href="/admissions/college-prospectus/" rel="noopener nofollow" target="_blank">College Prospectus</a>. <em>Note: An updated prospectus will be available by January 2026.</em>
 </p>
 <p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
