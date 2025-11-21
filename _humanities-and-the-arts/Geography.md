@@ -4,7 +4,7 @@ permalink: /curriculum/academic-disciplines/humanities-n-the-arts/geography/
 description: ""
 variant: tiptap
 ---
-<p><em><sub>Last Updated: 14 November 2025</sub></em>
+<p><em><sub>Last Updated: 21 November 2025</sub></em>
 </p>
 <h4><strong>1. What is ‘A’ Level Geography?</strong></h4>
 <p>H1 Geography is focused on key global challenges like sustainability and
@@ -37,3 +37,30 @@ embarked on is a sustainable one over the course of two years.</p>
 <p>You may also visit the <a href="https://www.seab.gov.sg/gce-a-level/school-candidates/" rel="noopener nofollow" target="_blank">SEAB's website</a> for
 the latest information on the syllabus.</p>
 <p></p>
+<p><em>SAJC Geography in Action:</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning from experts about ongoing physical developments." src="/images/Subject Pages/Geography   2025 26/Learning_from_the_experts___Geography_in_SAJC_connects_classroom_knowledge_to_real_world_expertise_.jpg">
+</div>
+<p><em><sup>Learning from the experts</sup></em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Geography students contributing ideas to Singapore's evolving urban landscape." src="/images/Subject Pages/Geography   2025 26/Leaving_their_mark___Geography_students_contribute_their_ideas_to_Singapore_s_evolving_urban_landscape_.jpg">
+</div>
+<p><em><sup>Contributing ideas to Singapore's evolving urban landscape</sup></em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Inspiring peers to take a stand on sustainability" src="/images/Subject Pages/Geography   2025 26/Inspiring_peers_to_take_a_stand_on_sustainability___advocacy_in_action_.jpg">
+</div>
+<p><em><sup>Sustainability advocacy in action</sup></em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Turning ideas into campus action" src="/images/Subject Pages/Geography   2025 26/Geographers_leading_the_way_in_sustainability___turning_ideas_into_campus_action_.jpg">
+</div>
+<p><em><sup>Turning ideas into campus action</sup></em>
+</p>
