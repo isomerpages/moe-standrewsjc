@@ -127,6 +127,9 @@ facing new or unpredictable environments</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TDP 2025 Overseas Learning Trip (Surabaya)" src="/images/2025_TDP_Overseas_Learning_Journey.jpg">
+</div>
 <p>The College has a strong partnership with the following overseas schools:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -136,31 +139,12 @@ facing new or unpredictable environments</p>
 <p>Gloria Christian High School (Indonesia)</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 78%;" height="auto" width="100%" alt="Students on overseas trip to Thailand." src="/images/Announcements/2024   TDP Thailand Trip/DSC8461.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students on overseas trip to Thailand." src="/images/Announcements/2024   TDP Thailand Trip/20240530_152513.jpg">
 </div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>
 <br>
 </p>
