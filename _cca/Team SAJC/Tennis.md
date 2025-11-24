@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Team SAJC
 variant: tiptap
 ---
+<p><em><sub>Last Updated: 24 November 2025</sub></em>
+</p>
 <p>The SAJC Tennis Boys’ and Girls’ teams are brought together by one thing,
 a huge love for the game. Whether we’re smashing forehands or chasing down
 impossible shots, we give our all on court. Training days are filled with
