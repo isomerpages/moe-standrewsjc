@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Celebration of Success.md
       - Achievements & Accolades.md
