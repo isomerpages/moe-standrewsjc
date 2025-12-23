@@ -31,8 +31,7 @@ None of them worked well. That’s when Zoey’s design instincts kicked in.</p>
 <p></p>
 <hr>
 <p></p>
-<p><strong>The Power of Empathy and Everyday Design</strong>
-</p>
+<h3><strong>The Power of Empathy and Everyday Design</strong></h3>
 <p>For Zoey, design isn’t just about aesthetics or clever engineering; it
 is about listening, observing, and improving the unspoken struggles people
 carry daily.</p>
@@ -47,8 +46,7 @@ medical tech — it was about respecting how people actually live.</p>
 <p></p>
 <hr>
 <p></p>
-<p><strong>A Foundation Built at SAJC</strong>
-</p>
+<h3><strong>A Foundation Built at SAJC</strong></h3>
 <p></p>
 <p><em>“SAJC shaped me in quieter ways. It was the first place that pushed me to think for myself instead of chasing the ‘right’ answers.”</em>
 </p>
@@ -66,8 +64,7 @@ shaping the mindset I now bring into my design work.”</p>
 <p></p>
 <hr>
 <p></p>
-<p><strong>Advice for Young Innovators</strong>
-</p>
+<h3><strong>Advice for Young Innovators</strong></h3>
 <p></p>
 <p><em>“Don’t be afraid to follow the tiny annoyances or questions that stick in your mind… it’s not about having a perfect solution, but having the curiosity to poke at problems and learn your way into something meaningful.”</em>
 </p>
@@ -75,7 +72,7 @@ shaping the mindset I now bring into my design work.”</p>
 <p></p>
 <hr>
 <p></p>
-<p><strong>Read Zoey's Reflections below </strong>
+<p><strong>Read Zoey's Reflections below</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
