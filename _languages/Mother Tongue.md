@@ -83,7 +83,7 @@ so they will be equip with facing the future.</p>
 <p>Mock Examination to simulate actual exam condition</p>
 </li>
 <li>
-<p>Face-to-face or Zoom consultations – individual, pairs or group.</p>
+<p>Face-to-face or virtual consultations – individual, pairs or group.</p>
 </li>
 </ul>
 <p></p>
