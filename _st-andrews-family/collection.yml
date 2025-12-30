@@ -2,6 +2,7 @@ collections:
   st-andrews-family:
     output: true
     order:
+      - St Andrew's Family.md
       - Alumni.md
       - Parent Support Group.md
       - Mentors.md
