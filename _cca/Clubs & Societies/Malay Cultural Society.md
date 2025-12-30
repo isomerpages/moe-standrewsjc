@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
+<p><em><sup>Last updated: 23 December 2025</sup></em>
+</p>
 <p>The Malay Cultural Society (MCS) stands as SAJC’s flagship platform for
 celebrating Malay heritage and empowering youth leadership. At the heart
 of the college’s multicultural vibrancy, MCS inspires students to take
