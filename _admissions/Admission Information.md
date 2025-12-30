@@ -4,6 +4,8 @@ permalink: /admissions/admission-info/
 description: ""
 variant: tiptap
 ---
+<p><em><sup>Last updated: 30 December 2025</sup></em>
+</p>
 <p>For students who are keen to pursue a Science or Arts course at St Andrew’s
 Junior College education leading up to the GCE ‘A’ Level examinations,
 there are varying entry points you can apply to join our exciting college
