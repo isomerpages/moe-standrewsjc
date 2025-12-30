@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Curriculum.md
       - Educational Philosophy and Framework.md
       - SAJC Homework Policy.md
       - Academic Disciplines/.keep
