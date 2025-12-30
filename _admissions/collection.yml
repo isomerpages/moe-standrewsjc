@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - DSA 2026/.keep
-      - DSA 2026/Direct School Admission.md
       - Admission Information.md
       - Joint Admissions Exercise/.keep
       - Joint Admissions Exercise/Joint Admissions Exercise (JAE).md
