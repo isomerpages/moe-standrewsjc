@@ -4,6 +4,8 @@ permalink: /the-saints-experience/
 variant: tiptap
 description: ""
 ---
+<p><em><sup>Last updated: 30 December 2025</sup></em>
+</p>
 <p>The Saints Experience goes beyond academics and CCA. At SAJC, we hope
 to develop 4 Qualities of Saints in our students. Find out more about them
 and the experiences catered for them by clicking on the buttons below or
