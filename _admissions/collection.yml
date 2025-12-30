@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Direct School Admission.md
       - Admission Information.md
       - Joint Admissions Exercise/.keep
       - Joint Admissions Exercise/Joint Admissions Exercise (JAE).md
@@ -10,4 +9,5 @@ collections:
       - College Prospectus.md
       - Subject Combinations.md
       - Returning Singaporeans & International Students.md
+      - Direct School Admission.md
       - Freq Asked Questions.md
