@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Our CCAs.md
       - Student Leadership/Student Leadership.md
       - Student Leadership/Student Council.md
       - Student Leadership/Saints Advocate.md
