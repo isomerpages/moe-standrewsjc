@@ -4,6 +4,8 @@ permalink: /curriculum/
 variant: tiptap
 description: ""
 ---
+<p><em><sup>Last updated: 30 December 2025</sup></em>
+</p>
 <p>At St Andrew’s Junior College (SAJC), we believe in providing a holistic
 education that aims to nurture the exemplary character and talents of Saints
 so that they can contribute to nation-building and become powerful agents
