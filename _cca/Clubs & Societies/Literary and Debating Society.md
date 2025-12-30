@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
+<p><em><sup>Last updated: 23 December 2025</sup></em>
+</p>
 <p>Hey J1s!</p>
 <p>Ready to dive into an extraordinary realm of words, ideas, and lively
 discussions? Look no further! Welcome to the Literary and Debating Society
