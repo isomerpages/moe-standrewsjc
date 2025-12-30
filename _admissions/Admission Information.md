@@ -39,7 +39,7 @@ users) to navigate.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/joint-admission-exercise-jae/"><img style="width: 100%" height="auto" width="100%" alt="JAE-Button" src="/images/Web Banners/Landing Page Banners/Admission___JAE.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/2025/SAJC_Prospectus_2025__2_.pdf"><img style="width: 100%" height="auto" width="100%" alt="CollegeProspectus-Button" src="/images/Web Banners/Landing Page Banners/Admission___College_Prospectus.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/college-prospectus/"><img style="width: 100%" height="auto" width="100%" alt="CollegeProspectus-Button" src="/images/Web Banners/Landing Page Banners/Admission___College_Prospectus.png"></a>
 </td>
 </tr>
 <tr>
