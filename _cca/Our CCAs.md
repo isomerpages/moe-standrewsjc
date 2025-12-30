@@ -9,8 +9,8 @@ description: ""
 <p>At SAJC, students are offered a diverse range of co-curricular activities
 (CCA). The range of CCA caters to their different passions and interests,
 providing a vital platform for their holistic education.</p>
-<p>Find out more about the 3 key groups of CCA by clicking on the buttons
-below or by using the side bar.</p>
+<p>Find out more about the different CCAs by clicking on the buttons below
+or by using the side bar.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
