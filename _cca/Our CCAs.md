@@ -4,6 +4,8 @@ permalink: /our-ccas/
 variant: tiptap
 description: ""
 ---
+<p><em><sup>Last updated: 30 December 2025</sup></em>
+</p>
 <p>At SAJC, students are offered a diverse range of co-curricular activities
 (CCA). The range of CCA caters to their different passions and interests,
 providing a vital platform for their holistic education.</p>
