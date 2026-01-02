@@ -4,6 +4,8 @@ permalink: /oh/
 variant: tiptap
 description: ""
 ---
+<p><em><sup>Last Updated: 2 January 2026</sup></em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026_OH_Logo_White__3_.png">
 </div>
@@ -34,7 +36,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location: </strong>
+<p><strong>Location:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
