@@ -5,6 +5,5 @@ description: ""
 variant: tiptap
 ---
 <p>Thank you for visiting this webpage. Click the link below to download
-a copy of SAJC's latest Prospectus.
-<br><a href="/files/2025/SAJC_Prospectus_2025__2_.pdf" rel="noopener nofollow" target="_blank">SAJC 2025 Prospectus.</a>
+a copy of SAJC's <a href="/files/2026/SAJC_Prospectus_2026.pdf" rel="noopener nofollow" target="_blank">2026 Prospectus.</a>
 </p>
