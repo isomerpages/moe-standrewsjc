@@ -19,7 +19,7 @@ description: ""
 <h2><u>By Public Transport:</u></h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to <strong>Potong Pasir MRT (NEL)</strong> 
+<p>Go to <strong>Potong Pasir MRT (NEL)</strong>
 </p>
 </li>
 <li>
@@ -55,7 +55,7 @@ description: ""
 that others can line up behind as well</p>
 </li>
 </ol>
-<p><em>Note: There is limited parking on our campus. The closest public carpark is just outside the school at Blk 120 Potong Pasir Avenue 1. (Take the second exit at the second roundabout instead of driving through our main gates). You can enter the school by following the <u>cycling path</u> right next to Blk 119 Potong Pasir Avenue 1. </em>
+<p><em>Note: There is limited parking on our campus. The closest public carpark is just outside the school at Blk 120 Potong Pasir Avenue 1. (Take the second exit at the second roundabout instead of driving through our main gates). You can enter the school by following the <u>park connector</u> right next to Blk 119 Potong Pasir Avenue 1.</em>
 </p>
 </td>
 </tr>
