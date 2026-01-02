@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /parents
         - title: Saints Portal
-          description: For existing students
+          description: ""
           url: https://portal.sajc.edu.sg
         - title: Open House 2026
           description: Click here for more info!
