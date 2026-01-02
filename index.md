@@ -15,12 +15,12 @@ sections:
         - title: Parents
           description: ""
           url: /parents
-        - title: Alumni
-          description: ""
-          url: https://www.saints.org.sg/
         - title: Saints Portal
-          description: ""
+          description: For existing students
           url: https://portal.sajc.edu.sg
+        - title: Open House 2026
+          description: Click here for more info!
+          url: /oh/
       variant: image
       title: Make SAJC Home
   - resources:
