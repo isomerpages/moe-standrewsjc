@@ -135,7 +135,7 @@ variant: tiptap
 <p>Mr Ko Wei En Wayne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Character Education (Covering)</p>
+<p>SH/Character Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ko_wei_en_wayne@moe.edu.sg</a>
@@ -147,10 +147,22 @@ variant: tiptap
 <p>Ms Lee Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Wellbeing (Covering)</p>
+<p>SH/Student Wellbeing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_jia_yi_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Aik Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Econs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chan_aik_leong_basil@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_aik_leong_basil@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -699,6 +711,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Yue Qi Astor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="teo_yue_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_yue_qi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <h4><strong>Teachers</strong></h4>
 </td>
@@ -905,7 +929,7 @@ variant: tiptap
 <p>Ms Mak Hee Man Hilda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head 2 (Covering)</p>
+<p>Assistant Year Head 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mak_hee_man_hilda_1@moe.edu.sg</a>
@@ -1337,7 +1361,7 @@ variant: tiptap
 <p>Ms Low Wanyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Talent Development (Covering)</p>
+<p>SH/Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">low_wanyi@moe.edu.sg</a>
@@ -1711,18 +1735,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Lee Su Keng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lee_su_keng@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_su_keng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Au Bee Hong Cecilia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1756,6 +1768,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="shahrul_nizam_saiful_bahri@moe.edu.sg" rel="noopener nofollow" target="_blank">shahrul_nizam_saiful_bahri@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1989,17 +2012,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sinni_suppiah@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chee Kooi Seng Royce</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
