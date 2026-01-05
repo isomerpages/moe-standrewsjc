@@ -184,8 +184,8 @@ variant: tiptap
 <p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Min
-<br><a href="wang_min@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_min@moe.edu.sg</a>
+<p>Mr Tan Kian Tong
+<br><a href="tan_kian_tong@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kian_tong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,12 +236,12 @@ variant: tiptap
 <p>Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Rong Shenq Christopher</p>
-<p><a href="tay_rong_shenq_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_rong_shenq_christopher@moe.edu.sg</a>
+<p>Ms Hema Malini</p>
+<p><a href="hema_malini@moe.edu.sg" rel="noopener nofollow" target="_blank">hema_malini@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities</p>
+<p>English</p>
 </td>
 </tr>
 <tr>
@@ -454,12 +454,12 @@ variant: tiptap
 <p>Ten Pin Bowling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Jiahao Aaron
-<br><a href="mailto:lin_jiahaoaaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jiahaoaaron@moe.edu.sg</a>
+<p>Mr Lee Wen Feng Felix
+<br><a href="wen_feng_felix_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">wen_feng_felix_lee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE</p>
+<p>English</p>
 </td>
 </tr>
 <tr>
@@ -480,8 +480,8 @@ variant: tiptap
 <p>Touch Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kah Siang Jason
-<br><a href="mailto:jason_ong_kah_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jason_ong_kah_siang@moe.edu.sg</a>
+<p>Mr Lin Jiahao Aaron
+<br><a href="lin_jiahaoaaron@moe.edu.sg" rel="noopener nofollow" target="_blank">lin_jiahaoaaron@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
