@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
+<p><em><sup>Last updated: 23 December 2025</sup></em>
+</p>
 <p>Hey J1s!</p>
 <p>Ready to dive into an extraordinary realm of words, ideas, and lively
 discussions? Look no further! Welcome to the Literary and Debating Society
@@ -39,32 +41,24 @@ to 5:45 pm.</p>
 <p>Don't miss out! WhatsApp Mr. Randy at 97896785 for the keys to this literary
 wonderland. Your adventure awaits – join the Literary and Debating Society
 today!</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/lds1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/LDS/WhatsApp_Image_2025_12_23_at_16_15_44__1_.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/lds2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/LDS/WhatsApp_Image_2025_12_23_at_16_15_43.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/lds3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/LDS/WhatsApp_Image_2025_12_23_at_16_15_43__2_.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/lds4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/LDS/WhatsApp_Image_2025_12_23_at_16_15_43__1_.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/LDS/WhatsApp_Image_2025_12_23_at_16_15_44.jpg">
+</div>
 <p></p>

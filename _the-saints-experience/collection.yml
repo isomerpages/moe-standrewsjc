@@ -2,8 +2,8 @@ collections:
   the-saints-experience:
     output: true
     order:
+      - The Saints Experience.md
       - Exemplary Character.md
       - Holistic Thinker.md
       - Skilled Communicator.md
       - Community Builder.md
-      - Through the Lens of Saints.md

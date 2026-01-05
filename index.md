@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_sajc_2.png
+      background: /images/Web Banners/5_students___house_colours.png
       key_highlights:
         - title: Students
           description: ""
@@ -15,14 +15,14 @@ sections:
         - title: Parents
           description: ""
           url: /parents
-        - title: Alumni
-          description: ""
-          url: https://www.saints.org.sg/
         - title: Saints Portal
           description: ""
           url: https://portal.sajc.edu.sg
-      variant: image
-      title: Make SAJC Home
+        - title: Open House 2026
+          description: Click here for more info!
+          url: /oh/
+      variant: center
+      title: St. Andrew's Junior College
   - resources:
       title: Latest News
       id: resources

@@ -39,7 +39,7 @@ links:
       - title: FAQ
         url: /admissions/faq/
   - title: Curriculum
-    url: /curriculum/educational-philosophy-and-framework
+    url: /curriculum/
     sublinks:
       - title: Philosophy & Framework
         url: /curriculum/educational-philosophy-and-framework
@@ -48,7 +48,7 @@ links:
       - title: Academic Disciplines
         url: /curriculum/academic-disciplines
   - title: CCA
-    url: /ccas/student-leadership/
+    url: /our-ccas/
     sublinks:
       - title: Student Leadership
         url: /ccas/student-leadership
@@ -59,7 +59,7 @@ links:
       - title: Clubs & Societies
         url: /ccas/clubs-n-societies
   - title: The Saints Experience
-    url: /the-saints-experience/exemplary-character
+    url: /the-saints-experience/
     sublinks:
       - title: Exemplary Character
         url: /the-saints-experience/exemplary-character
@@ -72,7 +72,7 @@ links:
       - title: Through the Lens of Saints
         url: /the-saints-experience/through-the-lens-of-saints
   - title: St Andrew's Family
-    url: /st-andrews-family/parents-support-group
+    url: /st-andrew-s-family/
     sublinks:
       - title: Parent Support Group
         url: /st-andrews-family/parents-support-group
@@ -84,3 +84,5 @@ links:
         url: /st-andrews-family/affiliated-schools
       - title: SA Hall
         url: /st-andrews-family/sa-hall
+  - title: Locate us!
+    url: /getting-here/
