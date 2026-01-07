@@ -4,13 +4,15 @@ permalink: /admissions/subject-combinations/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>Course Information for 2025</u></strong></h4>
+<p><em><sup>Last Updated: 7 January 2026</sup></em>
+</p>
+<h4><strong><u>Course Information for 2026</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The GCE A-Level requires students to take General Paper (GP), Project
-Work (PW) and Mother Tongue Language (MTL) at H1 level. Students are also
-required to offer 3H2 and 1H1 content-based subjects, at least one of which
-is a subject from a contrasting discipline.</p>
+<p>The GCE A-Level requires students to take General Paper (<strong>GP</strong>),
+Project Work (<strong>PW</strong>) and Mother Tongue Language (<strong>MTL</strong>)
+at H1 level. Students are also required to offer 3H2 and 1H1 content-based
+subjects, at least one of which is a subject from a contrasting discipline.</p>
 </li>
 <li>
 <p>Alternatively, students who have met SAJC’s requirements can also choose
@@ -18,8 +20,8 @@ to study 4 H2 subjects, of which at least 1 must be from a contrasting
 discipline.</p>
 </li>
 <li>
-<p>To be exempted from MTL, students are required to obtain at least a D7
-for Higher Mother Tongue subject at the GCE O-Level Examination.</p>
+<p>To be exempted from MTL, students are required to obtain <strong>at least a D7</strong> for
+Higher Mother Tongue subject at the GCE O-Level Examination.</p>
 </li>
 <li>
 <p>Students who have taken <em>only</em> Mother Tongue B Syllabus (MTB) at
@@ -27,8 +29,8 @@ the GCE O-Level Examination will continue with MTB at GCE A-Level.</p>
 </li>
 <li>
 <p>The tables below show the 3H2 and 1H1 Subject Combinations offered in
-SAJC for 2025. These combinations will only be offered if there is sufficient
-demand.</p>
+SAJC for 2026. <em>These combinations will only be offered if there is sufficient demand.</em>
+</p>
 </li>
 <li>
 <p>In choosing your subject combination, it is critical that you consider
@@ -38,6 +40,7 @@ the course you would like to pursue in university.</p>
 <p></p>
 <h4>3 H2 Subject Combinations</h4>
 <h4><u>Arts Course</u></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH 2025/1__1_.png">
 </div>
@@ -95,12 +98,17 @@ the course you would like to pursue in university.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students may offer 4 H2 subjects if they have attained a L1R5 (without
-bonus points) of 9 or better.</p>
+bonus points) of <strong>9 or better</strong>.</p>
+</li>
+<li>
+<p>Students who have attained a L1R5 (without bonus points) of 10 or 11 <u>and</u> who
+have obtained A1 for the relevant subjects could submit an appeal application
+for the College's consideration.</p>
 </li>
 <li>
 <p>The following tables show the <strong>4 H2 subject combinations</strong> offered
-in SAJC for 2025. These combinations will only be offered if there is sufficient
-demand.</p>
+in SAJC for 2026. <em>These combinations will only be offered if there is sufficient demand.</em>
+</p>
 </li>
 <li>
 <p>As 4H2 Subject Combinations are more demanding, students would be engaged
@@ -118,16 +126,24 @@ beyond their subject combination. A H3 subject must be offered together
 with the corresponding subject at the H2 level.
 <br>
 <br>Students may offer H3 subjects in JC2 if they meet the following requirements
-in their JC1 Promotional Examination: a distinction in the subject they
-wish to pursue as H3, a minimum of a B grade in all other H2 subjects,
-and a pass in their H1 subject.
-<br>
-<br>Students can apply for H3 subjects offered by one of the following MOE
+in their JC1 Promotional Examination:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Distinction in the subject they wish to pursue as H3,</p>
+</li>
+<li>
+<p>Minimum of a B grade in all other H2 subjects, and</p>
+</li>
+<li>
+<p>Pass in their H1 subject.</p>
+</li>
+</ul>
+<p></p>
+<p>Students can apply for H3 subjects offered by one of the following MOE
 partners involving tertiary institutions such as SMU, NUS or NTU.
 <br>
 <br>Alternatively, H3 subjects offered in SAJC include H3 Chemistry, H3 Mathematics,
 H3 Physics, H3 Literature, H3 Geography and H3 History.
 <br>
-<br>For more information, please refer to the <a href="/files/2025/SAJC_Prospectus_2025__2_.pdf" rel="noopener nofollow" target="_blank">2025 SAJC Prospectus</a>.</p>
-<p><em>(Updated as at 2 December 2024)</em>
-</p>
+<br>For more information, please refer to the <a href="/files/2026/SAJC_Prospectus_2026.pdf" rel="noopener nofollow" target="_blank">2026 SAJC Prospectus.</a>.</p>
+<p></p>
