@@ -22,7 +22,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One day after the release of O Level Results</p>
+<p>15th January 2026</p>
 </td>
 </tr>
 <tr>
