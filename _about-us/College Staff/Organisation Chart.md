@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Aik Leong</p>
+<p>Mr Chan Aik Leong Basil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Econs)</p>
@@ -1772,13 +1772,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Saratha Shasi Taran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:saratha_shasi_taran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Saratha_Shasi_Taran@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
