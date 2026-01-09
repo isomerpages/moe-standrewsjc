@@ -74,7 +74,6 @@ variant: markdown
 | Ms Mak Hee Man Hilda| mak_hee_man_hilda_1@moe.edu.sg|
 | Mr Mohammed Azlan bin Ab Malek| mohammed_azlan_ab_malek@moe.edu.sg|
 | Dr Mohd Pitchay Gani B M A Aziz| mohd_pitchay_gani_b@moe.edu.sg|
-| Ms Nancy Sebastian-| nancy_sebastian@moe.edu.sg|
 | Mdm Neo Mui Hwa| neo_mui_hwa_c@moe.edu.sg|
 | Ms Ng Hui Fen| ng_hui_fen_a@moe.edu.sg|
 | Ms Ng Hui Lin Felicia| ng_hui_lin_felicia@moe.edu.sg|
@@ -87,7 +86,6 @@ variant: markdown
 | Mr Peh Bock Kiat| peh_bock_kiat@moe.edu.sg|
 | Mr Pio Pereira| pio_pereira@moe.edu.sg|
 | Ms Poh Shi Yin Lynette| poh_shi_yin_lynette@moe.edu.sg|
-| Ms Rajeshwari Rai| rajeshwari_rai_b@moe.edu.sg|
 | Mr Randy Gill| randhir_singh@moe.edu.sg|
 | Mr Phua Song Boon Raymond| raymond_phua_song_boon@moe.edu.sg|
 | Ms Salome Choa Jia Xin| salome_choa_jia_xin@moe.edu.sg|
@@ -99,7 +97,6 @@ variant: markdown
 | Ms Soh Xiao Fen| soh_xiao_fen@moe.edu.sg|
 | Ms Sunarfa Supaah| sunarfa_supaah@moe.edu.sg|
 | Mr Suresh s/o Nadarajan| suresh_nadarajan@moe.edu.sg|
-| Mr Tan Jia Le| tan_jia_le_t@moe.edu.sg|
 | Mr Tan Jin Xing Andrew| tan_jin_xing_andrew@moe.edu.sg|
 | Ms Tan Joy| tan_joy@moe.edu.sg|
 | Mr Tan Kian Tong| tan_kian_tong@moe.edu.sg|
@@ -131,5 +128,4 @@ variant: markdown
 | Mdm Yeo Hui Ching Geraldine| yeo_hui_ching@moe.edu.sg|
 | Mr Yeo Jia Tian| yeo_jia_tian@moe.edu.sg|
 | Ms Yim Miao Ting Jessica| yim_miao_ting_jessica@moe.edu.sg|
-| Mr Zaid bin Mohamed Ali| zaid_mohamed_ali_a@moe.edu.sg|
 | Mdm Zhao Mengqi| zhao_mengqi@moe.edu.sg|
