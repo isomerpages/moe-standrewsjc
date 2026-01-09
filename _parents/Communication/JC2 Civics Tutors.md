@@ -7,32 +7,32 @@ variant: markdown
 ---
 | CG | CIVICS TUTOR | EMAIL |
 | -------- | -------- | -------- |
-| 24A01 | Mr Wee Lee Meng Lester | wee_lee_meng_lester@moe.edu.sg |
-| 24A02 | Mdm Jackina Sultan Athaham | jackina_sultan_athaham@moe.edu.sg |
-| 24A03 | Mr Wong Chee Wai| wong_chee_wai_a@moe.edu.sg| 
-| 24A04 | Mr Lim Zi Qi | lim_zi_qi@moe.edu.sg |
-| 24A05 | Dr Somali Paul | somali_paul@moe.edu.sg |
-| 24A06 | Ms Soh Cai Wen Noelle | soh_cai_wen_noelle@moe.edu.sg |
-| 24S01 | Ms Yim Miao Ting Jessica | yim_miao_ting_jessica@moe.edu.sg |
-| 24S02 | Ms Low Wanyi | low_wanyi@moe.edu.sg |
-| 24S03 | Mr Dennis Chia | chia_dennis@moe.edu.sg |
-| 24S04 | Mr Tan Kian Tong | tan_kian_tong@moe.edu.sg |
-| 24S05 | Ms Lee Jia Yi | lee_jia_yi_a@moe.edu.sg |
-| 24S06 | Ms Peck Hwee Fang | peck_hwee_fang@moe.edu.sg |
-| 24S07 | Mr Koh Eng Chee | koh_eng_chee@moe.edu.sg |
-| 24S08 | Mr Kwok Pang Keat | kwok_pang_keat@moe.edu.sg |
-| 24S09 | Mr Yeo Jia Tian | yeo_jia_tian@moe.edu.sg |
-| 24S10 | Mr Tristen Tjokro | tristen_tjokro@moe.edu.sg |
-| 24S11 | Mr Lin Wenquan | lin_wenquan@moe.edu.sg |
-| 24S12 | Mr Randy Gill | randhir_singh@moe.edu.sg |
-| 24S13 | Ms Khoo Lih Yui | khoo_lih_yui@moe.edu.sg |
-| 24S14 | Mdm Yeo Hui Ching Geraldine | yeo_hui_ching@moe.edu.sg |
-| 24S15 | Ms Wong Sook Yee | wong_sook_yee@moe.edu.sg |
-| 24S16 | Ms Kristina Ming Ming Chandran | kristina_chandran_ming_ming@moe.edu.sg |
-| 24S17 | Mr Phua Song Boon Raymond | raymond_phua_song_boon@moe.edu.sg |
-| 24S18 | Mr Tan Jin Xing Andrew | tan_jin_xing_andrew@moe.edu.sg |
-| 24S19 | Ms Wong Weishan | wong_weishan@moe.edu.sg |
-| 24S20 | Ms Ng Hui Lin Felicia | ng_hui_lin_felicia@moe.edu.sg |
-| 24S21 | Ms Jesulyn Lim| lim_shi_en_jesulyn@moe.edu.sg | 
-| 24S22 | Mr Chua Chun Lin Lyndon | chua_chun_lin_lyndon@moe.edu.sg |
-| 24S23 | Mr Chai Ming Long | chai_ming_long@moe.edu.sg |
+| 25A01 | Ms Lim Yi Xuan Debi | lim_yi_xuan_debi@moe.edu.sg |
+| 25A02 | Mrs Chow Pei Sze Julia | kwan_pei_sze_julia@moe.edu.sg |
+| 25A03 | Mrs Lian-Chua Li Shan Irene | chua_li_shan_irene_a@moe.edu.sg |
+| 25A04 | Mr Wong Kia Jin Glenn | wong_kia_jin_glenn@moe.edu.sg |
+| 25A05 | Ms Cher Cai Wei Theresa | cher_cai_wei_theresa@moe.edu.sg |
+| 25A06 | Ms Salome Choa Jia Xin | salome_choa_jia_xin@moe.edu.sg |
+| 25S01 | Mr Wong Teck Tian Jacky | wong_teck_tian_a@moe.edu.sg |
+| 25S02 | Ms Ng Wei Ying Abigail | ng_wei_ying_abigail@moe.edu.sg |
+| 25S03 | Mr Chen Chien Liang | chen_chien_liang@moe.edu.sg |
+| 25S04 | Mr Lin Jiahao Aaron | lin_jiahaoaaron@moe.edu.sg |
+| 25S05 | Mdm Zhao Mengqi | zhao_mengqi@moe.edu.sg |
+| 25S06 | Mr Fong Choo Wah | fong_choo_wah@moe.edu.sg |
+| 25S07 | Ms Choong Jia En | choong_jia_en_a@moe.edu.sg |
+| 25S08 | Ms Tan Mei Fong Cynthia | tan_mei_fong_cynthia@moe.edu.sg |
+| 25S09 | Ms Hema Malini | hema_malini@moe.edu.sg |
+| 25S10 | Mr Ng Wee Hock John | ng_wee_hock_john_a@moe.edu.sg |
+| 25S11 | Mr Lee En Wei Jonathan | lee_en_wei_jonathan@moe.edu.sg |
+| 25S12 | Ms Ng Hui Fen | ng_hui_fen_a@moe.edu.sg |
+| 25S13 | Ms Teow Wai Leng | teow_wai_leng@moe.edu.sg |
+| 25S14 | Mr Yeo Chee Keong | yeo_chee_keong@moe.edu.sg |
+| 25S15 | Mr Teo Ping Wei Keith | teo_ping_wei@moe.edu.sg |
+| 25S16 | Mdm Chiam Qian Zhen Alethea | chiam_qian_zhen_alethea@moe.edu.sg |
+| 25S17 | Mr Lim Zi Qi | lim_zi_qi@moe.edu.sg |
+| 25S18 | Ms Chan Siew Cheng Regina | chan_siew_cheng@moe.edu.sg |
+| 25S19 | Mr Gabriel Tang Jia Liang | gabriel_tang_jia_liang@moe.edu.sg |
+| 25S20 | Ms Isis Iskandar | isis_iskandar@moe.edu.sg |
+| 25S21 | Mr Lee Choong How William | william_lee_choong_how@moe.edu.sg |
+| 25S22 | Mr Randy Gill | randhir_singh@moe.edu.sg |
+| 25S23 | Ms Cynthia Lim Ai Lian | cynthia_lim_ai_lian@moe.edu.sg |
