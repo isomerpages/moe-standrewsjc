@@ -4,7 +4,8 @@ title: St Andrew's Junior College
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Open House 2026 will take place on 15th January! Click the links
+  below to find out more!
 sections:
   - hero:
       background: /images/Web Banners/5_students___house_colours.png
