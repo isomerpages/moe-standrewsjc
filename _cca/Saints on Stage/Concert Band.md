@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Saints on Stage
 variant: tiptap
 ---
+<p><em><sup>Last updated 12 January 2026</sup></em>
+</p>
 <p>At the SAJC Concert Band, we believe that music-making should be enjoyable
 and only then, would it be entertaining and uplifting for our audiences.
 We know that by working together as a tight-knitted Band, we are growing
