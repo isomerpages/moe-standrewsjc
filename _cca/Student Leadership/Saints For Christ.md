@@ -5,13 +5,19 @@ description: ""
 third_nav_title: Student Leadership
 variant: tiptap
 ---
-<p>Members of Saints For Christ (SFC) act as the spiritual leaders of SAJC,
-where we focus on knowing Christ and making him known. SFC connects with
-our fellow Saints through organising events such as Life Concert and Mission
-Week, reaching out to global communities through service learning, and
-serving in Morning Worship and Scripture Reading. Together with our fellow
-student leadership body, we contribute to the vibrancy of College life.
-We are more than just a CCA – we are a family!</p>
+<p><em><sup>Last updated: 12 January 2026</sup></em>
+</p>
+<p>Members of Saints For Christ (SFC) take on the role of spiritual leadership
+in SAJC, where we focus on knowing Christ and making him known. The SFC
+members meet on Wednesdays and Fridays, strengthening our leadership awareness
+through Bible reading and discussions on how to better serve the College.
+Looking outside of the core group, the SFC connects with the wider College
+community through various initiatives. We organise termly VIA programmes,
+arrange Thursday Morning Fellowship meetings, provide Morning Reflections,
+and occasionally serve in the worship band during Chapel services. Additionally,
+we hold events like Saints Fire and the Shine Your Light Interfaith Dialogue
+to engage our fellow Saints. Together with our fellow student leadership
+body, we contribute to the vibrancy of College life.</p>
 <p>SFC meetings are held on Wednesdays and Fridays, and we hope to see you
 there!</p>
 <table style="minWidth: 50px">
