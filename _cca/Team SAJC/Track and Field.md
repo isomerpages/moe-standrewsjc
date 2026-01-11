@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Team SAJC
 variant: tiptap
 ---
-<p><em><sub>Last Updated: 14 November 2025</sub></em>
+<p><em><sub>Last Updated: 12 January 2026</sub></em>
 </p>
 <p>SAJC Track and Field trains hard and plays hard. If you are thinking of
 taking up a new challenge, look no further! Don’t worry if you think you
