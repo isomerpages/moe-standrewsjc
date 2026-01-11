@@ -5,16 +5,22 @@ description: ""
 third_nav_title: Team SAJC
 variant: tiptap
 ---
+<p><em><sup>Last updated: 12 January 2026</sup></em>
+</p>
 <p>The SAJC Badminton Team aims to sharpen our skills consistently in order
 to play competitively at any tournament. Our trainings focus on the following
 aspects: footwork, fitness, speed, accuracy, strategies and control. We
-emphasise on three core values in order to grow as a team: teamwork, sportsmanship,
-and resilience.</p>
+emphasise on three core values that can be utilised outside the court too:
+teamwork, sportsmanship, and resilience.</p>
 <p>Through our rigorous training sessions and the bond we have with one another,
 we hope to improve our skills, strengthen our value of sportsmanship and
 promote team spirit! You’ll find us hard at work during training sessions
 on Wednesdays and Fridays.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
