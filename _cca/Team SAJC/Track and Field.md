@@ -12,8 +12,8 @@ taking up a new challenge, look no further! Don’t worry if you think you
 lack experience or can’t run. Everybody can start somewhere and joining
 us may be a new experience for you!</p>
 <p>We welcome anyone, regardless of experience! We train hard and play hard
-thrice a week on Monday, Thursday and Saturday, focusing on stamina and
-strength training.</p>
+thrice a week on Monday, Thursday and Friday, focusing on stamina and strength
+training.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
