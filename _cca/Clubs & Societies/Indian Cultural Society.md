@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
+<p><em><sup>Last updated: 12 January 2026</sup></em>
+</p>
 <p>The SAJC Indian Cultural Society (ICS) consists of three teams: Dance,
 Debate and Writing. Members are free to join any section they wish to be
 a part of. The Society aims to encourage interest and appreciation of the
