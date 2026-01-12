@@ -18,8 +18,6 @@ and occasionally serve in the worship band during Chapel services. Additionally,
 we hold events like Saints Fire and the Shine Your Light Interfaith Dialogue
 to engage our fellow Saints. Together with our fellow student leadership
 body, we contribute to the vibrancy of College life.</p>
-<p>SFC meetings are held on Wednesdays and Fridays, and we hope to see you
-there!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
