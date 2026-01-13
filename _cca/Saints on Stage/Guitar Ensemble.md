@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Saints on Stage
 variant: tiptap
 ---
+<p><em><sup>Last updated: 13 January 2026</sup></em>
+</p>
 <p>Ever wanted to make music with others? The SAJC Guitar Ensemble brings
 together guitarists of all levels to learn, perform, and build lasting
 friendships through music.</p>
