@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Saints on Stage
 variant: tiptap
 ---
-<p><em><sup>Last updated: 12 January 2026</sup></em>
+<p><em><sup>Last updated: 13 January 2026</sup></em>
 </p>
 <p>The SAJC Dance Society is made up of dedicated members with a passion
 for dance, and we aim to awe and inspire our audience with performances
