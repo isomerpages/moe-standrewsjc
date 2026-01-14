@@ -36,7 +36,7 @@ variant: markdown
 | Mr Foo Chee Tuang| foo_chee_tuang_a@moe.edu.sg|
 | Mr Gabriel Tang Jia Liang| gabriel_tang_jia_liang@moe.edu.sg|
 | Dr Ganapathy Rajagopalan| ganapathy_rajagopalan@moe.edu.sg|
-| Ms Han Pei lin Kimberly| han_pei_lin_kimberly@moe.edu.sg|
+| Ms Han Pei Lin Kimberly| han_pei_lin_kimberly@moe.edu.sg|
 | Ms Hema Malini| hema_malini@moe.edu.sg|
 | Ms Hon Li Qin| hon_li_qin@moe.edu.sg|
 | Mr Isaac Ng Wee Lip| isaac_ng@moe.edu.sg|
