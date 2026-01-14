@@ -11,12 +11,14 @@ variant: markdown
 | Mr Beesoony Uttam Kumar| beesoony_uttam_kumar@moe.edu.sg|
 | Ms Tan Meileen Bliss| bliss_tan@moe.edu.sg|
 | Mr Chai Ming Long| chai_ming_long@moe.edu.sg|
+| Mr Chan Aik Leong Basil| chan_aik_leong_basil@moe.edu.sg|
 | Ms Chan Siew Cheng Regina| chan_siew_cheng@moe.edu.sg|
 | Ms Chan Wai Yee| chan_wai_yee@moe.edu.sg|
 | Mr Chay Wai Sum| chay_wai_sum@moe.edu.sg|
 | Mr Chen Chien Liang| chen_chien_liang@moe.edu.sg|
 | Ms Cheng Shi Yun| cheng_shi_yun@moe.edu.sg|
 | Ms Cher Cai Wei Theresa| cher_cai_wei_theresa@moe.edu.sg|
+| Ms Cheri Nur Aini| cheri_nur_aini@moe.edu.sg|
 | Mr Chia Chin Han| chia_chin_han@moe.edu.sg|
 | Mr Dennis Chia| chia_dennis@moe.edu.sg|
 | Mdm Chiam Qian Zhen Alethea| chiam_qian_zhen_alethea@moe.edu.sg|
@@ -28,11 +30,13 @@ variant: markdown
 | Mrs Lian-Chua Li Shan Irene| chua_li_shan_irene_a@moe.edu.sg|
 | Ms Kimberly Croy| croy_kimberley_georgette@moe.edu.sg|
 | Ms Cynthia Lim Ai Lian| cynthia_lim_ai_lian@moe.edu.sg|
+| Ms Doo Wei Jun Cheryl| doo_wei_jun_cheryl@moe.edu.sg|
 | Mdm Du Jiesi| du_jiesi@moe.edu.sg|
 | Mr Fong Choo Wah| fong_choo_wah@moe.edu.sg|
 | Mr Foo Chee Tuang| foo_chee_tuang_a@moe.edu.sg|
 | Mr Gabriel Tang Jia Liang| gabriel_tang_jia_liang@moe.edu.sg|
 | Dr Ganapathy Rajagopalan| ganapathy_rajagopalan@moe.edu.sg|
+| Ms Han Pei lin Kimberly| han_pei_lin_kimberly@moe.edu.sg|
 | Ms Hema Malini| hema_malini@moe.edu.sg|
 | Ms Hon Li Qin| hon_li_qin@moe.edu.sg|
 | Mr Isaac Ng Wee Lip| isaac_ng@moe.edu.sg|
@@ -41,6 +45,7 @@ variant: markdown
 | Mr Ong Kah Siang Jason| jason_ong_kah_siang@moe.edu.sg|
 | Mr Kam Yong Chuan| kam_yong_chuan@moe.edu.sg|
 | Mdm Kang Jew Koon| kang_jew_koon_a@moe.edu.sg|
+| Mr Keith Lee Kum Chuen| keith_lee_kum_chuen@moe.edu.sg|
 | Ms Khoo Lih Yui| khoo_lih_yui@moe.edu.sg|
 | Mdm Khoo Lilin| Khoo_lilin@moe.edu.sg|
 | Mr Kieu Chin Wah Bryan| kieu_chin_wah@moe.edu.sg|
@@ -62,6 +67,7 @@ variant: markdown
 | Mr Lim Mong Khai Melvin| lim_mong_khai_melvin@moe.edu.sg|
 | Ms Jesulyn Lim| lim_shi_en_jesulyn@moe.edu.sg|
 | Mdm Lim Sock Hoon| lim_sock_hoon@moe.edu.sg|
+| Ms Lim Yi Xuan Debi| lim_yi_xuan_debi@moe.edu.sg|
 | Mr Lim Zi Qi| lim_zi_qi@moe.edu.sg|
 | Mr Lin Jiahao Aaron| lin_jiahaoaaron@moe.edu.sg|
 | Ms Belinda Lin Mei Mei| lin_mei_mei_belinda@moe.edu.sg|
@@ -75,6 +81,8 @@ variant: markdown
 | Mr Mohammed Azlan bin Ab Malek| mohammed_azlan_ab_malek@moe.edu.sg|
 | Dr Mohd Pitchay Gani B M A Aziz| mohd_pitchay_gani_b@moe.edu.sg|
 | Mdm Neo Mui Hwa| neo_mui_hwa_c@moe.edu.sg|
+| Ms Neubronner Marion Agnes| neubronner_marion_agnes@moe.edu.sg|
+| Mdm Ng Geok Peng| ng_geok_peng@moe.edu.sg|
 | Ms Ng Hui Fen| ng_hui_fen_a@moe.edu.sg|
 | Ms Ng Hui Lin Felicia| ng_hui_lin_felicia@moe.edu.sg|
 | Ms Ng Hui Shan| ng_hui_shan@moe.edu.sg|
@@ -95,6 +103,7 @@ variant: markdown
 | Ms Sng Yin Hui Joan| sng_yin_hui_joan@moe.edu.sg|
 | Ms Soh Cai Wen Noelle| soh_cai_wen_noelle@moe.edu.sg|
 | Ms Soh Xiao Fen| soh_xiao_fen@moe.edu.sg|
+| Dr Somali Paul| somali_paul@moe.edu.sg|
 | Ms Sunarfa Supaah| sunarfa_supaah@moe.edu.sg|
 | Mr Suresh s/o Nadarajan| suresh_nadarajan@moe.edu.sg|
 | Mr Tan Jin Xing Andrew| tan_jin_xing_andrew@moe.edu.sg|
@@ -102,8 +111,10 @@ variant: markdown
 | Mr Tan Kian Tong| tan_kian_tong@moe.edu.sg|
 | Ms Tan Mei Fong Cynthia| tan_mei_fong_cynthia@moe.edu.sg|
 | Mr Tan Yeow Beng Moses Lude| tan_yeow_beng_moses@moe.edu.sg|
+| Mr Tay Ronq Sheng Christopher| tay_rong_shenq_christopher@moe.edu.sg|
 | Mr Teo Ping Wei Keith| teo_ping_wei@moe.edu.sg|
 | Ms Teo Shue Mei Michelle| teo_shue_mei_michelle@moe.edu.sg|
+| Ms Teo Yue Qi| teo_yue_qi@moe.edu.sg|
 | Ms Teow Wai Leng| teow_wai_leng@moe.edu.sg|
 | Mr Gabriel Tien Jing Wei| tien_jing_wei_gabriel@moe.edu.sg|
 | Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
@@ -123,9 +134,11 @@ variant: markdown
 | Ms Wong Weishan| wong_weishan@moe.edu.sg|
 | Mrs Lim Wong Yingyi| wong_yingyi@moe.edu.sg|
 | Ms Yap Hwee Len| yap_hwee_len@moe.edu.sg|
+| Ms Yap Yanlin Priscilla| yap_yanlin_priscilla@moe.edu.sg|
 | Mr Yeo Chee Keong| yeo_chee_keong@moe.edu.sg|
 | Mr William Yeo Chin Leong| yeo_chin_leong@moe.edu.sg|
 | Mdm Yeo Hui Ching Geraldine| yeo_hui_ching@moe.edu.sg|
 | Mr Yeo Jia Tian| yeo_jia_tian@moe.edu.sg|
 | Ms Yim Miao Ting Jessica| yim_miao_ting_jessica@moe.edu.sg|
 | Mdm Zhao Mengqi| zhao_mengqi@moe.edu.sg|
+| Ms Zulaiha Said| zulaiha_said_a@moe.edu.sg|
