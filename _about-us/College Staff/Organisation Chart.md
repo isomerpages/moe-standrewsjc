@@ -159,7 +159,7 @@ variant: tiptap
 <p>Mr Chan Aik Leong Basil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Econs)</p>
+<p>Senior Teacher (Economics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="chan_aik_leong_basil@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_aik_leong_basil@moe.edu.sg</a>
@@ -715,7 +715,7 @@ variant: tiptap
 <p>Mdm Teo Yue Qi Astor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/Mathematics</p>
+<p>LH/Mathematics 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="teo_yue_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_yue_qi@moe.edu.sg</a>
@@ -1778,7 +1778,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:saratha_shasi_taran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Saratha_Shasi_Taran@schools.gov.sg</a>
+<p><a href="saratha_shasi_taran@moe.edu.sg" rel="noopener nofollow" target="_blank">saratha_shasi_taran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
