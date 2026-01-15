@@ -114,7 +114,7 @@ variant: markdown
 | Mr Tay Ronq Sheng Christopher| tay_rong_shenq_christopher@moe.edu.sg|
 | Mr Teo Ping Wei Keith| teo_ping_wei@moe.edu.sg|
 | Ms Teo Shue Mei Michelle| teo_shue_mei_michelle@moe.edu.sg|
-| Ms Teo Yue Qi Astor| teo_yue_qi@moe.edu.sg|
+| Mdm Teo Yue Qi Astor| teo_yue_qi@moe.edu.sg|
 | Ms Teow Wai Leng| teow_wai_leng@moe.edu.sg|
 | Mr Gabriel Tien Jing Wei| tien_jing_wei_gabriel@moe.edu.sg|
 | Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
