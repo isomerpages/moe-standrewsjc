@@ -23,7 +23,7 @@ sections:
           description: Click here for more info!
           url: /oh/
       variant: center
-      title: St. Andrew's Junior College
+      title: St Andrew's Junior College
   - resources:
       title: Latest News
       id: resources
