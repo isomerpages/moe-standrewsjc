@@ -36,7 +36,7 @@ variant: markdown
 | Mr Foo Chee Tuang| foo_chee_tuang_a@moe.edu.sg|
 | Mr Gabriel Tang Jia Liang| gabriel_tang_jia_liang@moe.edu.sg|
 | Dr Ganapathy Rajagopalan| ganapathy_rajagopalan@moe.edu.sg|
-| Ms Han Pei lin Kimberly| han_pei_lin_kimberly@moe.edu.sg|
+| Ms Han Pei Lin Kimberly| han_pei_lin_kimberly@moe.edu.sg|
 | Ms Hema Malini| hema_malini@moe.edu.sg|
 | Ms Hon Li Qin| hon_li_qin@moe.edu.sg|
 | Mr Isaac Ng Wee Lip| isaac_ng@moe.edu.sg|
@@ -114,7 +114,7 @@ variant: markdown
 | Mr Tay Ronq Sheng Christopher| tay_rong_shenq_christopher@moe.edu.sg|
 | Mr Teo Ping Wei Keith| teo_ping_wei@moe.edu.sg|
 | Ms Teo Shue Mei Michelle| teo_shue_mei_michelle@moe.edu.sg|
-| Ms Teo Yue Qi| teo_yue_qi@moe.edu.sg|
+| Mdm Teo Yue Qi Astor| teo_yue_qi@moe.edu.sg|
 | Ms Teow Wai Leng| teow_wai_leng@moe.edu.sg|
 | Mr Gabriel Tien Jing Wei| tien_jing_wei_gabriel@moe.edu.sg|
 | Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
