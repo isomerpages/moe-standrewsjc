@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Admission Information.md
+      - Joint Admissions Exercise/JAE Appeal.md
       - Joint Admissions Exercise/.keep
       - Joint Admissions Exercise/Joint Admissions Exercise (JAE).md
       - College Prospectus.md
