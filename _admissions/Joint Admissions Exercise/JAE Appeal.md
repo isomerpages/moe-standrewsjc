@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Joint Admissions Exercise
 ---
-<p><em><sup>Last updated: 23 January 2026</sup></em>
+<p><em><sup>Last updated: 3 February 2026</sup></em>
 </p>
 <h2><strong>SAJC JAE Appeal Exercise 2026</strong></h2>
 <h3><strong>What is the JAE Appeal Exercise?</strong></h3>
