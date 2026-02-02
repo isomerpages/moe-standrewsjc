@@ -4,8 +4,7 @@ title: St Andrew's Junior College
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Open House 2026 will take place on 15th January! Click the links
-  below to find out more!
+notification: ""
 sections:
   - hero:
       background: /images/Web Banners/5_students___house_colours.png
@@ -19,9 +18,9 @@ sections:
         - title: Saints Portal
           description: ""
           url: https://portal.sajc.edu.sg
-        - title: Open House 2026
+        - title: Orientation 2026
           description: Click here for more info!
-          url: /oh/
+          url: /orientation-2026/
       variant: center
       title: St Andrew's Junior College
   - resources:
