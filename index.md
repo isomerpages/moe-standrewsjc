@@ -15,9 +15,9 @@ sections:
         - title: Parents
           description: ""
           url: /parents
-        - title: Saints Portal
-          description: ""
-          url: https://portal.sajc.edu.sg
+        - title: JAE Appeal Exercise 2026
+          description: Click here for more info!
+          url: /jae-appeal/
         - title: Orientation 2026
           description: Click here for more info!
           url: /orientation-2026/
