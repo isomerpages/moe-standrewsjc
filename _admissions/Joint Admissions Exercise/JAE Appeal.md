@@ -22,18 +22,33 @@ the Joint Admissions Exercise (JAE) and wish to appeal for admission.</p>
 <p><strong>1. Cut-Off Points</strong>
 </p>
 <p>Your net aggregate score must meet SAJC's 2026 cut-off points:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Science course:</strong>  <strong><em>To be confirmed</em></strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
 </p>
-</li>
-<li>
-<p><strong>Arts course:</strong>  <strong><em>To be confirmed</em></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Arts</strong>
 </p>
-</li>
-</ul>
-<p>Even if you meet the cut-off points, admission is subject to available
-vacancies and the college's admission criteria.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Even if you meet the cut-off points,<em> admission is subject to available vacancies and the college's admission criteria</em>.</p>
 <p></p>
 <p><strong>2. DSA Students</strong>
 </p>
