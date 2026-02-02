@@ -60,6 +60,10 @@ not permitted.</p>
 <p>Scan the QR code below or click this link to submit your application:
 <br><strong><a href="https://go.gov.sg/jae-appeal-sajc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jae-appeal-sajc</a></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="2026 JAE Appeal Form QR Code" src="/images/QR Codes/2026_JAE_Appeal_QR_Code.png">
+</div>
 <p><em>(Please take note - the above link will only be open after the application for appeal has begun on 3rd February 2026.)</em>
 </p>
 <hr>
@@ -70,12 +74,12 @@ not permitted.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Successful applicants only</strong> will be notified via email
-and/or phone call <strong>by Monday, 10 February 2026, 3:00 PM</strong>
+and/or phone call <strong>by Monday, 10 February 2026, 3:00 PM.</strong>
 </p>
 </li>
 <li>
 <p>If you do not receive notification by this time, your appeal has been
-unsuccessful</p>
+unsuccessful.</p>
 </li>
 </ul>
 <p><strong>For Successful Applicants:</strong>
@@ -97,12 +101,12 @@ accept your offered course online while waiting for your appeal outcome. <strong
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The college's decision is <strong>final</strong>
+<p>The college's decision is <strong>final.</strong>
 </p>
 </li>
 <li>
 <p>We are unable to discuss individual applications or disclose specific
-reasons for non-selection</p>
+reasons for non-selection.</p>
 </li>
 </ul>
 <hr>
