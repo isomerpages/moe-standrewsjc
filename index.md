@@ -15,12 +15,12 @@ sections:
         - title: Parents
           description: ""
           url: /parents
-        - title: JAE Appeal Exercise 2026
-          description: Click here for more info!
-          url: /jae-appeal/
         - title: Orientation 2026
           description: Click here for more info!
           url: /orientation-2026/
+        - title: JAE Appeal Exercise 2026
+          description: Click here for more info!
+          url: /jae-appeal/
       variant: center
       title: St Andrew's Junior College
   - resources:
