@@ -2,8 +2,10 @@
 title: Parent Support Group
 permalink: /st-andrews-family/parents-support-group/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<p><em><sup>Last updated: 2 February 2026</sup></em>
+</p>
 <p>SAJC’s Parent Support Group (PSG) works to advance the College’s values
 and visions, supports its programmes and build strong relationships among
 parents, teachers and Saints. Our vision is:</p>
@@ -49,7 +51,7 @@ programmes in conjunction with the school:</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>PSG Exco 2025</strong></h4>
+<h4><strong>PSG Exco 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,53 +61,49 @@ programmes in conjunction with the school:</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Chairman" src="/images/PSG/2026 Exco/1.png">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Secretary" src="/images/PSG/2026 Exco/2.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Treasurer" src="/images/PSG/2026 Exco/3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/4.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/7.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/5.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Media" src="/images/PSG/2026 Exco/4.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Praying Parents Coordinator" src="/images/PSG/2026 Exco/8.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Member" src="/images/PSG/2026 Exco/7.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Member" src="/images/PSG/2026 Exco/5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Member" src="/images/PSG/2026 Exco/6.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -126,8 +124,7 @@ programmes in conjunction with the school:</p>
 </table>
 <p>Get latest updates and information about our activities at
 <br><strong>Facebook:</strong>&nbsp;<a href="http://www.facebook.com/groups/psgsajc" rel="noopener" target="_blank">www.facebook.com/groups/psgsajc</a>
-<br>
-	<strong>Instagram: </strong> <a href="https://www.instagram.com/sajc_psg" rel="noopener" target="_blank"> https://www.instagram.com/sajc_psg </a>
+<br><strong>Instagram: </strong><a href="https://www.instagram.com/sajc_psg" rel="noopener" target="_blank">https://www.instagram.com/sajc_psg</a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -141,8 +138,11 @@ programmes in conjunction with the school:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><center><strong>Come and join us! </strong><br>Click the link below or scan the QR
-Code to join! <br><strong> </strong><a href="https://tinyurl.com/SAJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/SAJCPSG</a></center>
+<p></p>
+<p><strong>Come and join us! </strong>
+<br>Click the link below or scan the QR Code to join!
+<br><strong> </strong><a href="https://tinyurl.com/SAJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/SAJCPSG</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/2025 Exco/qrcode_docs_google_com.png">
 </div>
