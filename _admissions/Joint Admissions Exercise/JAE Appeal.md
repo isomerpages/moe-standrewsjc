@@ -14,7 +14,9 @@ the Joint Admissions Exercise (JAE) and wish to appeal for admission.</p>
 <hr>
 <h3><strong>Application Period</strong></h3>
 <p><strong>Start:</strong> Tuesday, 3 February 2026, 9:00 AM
-<br><strong>End:</strong> Tuesday, 10 February 2026, 12:00 Noon</p>
+<br><strong>End:</strong>  <strong>Monday, 9 February 2026</strong>, 12:00 Noon</p>
+<p><em><sup>Edit: There was an error in the earlier update. Please note that the Appeal's deadline is 9th February, 12 noon.</sup></em>
+</p>
 <p>Late or incomplete applications will not be considered.</p>
 <hr>
 <h4><strong>Eligibility Requirements</strong></h4>
