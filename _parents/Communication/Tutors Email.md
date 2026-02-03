@@ -59,7 +59,6 @@ variant: markdown
 | Mr Lee En Wei Jonathan| lee_en_wei_jonathan@moe.edu.sg|
 | Ms Lee Jia Yi| lee_jia_yi_a@moe.edu.sg|
 | Mr Lee Kye Loong Roland| lee_kye_loong_roland@moe.edu.sg|
-| Ms Lee Pei Sze| lee_pei_sze_c@moe.edu.sg|
 | Mdm Caroline Lee Su Yin| lee_su_yin_caroline@moe.edu.sg|
 | Mr Lee Wen Thye| lee_wen_thye@moe.edu.sg|
 | Mdm Leong Jia Hui Grace| leong_jia_hui_grace@moe.edu.sg|
@@ -73,7 +72,6 @@ variant: markdown
 | Ms Belinda Lin Mei Mei| lin_mei_mei_belinda@moe.edu.sg|
 | Mr Lin Wenquan| lin_wenquan@moe.edu.sg|
 | Mdm Loh Lih Yeh| loh_lih_yeh@moe.edu.sg|
-| Ms Loh Yen Lan| loh_yen_lan_a@moe.edu.sg|
 | Ms Low Wanyi| low_wanyi@moe.edu.sg|
 | Mr Loy Suan Hui| loy_suan_hui@moe.edu.sg|
 | Mr Ma Huaqi| ma_huaqi@moe.edu.sg|
@@ -100,7 +98,6 @@ variant: markdown
 | Mr Tan Tian Kiat Roy| roy_tan@moe.edu.sg|
 | Ms Salome Choa Jia Xin| salome_choa_jia_xin@moe.edu.sg|
 | Ms Sathya Bama| sathya_bama@moe.edu.sg|
-| Mr Seow Zheng Kuan Elliot| seow_zheng_kuan_elliot_a@moe.edu.sg|
 | Ms Sin Mei Chuen Caroline| sin_mei_chuen_caroline@moe.edu.sg|
 | Ms Sng Yin Hui Joan| sng_yin_hui_joan@moe.edu.sg|
 | Ms Soh Cai Wen Noelle| soh_cai_wen_noelle@moe.edu.sg|
@@ -119,7 +116,7 @@ variant: markdown
 | Mdm Teo Yue Qi Astor| teo_yue_qi@moe.edu.sg|
 | Ms Teow Wai Leng| teow_wai_leng@moe.edu.sg|
 | Mr Gabriel Tien Jing Wei| tien_jing_wei_gabriel@moe.edu.sg|
-| Ms Tng Yee Min Yvonne| tng_yee_min_yvonne@moe.edu.sg|
+| Ms Tng Y vonne| tng_yee_min_yvonne@moe.edu.sg|
 | Ms Tong Shuqing| tong_shuqing@moe.edu.sg|
 | Mr Tristen Tjokro| tristen_tjokro@moe.edu.sg|
 | Mdm Wang Min| wang_min@moe.edu.sg|
