@@ -6,30 +6,29 @@ variant: tiptap
 ---
 <p><em><sup>Last updated: 30 December 2025</sup></em>
 </p>
-<p>For students who are keen to pursue a Science or Arts course at St Andrew’s
-Junior College education leading up to the GCE ‘A’ Level examinations,
-there are varying entry points you can apply to join our exciting college
-programme.</p>
-<ul>
+<p>SAJC offers a two-year programme leading to the GCE A-Level examinations.
+The programme is open to students who have just completed their GCE O-Level
+examination or Secondary 4 equivalent examination.&nbsp; There are different
+ways you can apply to join our college.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Joint Admission Exercise</strong> - for Secondary 4/5 students
-who have completed their GCE 'O' Level examinations and are applying to
-pursue the ‘A’ level programme</p>
+<p><strong>Joint Admission Exercise</strong> - for students with Singapore-Cambridge
+GCE O-Level Examination Results.&nbsp; They may apply for admission into
+the college via the Ministry of Education Joint Admissions Exercise (JAE).
+Applicants seeking to gain admission into the college must meet SAJC’s
+entry criteria.</p>
 </li>
 <li>
-<p><strong>Direct School Admission</strong>&nbsp;- for Secondary 4/5 students
-who are applying to pursue the 'A' Level Programme based on talent prior
-to taking their GCE 'O' Level examinations</p>
+<p><strong>Direct School Admission</strong> - for Secondary 4/5 students who
+are applying to pursue the 'A' Level Programme based on a diverse range
+of academic and non-academic achievements and talents&nbsp;prior to taking
+their GCE 'O' Level examinations.&nbsp; The DSA is typically conducted
+from May to August.</p>
 </li>
 </ul>
-<p>In addition, for International students or Returning Singaporeans who
-have completed a course of study equivalent to Secondary 4/5 who wish to
-apply for the 'A' Level Programme at St Andrew’s Junior College, information
-on the admissions process for Returning Singaporeans or International Students
-can be found here.</p>
+<p>&nbsp;</p>
 <p>Click on the respective buttons below or at the side bar (for Desktop
 users) to navigate.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
