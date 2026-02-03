@@ -4,30 +4,20 @@ permalink: /admissions/returning-singaporeans-international-students/
 description: ""
 variant: tiptap
 ---
-<p><strong>Returning Singaporeans Seeking Admission to JC1 in 2025<br></strong>Thank
-you for your interest in joining St Andrew's Junior College.</p>
-<p>All Returning Singaporean (RS) children who wish to be considered for
-admission to St Andrew's Junior College are required to participate in
-the School Placement Exercise for Returning Singaporeans - Junior College
-or Millennia Institute (SPERS-JC/MI) jointly conducted by the Ministry
-of Education and the Principal’s Academy.</p>
-<p>Based on the SPERS-JC/MI results, MOE would provide each applicant with
-a list of eligible schools. Applicants may choose to apply for SAJC if
-he or she is eligible for SAJC.</p>
-<p>Please contact us at <a href="mailto:sajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sajc@moe.edu.sg</a> for
-further information on the application procedure.</p>
-<p><strong>International Students Seeking Admission to JC1 in 2025<br></strong>Thank
-you for your interest in joining St Andrew's Junior College.</p>
-<p>We are unable to consider any application for admission of international
-students for 2025 JC1 admission until <strong>AFTER&nbsp;</strong>the placement
-of both local students and overseas scholars who will be posted by the
-Ministry of Education at end January 2025 after the release of the GCE
-O level results and subsequent Joint Admission Exercise.</p>
-<p>The College will only consider such admissions provided
-<br>(i) there are still available vacancies to be filled after the results
-of the Joint Admission Exercise
-<br><strong>and<br></strong>(ii) the student has an excellent or at least
-better than equivalent academic requirement to the Singapore GCE 'O' level
-Cambridge requirement for entry into SAJC.</p>
-<p>Applicants are to submit their application via <a href="mailto:sajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sajc@moe.edu.sg</a>&nbsp;by 10 February 2025,
-and they will be contacted only if shortlisted.</p>
+<p>International students seeking admission are to apply directly to the
+college.&nbsp; As the examination system differs from country to country,
+we will consider such applications on a case-by-case basis.&nbsp; Interested
+students should send in their cover letter and relevant education certificates
+to <a href="mailto:sajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a>
+</p>
+<p>Students are strongly encouraged to submit J-PACT results for the college’s
+consideration. If found suitable, the student may undergo an interview
+process and take school-based placement tests.</p>
+<p>We will consider the application for admission of international students
+for 2026 JC1 admission AFTER the release of school posting of Joint Admission
+Exercise. Applications by international students are evaluated based on
+merit and are subject to the international students meeting the college’s
+admission criteria and availability of vacancies.</p>
+<p>Applicants are to submit their application via the link to appeal on our
+college website by <strong>9 February 2026</strong>, and they will be contacted
+only if shortlisted.</p>
