@@ -138,9 +138,9 @@ as you will usually do well in such subjects. Do not go for what is popular
 or what your friend has chosen. At SAJC we have a wide range of subjects
 available. These provide a preparation for any subject course you may wish
 to read at university. We also have an Education and Career Guidance team
-and full-time counselors to help you with your choices and advise you on
-your options if you wish to continue your studies overseas. A list of subjects
-available at SAJC can be found <a href="/admissions/subject-combinations/" rel="noopener nofollow" target="_blank">here</a>.</p>
+and full-time counselors to advise you on your choices and advise you on
+your options. We can also advise if you wish to continue your studies overseas.
+A list of subjects available at SAJC can be found <a href="/admissions/subject-combinations/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 </td>
 </tr>
