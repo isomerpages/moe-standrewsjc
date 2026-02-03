@@ -44,6 +44,10 @@ Examination will continue with MTB at GCE A-Level.</p>
 <p>The tables below show the different Subject Combinations offered in SAJC
 for 2026. These combinations will only be offered if there is sufficient
 demand.</p>
+</li>
+<li>
+<p>In choosing your subject combination, it is critical that you consider
+the course you would like to pursue in university.</p>
 <p></p>
 </li>
 </ol>
