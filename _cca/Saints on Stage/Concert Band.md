@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Saints on Stage
 variant: tiptap
 ---
-<p><em><sup>Last updated 12 January 2026</sup></em>
+<p><em><sup>Last updated 2 February 2026</sup></em>
 </p>
 <p>At the SAJC Concert Band, we believe that music-making should be enjoyable
 and only then, would it be entertaining and uplifting for our audiences.
@@ -38,6 +38,7 @@ middle of Term 2, to prepare band members for the upcoming Concert or SYF.</p>
 at their instruments may sign up for the <strong>Arts Immersion Trip to Bangkok</strong>,
 where they can go on an exchange &amp; joint performance with our partner
 school, Triam Udom Suksa School.</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -46,28 +47,67 @@ school, Triam Udom Suksa School.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Concert Band/SAJC_Concert_Band___JC1s__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SYF @ Singapore Conference Hall" src="/images/CCA Pictures/Concert Band/Picture1.png">
 </div>
-<p>🎵 <em>After the SYF performance</em>
+<p>🎵 <em>SYF @ Singapore Conference Hall</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF @ Singapore Conference Hall" src="/images/CCA Pictures/Concert Band/Picture2.jpg">
+</div>
+<p>🎵<em>SYF @ Singapore Conference Hall</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="🌈 ”Les Saisons D’Etage” – The Seasons of the Stage Combined Performing Arts Concert" src="/images/CCA Pictures/Concert Band/Picture3.jpg">
+</div>
+<p>🌈<em> ”Les Saisons D’Etage” – The Seasons of the Stage Combined Performing Arts Concert</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Concert Band/SAJC_Concert_Band___JC1s__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="📯Saints Hallelujah @ Singapore Conference Hall" src="/images/CCA Pictures/Concert Band/Picture5.png">
 </div>
-<p>😎<em>Cohort Photo at the SAJC Track</em>
+<p>📯<em>Saints Hallelujah @ Singapore Conference Hall</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Pictures/Concert Band/SAJC_Concert_Band___JC1s__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="🎄SASS-SAJC Christmas Concert" src="/images/CCA Pictures/Concert Band/Picture6.png">
 </div>
-<p>🎄<em>Christmas Repertoire at Universal Studios Singapore!</em>
+<p>🎄<em>SASS-SAJC Christmas Concert</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="🎄SASS-SAJC Christmas Concert" src="/images/CCA Pictures/Concert Band/Picture7.png">
+</div>
+<p>🎄<em>SASS-SAJC Christmas Concert</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="🌟 Arts Immersion Trip to Bangkok @ Triam Udom Suksa School" src="/images/CCA Pictures/Concert Band/Picture8.jpg">
+</div>
+<p>🌟 <em>Arts Immersion Trip to Bangkok @ Triam Udom Suksa School</em>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
