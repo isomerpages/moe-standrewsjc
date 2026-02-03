@@ -101,9 +101,7 @@ programmes in conjunction with the school:</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG Member" src="/images/PSG/2026 Exco/6.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
