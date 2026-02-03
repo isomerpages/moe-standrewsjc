@@ -18,7 +18,7 @@ you arrive in school on Wednesday, 4 February.</p>
 <p></p>
 <h3>Orientation Information</h3>
 <p>As you wait for your OGLs to contact you, here is some <em>basic information</em> about
-Orientation that starts on Wednesday, 5 February.</p>
+Orientation that starts on Wednesday, 4 February.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
