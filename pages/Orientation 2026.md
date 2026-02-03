@@ -53,7 +53,7 @@ Orientation that starts on Wednesday, 5 February.</p>
 <p>Note 1:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It will be helpful, though not necessary, to bring along a <strong>laptop</strong> or <strong>tablet</strong> that
+<p>Please bring along a <strong>laptop</strong> or <strong>tablet</strong> that
 is able to access the internet <em>without </em>Wi-Fi</p>
 <p></p>
 <p><em>For incoming JC1 students, you will need to do a one-time account activation to access the school's WiFi network. More details can be found on the <a href="https://sites.google.com/moe.edu.sg/orientation-2026/home" rel="noopener nofollow" target="_blank">Orientation Microsite</a>.</em>
