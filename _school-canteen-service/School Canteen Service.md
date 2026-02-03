@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>School Canteen Advertisement</h4>
-<p>Updated - 10 Nov 2025</p>
+<p>Updated - 3 Feb 2026</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,7 +68,7 @@ email OR to the School’s General Office.</p>
 </ol>
 <p>For enquiries, please contact the General Office at 62857008</p>
 <p>Contact Person:</p>
-<p>Mdm Angeline Lee Su Keng (Corporate Support Officer)</p>
+<p>Mr Shahrul Nizam Bin Saiful Bahri (Corporate Support Officer)</p>
 <p>Mdm Wu Miau Kee (Administration Manager)</p>
 <p></p>
 <p><strong>How to get there?</strong>
