@@ -99,7 +99,7 @@ breadwinner, death of breadwinner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>For MOE FAS application:</strong>
-<br>• Parents are to submit an online application via <a href="https://go.gov.sg/moe-efasgpas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasgpas</a>.</p>
+<br>• Parents are to submit an online application via <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>For SAJC School-Based FAS application:</strong>
