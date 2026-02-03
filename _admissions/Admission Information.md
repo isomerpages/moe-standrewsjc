@@ -4,7 +4,7 @@ permalink: /admissions/admission-info/
 description: ""
 variant: tiptap
 ---
-<p><em><sup>Last updated: 30 December 2025</sup></em>
+<p><em><sup>Last updated: 3 February 2026</sup></em>
 </p>
 <p>SAJC offers a two-year programme leading to the GCE A-Level examinations.
 The programme is open to students who have just completed their GCE O-Level
