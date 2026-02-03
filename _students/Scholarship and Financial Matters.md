@@ -4,12 +4,12 @@ permalink: /students/scholarship-and-financial-matters/
 description: ""
 variant: tiptap
 ---
-<p>a. Student Assistance Schemes</p>
+<p>a. STUDENT ASSISTANCE SCHEMES 2026</p>
 <p>The College offers two main types of financial assistance schemes for
-financially needy students. One is the Ministry of Education Financial
-Assistance Scheme (MOE FAS) and the other is the St Andrew’s Junior College
-Student Assistance Fund (SAJC SAF). Eligible students will be granted only
-either ONE of these financial assistance schemes.</p>
+financial needy students. One is the Ministry of Education Financial Assistance
+Scheme (MOE FAS) and the other is the St Andrew’s Junior College Student
+Assistance Fund (SAJC School-Based FAS). Eligible students will be granted
+only either ONE of these financial assistance schemes.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -27,150 +27,98 @@ either ONE of these financial assistance schemes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SAJC Student Assistance Fund (SAJC SAF)</strong>
+<p><strong>SAJC Student Assistance Fund (SAJC School-Based FAS)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eligibility</p>
+<p><strong>Eligibility</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Citizens only.</p>
-</li>
-</ul>
+<p>• Singapore Citizens only.</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Citizens who do not qualify for MOE FAS;</p>
-</li>
-<li>
-<p>Permanent Residents and Foreign students may apply but approval is on
+<p>• Singapore Citizens who do not qualify for MOE FAS;
+<br>• Permanent Residents and foreign students may apply but approval is on
 a case-by-case basis.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Income Criteria</p>
+<p><strong>Income Criteria</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Family’s gross household income (GHI) of $3,000 per month or below;</p>
-</li>
-</ul>
-<p><strong>or</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Family’s per capita income (PCI) of $750 per month or below.</p>
-</li>
-</ul>
-<p>PCI=&nbsp;<u>Total gross household income</u>
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;No. of household members</p>
+<p>• Family’s gross household income (GHI) of $4,000 per month or below;
+or
+<br>• Family’s per capita income (PCI) of $1000 per month or below.
+<br>PCI = Total gross household income / No. of household members</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Family’s gross household income (GHI) $3,001 to $4,000 per month;</p>
-</li>
-</ul>
-<p><strong>or</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Family’s per capita income (PCI) of $751 to $1,000 per month.</p>
-</li>
-</ul>
+<p>• Family’s gross household income (GHI) of $4,001 to $5,500 per month;
+or
+<br>• Family’s per capita income (PCI) of $1,001 to $1,375 per month.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Benefits</p>
+<p><strong>Benefits</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>From MOE:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Full subsidy of school and standard miscellaneous fees;</p>
-</li>
-<li>
-<p>Bursary of $1,200 per year;</p>
-</li>
-<li>
-<p>Transport Subsidy ($17 per month from the month of approval, up to $204
-per year for students taking public transport).</p>
-</li>
-</ul>
-<p><strong><u>From SAJC Board-of-Governors Fund:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students eligible for the Financial Assistance Scheme will also receive
+<p><strong>From MOE:</strong>
+<br>• Full subsidy of school and miscellaneous fees;
+<br>• Bursary of $1,600 (inclusive of Transport allowance) per year;
+<br>
+<br><strong>From SAJC Board-of-Governors Fund:</strong>
+<br>• Students eligible for the Financial Assistance Scheme will also receive
 other subsidies which are not covered under MOE FAS.</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>From SAJC Board-of-Governors Fund:</u></strong>
+<p><strong>From SAJC Board-of-Governors Fund:</strong>
+<br>Students eligible for SAJC School-Based FAS will receive subsidies on
+fees and other items from SAJC Board of Governors.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>When to apply</strong>
 </p>
-<p>Students eligible for SAJC Financial Assistance Scheme will receive subsidies
-on fees and other items from SAJC Board of Governors.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>• Anytime in the year as the need arises, e.g. sudden loss of job for
+breadwinner, death of breadwinner.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When to apply</p>
-</td>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Anytime in the year</p>
-</li>
-<li>
-<p>Sudden loss of job for breadwinner</p>
-</li>
-<li>
-<p>Death of breadwinner</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How to apply</p>
-</td>
-<td rowspan="1" colspan="2">
-<ul>
-<li>
-<p>Application forms are available from the College’s General Office or apply
-electronically through MOE website:</p>
-<p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form</a>
+<p><strong>How to apply</strong>
 </p>
-</li>
-<li>
-<p>For hardcopy forms, please submit the completed form together with all
-relevant supporting documents to the General Office and the Teacher in-charge
-will contact you.</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>For MOE FAS application:</strong>
+<br>• Parents are to submit an online application via <a href="https://go.gov.sg/moe-efasgpas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasgpas</a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>For SAJC School-Based FAS application:</strong>
+<br>• Please approach the General Office for the application form.
+<br>• Submit the completed form with all relevant supporting documents to
+the General Office.
+<br>• The Teacher-in-charge will contact you thereafter.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Additional Help required?</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Parents/ guardians who need additional help may approach the grassroots
-organisations such as Social Service Offices (SSO) or other external voluntary
-welfare organisations for further financial assistance.</p>
+<p>Note:
+<br>• Parents with children in different schools need to submit only ONE application
+form for all school-going children to one of their schools.
+<br>• The school that receives the application form will inform parents of
+the outcome for all the children.</p>
 </td>
 </tr>
 </tbody>
