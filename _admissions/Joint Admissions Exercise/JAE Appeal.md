@@ -76,7 +76,7 @@ not permitted.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Successful applicants only</strong> will be notified via email
-and/or phone call <strong>by Monday, 10 February 2026, 3:00 PM.</strong>
+and/or phone call <strong>by Monday, 9 February 2026, 3:00 PM.</strong>
 </p>
 </li>
 <li>
