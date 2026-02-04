@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Scholarships & Awards.md
       - Students.md
       - A Level Exam Documents.md
       - Scholarship and Financial Matters.md
