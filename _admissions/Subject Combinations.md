@@ -4,40 +4,53 @@ permalink: /admissions/subject-combinations/
 description: ""
 variant: tiptap
 ---
-<p><em><sup>Last Updated: 7 January 2026</sup></em>
+<p><em><sup>Last Updated: 3 February 2026</sup></em>
 </p>
 <h4><strong><u>Course Information for 2026</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The GCE A-Level requires students to take General Paper (<strong>GP</strong>),
-Project Work (<strong>PW</strong>) and Mother Tongue Language (<strong>MTL</strong>)
-at H1 level. Students are also required to offer 3H2 and 1H1 content-based
-subjects, at least one of which is a subject from a contrasting discipline.</p>
+<p>The GCE A-Level curriculum requires students to offer the following subjects:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>H1 General Paper (GP)</p>
 </li>
 <li>
-<p>Alternatively, students who have met SAJC’s requirements can also choose
-to study 4 H2 subjects, of which at least 1 must be from a contrasting
-discipline.</p>
+<p>H1 Mother Tongue Language (MTL)</p>
 </li>
 <li>
-<p>To be exempted from MTL, students are required to obtain <strong>at least a D7</strong> for
-Higher Mother Tongue subject at the GCE O-Level Examination.</p>
+<p>Project Work (PW)</p>
 </li>
 <li>
-<p>Students who have taken <em>only</em> Mother Tongue B Syllabus (MTB) at
-the GCE O-Level Examination will continue with MTB at GCE A-Level.</p>
+<p>3 H2 and 1 H1 <strong>or</strong> 4 H2 content-based subjects (at least
+one of which must be from a contrasting discipline)</p>
+</li>
+</ul>
 </li>
 <li>
-<p>The tables below show the 3H2 and 1H1 Subject Combinations offered in
-SAJC for 2026. <em>These combinations will only be offered if there is sufficient demand.</em>
-</p>
+<p>Students are required to have obtained <strong>9 points or better</strong> for
+their L1R5 <strong>raw aggregate</strong> to be eligible to take 4 H2 content
+based subjects</p>
+</li>
+<li>
+<p>Students who offered O-Level MTL are required to offer H1 MTL at JC1.
+To be exempted from MTL, students are required to obtain at least a D7
+for Higher Mother Tongue subject at the GCE O-Level Examination.</p>
+</li>
+<li>
+<p>Students who have taken Mother Tongue B Syllabus (MTB) at the GCE O-Level
+Examination will continue with MTB at GCE A-Level.</p>
+</li>
+<li>
+<p>The tables below show the different Subject Combinations offered in SAJC
+for 2026. These combinations will only be offered if there is sufficient
+demand.</p>
 </li>
 <li>
 <p>In choosing your subject combination, it is critical that you consider
 the course you would like to pursue in university.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <h4>3 H2 Subject Combinations</h4>
 <h4><u>Arts Course</u></h4>
 <p></p>

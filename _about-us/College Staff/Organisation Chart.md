@@ -209,6 +209,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Doo Wei Jun Cheryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="doo_wei_jun_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">doo_wei_jun_cheryl@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jackina Sultan Athaham</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -547,6 +559,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chiam_qian_zhen_alethea@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Han Pei Lin Kimberly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:han_pei_lin_kimberly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_pei_lin_kimberly@moe.edu.sg</a>
 </p>
 </td>
 </tr>
