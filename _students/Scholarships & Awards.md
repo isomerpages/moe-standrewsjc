@@ -4,7 +4,6 @@ permalink: /scholarships-awards/
 variant: tiptap
 description: ""
 ---
-<h4><strong>🎓 Scholarships &amp; Awards at SAJC</strong></h4>
 <p>Saint Andrew’s Junior College recognises students for <strong>academic excellence, character, leadership, service, and holistic development</strong> through
 a range of awards and scholarships.</p>
 <p>These awards affirm not just outcomes, but the <strong>values, growth, and contributions</strong> students
@@ -40,6 +39,7 @@ processes, which may include:</p>
 </li>
 <li>
 <p>Student and teacher nominations</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Where to Find Full Details</strong>
@@ -62,4 +62,4 @@ processes, which may include:</p>
 <p>is available on the <strong>Talent Development Programme (TDP) microsite</strong> on
 the <strong>Saints Portal</strong>.</p>
 <p>Students are encouraged to refer to the TDP microsite or approach their <strong>Civics Tutor</strong> for
-guidance</p>
+guidance.</p>
