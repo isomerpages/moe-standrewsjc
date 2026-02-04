@@ -42,24 +42,5 @@ processes, which may include:</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Where to Find Full Details</strong>
+<p><em>For more details on the relevant Awards and Scholarships, students can refer to the Talent Development site on the Saints Portal.</em>
 </p>
-<p>Detailed information on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Award categories</p>
-</li>
-<li>
-<p>Eligibility criteria</p>
-</li>
-<li>
-<p>Nomination and selection processes</p>
-</li>
-<li>
-<p>Timelines and documentation</p>
-</li>
-</ul>
-<p>is available on the <strong>Talent Development Programme (TDP) microsite</strong> on
-the <strong>Saints Portal</strong>.</p>
-<p>Students are encouraged to refer to the TDP microsite or approach their <strong>Civics Tutor</strong> for
-guidance.</p>
