@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - Scholarships & Awards.md
       - Students.md
       - A Level Exam Documents.md
       - Scholarship and Financial Matters.md
+      - Scholarships & Awards.md
       - Useful Links/.keep
       - Useful Links/Useful Links.md
       - Useful Links/University Admissions.md
