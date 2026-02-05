@@ -30,12 +30,6 @@ equip parents with information resources related to parenting.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Other Resources<br></strong>  <a href="/files/2023/Communicating_with_your_Teenager_summary.pdf" rel="noopener" target="_blank">Communicating with your Teenagers</a> 
-<br><a href="/files/Raising_resilient_teenager.pdf" rel="noopener" target="_blank">Raising Emotionally Resilient Teenagers</a> 
-<br><a href="https://www.moe.gov.sg/coursefinder?journey=Autonomous%20University" rel="noopener nofollow" target="_blank">University Undergraduate Programme</a>
-<br><a href="/files/Parenting%20for%20resilience.pdf" rel="noopener" target="_blank">Parenting for Resilience</a> 
-<br><a href="/files/Useful%20websites%20for%20parents.pdf" rel="noopener" target="_blank">List of Useful Websites</a>
-</p>
 <p><strong>2025 JC1 Parents Dialogue Session Webinar<br></strong>
 </p>
 <ul data-tight="true" class="tight">
