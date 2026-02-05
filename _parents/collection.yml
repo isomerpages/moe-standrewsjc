@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Resources.md
       - Parents.md
+      - Resources.md
       - Resources/.keep
       - Communication/.keep
       - Communication/Communication.md
