@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="810" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=g51AFyt1VVc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g51AFyt1VVc?si=SGLGory5tz6fHFYq"></iframe>
 </div>
 <p>The SAJC Mentors are members of the college Chaplaincy which provides
 pastoral care to the SAJC Community. As mentors, they interact with students
