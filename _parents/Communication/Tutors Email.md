@@ -140,4 +140,3 @@ variant: markdown
 | Mr Yeo Jia Tian| yeo_jia_tian@moe.edu.sg|
 | Ms Yim Miao Ting Jessica| yim_miao_ting_jessica@moe.edu.sg|
 | Mdm Zhao Mengqi| zhao_mengqi@moe.edu.sg|
-| Ms Zulaiha Said| zulaiha_said_a@moe.edu.sg|

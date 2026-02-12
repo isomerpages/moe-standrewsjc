@@ -43,9 +43,9 @@ ones.</p>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><a href="/files/2025/Overview_of_St_Andrew_s_Junior_College_s_Sexuality_Education_Programme_for_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
+<p><a href="/files/2026/Overview_of_St_Andrew_s_Junior_College_s_Sexuality_Education_Programme_for_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
 an Overview of St Andrew's Junior College's Sexuality Education Programme
-for 2025.
+for 2026.
 <br>
 </p>
 <p><strong>INFORMATION FOR PARENTS</strong>
@@ -55,17 +55,17 @@ Sexuality Education programmes by MOE-approved external providers.</p>
 <p></p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. If you would like to withdraw
-your child out of the Sexuality Education Programme in 2025, please complete
-the Opt-out Form <a href="https://go.gov.sg/sajc-sed-opt-out2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-sed-opt-out2025</a>.</p>
+your child out of the Sexuality Education Programme in 2026, please complete
+the Opt-out Form <a href="https://go.gov.sg/sajc-sed-opt-out2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-sed-opt-out2026</a>.</p>
 <p></p>
-<p>The completed form is to be submitted by <strong>07/03/2025</strong>.</p>
+<p>The completed form is to be submitted by <strong>11/03/2026</strong>.</p>
 <p></p>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. If you would like to withdraw your child from
-the eTeens Programme in 2025, please complete the Parents Opt-out Form
-at <a href="https://go.gov.sg/sajc-eteens-opt-out2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-eteens-opt-out2025</a>.</p>
+the eTeens Programme in 2026, please complete the Parents Opt-out Form
+at <a href="https://go.gov.sg/sajc-eteens-opt-out2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajc-eteens-opt-out2026</a>.</p>
 <p></p>
-<p>The completed form is to be submitted by <strong>07/03/2025</strong>.</p>
+<p>The completed form is to be submitted by <strong>11/03/2026</strong>.</p>
 <p></p>
 <p>Parents can contact the school at 6285 7008 (Mr Wayne Ko Ext 254) for
 discussion or to seek clarification about the school’s Sexuality Education
