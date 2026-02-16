@@ -29,7 +29,7 @@ readiness and sense of collective responsibility.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 88%;" height="auto" width="100%" alt="Total Defence Day 2026 - Experiential Lessons" src="/images/Announcements/Total Defence 2026/WhatsApp_Image_2026_02_12_at_1_40_00_PM.jpg">
 </div>
-<p><em><sup>Experiential lessons </sup></em>
+<p><em><sup>Experiential lessons</sup></em>
 </p>
 </th>
 </tr>
