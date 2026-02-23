@@ -15,12 +15,12 @@ sections:
         - title: Parents
           description: ""
           url: /parents
-        - title: Orientation 2026
+        - title: Saints Portal
+          description: ""
+          url: https://portal.sajc.edu.sg
+        - title: A Level Results Release
           description: Click here for more info!
-          url: /orientation-2026/
-        - title: JAE Appeal Exercise 2026
-          description: Click here for more info!
-          url: /jae-appeal/
+          url: /parents/communication/2025gcealevelexaminationresults/
       variant: center
       title: St Andrew's Junior College
   - resources:
