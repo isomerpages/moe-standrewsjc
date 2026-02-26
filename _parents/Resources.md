@@ -29,16 +29,13 @@ equip parents with information resources related to parenting.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>2025 JC1 Parents Dialogue Session Webinar<br></strong>
+<p><strong>2026 JC1 Parents Dialogue Session Webinar</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1cP3jXbCw8Kp7_Jsgc4u1gDI2PguUfJ_E/view?usp=sharing" rel="noopener" target="_blank">Link to recording of the session</a>
+<p><a href="https://drive.google.com/file/d/1FI2XIQngHbeO-WK8qIzy59JuAoTGyyJq/view?usp=sharing" rel="noopener" target="_blank">Link to recording of the session</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025/2025_JC1_Parents_Dialogue_Session_Q_and_A_final.pdf" rel="noopener nofollow" target="_blank">Collated Q&amp;A from the session</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p><strong>PSG Webinar, "Journeying with our children, Supporting their Aspirations.", 19 Jul 2025</strong>
