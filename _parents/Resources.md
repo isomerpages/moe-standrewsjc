@@ -29,7 +29,7 @@ equip parents with information resources related to parenting.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>2025 JC1 Parents Dialogue Session Webinar<br></strong>
+<p><strong>2026 JC1 Parents Dialogue Session Webinar<br></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
