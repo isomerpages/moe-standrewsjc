@@ -22,7 +22,7 @@ on <strong>27 February 2026 (Friday) at 2.30 pm.</strong>
 <p>For the release of 2025 A-Level Examination Results, all candidates regardless
 of whether they are in Singapore or overseas, will be able to access their
 results online via Singapore Examinations and Assessment Board (SEAB)’s
-Candidates Portal at <a href="http://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from <strong><em>3.15 pm on Friday, 27 February 2026 till 11 pm on Friday, 13 March 2026.</em></strong>
+Candidates Portal at <a href="http://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from <strong><em><u>3.15 pm on Friday, 27 February 2026 till 11 pm on Friday, 13 March 2026.</u></em></strong>
 </p>
 <p>School candidates who are eligible for Singpass can use their Singpass
 account to access SEAB’s Candidates Portal. School candidates who are International
