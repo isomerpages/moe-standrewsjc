@@ -37,7 +37,8 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 <li>
-<p>Collated Q&amp;A from the session</p>
+<p><a href="/files/2026/2026_JC1_Parents_Dialogue_Session_QA.pdf" rel="noopener noreferrer nofollow" target="_blank">Collated Q&amp;A from the session</a>
+</p>
 </li>
 </ul>
 <p><strong>PSG Webinar, "Journeying with our children, Supporting their Aspirations.", 19 Jul 2025</strong>
