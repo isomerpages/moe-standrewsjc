@@ -7,6 +7,7 @@ variant: markdown
 ---
 | Staff Name | Staff Email |
 | -------- | -------- |
+| Mr Ali Sharif Arshad| ali_sharif_arshad@moe.edu.sg|
 | Mr Ang Thiam Wei| ang_thiam_wei@moe.edu.sg|
 | Mr Beesoony Uttam Kumar| beesoony_uttam_kumar@moe.edu.sg|
 | Ms Tan Meileen Bliss| bliss_tan@moe.edu.sg|

@@ -362,6 +362,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ali Sharif Arshad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ali_sharif_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ali_sharif_arshad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Khoo Lih Yui</p>
 <p></p>
 </td>
@@ -655,6 +667,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">soh_cai_wen_noelle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Meileen Bliss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bliss_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bliss_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
