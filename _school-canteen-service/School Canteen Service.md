@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>School Canteen Advertisement</h4>
-<p>Updated - 3 Feb 2026</p>
+<p>Updated - 8 Apr 2026</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -29,13 +29,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Open to Proposal (Halal or non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Any Asian Cuisine</p>
 </td>
 </tr>
 </tbody>
@@ -43,48 +43,52 @@ variant: tiptap
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
-<ol>
-<li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
-<p><a href="https://drive.google.com/file/d/13IZ7aNbwDa5VRxDpbTrRRxUG7ZKuKx1f/view?usp=sharing" rel="noopener nofollow" target="_blank">Application Form</a>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
+form. You may also request for a hardcopy from the School’s General Office
+(Monday to Friday – 8.00am to 5.00pm).</p>
+<p><a href="https://drive.google.com/file/d/13IZ7aNbwDa5VRxDpbTrRRxUG7ZKuKx1f/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attached the following documents together
+with the application form:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
 </li>
 <li>
-<p>Attached the following documents together with the application form:</p>
-<p>• Photocopy of the NRIC (front and back)</p>
-<p>• List of proposed menu and pricing for all items</p>
-<p>• Photocopy of relevant certificates such as Basic Food Hygiene Course,
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
 </li>
+</ul>
+<p>&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed application form
+and documents by closing date via email OR to the School’s General Office.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Submit the completed application form and documents by closing date via
-email OR to the School’s General Office.</p>
-<p>• Address: 5 Sorby Adams Drive, Singapore 357691</p>
-<p>• Email: <a href="mailto:sajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a>
-</p>
-<p></p>
+<p>Address: 5 Sorby Adams Drive, Singapore 357691</p>
 </li>
-</ol>
-<p>For enquiries, please contact the General Office at 62857008</p>
-<p>Contact Person:</p>
-<p>Mr Shahrul Nizam Bin Saiful Bahri (Corporate Support Officer)</p>
-<p>Mdm Wu Miau Kee (Administration Manager)</p>
-<p></p>
-<p><strong>How to get there?</strong>
+<li>
+<p>Contact No: 6285 7008</p>
+</li>
+<li>
+<p>Email: <a href="mailto:sajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sajc@moe.edu.sg</a>
 </p>
-<p>• Nearest MRT: Potong Pasir (NE10 line) – 10 minutes walking distance</p>
-<p>• Bus number: 142 - 3 minutes walking distance</p>
-<p></p>
+</li>
+<li>
+<p>Contact Person:</p>
+</li>
+</ul>
+<p>Mdm Wu Miau Kee (Administration Manager)</p>
+<p>Mr Shahrul Nizam (Corporate Support Officer)</p>
+<p>&nbsp;</p>
 <p><strong>Interest applicants must meet the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder.</p>
-</li>
-<li>
-<p>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or
-LTVP-Plus holder with Letter of Consent to work.</p>
+<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+and stall assistant.</p>
 </li>
 <li>
 <p>Able to provide good service and quality food with prices determined in
@@ -93,30 +97,29 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programmed (HMSP)” guidelines (see link).</p>
+Programme (HMSP)” guidelines (see link).</p>
 </li>
 <li>
-<p>Able to maintain a high standard of food safety and personal hygiene.
-This includes complying with relevant authorities’ requirements and guidelines.</p>
+<p>Able to maintain high standard of food safety and personal hygiene.</p>
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
 </li>
 <li>
-<p>Preferably possess catering experience or experience operating in a school
-environment.</p>
+<p>School/Catering experience preferred.</p>
 </li>
 <li>
-<p>Successful applicant must personally operate the stall during canteen
+<p>Successful <u>applicant</u> must personally operate the stall during canteen
 operation hours.</p>
 </li>
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
+<p>Proposed menu with price list must be attached to the application form
+for our consideration.</p>
 </li>
 <li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
+<p>Successful candidates (and their helpers) will have to register and pass
+the Basic Food Hygiene Course (WSQ BFHC) and then apply for a food stall
+license from Singapore Food Agency (SFA).</p>
 </li>
 <li>
 <p>Shortlisted applicants will be notified for an interview and will be required
@@ -124,4 +127,11 @@ to provide food sampling for the School Canteen Selection Committee at
 the applicant’s own expense.</p>
 </li>
 </ul>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>How to get there?</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nearest MRT: Potong
+Pasir (NE10 line) – 10 minutes walking distance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bus: 142 &amp; 148 (alight
+at bus stop in front of Blk 120)</p>
