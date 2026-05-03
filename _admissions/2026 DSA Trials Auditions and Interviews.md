@@ -874,12 +874,12 @@ as well.</p>
 <p><u>Phase1</u>
 </p>
 <p>1 July 2026 (Wed), 4.30-6.30 PM</p>
-<p>&nbsp;22 Jul 2026 (Wed), 4.30-6.30 PM</p>
+<p>22 July 2026 (Wed), 4.30-6.30 PM</p>
 <p>&nbsp;</p>
 <p><u>Phase 2</u>
 </p>
-<p>19 Aug 2026 (Wed), 4.30-6.30 PM</p>
-<p>26 Aug 2026 (Wed), 4.30-6.30pm</p>
+<p>19 August 2026 (Wed), 4.30-6.30 PM</p>
+<p>26 August 2026 (Wed), 4.30-6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAFRA Toa Payoh</p>
