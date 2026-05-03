@@ -4,310 +4,6 @@ permalink: /2026-dsa-trials-auditions-and-interviews/
 variant: tiptap
 description: ""
 ---
-<p>In-person selection audition/trial will be conducted. Please see DSA Trial/Audition
-Schedule for specific instructions.</p>
-<p>
-<br>If you require any further information/assistance, please contact the
-following SAJC staff.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-<br><strong>Email Contact</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Orchestra</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Kian Tong
-<br><a href="mailto:tan_kian_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kian_tong@moe.edu.sg</a>
-</p>
-<p>Mr Lester Wee
-<br><a href="mailto:Lester_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lester_Wee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Choir</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Jia Tian:
-<br><a href="mailto:yeo_jia_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jia_tian@moe.edu.sg</a>
-</p>
-<p>Mr Fong Choo Wah:
-<br><a href="mailto:fong_choo_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_choo_wah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Concert Band</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jesulyn Lim
-<br><a href="mailto:lim_shi_en_jesulyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_en_jesulyn@moe.edu.sg</a>
-</p>
-<p>Ms Grace Leong
-<br><u>leong_jia_hui_grace @</u><a href="http://moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Julia Chow
-<br><a href="mailto:kwan_pei_sze_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_pei_sze_julia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>English Drama</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hema Malini
-<br><a href="mailto:hema_malini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hema_malini@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Guitar Ensemble</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Loh Lih Yeh:
-<br><a href="mailto:loh_lih_yeh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_lih_yeh@moe.edu.sg</a>
-</p>
-<p>Ms Yap Hwee Len
-<br><a href="mailto:yap_hwee_len@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hwee_len@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton<br>Boys &amp; Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bryan Kieu:
-<br><a href="mailto:kieu_chin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kieu_chin_wah@moe.edu.sg</a>
-</p>
-<p>Ms Low Wanyi:
-<br><a href="mailto:low_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_wanyi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Basketball Boys</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Gabriel Tang
-<br><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gabriel_tang_jia_liang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Basketball Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Weishan:
-<br><a href="mailto:wong_weishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_weishan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Football Boys</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Roland Lee:
-<br><a href="mailto:lee_kye_loong_roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kye_loong_roland@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Football Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chai Ming Long:
-<br><a href="mailto:chai_ming_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_ming_long@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Netball Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Keith Teo:
-<br><a href="mailto:teo_ping_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ping_wei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hockey<br>Boys &amp; Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lyndon Chua
-<br><a href="mailto:chua_chun_lin_lyndon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chun_lin_lyndon@moe.edu.sg</a>
-</p>
-<p>Mr Ali
-<br><a href="mailto:ali_sharif_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ali_sharif_arshad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Rugby Boys</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Zi Qi
-<br><a href="mailto:lim_zi_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zi_qi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tennis Girls &amp; Boys</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cynthia Tan
-<br><a href="mailto:tan_mei_fong_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_fong_cynthia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Bowling Boys &amp; Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Felix Lee
-<br><a href="mailto:wen_feng_felix_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_feng_felix_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Track and Field Boys &amp; Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Andrew Tan:
-<br><a href="mailto:tan_jin_xing_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jin_xing_andrew@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Touch Rugby Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Aaron Lin:
-<br><a href="mailto:lin_jiahaoaaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jiahaoaaron@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Language &amp; Literature</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Zhao Meng Qi
-<br><a href="mailto:zhao_mengqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_mengqi@moe.edu.sg</a>
-</p>
-<p>Ms Ng May Fun
-<br><a href="mailto:ng_may_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_fun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Malay Language &amp; Literature</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Mohamed Pitchay Gani Aziz
-<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_pitchay_gani_b@moe.edu.sg</a>
-</p>
-<p>Ms Ng May Fun
-<br><a href="mailto:ng_may_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_fun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tamil Language &amp; Literature</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Ganapathy Rajagopalan
-<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ganapathy_rajagopalan@moe.edu.sg</a>
-</p>
-<p>Ms Ng May Fun
-<br><a href="mailto:ng_may_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_fun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Online Form Technical Issues</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Isaac Ng
-<br><a href="mailto:Isaac_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Isaac_ng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Other administrative matters</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chay Wai Sum:
-<br><a href="mailto:chay_wai_sum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chay_wai_sum@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h2><strong>SAJC DSA Trials &amp; Audition&nbsp; Schedule</strong></h2>
 <h3><strong>PERFORMING ARTS</strong></h3>
 <table style="minWidth: 150px">
@@ -363,9 +59,9 @@ following SAJC staff.</p>
 <p>By appointment only.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please fill in the <strong><u>SAJC DSA Application Form</u></strong>. Applicants
-who have not filled in the online application form will not be considered
-for auditions.</p>
+<p>Please fill in the <a href="https://portal.sajc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">SAJC DSA Application Form</a>.
+Applicants who have not filled in the online application form will not
+be considered for auditions.</p>
 </li>
 <li>
 <p>Email Mr Fong at <a href="mailto:fong_choo_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_choo_wah@moe.edu.sg</a> before
@@ -430,8 +126,8 @@ and</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please fill in the <strong><u>SAJC DSA Application Form</u></strong>. Do
-note that only applicants who have submitted their supporting documents
+<p>Please fill in the <a href="https://portal.sajc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">SAJC DSA Application Form</a>.
+Do note that only applicants who have submitted their supporting documents
 will be considered for the audition and interview.</p>
 </li>
 <li>
@@ -586,9 +282,9 @@ segment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please fill in the <strong>SAJC DSA Application Form</strong>. Do note
-that only applicants who have submitted their supporting documents will
-be considered for the audition.</p>
+<p>Please fill in the <a href="https://portal.sajc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">SAJC DSA Application Form</a>.
+Do note that only applicants who have submitted their supporting documents
+will be considered for the audition.</p>
 </li>
 <li>
 <p>You will be informed if you are shortlisted for the audition via email.
@@ -735,7 +431,7 @@ have any questions.</p>
 <p><u>Instructions</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SAJC DSA Application Form:</p>
+<p><a href="https://portal.sajc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">SAJC DSA Application Form</a>:</p>
 </li>
 </ul>
 <p>Applicants who have not completed the online application form will not
@@ -810,12 +506,12 @@ attire.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton Boys/Girls</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<h4><strong><u>Badminton Boys/Girls</u></strong></h4>
+<h4>&nbsp;</h4>
+<h4>&nbsp;</h4>
+<h4>&nbsp;</h4>
+<h4>&nbsp;</h4>
+<h4>&nbsp;</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kieu Chin Wah</p>
@@ -823,13 +519,11 @@ attire.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1</u>
 </p>
-<p>(i) 29<sup>th</sup> May 26, Fri, 3 – 6pm</p>
-<p>&nbsp;</p>
-<p>(ii) 1<sup>st</sup> July 26, Wed, 4 - 6.30 pm</p>
-<p>&nbsp;</p>
-<p><u>Phase 2</u>
+<p>29 May 2026 (Fri), 3 – 6pm</p>
+<p>&nbsp;1 July 2026 (Wed), 4 - 6.30 pm</p>
+<p>&nbsp;<u>Phase 2</u>
 </p>
-<p>5<sup>th</sup> Aug 26, Wed, 4 - 6 pm</p>
+<p>5 August 2026 (Wed), 4 - 6 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC Hall</p>
@@ -844,7 +538,7 @@ any clarifications.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball Boys</p>
+<h4><strong><u>Basketball Boys</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gabriel Tang</p>
@@ -852,27 +546,22 @@ any clarifications.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase1</u>
 </p>
-<p><u>&nbsp;</u>
-</p>
-<p>21<sup>st</sup> May 2026, Thu 4-630pm</p>
-<p>&nbsp;</p>
-<p>28<sup>th</sup> May 2026, Thu</p>
-<p>4-630pm</p>
-<p>&nbsp;</p>
+<p>21 May 2026 (Thu), 4-630pm</p>
+<p>&nbsp;28 May 2026 (Thu), 4-630pm</p>
 <p><u>Phase 2</u>
 </p>
-<p>16<sup>th</sup> July Thu</p>
+<p>16 July (Thu),</p>
 <p>4-630pm</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball Sheltered Court</p>
+<p>Sheltered Basketball Court</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>By Appointment only.</p>
-<p>1. Please fill in the <strong><u>SAJC DSA Application Form</u></strong>.
+<p>1. Please fill in the <a href="https://portal.sajc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">SAJC DSA Application Form</a>.
 Do note that only applicants who have submitted their supporting documents
 will be considered for the Trial and interview.</p>
 <p>2. Fill up the form below to submit your availability for trails. Note
@@ -889,7 +578,7 @@ by Teacher IC before reporting to SAJC for selection trials.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball Girls</p>
+<h4><strong><u>Basketball Girls</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Weishan</p>
@@ -897,21 +586,19 @@ by Teacher IC before reporting to SAJC for selection trials.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1</u>
 </p>
-<p>Thursday, 2<sup>nd</sup> July, 4.30-6pm</p>
-<p>&nbsp;</p>
-<p>9<sup>th</sup> July Thursday&nbsp; 4.30-6pm</p>
-<p>&nbsp;</p>
+<p>2 July 2026 (Thu), 4.30-6pm</p>
+<p>9 July 2026 (Thu), 4.30-6pm</p>
 <p><u>Phase 2</u>
 </p>
-<p>6<sup>th</sup> Aug, Thursday</p>
+<p>6 August 2026 (Thu),</p>
 <p>4.30-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball Sheltered Court</p>
+<p>Sheltered Basketball Court</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>By appointment only.</p>
-<p>1. Please fill in the <strong><u>SAJC DSA Application Form</u></strong>.
+<p>1. Please fill in the <a href="https://portal.sajc.edu.sg/0/dsa.html" rel="noopener nofollow" target="_blank">SAJC DSA Application Form</a>.
 Do note that only applicants who have submitted their supporting documents
 will be considered for the Trial and interview.</p>
 <p>2. All shortlisted candidates will be contacted via email by Teacher IC
@@ -926,33 +613,31 @@ before reporting to SAJC for selection trials.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football Boys</p>
+<h4><strong><u>Football Boys</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Roland Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1:</u>
-<br>Thu, 14 May
-<br>4pm</p>
-<p>Sat, 16 May
-<br>9 am</p>
-<p>Tue, 19 May
-<br>4 pm (to be confirmed)</p>
-<p>Thu, 21 May
+<br>14 May 2026 (Thu), 4pm</p>
+<p>16 May 2026 (Sat), 9 am</p>
+<p>19 May 2026 (Tue), 4 pm (to be confirmed)</p>
+<p>21 May 2026 (Thu),
 <br>4 pm (to be confirmed)
 <br>
-<br>Tue 26&nbsp; May
+<br>26&nbsp;May 2026 (Tue)
 <br>4 pm (to be confirmed),
 <br>
-<br>Wed 3 June
+<br>3 June 2026 (Wed),
 <br>9 am (to be confirmed)
 <br>
 <br>Other dates can be organised&nbsp; on request.</p>
+<p></p>
 <p><u>Phase 2:</u>
-<br>Thu, 2 Jul 4.30pm
+<br>2 July 2026 (Thu), 4.30pm
 <br>
-<br>Sat 4 Jul 9am (to be confirmed)</p>
+<br>4 July 2026 (Sat), 9am (to be confirmed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC Field</p>
@@ -975,28 +660,24 @@ as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football Girls</p>
+<h4><strong><u>Football Girls</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chai Ming Long</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1:</u>
-<br>Mon, 18 May 2026
+<br>18 May 2026 (Mon),
 <br>4.30pm</p>
 <p>&nbsp;</p>
-<p>Wed, 20 May 2026
-<br>4pm</p>
+<p>20 May 2026 (Wed), 4pm</p>
 <p>&nbsp;</p>
-<p>Mon, 25 May 2026
-<br>4.30pm</p>
+<p>25 May 2026 (Mon), 4.30pm</p>
 <p>&nbsp;</p>
 <p><u>Phase 2:</u>
-<br>Mon, 29 June 2026</p>
-<p>4.30pm</p>
+<br>29 June 2026 (Mon), 4.30pm</p>
 <p>&nbsp;</p>
-<p>Wed, 1 July 2026</p>
-<p>4pm</p>
+<p>1 July 2026 (Wed), 4pm</p>
 <p>&nbsp;</p>
 <p>Other dates can be organised based on request.</p>
 </td>
@@ -1018,7 +699,7 @@ as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Netball</p>
+<h4><strong><u>Netball</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Teacher IC:</u>
@@ -1032,9 +713,8 @@ as well.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1:</u>
 </p>
-<p>04 Jul 2026, Sat 09:00am</p>
-<p>&nbsp;</p>
-<p>13 July 2026, Mon, 4:30 pm
+<p>4 July 2026 (Sat), 9am&nbsp;</p>
+<p>13 July 2026 (Mon), 4.30pm
 <br>
 <br>
 </p>
@@ -1066,7 +746,7 @@ in your applications</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hockey Boys and Girls</p>
+<h4><strong><u>Hockey Boys and Girls</u></strong></h4>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -1086,11 +766,9 @@ in your applications</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1</u>:</p>
-<p>Mon, 22 May
-<br>6pm - 8pm</p>
-<p>and</p>
-<p>Fri, 3 July</p>
-<p>6pm - 8pm</p>
+<p>22 May 2026 (Fri), 6-8pm</p>
+<p></p>
+<p>3 July 2026 (Fri), 6-8pm</p>
 <p>&nbsp;</p>
 <p><u>Phase 2</u>:</p>
 <p>Trials conducted on demand. Please contact Teacher IC</p>
@@ -1115,7 +793,7 @@ in your applications</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rugby Boys</p>
+<h4><strong><u>Rugby Boys</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Zi Qi</p>
@@ -1130,8 +808,8 @@ in your applications</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1:</u>
 </p>
-<p>Mon,25 May 26 @1730</p>
-<p>Fri, 3 Jul 26 @1730
+<p>25 May 2026 (Mon), 5.30pm</p>
+<p>3 July 2026 (Fri), 5.30pm
 <br>
 <br>
 </p>
@@ -1156,7 +834,7 @@ in your applications</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tennis Girls &amp; Boys</p>
+<h4><strong><u>Tennis Girls &amp; Boys</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cynthia Tan</p>
@@ -1165,14 +843,14 @@ in your applications</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1</u>:</p>
-<p>Mon, 29 June 2026, 5pm (to be confirmed)</p>
-<p>Wed, 1 July 2026, 4.30pm (to be confirmed)</p>
+<p>29 June 2026 (Mon), 5pm (to be confirmed)</p>
+<p>1 July 2026 (Wed), 4.30pm (to be confirmed)</p>
 <p><u>Phase 2</u>:</p>
 <p>Trials conducted on demand. Pls contact teacher IC first.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC tennis courts</p>
-<p>(4th flr above canteen)</p>
+<p>(4th floor, above the canteen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>By appointment only. Please confirm the session with the teacher before
@@ -1190,7 +868,7 @@ as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bowling Boys &amp; Girls</p>
+<h4><strong><u>Bowling Boys &amp; Girls</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Felix Lee</p>
@@ -1199,19 +877,13 @@ as well.</p>
 <p>Boys &amp; Girls:</p>
 <p><u>Phase1</u>
 </p>
-<p>Wed, 1 Jul 26
-<br>4.30-6.30 PM</p>
-<p>&nbsp;</p>
-<p>Wed, 22 Jul 26</p>
-<p>4.30-6.30 PM</p>
+<p>1 July 2026 (Wed), 4.30-6.30 PM</p>
+<p>&nbsp;22 Jul 2026 (Wed), 4.30-6.30 PM</p>
 <p>&nbsp;</p>
 <p><u>Phase 2</u>
 </p>
-<p>Wed, 19 Aug 26</p>
-<p>4.30-6.30 PM</p>
-<p>&nbsp;</p>
-<p>Wed, 26 Aug 26</p>
-<p>4.30-6.30pm</p>
+<p>19 Aug 2026 (Wed), 4.30-6.30 PM</p>
+<p>26 Aug 2026 (Wed), 4.30-6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAFRA Toa Payoh</p>
@@ -1230,7 +902,7 @@ and attire.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Track and Field Boys and Girls</p>
+<h4><strong><u>Track and Field Boys and Girls</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Tan</p>
@@ -1238,18 +910,12 @@ and attire.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1</u>
 </p>
-<p>Fri, 3<sup>rd</sup> July 26</p>
-<p>4 - 6 PM</p>
-<p>Mon, 13<sup>th</sup> Jul 26</p>
-<p>4 - 6pm</p>
+<p>3 July 2026 (Fri), 4-6pm</p>
+<p>13 July 2026 (Mon), 4-6pm</p>
 <p><u>Phase 2</u>
 </p>
-<p>Mon, 27<sup>th</sup> Jul 26
-<br>4 - 6 PM</p>
-<p>Mon, 4<sup>th</sup> Aug 26
-<br>4 - 6 PM</p>
-<p><u>&nbsp;</u>
-</p>
+<p>27 July 2026 (Mon), 4-6pm</p>
+<p>4<sup> </sup>August 2026 (Mon), 4-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC Track</p>
@@ -1263,7 +929,7 @@ register at least 3 working days before the trial date.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Touch Rugby Girls</p>
+<h4><strong><u>Touch Rugby Girls</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aaron Lin</p>
@@ -1278,10 +944,8 @@ register at least 3 working days before the trial date.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1</u>
 </p>
-<p>Wed, 1<sup>st</sup> Jul 26</p>
-<p>4-6pm</p>
-<p>Fri, 3<sup>rd</sup> Jul 26</p>
-<p>4-6pm</p>
+<p>1 July 2026 (Wed), 4-6pm</p>
+<p>3 July 2026 (Fri), 4-6pm</p>
 <p><u>Phase 2</u>:</p>
 <p>Trials conducted on demand. Pls contact the teacher IC first.</p>
 <p>&nbsp;</p>
