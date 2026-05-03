@@ -415,4 +415,307 @@ favour or disfavour to any person in relation to my child’s DSA application.</
 </li>
 </ul>
 <p></p>
+<p>In-person selection audition/trial will be conducted. Please see <a href="/2026-dsa-trials-auditions-and-interviews/" rel="noopener nofollow" target="_blank">DSA Trial/Audition Schedule</a> for
+specific instructions.</p>
+<p>If you require any further information/assistance, please contact the
+following SAJC staff.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers In-Charge</strong>
+<br><strong>Email Contact</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Orchestra</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kian Tong
+<br><a href="mailto:tan_kian_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kian_tong@moe.edu.sg</a>
+</p>
+<p>Mr Lester Wee
+<br><a href="mailto:Lester_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lester_Wee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Jia Tian:
+<br><a href="mailto:yeo_jia_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jia_tian@moe.edu.sg</a>
+</p>
+<p>Mr Fong Choo Wah:
+<br><a href="mailto:fong_choo_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_choo_wah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jesulyn Lim
+<br><a href="mailto:lim_shi_en_jesulyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_en_jesulyn@moe.edu.sg</a>
+</p>
+<p>Ms Grace Leong
+<br><u>leong_jia_hui_grace @</u><a href="http://moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Julia Chow
+<br><a href="mailto:kwan_pei_sze_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_pei_sze_julia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English Drama</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hema Malini
+<br><a href="mailto:hema_malini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hema_malini@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guitar Ensemble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Loh Lih Yeh:
+<br><a href="mailto:loh_lih_yeh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_lih_yeh@moe.edu.sg</a>
+</p>
+<p>Ms Yap Hwee Len
+<br><a href="mailto:yap_hwee_len@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hwee_len@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton<br>Boys &amp; Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bryan Kieu:
+<br><a href="mailto:kieu_chin_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kieu_chin_wah@moe.edu.sg</a>
+</p>
+<p>Ms Low Wanyi:
+<br><a href="mailto:low_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_wanyi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gabriel Tang
+<br><a href="mailto:gabriel_tang_jia_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gabriel_tang_jia_liang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Weishan:
+<br><a href="mailto:wong_weishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_weishan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Football Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Roland Lee:
+<br><a href="mailto:lee_kye_loong_roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kye_loong_roland@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Football Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chai Ming Long:
+<br><a href="mailto:chai_ming_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_ming_long@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netball Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Keith Teo:
+<br><a href="mailto:teo_ping_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ping_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hockey<br>Boys &amp; Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lyndon Chua
+<br><a href="mailto:chua_chun_lin_lyndon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chun_lin_lyndon@moe.edu.sg</a>
+</p>
+<p>Mr Ali
+<br><a href="mailto:ali_sharif_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ali_sharif_arshad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rugby Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Zi Qi
+<br><a href="mailto:lim_zi_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zi_qi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tennis Girls &amp; Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cynthia Tan
+<br><a href="mailto:tan_mei_fong_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_fong_cynthia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bowling Boys &amp; Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Felix Lee
+<br><a href="mailto:wen_feng_felix_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wen_feng_felix_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Track and Field Boys &amp; Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Tan:
+<br><a href="mailto:tan_jin_xing_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jin_xing_andrew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Touch Rugby Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aaron Lin:
+<br><a href="mailto:lin_jiahaoaaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jiahaoaaron@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Language &amp; Literature</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Meng Qi
+<br><a href="mailto:zhao_mengqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_mengqi@moe.edu.sg</a>
+</p>
+<p>Ms Ng May Fun
+<br><a href="mailto:ng_may_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_fun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language &amp; Literature</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Mohamed Pitchay Gani Aziz
+<br><a href="mailto:mohd_pitchay_gani_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_pitchay_gani_b@moe.edu.sg</a>
+</p>
+<p>Ms Ng May Fun
+<br><a href="mailto:ng_may_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_fun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil Language &amp; Literature</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Ganapathy Rajagopalan
+<br><a href="mailto:ganapathy_rajagopalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ganapathy_rajagopalan@moe.edu.sg</a>
+</p>
+<p>Ms Ng May Fun
+<br><a href="mailto:ng_may_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_may_fun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Online Form Technical Issues</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Isaac Ng
+<br><a href="mailto:Isaac_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Isaac_ng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Other administrative matters</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chay Wai Sum:
+<br><a href="mailto:chay_wai_sum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chay_wai_sum@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>(For more information on DSA-JC, please refer to&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC Website</a>.)</p>
