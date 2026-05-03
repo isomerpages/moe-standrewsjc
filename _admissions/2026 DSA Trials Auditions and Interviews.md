@@ -51,7 +51,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>&nbsp;Music Rm</p>
 <p>&nbsp;</p>
-<p>&nbsp;Music Rm</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -95,9 +95,8 @@ attire.</p>
 <p>3.30-7pm for both phases</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;SAJC Band Room</p>
-<p>&nbsp;</p>
-<p>&nbsp;SAJC Band Room</p>
+<p>SAJC Band Room</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -178,10 +177,8 @@ their own mouthpieces.</p>
 <p>3.00-5.30pm for both phases&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;SAJC Chinese Orchestra Room</p>
-<p></p>
 <p>SAJC Chinese Orchestra Room</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -305,9 +302,9 @@ informing you are shortlisted.</p>
 <p>Ms Malini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Phase 1</u>: 15 July 26 (Wed)</p>
+<p><u>Phase 1</u>: 15 July 2026 (Wed)</p>
 <p>&nbsp;</p>
-<p><u>Phase 2</u>: 19 Aug 26 (Wed)</p>
+<p><u>Phase 2</u>: 19 Aug 2026 (Wed)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -396,8 +393,7 @@ have any questions.</p>
 <p><u>Phase 1</u>
 </p>
 <p>Between 1 July to 11 July 2026</p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><u>Phase 2</u>
 </p>
 <p>Between 11 July to 15 July 2026</p>
@@ -519,11 +515,11 @@ attire.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase 1</u>
 </p>
-<p>29 May 2026 (Fri), 3 – 6pm</p>
-<p>&nbsp;1 July 2026 (Wed), 4 - 6.30 pm</p>
+<p>29 May 2026 (Fri), 3–6pm</p>
+<p>&nbsp;1 July 2026 (Wed), 4-6.30pm</p>
 <p>&nbsp;<u>Phase 2</u>
 </p>
-<p>5 August 2026 (Wed), 4 - 6 pm</p>
+<p>5 August 2026 (Wed), 4-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC Hall</p>
@@ -546,12 +542,12 @@ any clarifications.</p>
 <td rowspan="1" colspan="1">
 <p><u>Phase1</u>
 </p>
-<p>21 May 2026 (Thu), 4-630pm</p>
-<p>&nbsp;28 May 2026 (Thu), 4-630pm</p>
+<p>21 May 2026 (Thu), 4-6.30pm</p>
+<p>&nbsp;28 May 2026 (Thu), 4-6.30pm</p>
 <p><u>Phase 2</u>
 </p>
 <p>16 July (Thu),</p>
-<p>4-630pm</p>
+<p>4-6.30pm</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
