@@ -751,7 +751,7 @@ in your applications</p>
 <p>Trials conducted on demand. Please contact Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PESOB</p>
+<p>PSOEB</p>
 <p>21 Evans Road Singapore 259366</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
