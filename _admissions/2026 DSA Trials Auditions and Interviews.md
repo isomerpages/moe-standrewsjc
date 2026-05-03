@@ -445,26 +445,6 @@ attire.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
@@ -753,10 +733,11 @@ in your applications</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers
+<p><u>Teacher ICs:</u> 
 <br>Mr Lyndon Chua and Mr Ali Sharif Arshad</p>
 <p>&nbsp;</p>
-<p>Coach:</p>
+<p><u>Coach:</u>
+</p>
 <p>Mr Sunil Prasad</p>
 <p>Miss Toh Limin</p>
 </td>
@@ -792,11 +773,14 @@ in your applications</p>
 <h4><strong><u>Rugby Boys</u></strong></h4>
 </td>
 <td rowspan="1" colspan="1">
+<p><u>Teacher ICs:</u>
+</p>
 <p>Mr Lim Zi Qi</p>
 <p>Mr Peh Bock Kiat</p>
 <p>Mr Wong Kia Jin Glenn</p>
 <p>&nbsp;</p>
-<p>Coaches:</p>
+<p><u>Coaches:</u>
+</p>
 <p>Gilbert</p>
 <p>Ashraf</p>
 <p>Sam</p>
