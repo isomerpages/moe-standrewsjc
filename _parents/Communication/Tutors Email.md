@@ -117,7 +117,7 @@ variant: markdown
 | Mdm Teo Yue Qi Astor| teo_yue_qi@moe.edu.sg|
 | Ms Teow Wai Leng| teow_wai_leng@moe.edu.sg|
 | Mr Gabriel Tien Jing Wei| tien_jing_wei_gabriel@moe.edu.sg|
-| Ms Tng Y vonne| tng_yee_min_yvonne@moe.edu.sg|
+| Ms Tng Yvonne| tng_yee_min_yvonne@moe.edu.sg|
 | Ms Tong Shuqing| tong_shuqing@moe.edu.sg|
 | Mr Tristen Tjokro| tristen_tjokro@moe.edu.sg|
 | Mdm Wang Min| wang_min@moe.edu.sg|
