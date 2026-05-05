@@ -1747,18 +1747,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Yee Ping Rene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="goh_yee_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_yee_ping@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ng Yee San</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1962,6 +1950,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Leow Jian Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="leow_jian_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">leow_jian_yuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Meemaduma Manoja Priyangika</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2060,6 +2060,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sinni_suppiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thachna Murari Balakrishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="thachna_murari_balakrishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">thachna_murari_balakrishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -18,9 +18,9 @@ sections:
         - title: Saints Portal
           description: ""
           url: https://portal.sajc.edu.sg
-        - title: A Level Results Release
+        - title: 2026 DSA
           description: Click here for more info!
-          url: /parents/communication/2025gcealevelexaminationresults/
+          url: /admission-information/dsasajc/
       variant: center
       title: St Andrew's Junior College
   - resources:
