@@ -4,6 +4,8 @@ permalink: /2026-dsa-trials-auditions-and-interviews/
 variant: tiptap
 description: ""
 ---
+<p><em><sup>Last Updated: 21 May 2026</sup></em>
+</p>
 <h2><strong>SAJC DSA Trials &amp; Audition&nbsp; Schedule</strong></h2>
 <h3><strong>PERFORMING ARTS</strong></h3>
 <table style="minWidth: 150px">
@@ -751,8 +753,14 @@ in your applications</p>
 <p>Trials conducted on demand. Please contact Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSOEB</p>
+<p><strong>22nd May</strong>: PSOEB</p>
 <p>21 Evans Road Singapore 259366</p>
+<p></p>
+<p><strong>3 July:</strong>
+</p>
+<p>Sengkang Hockey Stadium (Pitch 2),&nbsp;57&nbsp;Anchorvale&nbsp;Rd, Singapore
+544964</p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
