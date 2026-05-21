@@ -45,8 +45,12 @@ equip parents with information resources related to parenting.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1uB6L0oCJf-_5YIPmBSgxDogcVPkYRvQR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link to recording of the session</a>
+<p><a href="https://drive.google.com/file/d/1rlCkhkiLB2ZQLLkb38ghIB99Q_veOlCs/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link to recording of the session</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026/Parents_Talk_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides for How to Support your Child in SAJC?</a>
 </p>
 </li>
 </ul>
-<p>Slides for How to Support your Child in SAJC?</p>
+<p></p>
