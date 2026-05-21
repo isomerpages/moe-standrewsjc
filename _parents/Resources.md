@@ -41,7 +41,7 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 </ul>
-<p><strong>PSG Webinar, "Journeying with our children, Supporting their Aspirations.", 19 Jul 2025</strong>
+<p><strong>PSG Webinar, "Journeying with our children, Supporting their Aspirations.", 16 May 2026</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,4 +49,4 @@ equip parents with information resources related to parenting.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p>Slides for How to Support your Child in SAJC?</p>
