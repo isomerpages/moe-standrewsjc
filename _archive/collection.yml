@@ -1,0 +1,6 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Collaboration.md
+      - Direct School Admission (DSA) – 2024 Intake.md

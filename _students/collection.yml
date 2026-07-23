@@ -1,0 +1,12 @@
+collections:
+  students:
+    output: true
+    order:
+      - Students.md
+      - A Level Exam Documents.md
+      - Financial Assistance.md
+      - Scholarships & Awards.md
+      - Useful Links/.keep
+      - Useful Links/Useful Links.md
+      - Useful Links/University Admissions.md
+      - No one is Here By Chance — Saints Inspire.md

@@ -1,0 +1,56 @@
+---
+title: Resources
+permalink: /parents/resources/
+description: ""
+variant: tiptap
+---
+<p>Welcome to the resources section of the parents’ portal. This sections
+aims to inform parents on the general information on Higher Education and
+on the latest local university admission requirements. It also aims to
+equip parents with information resources related to parenting.</p>
+<p><strong>MOE Resources<br></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener" target="_blank">MySkillsFuture(Pre-U) Brochure</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024/ecg_guide_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Guide for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Infosheet_for_Parents__A_Level_.pdf" rel="noopener nofollow" target="_blank">Supporting your Teens – Post A-level guide for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/CP_Guide_for_parents.pdf" rel="noopener nofollow" target="_blank">Candidates Portal User Guide - Post A-level reference for Parents</a>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>2026 JC1 Parents Dialogue Session Webinar</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1FI2XIQngHbeO-WK8qIzy59JuAoTGyyJq/view?usp=sharing" rel="noopener" target="_blank">Link to recording of the session</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026/2026_JC1_Parents_Dialogue_Session_QA.pdf" rel="noopener noreferrer nofollow" target="_blank">Collated Q&amp;A from the session</a>
+</p>
+</li>
+</ul>
+<p><strong>PSG Webinar, "How to Support your Child in SAJC", 16 May 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1rlCkhkiLB2ZQLLkb38ghIB99Q_veOlCs/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link to recording of the session</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026/Parents_Talk_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides for How to Support your Child in SAJC?</a>
+</p>
+</li>
+</ul>
+<p></p>
