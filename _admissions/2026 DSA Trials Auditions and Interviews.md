@@ -902,8 +902,8 @@ and attire.</p>
 <p>13 July 2026 (Mon), 4-6pm</p>
 <p><u>Phase 2</u>
 </p>
-<p>27 July 2026 (Mon), 4-6pm</p>
-<p>4<sup> </sup>August 2026 (Mon), 4-6pm</p>
+<p>14 Aug 2026 (Fri), 430pm</p>
+<p>17<sup> </sup>August 2026 (Mon), 430pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJC Track</p>
