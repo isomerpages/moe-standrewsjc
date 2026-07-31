@@ -31,7 +31,7 @@ on what it means to journey through SAJC as <strong>One Family Unbroken</strong>
 </p>
 <h4>Internal Awards</h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBefQOVWwFKR_LAh3Tg9cNTK3AbWVzTGZRTdiN8exCVO9MYsuze5nA77P31Ehp_Db8xD1RoMat_fqN/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="56.25vw" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBefQOVWwFKR_LAh3Tg9cNTK3AbWVzTGZRTdiN8exCVO9MYsuze5nA77P31Ehp_Db8xD1RoMat_fqN/pubembed?start=true&amp;loop=true&amp;delayms=5000&amp;rm=minimal"></iframe>
 </div>
 <h4><strong>Honouring Our Village: Staff and Partners</strong></h4>
 <p>SAJC’s commitment to forming Servant Leaders is made possible through
