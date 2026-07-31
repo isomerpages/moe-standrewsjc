@@ -17,8 +17,6 @@ celebrating Saints who demonstrated exemplary character, service, and commitment
 to the college throughout the year. Their achievements set an inspiring
 tone for the day, grounding the upcoming athletic events in the values
 of leadership and humble contribution.</p>
-<p><em>[Image Placeholder 2: Shot of award recipients receiving their prizes at Morning Assembly]</em>
-</p>
 <h3><strong>Adrenaline on the Track: The 10x200m Relay</strong></h3>
 <p>The excitement escalated quickly as eight qualifying classes took to the
 track for the flagship <strong>10x200m Inter-Class Relay</strong>. Represented
@@ -26,8 +24,6 @@ by 5 JC2 classes (25A06, 25S10, 25S11, 25S20, and 25S21) and 3 JC1 classes
 (26S05, 26S07, and 26S10), the runners demonstrated exceptional grit and
 seamless handovers under intense pressure, supported by deafening cheers
 from their classmates in the stands.</p>
-<p><em>[Image Placeholder 3: Action shot of a relay baton exchange]</em>
-</p>
 <h3><strong>Friendly Competition Across six Disciplines</strong></h3>
 <p>Following the relay, the action shifted across campus for the <strong>Inter-Class Games</strong>.
 Participating in a broad mix of sports (Frisbee, Floorball, Volleyball,
@@ -36,9 +32,6 @@ competition.</p>
 <p>Adding to the day's warmth, several Civics Tutors and CTAs traded their
 whiteboard markers for sports gear, joining their students on the courts
 to compete side-by-side.</p>
-<p></p>
-<p><em>[Image Placeholder 4: Collage of various sports — Pickleball, Floorball, and CT participation]</em>
-</p>
 <h3><strong>Celebrating Effort and Unity</strong></h3>
 <p>The morning concluded with a unified gathering for the <strong>Prize Presentation Ceremony</strong>,
 where College Principal Mr Tham and the Vice-Principals handed out awards
