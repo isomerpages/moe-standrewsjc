@@ -29,8 +29,10 @@ service to others.</p>
 on what it means to journey through SAJC as <strong>One Family Unbroken</strong>:</p>
 <p><em>" [Placeholder: Insert 2-3 sentence reflection from Valedictorian on growth, gratitude, and community support] "</em>
 </p>
-<p><em><u>Embed Slideshow from Google</u></em>
-</p>
+<h4>Internal Awards</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBefQOVWwFKR_LAh3Tg9cNTK3AbWVzTGZRTdiN8exCVO9MYsuze5nA77P31Ehp_Db8xD1RoMat_fqN/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>Honouring Our Village: Staff and Partners</strong></h4>
 <p>SAJC’s commitment to forming Servant Leaders is made possible through
 the unwavering support of our educators and partners. This year, we celebrated <strong>14 staff members</strong> for
