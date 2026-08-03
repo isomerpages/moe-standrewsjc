@@ -22,16 +22,15 @@ their leadership, character, and contributions to CCA life.</p>
 <p>Our Guest-of-Honour, <strong>Dr. Yeo Li Pheow</strong> (Senior Advisor,
 Special Projects, Institute for Adult Learning / SUSS), commended the awardees
 on their fortitude and encouraged them to continue using their gifts in
-service to others.</p>
-<p><em>" [Placeholder: Insert key quote from Dr. Yeo's message on purpose and future growth] "</em>
-</p>
+service to others. In particular, Dr Yeo expounded on the three 'C's and
+one 'I' that students should always remember, Curiousity, Courage, Conviction
+and Integrity, highlighting that these are the foundations that will guide
+our students to find their purpose and contribute to society.</p>
 <p>Representing the graduating class, Valedictorian <strong>Teo Jin Rui from 24S06</strong> reflected
 on what it means to journey through SAJC as <strong>One Family Unbroken</strong>:</p>
-<p><em>" [Placeholder: Insert 2-3 sentence reflection from Valedictorian on growth, gratitude, and community support] "</em>
-</p>
 <h4>Internal Awards</h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="56.25vw" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBefQOVWwFKR_LAh3Tg9cNTK3AbWVzTGZRTdiN8exCVO9MYsuze5nA77P31Ehp_Db8xD1RoMat_fqN/pubembed?start=true&amp;loop=true&amp;delayms=5000&amp;rm=minimal"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBefQOVWwFKR_LAh3Tg9cNTK3AbWVzTGZRTdiN8exCVO9MYsuze5nA77P31Ehp_Db8xD1RoMat_fqN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Honouring Our Village: Staff and Partners</strong></h4>
 <p>SAJC’s commitment to forming Servant Leaders is made possible through
